@@ -9145,6 +9145,7 @@
 ||halkbilgialani.com^
 ||halkbilgiplatform.com^
 ||halkduyurum2221.duckdns.org^
+||halkfaizsizkredibasvuru.duckdns.org^
 ||halkgiris.duckdns.org^
 ||halkgirisiniz.duckdns.org^
 ||halkguncelhaber.com^
@@ -9988,6 +9989,7 @@
 ||kapsmuh.com^
 ||karac.shop^
 ||karaca-burada.vercel.app^
+||karaca-haziran.vercel.app^
 ||karaca-indirimde.vercel.app^
 ||karaca-indirimgunu.vercel.app^
 ||karaca-mayis.vercel.app^
@@ -11528,6 +11530,7 @@
 ||privalnexor.com^
 ||privly-gorunum-statistik.myonlineportal.ch^
 ||prmmookmpnyaabsvrrrfrsltarii.art^
+||prmmookmpnyaabsvrrrfrsltarii.info^
 ||prmoookmpnyaaabsvrrr.art^
 ||prmoookmpnyaaabsvrrr.info^
 ||prmoookmpnyaaabsvrrr.pro^
@@ -12250,6 +12253,7 @@
 ||siskodla.sbs^
 ||sistemgecisiniz.lat^
 ||sistemle-tamamlandirmaniz.com^
+||sistemyuklendi.online^
 ||sisuno.top^
 ||site562sarw.nicepage.io^
 ||sitedegor.xyz^
@@ -13012,6 +13016,7 @@
 ||teflonpot-cyo.xyz^
 ||tehelp.com^
 ||tekdokunustaevinde.com^
+||tekdokunustaevinizde.com^
 ||tekeysnkrmadanca.cfd^
 ||teknofest.aem.page^
 ||teknofest.aem.reviews^
@@ -13274,6 +13279,7 @@
 ||toggsiparisi.com^
 ||togsiparis.com^
 ||tok-asd.click^
+||toki-konut-basvurutr.org^
 ||tokisatis.duckdns.org^
 ||tokisatisibasladi.com^
 ||tokitoki.tech^
