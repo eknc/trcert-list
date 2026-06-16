@@ -6601,6 +6601,7 @@
 ||a1o1hazirankampanya.blogspot.com^
 ||a1o1hizli.duckdns.org^
 ||a1o1hizlialisveris.duckdns.org^
+||a1o1indir.duckdns.org^
 ||a1o1indirim.blogspot.com^
 ||a1o1kampanya.blogspot.com^
 ||a1o1kampanyalar.duckdns.org^
@@ -7087,6 +7088,7 @@
 ||basvursendn.sbs^
 ||basvursends.com.tr^
 ||basvursendsc.sbs^
+||basvursendsmz.sbs^
 ||basvursendsr.sbs^
 ||basvursendsz.com.tr^
 ||basvursendsz.sbs^
@@ -7932,6 +7934,7 @@
 ||cartora.biz^
 ||cartpeak.gifts^
 ||casdlax213kcasdacs123.shop^
+||casewiselegal.com^
 ||casl123xkkasckx132.lat^
 ||catalystfluxd.info^
 ||catchall1.tralalarkefe.com^
@@ -7979,6 +7982,7 @@
 ||cezakamu.org^
 ||cezakamuportal.org^
 ||cezasorgu.info^
+||cezasorgugov.com^
 ||cfasaxasfa-sa.sbs^
 ||cflkasdkladskl123x132.cfd^
 ||cfonetflow.world^
@@ -9424,6 +9428,7 @@
 ||hglsakstaafykl.cfd^
 ||hglsyuklegecissystem.cfd^
 ||hglsyuklme.cfd^
+||hgs-ode-simdi.com^
 ||hgs-odemeleri.duckdns.org^
 ||hgsaracdolum.web.app^
 ||hgsbakieduragi.web.app^
@@ -9869,6 +9874,7 @@
 ||istanbulkaldansenneolma.shop^
 ||istanbulkartcan.xyz^
 ||istanbulkartt.xyz^
+||istanbulkarttt.xyz^
 ||istanbulkolaybe.xyz^
 ||istanbulkolaysop.xyz^
 ||istanbulkolaysopa.xyz^
@@ -10062,6 +10068,7 @@
 ||kahveix.com^
 ||kaiat31sacjasxak1312c3x1231.shop^
 ||kaita1xsadljkackkj13x132.cfd^
+||kaita99asdjkjkqxeqkwe.cfd^
 ||kaitaisasdjasdjxj123kx13x123.shop^
 ||kaitasdakjkj123xk123lx13221321.sbs^
 ||kaldkburdaaccacalsyoruzszdegeln.info^
@@ -11661,6 +11668,7 @@
 ||popapp.site^
 ||popapp.store^
 ||porbasvuzira.nicepage.io^
+||porland-tr.shop^
 ||port-lim-g-r-n-l.myonlineportal.ch^
 ||portakalisoydum.lat^
 ||portal-netgsm.co^
@@ -11809,6 +11817,7 @@
 ||pttavm.kolaysepet.online^
 ||pttavm.magaza-siparisiniz.com^
 ||pttavm.msiparisinizi-tamamla.com^
+||pttavm.net.ph^
 ||pttavm.onay-ilanim-534.com^
 ||pttavm.online-alisveris-sepetiniz.com^
 ||pttavm.online-hizmet-islemleri.com^
@@ -12128,6 +12137,7 @@
 ||s0kmapretler.shop^
 ||s0kmarhet.lat^
 ||s0kmarjet.shop^
+||s0kmarkatller.shop^
 ||s0kmarkel.lat^
 ||s0kmarkeltler.xyz^
 ||s0kmarkez.shop^
@@ -12213,6 +12223,7 @@
 ||sahibindenkargoilan.com^
 ||sahibindenkargoo.com^
 ||sahibindenmuhasebe.xyz^
+||sahibindenmuhasebeodeme.com^
 ||sahibindenmuhasebeodemenoktasi.dedyn.io^
 ||sahibindenparamguvende.tr^
 ||sahibindenparamguvende.tr-s.online^
@@ -12548,6 +12559,7 @@
 ||sokmarket.spinetabided.cfd^
 ||sokmarketonlineozel.sbs^
 ||sokozelmarketekrani.sbs^
+||soksinirlistok.duckdns.org^
 ||soksoksokdahadasok.click^
 ||sokta-gunler.biz.tr^
 ||sokta-gunler.net.tr^
