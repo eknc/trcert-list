@@ -6681,6 +6681,7 @@
 ||a1o1harcaharcabitmez.duckdns.org^
 ||a1o1haziran.duckdns.org^
 ||a1o1hazirankampanya.blogspot.com^
+||a1o1hazirankampanyasiiii.duckdns.org^
 ||a1o1hizli.duckdns.org^
 ||a1o1hizlialisveris.duckdns.org^
 ||a1o1indir.duckdns.org^
@@ -8384,6 +8385,7 @@
 ||dijital-basvuruadres.sbs^
 ||dijital-basvuruadresim.sbs^
 ||dijital-basvurular.sbs^
+||dijital-bireyselbasvurular.sbs^
 ||dijital-kampanya.com^
 ||dijital-kampanyalar.com^
 ||dijital-limit.com^
@@ -9386,6 +9388,7 @@
 ||haberlercihazlar.com^
 ||haberlerdiyarirtrv.sludgy.cfd^
 ||haberlerinadresim.com^
+||haberlersonbilgi.shop^
 ||habermerkez55.shop^
 ||habermerkezi.cfd^
 ||habermes.shop^
@@ -10348,6 +10351,7 @@
 ||kartomopiks.opik.net^
 ||katil202600001.duckdns.org^
 ||katilim.nicepage.io^
+||katilimda.nicepage.io^
 ||katymzua.xyz^
 ||kaxuq.sbs^
 ||kayglanmadansendebasvru.click^
@@ -11997,6 +12001,7 @@
 ||profitzs.com^
 ||promaroz.com^
 ||promlardanmbgnler.duckdns.org^
+||promobsvr-is.space^
 ||promosyon101bgn.duckdns.org^
 ||promosyoncebte.my-homeip.net^
 ||promosyonzamnakampayaherkesburda.info^
@@ -14858,6 +14863,7 @@
 ||zirtolar-ggsd.cfd^
 ||zjjhasgjfasfjaa1.cfd^
 ||zkooperatif.cfd^
+||zkopera.cfd^
 ||zlm11090100001.duckdns.org^
 ||zlorvantisahub.world^
 ||zmvevj.cc^
