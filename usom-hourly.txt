@@ -8075,12 +8075,14 @@
 ||celte-sok.shop^
 ||cepc4b1scepc4b1sburda84.live^
 ||cepte-sok.shop^
+||cepte-sokindirim.rf.gd^
 ||ceptehabaerglobalim.shop^
 ||ceptehaber45.shop^
 ||ceptelinks-tr-mobil-tr.online^
 ||ceptepromosyon.my-homeip.de^
 ||ceptesok.guncelfirsatiniz.com^
 ||ceptesok.hizlifirsatim.com^
+||ceptesok.hizligiriss.com^
 ||ceptete.pzbsin.com^
 ||cepteteb.pzbsin.com^
 ||ceronet.work^
@@ -10698,6 +10700,7 @@
 ||l-155polis.online^
 ||l-investing.com^
 ||l38493.click^
+||l55polisi.online^
 ||l55polisii.online^
 ||l55polisil55polis.online^
 ||l55polisitr.shop^
@@ -11009,6 +11012,7 @@
 ||mayista-ucuzluk.org.tr^
 ||mayistakimutluluklar.com^
 ||mayistamutluyuz.com^
+||mbbgvchjhsax.sbs^
 ||mbbgvchjhsax.shop^
 ||mcagov.cc^
 ||mczwdx.click^
