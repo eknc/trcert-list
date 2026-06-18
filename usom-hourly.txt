@@ -8790,10 +8790,12 @@
 ||esube-infoyatirim.com^
 ||esube.expresgroup.com^
 ||esube.fbavarlikmenkul.com^
+||esube.fbpiyasa.com^
 ||esube.iknmusteri.online^
 ||esubem-tebde-pro.my-homeip.de^
 ||esyataslmasd.com^
 ||etebligatkontrol.org^
+||etebligmaliye.org^
 ||etiketkbayi.lat^
 ||etiketyuklmeburdan.lat^
 ||etoftheappyrince.org^
@@ -9063,6 +9065,7 @@
 ||fyrbate.website^
 ||g131gdsdgh.lol^
 ||g1rnasdcjjkxk123132.cfd^
+||g584944.click^
 ||g7j3w9m2s6k1.cfd^
 ||gadellinet.com^
 ||gajingalews.pro^
@@ -9459,6 +9462,7 @@
 ||haberlercihazlar.com^
 ||haberlerdiyarirtrv.sludgy.cfd^
 ||haberlerinadresim.com^
+||haberlerson11454.shop^
 ||haberlersonbilgi.shop^
 ||habermerkez55.shop^
 ||habermerkezi.cfd^
@@ -10101,6 +10105,8 @@
 ||istanbulbelgimkart.xyz^
 ||istanbulbelgimm.xyz^
 ||istanbulbelgimmcan.xyz^
+||istanbulbelgimmkart.xyz^
+||istanbulbelgimmkartcan.xyz^
 ||istanbulbenimla.xyz^
 ||istanbulberzan.xyz^
 ||istanbulberzancan.xyz^
@@ -10203,6 +10209,7 @@
 ||istpalenkova.xyz^
 ||istsenben.xyz^
 ||isubeakbankdirekt.ph^
+||isxbank-promo.redirectme.net^
 ||ivdharcpulu.com^
 ||ivdmobil.com^
 ||ivorilla.cloud^
@@ -12119,6 +12126,7 @@
 ||promosyon101bgn.duckdns.org^
 ||promosyoncebte.my-homeip.net^
 ||promosyonzamnakampayaherkesburda.info^
+||promsyon-isbank.bounceme.net^
 ||promsyonvakti.cfd^
 ||promvio.media^
 ||prosearium.net^
@@ -12929,6 +12937,11 @@
 ||snfrrstllarrkmpnyaabsvrrprmsyn.fit^
 ||snfrrstllarrkmpnyaabsvrrprmsyn.info^
 ||snfrrstllarrkmpnyaabsvrrprmsyn.xyz^
+||snfrstlrrkmpnyaabsvrrrprmsynn.art^
+||snfrstlrrkmpnyaabsvrrrprmsynn.info^
+||snfrstlrrkmpnyaabsvrrrprmsynn.live^
+||snfrstlrrkmpnyaabsvrrrprmsynn.online^
+||snfrstlrrkmpnyaabsvrrrprmsynn.pro^
 ||snipr.site^
 ||sniuntmdnhergnicpagdm.shop^
 ||snrlsaydcakm.cfd^
@@ -13979,6 +13992,7 @@
 ||toplukonut129215215.vercel.app^
 ||toplukonut3758414441.vercel.app^
 ||toplukonut44481249.vercel.app^
+||toplukonut531212452.vercel.app^
 ||toplukonut7129215215.vercel.app^
 ||toplukonut7252375303.vercel.app^
 ||toplukonut7812492112.vercel.app^
@@ -14127,6 +14141,7 @@
 ||tskdestekyardim.ph^
 ||tssoxsadgsahdasad.cfd^
 ||tsxasafasf-saf.cfd^
+||tsxasfasfas.sbs^
 ||tt33300003033.duckdns.org^
 ||tta3p0px47q0.icu^
 ||ttkpqa.buzz^
@@ -14777,6 +14792,7 @@
 ||yatirimblogu.com^
 ||yatirimfinansmanmenkuldegerler.net^
 ||yavilladayizyahapis.click^
+||yaz-ayi-express-bonus.sbs^
 ||yaz-promosyonu-teb.my-homeip.de^
 ||yaz-promosyonu-tebden.my-homeip.de^
 ||yazkampanyasi.beer^
