@@ -3744,6 +3744,8 @@
 217.138.215.85
 217.144.189.35
 217.148.142.19
+217.154.162.45
+217.154.217.139
 217.154.251.149
 217.154.42.110
 217.154.51.200
@@ -6733,6 +6735,7 @@
 ||aceritop.com^
 ||acikekranbasvurulari.sbs^
 ||acikliyabilriim.blogspot.com^
+||acikpencere.gifts^
 ||acil112acill.xyz^
 ||acktr-log-webgrnead.myonlineportal.ch^
 ||acmfilo.com^
@@ -7119,6 +7122,7 @@
 ||aximi.website^
 ||axiomtalcu.top^
 ||axprbo.click^
+||axyvira.xyz^
 ||ayaxum.click^
 ||aydogukani.info^
 ||ayurvediccancer.com^
@@ -7854,6 +7858,7 @@
 ||buhayatbenicokyordu1.click^
 ||buhayatbenicokyordu3.click^
 ||buhayatbenicokyordu5.click^
+||buhayatbenicokyordu6.click^
 ||buhugereteyesede.lat^
 ||buhukulupolisede.lat^
 ||buklifgerttesede.lat^
@@ -8058,6 +8063,7 @@
 ||caykaraca-11d70fd257ba.herokuapp.com^
 ||caymakinesi-aktuel.lat^
 ||caytarifleri.sbs^
+||cccad9f0-3.b-cdn.net^
 ||ccddrjgnmarkt.shop^
 ||ccistiom.xyz^
 ||cdn.erpsaz.com^
@@ -9123,6 +9129,7 @@
 ||gettrivora.shop^
 ||getzamvex.store^
 ||getzoom.store^
+||gfhnertwerbw.click^
 ||ghfnerbqwebqwebythrn.click^
 ||ghjnrtywertbqwerb.click^
 ||ghnghjmretmwermw.click^
@@ -9266,6 +9273,7 @@
 ||gunceltrsikayetler-264.sbs^
 ||gunceltrsikayetler-272.sbs^
 ||guncelverimerkezi.com^
+||guncelyorumlar.com^
 ||gundemguncelhaber.com^
 ||gundemguncelplatform.com^
 ||gundemhaberfirsat.com^
@@ -9278,6 +9286,7 @@
 ||gunlukbilgilerbrda.sbs^
 ||gunlukbilgilerburadadir.blog^
 ||gunlukbilgilerr.sbs^
+||gununpusulasi.gifts^
 ||gununubilsende.com^
 ||gunyuzugormedim.xyz^
 ||gusikkwski.top^
@@ -9561,6 +9570,7 @@
 ||henjarlake.com^
 ||hepberabereleleburaya.sbs^
 ||hepbirliktemucadeleye.sbs^
+||hepbirlitkeyyizz.com^
 ||hepburadaguzel.com^
 ||hepburdaiyiki.com^
 ||hepinizeilkyerlerdengeldik.com^
@@ -9665,6 +9675,7 @@
 ||hizlibasvuruma.cloud^
 ||hizlibasvurumlar.com^
 ||hizlibilet.site^
+||hizlicabaslangicbuguneozel.duckdns.org^
 ||hizlicagecisbakiyniz.firebaseapp.com^
 ||hizlicagecisistem.web.app^
 ||hizlicasatinalhemensendebirlikteyiz.xyz^
@@ -9982,6 +9993,7 @@
 ||isimdesinburada.duckdns.org^
 ||iskurbasvur.ph^
 ||islebaglanhayta.sbs^
+||isledijitalcepe.sbs^
 ||isleguzelhayat.sbs^
 ||islehayatbaska.sbs^
 ||islehaytinkolaylassin.sbs^
@@ -10248,6 +10260,7 @@
 ||kahasdasd99asdasd88asds.click^
 ||kahpenevltlar.com^
 ||kahveix.com^
+||kai2xaskdamdxasdxads.cfd^
 ||kaiat31sacjasxak1312c3x1231.shop^
 ||kaita1xsadljkackkj13x132.cfd^
 ||kaita99asdjkjkqxeqkwe.cfd^
@@ -10323,6 +10336,7 @@
 ||karaca-modes.shop^
 ||karaca-onlinemagaza.vercel.app^
 ||karaca-store.shop^
+||karacaa.co^
 ||karacaevim.vercel.app^
 ||karacahaziran.com^
 ||karacahome.vercel.app^
@@ -10630,6 +10644,7 @@
 ||krediyebasvur.lat^
 ||krediyolu.sbs^
 ||kredprmsynnbsvrrkmpnyaa.art^
+||kredprmsynnbsvrrkmpnyaa.info^
 ||kredprmsynnbsvrrkmpnyaa.live^
 ||kredprmsynnbsvrrkmpnyaa.online^
 ||krelastonui.icu^
@@ -11429,6 +11444,7 @@
 ||nexavexsystems.com^
 ||nexcore.art^
 ||nexlise.live^
+||nexovatecworld.com^
 ||nexovationzone.com^
 ||nextekdindlbelger.xyz^
 ||nextquarry.com^
@@ -12136,6 +12152,7 @@
 ||qavlira.club^
 ||qavlumo.tr^
 ||qavmeriq.shop^
+||qavstorlo.gifts^
 ||qavzelo.info^
 ||qbnbfinansbank.ph^
 ||qdmagva5.space^
@@ -12844,6 +12861,7 @@
 ||solakrmas.click^
 ||solaraxisd.top^
 ||sold-in-gpant.myonlineportal.ch^
+||soleriadigital.com^
 ||soleriaprojects.com^
 ||solidtempo.com^
 ||soltherisvoid.com^
@@ -13891,6 +13909,7 @@
 ||tr-kraca.shop^
 ||tr-online-mobil.sbs^
 ||tr-polisi.online^
+||tr-porland.shop^
 ||tr-salomonturkiye.com^
 ||tr-sokarca.shop^
 ||tr-sokraca.shop^
@@ -14114,6 +14133,7 @@
 ||tuvturkkyr.com^
 ||tuvturklsl.digital^
 ||tuvturkobs.com^
+||tuvturkos.digital^
 ||tuvturkrandevu.sbs^
 ||tuvturkrandevual.sbs^
 ||tuvturkruk.com^
@@ -14385,6 +14405,7 @@
 ||watchworldcupfree.live^
 ||watchworldcupfree.online^
 ||watchworldcupfree.xyz^
+||wawsenti.duckdns.org^
 ||wazqunor.icu^
 ||wb5sh2enfodu09pr0esw.innovaxazd.icu^
 ||wbtapss.store^
