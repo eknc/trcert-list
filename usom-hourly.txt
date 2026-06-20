@@ -5180,6 +5180,7 @@
 51.89.59.188
 51.89.90.179
 51.91.77.94
+||511caa97-a.b-cdn.net^
 ||512351235.duckdns.org^
 ||5145143214123.duckdns.org^
 52.229.78.212
@@ -5568,6 +5569,7 @@
 76.64.54.159
 76.70.74.63
 76.9.50.126
+||7640450a-b.b-cdn.net^
 ||76423243.net^
 ||76456352.net^
 ||765234525.net^
@@ -6757,6 +6759,7 @@
 ||a1oo1firsatlarnisanbvsgs.blogdns.com^
 ||a1oo1firsatlarnisanbvstr.blogdns.com^
 ||a2abotnet.com^
+||a6cfe784-e.b-cdn.net^
 ||a7f3c362-9.b-cdn.net^
 ||aa88818818001.duckdns.org^
 ||abc.3mkorealtd.com^
@@ -8107,6 +8110,7 @@
 ||cansagligivakfi.telebit.app^
 ||cansagligivakfi.telebit.io^
 ||cansagligivakfi.val.ru^
+||capa.nicepage.io^
 ||capgiraffewaste.com^
 ||capitalldesk.com^
 ||capitalnuvo.com^
@@ -9633,6 +9637,7 @@
 ||hasntahizfafamar.cfd^
 ||hasntahizmar.cfd^
 ||hasolanalsa.co^
+||hastanaentente.uk^
 ||hastanegunlerim.cfd^
 ||hastaneisleriiogreen.uk^
 ||hastaneisleriogren.cfd^
@@ -9851,6 +9856,7 @@
 ||hizlibasvurumlar.com^
 ||hizlibilet.site^
 ||hizlicabaslangicbuguneozel.duckdns.org^
+||hizlicaburadayiz.xyz^
 ||hizlicaburalarda.xyz^
 ||hizlicagecisbakiyniz.firebaseapp.com^
 ||hizlicagecisistem.web.app^
@@ -10184,6 +10190,7 @@
 ||iscepdesuperlimit.com^
 ||isceptesuperlimit.com^
 ||iscepx-promsyon.space^
+||isdepromosyonlari.com^
 ||isdijitale.space^
 ||isfirsatlarimbugun.duckdns.org^
 ||isgilan.com^
@@ -10409,6 +10416,7 @@
 ||jet-bireysel-hizmetler.online^
 ||jet-eservis-hizmetlerin.online^
 ||jet-guvenlihizmetleriniz.online^
+||jet-hizmetlerim.online^
 ||jetbrains-apps-group.gitlab.io^
 ||jfarasf421asdas.click^
 ||jgvhjhfujygfy.info^
@@ -11642,6 +11650,7 @@
 ||necenyouz.xyz^
 ||nedemekyokbsey.click^
 ||nefeshhope.com^
+||nefislokumlarburada.xyz^
 ||nehikmet.cfd^
 ||nekadarbeklesekbos.cloud^
 ||nelazimsa.online^
@@ -13298,6 +13307,7 @@
 ||sslzeromail.run.place^
 ||sstss.loseyourip.com^
 ||stablewebsystems.de^
+||standart-giris-ler.myonlineportal.ch^
 ||stanleyindirim.duckdns.org^
 ||stanleykepler.xyz^
 ||starlinkprod.pro^
@@ -14205,6 +14215,7 @@
 ||toplukonut122142151.vercel.app^
 ||toplukonut1251251.vercel.app^
 ||toplukonut129215215.vercel.app^
+||toplukonut18221921.vercel.app^
 ||toplukonut3758414441.vercel.app^
 ||toplukonut44481249.vercel.app^
 ||toplukonut531212452.vercel.app^
@@ -14217,6 +14228,7 @@
 ||toplukonuthemenbasvuru.biz^
 ||toplukonuthemenbasvuru.live^
 ||toplukonuthemenbasvuru.one^
+||toplukonuthemenbasvuru.sbs^
 ||toplukonutiadresi.duckdns.org^
 ||toplumbakisi.com^
 ||toplumpenceresi.com^
@@ -14345,6 +14357,7 @@
 ||trmasakportal.org^
 ||trmasaksorgu.com^
 ||trmerkezigarantimenucozumlerim.online^
+||trpplshol.cfd^
 ||trpttgovbw.cc^
 ||trpttgovtuk.shop^
 ||trs.jyhsolucion.ar^
@@ -15204,6 +15217,7 @@
 ||zellserfdb.blogspot.com^
 ||zelmador.media^
 ||zelmallo.tr^
+||zelshopro.com^
 ||zelvio.cfd^
 ||zenfract.vip^
 ||zeniro.cyou^
