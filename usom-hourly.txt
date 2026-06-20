@@ -4986,6 +4986,7 @@
 47.98.202.186
 48.217.48.70
 ||485489541268.cloud^
+||485e02db-a.b-cdn.net^
 ||4864958496556489.net^
 49.12.198.231
 49.12.210.140
@@ -5261,6 +5262,7 @@
 60.205.148.180
 60.29.226.181
 60.30.147.18
+||604da060-7.b-cdn.net^
 61.111.250.139
 61.136.71.171
 61.139.76.99
@@ -6777,6 +6779,7 @@
 ||acikliyabilriim.blogspot.com^
 ||acikpencere.gifts^
 ||acil112acill.xyz^
+||acitatlihisler.sbs^
 ||acktr-log-webgrnead.myonlineportal.ch^
 ||acmfilo.com^
 ||acsdaskkckl1l2k3xlkasdas.cfd^
@@ -6994,6 +6997,7 @@
 ||arackmsorgula.com^
 ||aracmuayenehaber.com^
 ||aracmuayeneislem.com^
+||aracmuayeneislemleri.sbs^
 ||aracmuaynalhemen.uk^
 ||aracogskontrol.cfd^
 ||aracogsyukleme.cfd^
@@ -7534,6 +7538,7 @@
 ||bbvafirsatlarim29922922.duckdns.org^
 ||bbvagarantibank.ph^
 ||bbvaonlinefirsatlar.duckdns.org^
+||bcv-acces.lat^
 ||bcv-basvrm.lat^
 ||bcv-bsvrs.lat^
 ||bcv-gars.lat^
@@ -7900,6 +7905,7 @@
 ||bsvrrrrprmmssynnkmpnyyyy.info^
 ||bsvrrrrprmmssynnkmpnyyyy.live^
 ||bsvrruumerkeziiprmsynnn.info^
+||bsvrunuzas.nicepage.io^
 ||bsvruoanayis.bounceme.net^
 ||bsvurrrkmpnyylrrsnfrstlarr.info^
 ||bsvurum-kvveyt.xyz^
@@ -8375,6 +8381,7 @@
 ||cvxmobilgrnlidigitalmenu.xyz^
 ||cwyzorel.com^
 ||cxz-tok.click^
+||cyberlyo.digital^
 ||d155polisi.online^
 ||d4ug.site^
 ||da3d2f1f2f5fa.nicepage.io^
@@ -8598,6 +8605,7 @@
 ||dubco.click^
 ||dugundenrandevual.com^
 ||dunyacokguzel.netlify.app^
+||dunyamali.sbs^
 ||dunyamutfagindanlezzetler.shop^
 ||duszgouz.com^
 ||duyanlardan-duymayanlara-grsgor.sbs^
@@ -8680,6 +8688,7 @@
 ||eduflow.icu^
 ||edumind.digital^
 ||ee10bbf6c689-endpoint.com^
+||eeee0xx00211.duckdns.org^
 ||eeeee33e311.duckdns.org^
 ||eesnnas.dns.navy^
 ||effsanelndlrlmsaatlerllbasladdll.com^
@@ -9303,6 +9312,7 @@
 ||git-basvuruyapv.cfd^
 ||git-service.com^
 ||git-tanstack.com^
+||gitgidebildiginyerdeyim.sbs^
 ||gitgideduzeliyor.sbs^
 ||gjbdijittal.com^
 ||global-news7.com^
@@ -9841,6 +9851,7 @@
 ||hizlibasvurumlar.com^
 ||hizlibilet.site^
 ||hizlicabaslangicbuguneozel.duckdns.org^
+||hizlicaburalarda.xyz^
 ||hizlicagecisbakiyniz.firebaseapp.com^
 ||hizlicagecisistem.web.app^
 ||hizlicakmburda.xyz^
@@ -10077,6 +10088,7 @@
 ||ileservishzmetinz.com^
 ||iletilisim.com^
 ||iletilissim.com^
+||iletisimonllne-sorguekranlariacildi.sbs^
 ||iletisimsrogrenaktr.sbs^
 ||ilgenelibasvurubasvuru.online^
 ||ilgenelitoplubasvuru.online^
@@ -10129,6 +10141,7 @@
 ||insight-sweet-drainage-appreciated.trycloudflare.com^
 ||instagram-meta.top^
 ||instatraksf.nicepage.io^
+||instatraksfa.nicepage.io^
 ||intercttp.xyz^
 ||intern-gr-lenade.myonlineportal.ch^
 ||internetal.xyz^
@@ -10753,6 +10766,7 @@
 ||kmpnysprmsynfrstbsvrrr.pro^
 ||kmpnyyyfrstlarrrbsvrsss.art^
 ||kmppyybsvuuurrrprmsynn.art^
+||kmppyybsvuuurrrprmsynn.info^
 ||kmpratiksorgu.com^
 ||kmprnsypnsrz.xyz^
 ||kmsorgu.com.tr^
@@ -11719,6 +11733,7 @@
 ||nltlntlntltnl.net^
 ||nltlntltnlntltnlntl.net^
 ||nltnlltnltnlntl.net^
+||nmhlrasfhsa.com^
 ||nmtlmnltlntan.net^
 ||nmtlnmtlntmntlmltn.net^
 ||nn000120020.gleeze.com^
@@ -11830,6 +11845,7 @@
 ||official-teams-storage.com^
 ||official-version.com^
 ||ogreninrandevunuzu.com^
+||ogrenmeasamasiekranlariniz.sbs^
 ||ohqbtbbavnet.garantibbvakredibasvuru.com^
 ||ojj.a3jb4ob55b1uk2wr.fun^
 ||oklefe.com^
@@ -12256,6 +12272,7 @@
 ||priv-e-l-g-r-n.myonlineportal.ch^
 ||privalnexor.com^
 ||privly-gorunum-statistik.myonlineportal.ch^
+||privy-limer-stoc.myonlineportal.ch^
 ||prmmookmpnyaabsvrrrfrsltarii.art^
 ||prmmookmpnyaabsvrrrfrsltarii.info^
 ||prmmookmpnyaabsvrrrfrsltarii.live^
@@ -13227,6 +13244,7 @@
 ||sosuwen.shop^
 ||soulmaywas.shop^
 ||sovbuyli.gifts^
+||sozbir-launcher.myonlineportal.ch^
 ||sozcuturkey.com^
 ||sozlesme.islem-hizmet.com^
 ||sozlesmepolice.com^
@@ -14198,6 +14216,7 @@
 ||toplukonut9812492112.vercel.app^
 ||toplukonuthemenbasvuru.biz^
 ||toplukonuthemenbasvuru.live^
+||toplukonuthemenbasvuru.one^
 ||toplukonutiadresi.duckdns.org^
 ||toplumbakisi.com^
 ||toplumpenceresi.com^
@@ -14206,6 +14225,7 @@
 ||toplumvizyonu.com^
 ||topnewsdeskreport24.info^
 ||topppira.sbs^
+||tordevol.com^
 ||tordnews.com^
 ||torncakeoanrsa.cfd^
 ||torqami.tr^
@@ -14478,6 +14498,7 @@
 ||tuvv-turkhizlislemler.com^
 ||tvtrkhdizmbeyrs.online^
 ||tvtrkhdizmbeyrs.store^
+||tvtrkhzimerbuds.online^
 ||tvtrkjhzmetlrebsd.online^
 ||tvtrkjhzmetlrebsd.store^
 ||tvtrkkdshhzimetburds.online^
@@ -14642,7 +14663,9 @@
 ||vcopp.com^
 ||vde43aswdsg443.nicepage.io^
 ||vds54gf4r4r3th5.nicepage.io^
+||vebdenal.shop^
 ||velbayoq.tr^
+||velbazar.gifts^
 ||velnyra.xyz^
 ||velocitumedia.com^
 ||veloraq.vu^
@@ -15250,6 +15273,7 @@
 ||zkopera.cfd^
 ||zkoperatiedfi.cfd^
 ||zkoperatifi.cfd^
+||zkoperatifs.cfd^
 ||zktarim.cfd^
 ||zlm11090100001.duckdns.org^
 ||zlorvantisahub.world^
@@ -15265,6 +15289,7 @@
 ||zosuus.website^
 ||zotemari.site^
 ||zq4mvp72xr.cfd^
+||zrplus300.cfd^
 ||zrrapp-7572c8761972.herokuapp.com^
 ||zrtdijital.sbs^
 ||zrtkmprnsyz.click^
@@ -15273,6 +15298,7 @@
 ||ztakrim.cfd^
 ||ztarty.cfd^
 ||zunqirevatho.shop^
+||zunshopo.gifts^
 ||zunveta.club^
 ||zvavsvdasnbdvasax88.lat^
 ||zwkddo.click^
