@@ -8827,6 +8827,7 @@
 ||englishhome-sinirlistok.lat^
 ||enhizlikampanyayagir.com^
 ||eniyifirsatlareniyiurunler.com^
+||enonline.help^
 ||enonline.lat^
 ||enpara---qnbfinansbank.ph^
 ||enpara-onlinesube-com-tr.ph^
@@ -9342,6 +9343,7 @@
 ||gohaber.shop^
 ||gojemex.top^
 ||gokaraca.shop^
+||gokarcas.store^
 ||gokuryebasvuru.net^
 ||goldblueapp.shop^
 ||goldengoose.sbs^
@@ -9576,6 +9578,7 @@
 ||haberlerdiyarirtrv.sludgy.cfd^
 ||haberlerinadresim.com^
 ||haberlerson11454.shop^
+||haberlerson23454.shop^
 ||haberlerson7754.shop^
 ||haberlersonbilgi.shop^
 ||habermerkez55.shop^
@@ -13285,6 +13288,7 @@
 ||sorsucgce.net^
 ||sorunsuzhepburdayizbiz.com^
 ||sosuwen.shop^
+||sosyalkonutbasvurular.cfd^
 ||soulmaywas.shop^
 ||sovbuyli.gifts^
 ||sozbir-eutamot.myonlineportal.ch^
@@ -14225,6 +14229,7 @@
 ||toggsiparis.com^
 ||toggsiparis2026.com^
 ||toggsiparisi.com^
+||toggtasarla.com^
 ||togsiparis.com^
 ||tok-asd.click^
 ||tokgirisresmibakanlikgovtr-sosyalgov.sbs^
