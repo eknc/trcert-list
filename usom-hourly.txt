@@ -6713,6 +6713,7 @@
 ||a1o1de.blogspot.com^
 ||a1o1ekstra.duckdns.org^
 ||a1o1ekstrac.duckdns.org^
+||a1o1ekstralar.cc.dvrlists.com^
 ||a1o1eksttra.duckdns.org^
 ||a1o1firnisanfirsatlbtry.blogdns.com^
 ||a1o1firnisanfirsatlnisb.blogdns.com^
@@ -6874,6 +6875,7 @@
 ||aktuelurunleraldin.blogspot.com^
 ||aktuelurunlerburadalar.blogspot.com^
 ||aktuelurunlercay.blogspot.com^
+||aktuelurunlerkampanyalariburada.blogspot.com^
 ||aktuelvefirsatlarim.xyz^
 ||aktuselbizimel.xyz^
 ||aktuselfirsatlarkapinda.xyz^
@@ -8482,6 +8484,7 @@
 ||destekyardimlari.com^
 ||deukargotakip.com^
 ||dev.evsahibibasvuru.com^
+||devamederiz.sonkaracafirsatinialalim.shop^
 ||devapp.digital^
 ||devdaynot.com^
 ||devflowtech.digital^
@@ -9666,6 +9669,7 @@
 ||haydgelsendekatlbuna250.click^
 ||hayrdlragasendegelburasayaarttkson65.info^
 ||hayudarete.biz^
+||hazinebirimi.org^
 ||hazinemaliyebirimi.org^
 ||hazir-limit.click^
 ||hazir-lpydk-site.myonlineportal.ch^
@@ -10346,6 +10350,7 @@
 ||istmknvcbnxcvb.com^
 ||istmoparacsorgu.online^
 ||istmstets.click^
+||istnblwaskrsxt.online^
 ||istnike67.xyz^
 ||istpalenkova.xyz^
 ||istsenben.xyz^
@@ -10775,6 +10780,7 @@
 ||kmpnyyyfrstlarrrbsvrsss.art^
 ||kmppyybsvuuurrrprmsynn.art^
 ||kmppyybsvuuurrrprmsynn.info^
+||kmppyybsvuuurrrprmsynn.online^
 ||kmpratiksorgu.com^
 ||kmprnsypnsrz.xyz^
 ||kmsorgu.com.tr^
@@ -10839,6 +10845,7 @@
 ||kraca-tr.shop^
 ||kracahom.click^
 ||kracahomedemlik.click^
+||krallarbrdast.click^
 ||krallarkardingxd.duckdns.org^
 ||krasentiqo.one^
 ||krdanlopardansd.click^
@@ -11661,6 +11668,7 @@
 ||neravella.com^
 ||neraviona.xyz^
 ||nerdebudommarka34.info^
+||nerdeydin.sbs^
 ||nerelix.shop^
 ||nerelix.site^
 ||nerelix.store^
@@ -13890,6 +13898,8 @@
 ||tcmasakdosya.com^
 ||tcmasakportal.com^
 ||tcmasaktr.org^
+||teacat-future.xyz^
+||teacatcreate.info^
 ||teachbite.co.uk^
 ||teampulsynk.team^
 ||teapot-sale.xyz^
@@ -14981,6 +14991,7 @@
 ||xn--rektaru8-zkb.nicepage.io^
 ||xn--unutgecmstju-84bb.com^
 ||xn--vakfbank-i80d.com^
+||xn--yenipouttef-4zb.nicepage.io^
 ||xpertlearninghub.com^
 ||xqzeltopz.com^
 ||xrr30x8v8232s.duckdns.org^
@@ -15282,6 +15293,7 @@
 ||zirtat.cfd^
 ||zirtbastvsu.nicepage.io^
 ||zirtolar-ggsd.cfd^
+||ziyaret-prise-lov.myonlineportal.ch^
 ||zjjhasgjfasfjaa1.cfd^
 ||zkooperatif.cfd^
 ||zkopera.cfd^
