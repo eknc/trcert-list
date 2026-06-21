@@ -14214,6 +14214,7 @@
 ||tmosalmevzular.com^
 ||tnews.tr^
 ||tnlalmnlnata.net^
+||toekibassvur.vercel.app^
 ||togetherhire.fun^
 ||togethernow.sbs^
 ||togewatcher.com^
