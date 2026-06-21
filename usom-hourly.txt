@@ -6834,6 +6834,7 @@
 ||ahyuturete.lat^
 ||ai-baykar.com^
 ||ai-baykar.nl^
+||ai-garanti.lol^
 ||ailevesosyalcom.icu^
 ||airbonsaicrate.com^
 ||airrentarackiralama.com^
@@ -8674,6 +8675,7 @@
 ||e-sube.infobireysel.online^
 ||e-sube.istanbul-portfoydanismanlik.com^
 ||e394932x232.duckdns.org^
+||e3c9bbef-4.b-cdn.net^
 ||e74678f4-f.b-cdn.net^
 ||eadaletceza.com^
 ||eadaletdava.org^
@@ -9693,6 +9695,7 @@
 ||hastvdrandvm.online^
 ||hatradaoyasmakdegldknbus456363.click^
 ||haulmaster.bond^
+||havadabibulut.sbs^
 ||havenaura.click^
 ||hayalindegelenleryaninda.com^
 ||hayatguzelseninle.store^
@@ -10736,6 +10739,7 @@
 ||kidchat.mom^
 ||kikeus.website^
 ||kikpx.top^
+||kilometrecikusburda.xyz^
 ||kilometrekusu.xyz^
 ||kimbilirziya.click^
 ||kimseyitutmuyorum.sbs^
@@ -13133,6 +13137,7 @@
 ||showmori.vu^
 ||showthetrick.com^
 ||sibqeforsfo.duckdns.org^
+||sicak-mavi-yazi-bva.xyz^
 ||sicex.lol^
 ||sicilegm.org^
 ||sicilmaliye.org^
@@ -13190,6 +13195,7 @@
 ||sizlerads.xyz^
 ||sizlerdesitegir.xyz^
 ||sizleribeklerizzz.sbs^
+||sizlerle-yunatip-g.myonlineportal.ch^
 ||sizlerleberaber-sorguekraniniz.sbs^
 ||sizlerlehadihemenfirst.sbs^
 ||sk35shwdi.icu^
@@ -14753,6 +14759,7 @@
 ||valorecuiting.online^
 ||valuerstudio.com^
 ||valvenira.vu^
+||vantella.shop^
 ||vantro.sbs^
 ||vareno.xyz^
 ||varionexdigital.com^
