@@ -7196,6 +7196,7 @@
 ||aximi.website^
 ||axiomtalcu.top^
 ||axprbo.click^
+||axyvexa.xyz^
 ||axyvira.xyz^
 ||axyvixo.xyz^
 ||axyvyra.xyz^
@@ -7233,6 +7234,7 @@
 ||baklavakocak.com^
 ||balancedoutlook.info^
 ||balancedperspective.info^
+||bambuicin.sbs^
 ||bandspongewatch.com^
 ||bankafolder.com^
 ||bankkplatform.com^
@@ -9942,6 +9944,8 @@
 ||hizlikayitt.com^
 ||hizlikempos.xyz^
 ||hizlikmburda.xyz^
+||hizlikmlerinizburda.firebaseapp.com^
+||hizlikmlerinizburda.web.app^
 ||hizlikmsorgularim.xyz^
 ||hizlikmsrglma.xyz^
 ||hizlikmvemuz.xyz^
@@ -10266,6 +10270,7 @@
 ||issk1k3x123x123.cfd^
 ||isskldacslkdkll12l3kx12312.cfd^
 ||isssachsadxasx123xsadxads.cfd^
+||issssskxsajkd123x21z123.sbs^
 ||ist-at-istik-l-gr-n-l.myonlineportal.ch^
 ||istakbildoldurma.xyz^
 ||istakbilhizmetler.xyz^
@@ -10799,6 +10804,8 @@
 ||kmogren-guvenlivehizli.web.app^
 ||kmogren-hizmetler.firebaseapp.com^
 ||kmogren-hizmetler.web.app^
+||kmogrenin-hizliveguvenli.firebaseapp.com^
+||kmogrenin-hizliveguvenli.web.app^
 ||kmpanya-katilim.cfd^
 ||kmpnyaaabsvrrrprmsynnn.info^
 ||kmpnyaaabsvrrrprmsynnn.live^
@@ -14573,6 +14580,7 @@
 ||turkiyeyatirimpro.com^
 ||turklye.org^
 ||turkpulsenow.company^
+||turkraki.sbs^
 ||turksistem.space^
 ||turksondakikadunyasi.com^
 ||turksondakikalar.com^
@@ -14738,6 +14746,7 @@
 ||uyaptebligat.org^
 ||uyapuzlastirma.org^
 ||uygnsaynindrmfirstlar.cfd^
+||uygun-bireysel-ihtiyac.xyz^
 ||uygunarabakirala.net^
 ||uygunarackiralama.org^
 ||uygunkurumsalfilo.com^
