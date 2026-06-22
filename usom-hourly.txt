@@ -7034,6 +7034,7 @@
 ||aroramotorluaraclar.com^
 ||arorayedekparcatr.com^
 ||arquivos-omie.com^
+||arrzuminndrim.com^
 ||artikburdan.netlify.app^
 ||artivun.sbs^
 ||artkhersesycokbasitsendegelbzekatl.online^
@@ -10904,6 +10905,7 @@
 ||koveytturk.duckdns.org^
 ||koveytturkumre.duckdns.org^
 ||koveytturkumreseyehat.duckdns.org^
+||koylu-bot.neocities.org^
 ||kozlrmszbrdpylsyrz.xyz^
 ||kq7x2pvm4r.cfd^
 ||kraca-tr.shop^
@@ -11798,6 +11800,7 @@
 ||nexusforged.pro^
 ||nexussapro.pro^
 ||nexvendiq.tr^
+||nexvexa.xyz^
 ||nexvira.xyz^
 ||nexvixo.xyz^
 ||nfhvu87348348.click^
@@ -14632,6 +14635,7 @@
 ||tuvturkrandevu.sbs^
 ||tuvturkrandevual.sbs^
 ||tuvturkruk.com^
+||tuvturksr.com^
 ||tuvturkyys.com^
 ||tuvuturk-onl-randvuun.click^
 ||tuvv-turkhizlislemler.com^
@@ -14815,6 +14819,7 @@
 ||velto-rinex.website^
 ||velua.one^
 ||velunori.top^
+||velxo.xyz^
 ||vendflow.xyz^
 ||vendigo.gifts^
 ||vendora.bond^
