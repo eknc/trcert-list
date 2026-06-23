@@ -8856,6 +8856,7 @@
 ||egiiris-onn.cfd^
 ||egitimova.com^
 ||egmbirim.net^
+||egmbirim.org^
 ||egmcezam.org^
 ||egmcezaportal.net^
 ||egmcezaportal.org^
@@ -10721,6 +10722,7 @@
 ||kaitcaskdckj123xk132.sbs^
 ||kaldkburdaaccacalsyoruzszdegeln.info^
 ||kali365.xyz^
+||kalibre-g-r-esenlik.myonlineportal.ch^
 ||kaliteyeyakinsiniz.com^
 ||kalithra.shop^
 ||kalithra.site^
@@ -11483,10 +11485,12 @@
 ||marketinsightpro.online^
 ||marketivs.com^
 ||marketlane.digital^
+||marketlerburda.duckdns.org^
 ||marketlino.digital^
 ||marketlino.xyz^
 ||marketora.digital^
 ||marketorbitline.com^
+||marketpromosyon.duckdns.org^
 ||marketservice.xyz^
 ||markettasd.duckdns.org^
 ||markettrendinsight.online^
@@ -13224,6 +13228,7 @@
 ||sana-ozel.duckdns.org^
 ||sanalbasvuruolustura.cloud^
 ||sanalcilarsystem.pro^
+||sanatsal-g.myonlineportal.ch^
 ||sanayeminedebilirim.sbs^
 ||sankotextile-tr.com^
 ||santafebuno.top^
