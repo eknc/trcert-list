@@ -4076,6 +4076,7 @@
 ||352hjdsf32532.click^
 ||354323223.net^
 ||35658951144785.com^
+||35c195e4-7.b-cdn.net^
 36.112.17.125
 36.134.69.15
 36.152.9.62
@@ -5344,7 +5345,9 @@
 62.72.191.203
 62.72.22.91
 62.76.228.164
+||62354234.net^
 ||6262111.lat^
+||62ce61f5-9.b-cdn.net^
 63.141.234.109
 63.231.92.27
 63.245.1.34
@@ -5736,6 +5739,7 @@
 79.99.1.43
 ||790315482.lat^
 ||7987565.click^
+||7d3e329f-5.b-cdn.net^
 ||8-24onlineile.sbs^
 ||8-mobil25islemleriniz.sbs^
 8.130.50.191
@@ -5973,6 +5977,7 @@
 85.11.167.220
 85.114.102.58
 85.121.176.239
+85.137.249.93
 85.155.186.121
 85.158.108.135
 85.158.108.62
@@ -7378,6 +7383,7 @@
 ||baykar-yatirimprogrami-com.pages.dev^
 ||baykar.sbs^
 ||baykarai.nl^
+||baykarairsprings.com.tr^
 ||baykardevletdestekli-click.pages.dev^
 ||baykardevletdestekli.click^
 ||baykarfinans-algoritmasi.com^
@@ -7532,6 +7538,7 @@
 ||baykartech.mircloud.ru^
 ||baykartech.mircloud.us^
 ||baykartech.noticeable.news^
+||baykartech.online^
 ||baykartech.reserve-online.com^
 ||baykartech.resindevice.io^
 ||baykartech.rocky.page^
@@ -7548,6 +7555,7 @@
 ||baykartech.zone.id^
 ||baykartechg.com^
 ||baykartechj.com^
+||baykartechnews.com^
 ||baykartecj.com^
 ||baykartecjh.com^
 ||baykartecxh.com^
@@ -7753,6 +7761,7 @@
 ||birbirimizlesizlepromosyon.duckdns.org^
 ||birevonalu.com^
 ||bireycel-pass.my-homeip.net^
+||bireysel-mobil-shop.sbs^
 ||bireysel-mobil-tr.sbs^
 ||bireysel-promosion-firsatlar.my-homeip.de^
 ||bireysel-shop-tr.click^
@@ -8370,6 +8379,7 @@
 ||codextech.net.pe^
 ||codiva.vu^
 ||codlix.cyou^
+||cogentryx.com^
 ||cogeoma.live^
 ||coin-secimi.com^
 ||coincarp.cash^
@@ -8497,6 +8507,7 @@
 ||dailyrix.info^
 ||dailyscopu.com^
 ||dailysignal.buzz^
+||dailytruthline.com^
 ||dailyvista.world^
 ||dailyyn.com^
 ||dakatawebstick.com^
@@ -8752,6 +8763,7 @@
 ||e-maliyetalepformu.com^
 ||e-merkeziletisimmhrs.digital^
 ||e-mhrsdijitalmerkezl.digital^
+||e-mhrsilesagligakos.digital^
 ||e-mhrsilesagliikliia.digital^
 ||e-mhrsilesaglikliyasamm.digital^
 ||e-mhrssrandevumerkezii.digital^
@@ -8973,6 +8985,7 @@
 ||ernexishq.store^
 ||erp.kaspersky.icu^
 ||erthanguvenilir.site^
+||ertnefgbertbwe.sbs^
 ||es-bbva.garantibbvakredibasvuru.com^
 ||es.garantibbvakredibasvuru.com^
 ||esasmenkuldegerler.com^
@@ -9034,6 +9047,7 @@
 ||extendyourcredibility.de^
 ||eypdvy.click^
 ||eyqwj.com^
+||ezblrclme.shop^
 ||f08a9acc-9.b-cdn.net^
 ||f36c2774f013-endpoint.com^
 ||f4dub9is1r.icu^
@@ -9152,6 +9166,7 @@
 ||firsatisindeekran.duckdns.org^
 ||firsatlar-diyari.duckdns.org^
 ||firsatlar101.click^
+||firsatlardunyasi.ddnsfree.com^
 ||firsatlarim101.click^
 ||firsatlarimburada.com^
 ||firsatlarityakala.xyz^
@@ -9218,6 +9233,8 @@
 ||freeworldcupstreaming.xyz^
 ||freshlanez.com^
 ||freshpulsedaily.com^
+||friestea.info^
+||friestea.xyz^
 ||frinxp.cc^
 ||frontstory.pro^
 ||frostgiantd.info^
@@ -9668,6 +9685,7 @@
 ||haber3661.shop^
 ||haber456.shop^
 ||haber4566.shop^
+||haber45778656.shop^
 ||haber465119.shop^
 ||haber54.shop^
 ||haber7408.shop^
@@ -10021,6 +10039,7 @@
 ||hizlgecisonlnebakye.lat^
 ||hizlialisverisicinbr.com^
 ||hizliaracgecisilieriniz.sbs^
+||hizlibasvurtamamlan.cloud^
 ||hizlibasvuruekranim.sbs^
 ||hizlibasvurularim.sbs^
 ||hizlibasvurum.com^
@@ -11261,6 +11280,7 @@
 ||links-mobile.sbs^
 ||links-sponsor-mobilde-tr.sbs^
 ||links.garantibbvakredibasvuru.com^
+||linkskisaltma-tr.click^
 ||linkskisaltma-tr.sbs^
 ||linktr.duckdns.org^
 ||linrtp.makeup^
@@ -11325,6 +11345,7 @@
 ||lordansandannrdan.click^
 ||lorevantpoint.top^
 ||loserrq0j1sha8.com^
+||lowertea.info^
 ||lowertea.xyz^
 ||lowtidecorner.info^
 ||lppppsrppp.xyz^
@@ -12017,6 +12038,7 @@
 ||nltalntalnal.net^
 ||nltanalhemenl.net^
 ||nltanayalhluu.xyz^
+||nltlnaltanltant.net^
 ||nltlntlnlntln.net^
 ||nltlntlntltnl.net^
 ||nltlntltnlntltnlntl.net^
@@ -12811,6 +12833,7 @@
 ||qnbsfinansbank-basvuru.ph^
 ||qomzarek.site^
 ||qordukan.gifts^
+||qorvani.gifts^
 ||qorvendix.com^
 ||qrlwkemail.garantibbvakredibasvuru.com^
 ||qtwayedfasfhda1sasx2.shop^
@@ -13064,6 +13087,7 @@
 ||s0kmarkletler.shop^
 ||s0kmarkletmer.shop^
 ||s0kmarkteltler.xyz^
+||s0kmarlkeper.shop^
 ||s0kmarlket.shop^
 ||s3-updatehub.cc^
 ||s34fdgfd343.nicepage.io^
@@ -13074,11 +13098,13 @@
 ||sacdascdacadcasdadcasds.cfd^
 ||sacxasfafasfdasfarafs.sbs^
 ||sadebakis.gifts^
+||sadeconfitlartrsdv1o1.blogdns.com^
 ||sadeosolsprisatlaybftrk11.blogspot.com^
 ||sadesconfsirsatlartr1od.blogdns.com^
 ||sadfsafsda230203mk.net^
 ||sadmsakfdmskqfdfflflfl.net^
 ||sadsahfdagf1.click^
+||sadsosa1o1onlsfy.blogspot.com^
 ||sadsoslfrisatlarytha1o1.blogspot.com^
 ||sadsoslfrisatlarytha1o1111.blogspot.com^
 ||sadsoslfrisatlarytha1o1o.blogspot.com^
@@ -13157,6 +13183,7 @@
 ||sahibindenguvenlikargo.com^
 ||sahibindeni.com.tr^
 ||sahibindenilankargoo.com^
+||sahibindenile.com.tr^
 ||sahibindenkargoilan.com^
 ||sahibindenkargoo.com^
 ||sahibindenmuhasebe.xyz^
@@ -13438,6 +13465,7 @@
 ||sinirlikampanyalar.blogspot.com^
 ||sinodo.online^
 ||sinterfumesco.com^
+||siparilserdevamediyor.cloud^
 ||siparis-iade.com^
 ||siparis-magazasi.com^
 ||siparis-satinal.com^
@@ -13613,12 +13641,14 @@
 ||sonrasi-anlati-bec.myonlineportal.ch^
 ||sonrx2odso12xll32.duckdns.org^
 ||sonsaniyeyebirakmamaliyiz.sbs^
+||sonsiparislerinden.cloud^
 ||soonest-los-establishment-loading.trycloudflare.com^
 ||sooonnkmpnyybsvrprmsynnn.art^
 ||sooonnkmpnyybsvrprmsynnn.info^
 ||sorguceza.org^
 ||sorguidari.org^
 ||sorgukamu.org^
+||sorgula-borctahsilat.com^
 ||sorgumahkeme.org^
 ||sorgumali.org^
 ||sorgumaliye.org^
@@ -13749,6 +13779,7 @@
 ||sumeroxadi.gifts^
 ||superindirimmerkezi1.sbs^
 ||supermarketaglari.click^
+||supounry.buzz^
 ||support-onion.club^
 ||supy-veb-graned.myonlineportal.ch^
 ||surcasaoneaca.cfd^
@@ -14161,6 +14192,7 @@
 ||t3vakfi.zone.id^
 ||t6k9r3p1z8w2.cfd^
 ||t74909303.click^
+||taatas.com^
 ||tabkherkersegeleceksennerdesn85.info^
 ||tahtalar.cfd^
 ||takeoffistanbul.aem.page^
@@ -14474,6 +14506,7 @@
 ||telefonkarsilastirmalari.sbs^
 ||tells-vendors-speech-taste.trycloudflare.com^
 ||tenkoff.org^
+||tepki-stil.myonlineportal.ch^
 ||terafolt.com^
 ||terepoligierese.sbs^
 ||termosindirim.duckdns.org^
@@ -14555,6 +14588,7 @@
 ||timticaret.w-staticblitz.com^
 ||timticaret.wixsite.com^
 ||timticaret.zone.id^
+||tiryakicaylar.com^
 ||tiryakifre.com^
 ||tisssbasfasjfagsax.sbs^
 ||tivento.shop^
@@ -15019,6 +15053,7 @@
 ||upipid.cc^
 ||uploadnow.icu^
 ||upolisi155.online^
+||uppertea.xyz^
 ||upsfilo.com^
 ||uptimebox.sbs^
 ||uptimecore.xyz^
