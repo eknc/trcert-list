@@ -4396,6 +4396,7 @@
 44.215.108.109
 ||44411140002144.gleeze.com^
 ||445662.lat^
+||44yar9x9231xx.duckdns.org^
 45.10.160.45
 45.104.76.182
 45.11.180.174
@@ -5214,6 +5215,7 @@
 ||526215.xyz^
 ||5276gsdfastgdef1235743.click^
 ||5276gsef1263.click^
+||53182591342.com^
 ||534534543.net^
 54.146.6.253
 54.173.15.59
@@ -5248,6 +5250,7 @@
 57.129.137.101
 57.129.51.86
 57.69.19.70
+||576345354.net^
 ||5764352.net^
 ||576465345.net^
 58.144.143.27
@@ -6916,6 +6919,7 @@
 ||aktivasyonsagla.duckdns.org^
 ||aktivetealla.vercel.app^
 ||aktlurunler.blogspot.com^
+||aktuel-a-1-0-1.duckdns.org^
 ||aktuel-katalogumm.shop^
 ||aktuelcebinde.com^
 ||aktuelfirsatlarihizliii.duckdns.org^
@@ -7017,6 +7021,7 @@
 ||ankaro.gifts^
 ||anladinmibeni.sbs^
 ||anladmbelkgelenolrbrakbunu.online^
+||anlikgundem24.com^
 ||anlkbakyetanmlma.lat^
 ||antalyaandtrstate.info^
 ||antalyalunex.com^
@@ -7937,6 +7942,7 @@
 ||briefop.com^
 ||briefpoint.media^
 ||brighterora.com^
+||brightfutureview.com^
 ||brightly.to^
 ||brightnewsfeed.com^
 ||brighto.vu^
@@ -9097,6 +9103,7 @@
 ||felvanta.com^
 ||felvoro.store^
 ||fenkupri.gifts^
+||fenmalloq.gifts^
 ||fenmercu.gifts^
 ||fenorahubs.site^
 ||fenoralabs.site^
@@ -9476,6 +9483,7 @@
 ||gitgidebildiginyerdeyim.sbs^
 ||gitgideduzeliyor.sbs^
 ||gjbdijittal.com^
+||glintryvo.com^
 ||global-news7.com^
 ||globalbuyshop.top^
 ||globalfinancehub.world^
@@ -9700,6 +9708,7 @@
 ||haberctr.shop^
 ||haberfirsatiyeri.com^
 ||haberglobal44.shop^
+||haberglobalim34.cfd^
 ||habergolburas115.click^
 ||haberhemencebinde.shop^
 ||haberhizli456.shop^
@@ -11180,6 +11189,7 @@
 ||kuveyt-sas.duckdns.org^
 ||kuveyt-turk-seyehat.duckdns.org^
 ||kuveyt-turk-umre.duckdns.org^
+||kuveytbankacilikarayuzu.duckdns.org^
 ||kuveytbasvuru.rf.gd^
 ||kuveytileturkumreseyehati.duckdns.org^
 ||kuveytileumreseyehati.duckdns.org^
@@ -11452,6 +11462,7 @@
 ||maliyesicil.net^
 ||maliyesicil.org^
 ||maliyesorgutr.org^
+||maliyet-fark.myonlineportal.ch^
 ||maliyetebligat.org^
 ||maliyetr.org^
 ||maliyetrgov.org^
@@ -11832,6 +11843,7 @@
 ||more-arpc.icu^
 ||morevoms.cfd^
 ||morixaarackiralama.com^
+||morris-charming-meetings-teacher.trycloudflare.com^
 ||morvato.bond^
 ||morvella.shop^
 ||morvendi.gifts^
@@ -12105,6 +12117,7 @@
 ||nuvanta.cyou^
 ||nuvbazel.com^
 ||nuvbazro.com^
+||nuvella.gifts^
 ||nuvexarqel.xyz^
 ||nuvmallo.gifts^
 ||nuvmarto.tr^
@@ -12405,6 +12418,7 @@
 ||parayladiploma.web.app^
 ||parbuynowshop.com^
 ||parendalikla.click^
+||paribu-araba.com^
 ||paribu-cekilisi.com^
 ||paribu-tr.click^
 ||paribu-tr.site^
@@ -13648,6 +13662,7 @@
 ||sorguceza.org^
 ||sorguidari.org^
 ||sorgukamu.org^
+||sorgula-borctahsil.com^
 ||sorgula-borctahsilat.com^
 ||sorgumahkeme.org^
 ||sorgumali.org^
@@ -14632,6 +14647,7 @@
 ||toggtasarla.com^
 ||togsiparis.com^
 ||tok-asd.click^
+||tok-basvurum-dev.online^
 ||tokgirisresmibakanlikgovtr-sosyalgov.sbs^
 ||toki-basvuru.vercel.app^
 ||toki-gov-tr-1259125915.vercel.app^
@@ -15758,6 +15774,7 @@
 ||ziostohou.digital^
 ||zipgorent.com^
 ||zir-aat-online-islemler-login.my-homeip.de^
+||zir-dijitalbasvurular.sbs^
 ||zir-kampayalar.sbs^
 ||zira-a-t-bireysel-basvuru-ekran.my-homeip.de^
 ||zira-a-t-login-page.my-homeip.de^
