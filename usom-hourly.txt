@@ -2117,6 +2117,7 @@
 176.65.139.166
 176.65.139.177
 176.65.139.22
+176.65.139.225
 176.65.139.25
 176.65.139.31
 176.65.139.59
@@ -2339,6 +2340,7 @@
 182.8.226.51
 182.90.229.95
 182.92.133.114
+182.96.1.9
 ||1822-mehares.com^
 ||182hstanerandvm.com^
 ||182internette.com^
@@ -6813,6 +6815,7 @@
 ||adaybasvurkayit.com.tr^
 ||adceonlaylardaa1o1.duckdns.org^
 ||adelincloacker2.com^
+||adflowza.sbs^
 ||adhsahdsahdhasd8as8sa8as9as.click^
 ||adlancex.com^
 ||adliyebilgi.org^
@@ -7961,6 +7964,7 @@
 ||bsvrrrrprmmssynnkmpnyyyy.info^
 ||bsvrrrrprmmssynnkmpnyyyy.live^
 ||bsvrruumerkeziiprmsynnn.info^
+||bsvrumrkzibdahmnbasvr.xyz^
 ||bsvrunuzas.nicepage.io^
 ||bsvruoanayis.bounceme.net^
 ||bsvurrrkmpnyylrrsnfrstlarr.info^
@@ -8945,6 +8949,7 @@
 ||esorgu-onaylanansorgulariniz.sbs^
 ||esorgulama.org^
 ||esorgumali.org^
+||esrmhrlrandvlar.com^
 ||esterbutik.com^
 ||estobasvuru.84945184465.cloud^
 ||esube-infoyatirim.com^
@@ -9105,6 +9110,7 @@
 ||finryn.com^
 ||finvero.site^
 ||finvero.store^
+||firesalevip.top^
 ||firjacket.top^
 ||firsai.tipshub.net^
 ||firsat-obilet.online^
@@ -9392,6 +9398,7 @@
 ||gikarcas.store^
 ||giliandersi.top^
 ||gilr-laynkarltini.xyz^
+||gimkupiq.gifts^
 ||gir101tkl.xn--tt-8ja.net^
 ||giris-guvenli.xyz^
 ||giris-hepsibura-auth.soundandshinesolutions.cv^
@@ -10281,6 +10288,7 @@
 ||insuarenc-liberty.myonlineportal.ch^
 ||intercttp.xyz^
 ||intern-gr-lenade.myonlineportal.ch^
+||internet-koveyttork.duckdns.org^
 ||internetal.xyz^
 ||internetbasvukanallari.duckdns.org^
 ||internetbasvurukatilimi.xyz^
@@ -10619,6 +10627,7 @@
 ||kacnakolcvama.xyz^
 ||kadfmnenre.cfd^
 ||kadikoy-vitrini.shop^
+||kafamkarsksonradandusundumhakl.info^
 ||kafaneroskzu.com^
 ||kafasntutgelburdaalsyap.online^
 ||kahasdasd99asdasd88asds.click^
@@ -11965,6 +11974,7 @@
 ||node-js.prentiva99.info^
 ||nodebridge.host^
 ||nodehubs.store^
+||nofun.lol^
 ||nolux.sbs^
 ||nong-lt-rn-en.myonlineportal.ch^
 ||nopanel-363563.top^
@@ -12020,6 +12030,7 @@
 ||nuvqadi.tr^
 ||nuvqaloravantis.xyz^
 ||nuvqira.info^
+||nuvsepti.gifts^
 ||nuvshopro.tr^
 ||nuvtorgi.gifts^
 ||nviirandevun.com^
@@ -12413,6 +12424,7 @@
 ||playgamebox.shop^
 ||playhouse.baby^
 ||plenedokira.gifts^
+||plgrentx.shop^
 ||plirenokadu.gifts^
 ||plirepsijr74.com^
 ||pluginchad.xyz^
@@ -13251,6 +13263,7 @@
 ||seninisinle.sbs^
 ||seninle.kampanyaboyunca.cloud^
 ||seniseviyorumyadaichliebe5.click^
+||seniseviyorumyadaichliebe6.click^
 ||sepet-alisveris.com^
 ||sepet-odemesi-1985.com^
 ||sepet-odemesi-1988.com^
@@ -14484,11 +14497,13 @@
 ||togewatcher.com^
 ||togg-2026.com^
 ||togg-finans.com^
+||togg-kredim.com^
 ||togg-onsiparis.com^
 ||togg-trumore.com^
 ||togg.live^
 ||togg.lol^
 ||togg5000haziran.sbs^
+||togg5000haziran.xyz^
 ||togghaziran5000.com^
 ||togghizlikayit.com^
 ||toggkayit.com^
@@ -14501,6 +14516,7 @@
 ||tok-asd.click^
 ||tokgirisresmibakanlikgovtr-sosyalgov.sbs^
 ||toki-basvuru.vercel.app^
+||toki-govtr-tc.vercel.app^
 ||toki-konut-basvurutr.org^
 ||tokikonutbasvurulari2.vercel.app^
 ||tokisatis.duckdns.org^
