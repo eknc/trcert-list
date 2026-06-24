@@ -1647,6 +1647,7 @@
 158.94.210.224
 158.94.210.227
 158.94.210.38
+158.94.211.17
 ||159-karayol.com^
 159.100.13.216
 159.100.18.123
@@ -1761,6 +1762,7 @@
 162.55.47.21
 163.227.14.68
 163.245.194.216
+163.245.208.50
 163.245.213.245
 163.245.217.48
 163.5.149.152
@@ -1888,6 +1890,7 @@
 170.130.55.130
 170.130.55.164
 170.130.55.203
+170.130.55.223
 170.168.103.208
 170.205.29.83
 170.205.30.227
@@ -2061,6 +2064,7 @@
 176.123.9.142
 176.124.198.52
 176.124.198.55
+176.124.199.207
 176.124.206.88
 176.126.163.56
 176.202.27.216
@@ -2120,6 +2124,7 @@
 176.65.139.141
 176.65.139.143
 176.65.139.153
+176.65.139.158
 176.65.139.163
 176.65.139.166
 176.65.139.177
@@ -2931,6 +2936,7 @@
 193.106.196.140
 193.109.85.231
 193.111.117.50
+193.111.117.51
 193.111.208.110
 193.111.248.148
 193.124.125.78
@@ -3133,6 +3139,7 @@
 194.26.135.44
 194.26.192.120
 194.26.192.187
+194.26.192.191
 194.26.232.180
 194.26.29.217
 194.26.29.44
@@ -3264,6 +3271,7 @@
 195.96.129.13
 196.175.249.5
 196.251.100.191
+196.251.107.130
 196.251.107.133
 196.251.107.171
 196.251.113.139
@@ -3951,6 +3959,7 @@
 ||2351245.click^
 ||2353676gseasfdgsdf1263.click^
 ||237727232basvuru.fixip.org^
+||23haziranuygunkatolog.shop^
 24.144.114.85
 24.144.96.15
 24.152.36.241
@@ -5341,6 +5350,7 @@
 62.60.152.226
 62.60.154.106
 62.60.178.24
+62.60.226.140
 62.60.226.146
 62.60.226.154
 62.60.226.233
@@ -5363,6 +5373,7 @@
 63.231.92.27
 63.245.1.34
 63.250.56.54
+||6348732od4we43.click^
 64.111.93.168
 64.176.213.101
 64.176.228.109
@@ -5381,6 +5392,7 @@
 64.188.79.226
 64.188.83.192
 64.188.83.228
+64.188.91.237
 64.190.113.170
 64.190.113.25
 64.225.29.249
@@ -6190,6 +6202,7 @@
 89.169.12.235
 89.169.4.44
 89.169.52.37
+89.169.53.244
 89.185.80.86
 89.185.85.102
 89.190.156.162
@@ -6382,11 +6395,14 @@
 91.92.240.188
 91.92.240.190
 91.92.240.219
+91.92.240.52
 91.92.241.103
 91.92.241.143
+91.92.241.243
 91.92.241.90
 91.92.242.13
 91.92.242.183
+91.92.242.236
 91.92.242.30
 91.92.242.85
 91.92.243.160
@@ -6534,6 +6550,7 @@
 94.156.152.226
 94.156.152.44
 94.156.152.67
+94.156.155.42
 94.156.167.166
 94.156.167.237
 94.156.170.255
@@ -6663,6 +6680,7 @@
 95.81.1.43
 95.85.224.14
 95.85.231.199
+95.85.238.4
 95.85.252.196
 95.85.93.196
 95.92.242.30
@@ -7075,6 +7093,7 @@
 ||aracdetaykontrol.cfd^
 ||aracimindetaylari.cfd^
 ||aracinizhakkinda.com^
+||aracinizmuayene.xyz^
 ||arackgmkontrol.online^
 ||aracklmtrlerinogren.sbs^
 ||arackmsorgula.com^
@@ -7268,6 +7287,7 @@
 ||avskocfilo.net^
 ||avsotofly.com^
 ||avsrentacar.org^
+||awsfjcwaklfhjnawafwjl.sbs^
 ||awshub.fun^
 ||axdskjc1kj23xkklsad.cfd^
 ||aximi.website^
@@ -7357,6 +7377,7 @@
 ||basvursends.com.tr^
 ||basvursendsc.sbs^
 ||basvursendsmz.sbs^
+||basvursendsn.sbs^
 ||basvursendsr.sbs^
 ||basvursendsz.com.tr^
 ||basvursendsz.sbs^
@@ -7733,6 +7754,7 @@
 ||bilgilendirmeyeni.online^
 ||bilgilenyolgecis.netlify.app^
 ||bilgilerburada.sbs^
+||bilgilerde-bugun-yg.myonlineportal.ch^
 ||bilgipath.com^
 ||bilgivizyonu.com^
 ||bilimuskudar.aem.page^
@@ -8079,6 +8101,7 @@
 ||buhukulupolisede.lat^
 ||buklifgerttesede.lat^
 ||bukugufuerese.xyz^
+||bukuhugufutuyu.xyz^
 ||buldumdenburdaartuk67.click^
 ||bulduretede.lat^
 ||bulkore.shop^
@@ -8533,6 +8556,7 @@
 ||cuygereteyesede.lat^
 ||cuyhufettesedere.lat^
 ||cvnsin.click^
+||cvoksc4b1kc4b1nkafamkarskson.art^
 ||cvxmobilgrnlidigitalmenu.xyz^
 ||cwrtwright.com^
 ||cwyzorel.com^
@@ -9726,6 +9750,7 @@
 ||gzkarca.shop^
 ||h01-captcha.sbs^
 ||h155polisi.online^
+||h1k9p4z7m6q2.cfd^
 ||h3t8y5p2w6r9.cfd^
 ||h72vn3jtpt5.icu^
 ||haadstesserae.cfd^
@@ -10345,6 +10370,7 @@
 ||ikonfinansmenkuldegerler.com^
 ||ikonsube.com^
 ||il55polis.online^
+||ilah.cc^
 ||ilanda-siparislerim.com^
 ||ilandetay-jet.com^
 ||ilanim-onay-762211.com^
@@ -10365,6 +10391,7 @@
 ||iletilisim.com^
 ||iletilissim.com^
 ||iletisimonllne-sorguekranlariacildi.sbs^
+||iletisimsorguaktif.sbs^
 ||iletisimsrogrenaktr.sbs^
 ||ilgenelibasvurubasvuru.online^
 ||ilgenelitoplubasvuru.online^
@@ -12482,6 +12509,7 @@
 ||outlookcozumtr24.com^
 ||outlookturk24x.com^
 ||outlookturkplus.com^
+||overlapsnowbound.com^
 ||ovsversyn.net^
 ||owlstoryweapon.com^
 ||oxdzxz.click^
@@ -13101,6 +13129,7 @@
 ||rehber.randevubilgi.it.com^
 ||rehberleri.click^
 ||rekabetbizimle.xyz^
+||reklampilot.site^
 ||reklamsite.shop^
 ||rekwrnwkr.xyz^
 ||reletionquest.pro^
@@ -15011,6 +15040,7 @@
 ||tsxasfasfas.sbs^
 ||tt33300003033.duckdns.org^
 ||tta3p0px47q0.icu^
+||ttccckk.duckdns.org^
 ||ttkkmmmevmmynn.org^
 ||ttkpqa.buzz^
 ||ttooakcanosac.xyz^
@@ -15600,6 +15630,7 @@
 ||xavsepet.gifts^
 ||xavvendi.gifts^
 ||xazumek.media^
+||xbd.garden^
 ||xcn23aj234cd.duckdns.org^
 ||xeebii.com^
 ||xeldaqur.shop^
@@ -15716,6 +15747,7 @@
 ||yaponayaninda.ooguy.com^
 ||yarabandi.sbs^
 ||yarmalli.gifts^
+||yasamkaynaklari.com^
 ||yasoguh.xyz^
 ||yatirimblogu.com^
 ||yatirimfinansmanmenkuldegerler.net^
