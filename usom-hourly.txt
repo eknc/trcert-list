@@ -8874,6 +8874,7 @@
 ||edavam.org^
 ||edavamuzlasma.org^
 ||edavatebligat.org^
+||edavauzlasma.com^
 ||edavayasal.org^
 ||edbo.linkpc.net^
 ||edbo.publicvm.com^
@@ -9414,6 +9415,7 @@
 ||garantibbvabankas.ph^
 ||garantibbvacepmobil.duckdns.org^
 ||garantibbvaintl.com^
+||garantibbvakredi.otzo.com^
 ||garantibbvapromosyon.com^
 ||garantibbvayayatinemom.com^
 ||garanticepbbvaislemleri.duckdns.org^
@@ -9830,6 +9832,7 @@
 ||haberlerson23454.shop^
 ||haberlerson7754.shop^
 ||haberlersonbilgi.shop^
+||habermeridyen34.cfd^
 ||habermerkez24.com^
 ||habermerkez55.shop^
 ||habermerkezi.cfd^
@@ -11065,6 +11068,7 @@
 ||kmhizlikontrol.web.app^
 ||kmizim.web.app^
 ||kmkaydin.web.app^
+||kmkayitpttavm.com^
 ||kmkmsorgulamagovpttdonerbicagi.duckdns.org^
 ||kmkmsorgulamagovvpttazerblbl.duckdns.org^
 ||kmkmsrglumaislemlergovptttmbb.duckdns.org^
@@ -12492,6 +12496,7 @@
 ||otokockurumsal.net^
 ||otokockurumsal.rent^
 ||otokockurumsalbayi.com^
+||otokockurumsalkiralama.com^
 ||otokocrent.net^
 ||otokocrentcar.com^
 ||otokocrentfilo.com^
@@ -12887,6 +12892,7 @@
 ||pttavmkilometre.com^
 ||pttavmkilometresorgu.com^
 ||pttavmkmkontrol.web.app^
+||pttavmkmraporlama.com^
 ||pttavmkmsorgulama.com^
 ||pttavmkmsorgumerkezi.web.app^
 ||pttavmonlineislemlerim.com^
@@ -14824,6 +14830,7 @@
 ||toki-gov-tr-1259125915.vercel.app^
 ||toki-gov-tr-14.vercel.app^
 ||toki-gov-tr-15.vercel.app^
+||toki-gov-tr-17.vercel.app^
 ||toki-govtr-tc.vercel.app^
 ||toki-konut-basvurutr.org^
 ||tokikonutbasvurulari2.vercel.app^
