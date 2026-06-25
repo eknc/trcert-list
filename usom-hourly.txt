@@ -6839,6 +6839,7 @@
 ||a6cfe784-e.b-cdn.net^
 ||a7f3c362-9.b-cdn.net^
 ||aa88818818001.duckdns.org^
+||aaeerrzzccxasqwekx123x1.shop^
 ||abc.3mkorealtd.com^
 ||abc.doublemobile.com^
 ||abc.fetish-friends.com^
@@ -6921,6 +6922,7 @@
 ||ajhuy39393.click^
 ||ak-mobilislemlerinizicintektikla-ak.duckdns.org^
 ||akaycicekcilik.com.tr^
+||akbank-borc-sorgulama.ph^
 ||akbank-com.ph^
 ||akbank-invest-hub.sbs^
 ||akbank-pw.hizliyatirim.net^
@@ -7668,6 +7670,7 @@
 ||bbvaaguvencsburdasendegel85.click^
 ||bbvafirsatlarim29922922.duckdns.org^
 ||bbvagarantibank.ph^
+||bbvagarantiwebiadesi.ph^
 ||bbvaonlinefirsatlar.duckdns.org^
 ||bcv-acces.lat^
 ||bcv-basvrm.lat^
@@ -8319,6 +8322,7 @@
 ||caykaraca-11d70fd257ba.herokuapp.com^
 ||caymakinesi-aktuel.lat^
 ||caytarifleri.sbs^
+||cc0c0c302as23.duckdns.org^
 ||cccad9f0-3.b-cdn.net^
 ||ccddrjgnmarkt.shop^
 ||ccistiom.xyz^
@@ -8839,6 +8843,7 @@
 ||e-mhrsdijitalmerkezl.digital^
 ||e-mhrsilesagligakos.digital^
 ||e-mhrsilesagliikliia.digital^
+||e-mhrsilesagliklibakislar.digital^
 ||e-mhrsilesaglikliyasamm.digital^
 ||e-mhrsrandevulariylayasams.digital^
 ||e-mhrssrandevumerkezii.digital^
@@ -8847,6 +8852,7 @@
 ||e-online-ilan-sepet.com^
 ||e-online-ilan-sepetim.com^
 ||e-onlineislemlerim.rf.gd^
+||e-sube-isbank.ph^
 ||e-sube.infobireysel.online^
 ||e-sube.istanbul-portfoydanismanlik.com^
 ||e394932x232.duckdns.org^
@@ -9025,6 +9031,7 @@
 ||enonline.help^
 ||enonline.lat^
 ||enpara---qnbfinansbank.ph^
+||enpara-mobilsubem.ph^
 ||enpara-onlinesube-com-tr.ph^
 ||enparabasvur.xyz^
 ||enparamobil.wqdasdwq1.cfd^
@@ -9083,6 +9090,7 @@
 ||esube.fbavarlikmenkul.com^
 ||esube.fbpiyasa.com^
 ||esube.iknmusteri.online^
+||esubem--qnbfinansbank.ph^
 ||esubem-tebde-pro.my-homeip.de^
 ||esyataslmasd.com^
 ||etebligatkontrol.org^
@@ -9235,6 +9243,7 @@
 ||finansendeksi.info^
 ||finansgundemi.media^
 ||finansindexraporlarimla.sbs^
+||finansportali.media^
 ||finanssalalan.com^
 ||finanssalstruktur.com^
 ||finclass.courses^
@@ -9306,6 +9315,7 @@
 ||foodline.gifts^
 ||foodlyo.gifts^
 ||foodnavi.gifts^
+||footballjuicelitter.com^
 ||footballworldcup.xyz^
 ||for8service.net^
 ||forestsignal.com^
@@ -9793,6 +9803,7 @@
 ||haber7546.shop^
 ||haber78456.shop^
 ||haber789.shop^
+||haberakisi24.com^
 ||habercepte456.shop^
 ||haberctr.shop^
 ||haberfirsatiyeri.com^
@@ -9953,6 +9964,7 @@
 ||haziranayifirsatalri.com^
 ||haziranburadakampanya.blogspot.com^
 ||hazirangunleribasladi.com^
+||haziranindiirimler.duckdns.org^
 ||haziraninfirsatiburda.com^
 ||hazirankampanya.turkishairlinis.sbs^
 ||hazirankampanyalari.blogspot.com^
@@ -10154,6 +10166,7 @@
 ||hizlicagecisbakiyniz.firebaseapp.com^
 ||hizlicagecisistem.web.app^
 ||hizlicakmburda.xyz^
+||hizlicasatinalhemensendebirlikteyiz.store^
 ||hizlicasatinalhemensendebirlikteyiz.xyz^
 ||hizliccabasvurum.cloud^
 ||hizligecinbakiyesi.firebaseapp.com^
@@ -10757,6 +10770,7 @@
 ||jomera.shop^
 ||jomera.site^
 ||jomera.store^
+||journolinxfy.com^
 ||jovrineltan.com^
 ||joydrop.sbs^
 ||joyfulkids.baby^
@@ -11825,6 +11839,7 @@
 ||mikulatur.com^
 ||milbiorb.com^
 ||milliegitimbakanligi.xyz^
+||minavex.gifts^
 ||mindpeak.icu^
 ||minedata.pics^
 ||mineralpeak.icu^
@@ -13742,6 +13757,7 @@
 ||softflow.vu^
 ||softlyx.sbs^
 ||softmilo.digital^
+||softpilotx.digital^
 ||softquiver.com^
 ||sokagirdim.xyz^
 ||sokaraca.shop^
@@ -13807,6 +13823,7 @@
 ||sonhaberler54465.com^
 ||sonhaberler565.com^
 ||sonhaberleri255.shop^
+||sonhaberlermerit.shop^
 ||sonkezcalbenimicin.sbs^
 ||sonnbsvrrprmsynnnkmpnyaaa.art^
 ||sonnbsvrrprmsynnnkmpnyaaa.click^
@@ -14842,6 +14859,7 @@
 ||toki-gov-tr-17.vercel.app^
 ||toki-gov-tr-18.vercel.app^
 ||toki-gov-tr-19.vercel.app^
+||toki-gov-trk.vercel.app^
 ||toki-govtr-tc.vercel.app^
 ||toki-konut-basvurutr.org^
 ||tokikonutbasvurulari2.vercel.app^
@@ -15380,6 +15398,7 @@
 ||velocitumedia.com^
 ||veloraq.vu^
 ||velorianconcept.com^
+||velqaro.gifts^
 ||veltirio.com^
 ||velto-rinex.website^
 ||velua.one^
@@ -15442,6 +15461,7 @@
 ||voidreaver.pro^
 ||voidsec.vip^
 ||vokcarti.tr^
+||vokmerqa.gifts^
 ||voltaaracsatis.com^
 ||voltadunyasi.com^
 ||voltafabrika.com^
@@ -15614,6 +15634,7 @@
 ||www-qnbfinansbank-cekilis-firsat-com.ph^
 ||www-qnbfinansbank-cepsubesi-com.ph^
 ||www-qnbfinansbank-yenilenen-subem.ph^
+||www-toki-gov-tr-ev.vercel.app^
 ||www.drivelivelime.com^
 ||www155-polisi.online^
 ||wwwbilgilendirmeniz.revise.sbs^
@@ -15739,7 +15760,9 @@
 ||yaga9b286ae2c101-endpoint.com^
 ||yakarimsehri.click^
 ||yakinkayit.gifts^
+||yakndaherseyguelolablrgunes.site^
 ||yaknhaberburdagelsendebas.art^
+||yaknhaberburdagelsendebast.world^
 ||yaknzamnhaberburdakampanya3656.click^
 ||yakora7160.online^
 ||yakupsahlukbey.click^
@@ -15887,6 +15910,7 @@
 ||yuhderetedefe.lat^
 ||yuhuguderdere.click^
 ||yuhuguderetese.homes^
+||yukeshapi.neocities.org^
 ||yuklehemenhgs.cfd^
 ||yukoancaklan.xyz^
 ||yumtyunrtqneqnqe.click^
@@ -15930,6 +15954,7 @@
 ||zamaninotesinde.click^
 ||zamanlagelengidermi.com^
 ||zamgelgitzam.com^
+||zanivon.gifts^
 ||zankarto.gifts^
 ||zankramo.digital^
 ||zankupra.tr^
@@ -15978,6 +16003,7 @@
 ||zerrotmamil.com^
 ||zestio.gifts^
 ||zevfesedlipilgiasdere.xyz^
+||zexcommunity.xyz^
 ||zg5mkr7q.apexharvestor.digital^
 ||zgj1tam9.space^
 ||zhghggffghsax6.lol^
