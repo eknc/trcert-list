@@ -7956,6 +7956,7 @@
 ||bootiva.shop^
 ||bore.pub^
 ||borilune.pro^
+||borsagundemi.media^
 ||borusan-ai.net^
 ||bosflux.gifts^
 ||boslina.gifts^
@@ -9232,6 +9233,7 @@
 ||finalturkeum.cyou^
 ||financialscope.world^
 ||finansendeksi.info^
+||finansgundemi.media^
 ||finansindexraporlarimla.sbs^
 ||finanssalalan.com^
 ||finanssalstruktur.com^
@@ -14839,6 +14841,7 @@
 ||toki-gov-tr-15.vercel.app^
 ||toki-gov-tr-17.vercel.app^
 ||toki-gov-tr-18.vercel.app^
+||toki-gov-tr-19.vercel.app^
 ||toki-govtr-tc.vercel.app^
 ||toki-konut-basvurutr.org^
 ||tokikonutbasvurulari2.vercel.app^
