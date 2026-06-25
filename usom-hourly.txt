@@ -7062,6 +7062,7 @@
 ||anatoliax.info^
 ||anavico.gifts^
 ||angry-toaster.com^
+||aninda-siparis-baglantisi.com^
 ||anindagarantiwebkaynak.xyz^
 ||ankaralunex.com^
 ||ankarameclisqivo.com^
@@ -9309,6 +9310,7 @@
 ||firsatisindeekran.duckdns.org^
 ||firsatlar-diyari.duckdns.org^
 ||firsatlar101.click^
+||firsatlar101.duckdns.org^
 ||firsatlardunyasi.ddnsfree.com^
 ||firsatlarim101.click^
 ||firsatlarimburada.com^
@@ -14978,6 +14980,7 @@
 ||toki-gov-tr-011.vercel.app^
 ||toki-gov-tr-012.vercel.app^
 ||toki-gov-tr-014.vercel.app^
+||toki-gov-tr-016.vercel.app^
 ||toki-gov-tr-1259125915.vercel.app^
 ||toki-gov-tr-14.vercel.app^
 ||toki-gov-tr-15.vercel.app^
