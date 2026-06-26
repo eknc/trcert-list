@@ -536,6 +536,7 @@
 ||11110210221552580.gleeze.com^
 ||11111122222222233333333333.duckdns.org^
 ||11114141414.duckdns.org^
+||11130059322882.webredirect.org^
 ||111300593882.ooguy.com^
 112.105.19.170
 112.113.112.5
@@ -8838,6 +8839,7 @@
 ||dijitalacentasorgulama.org^
 ||dijitalbasvurukanallarim.sbs^
 ||dijitalbasvurukatilimi.sbs^
+||dijitalbilgilendirmeler.xyz^
 ||dijitalbilgilendirmelerrim.duckdns.org^
 ||dijitaleis.space^
 ||dijitaleiscep.sytes.net^
@@ -10249,6 +10251,7 @@
 ||hernerdysebolysamam.sbs^
 ||hersey-indirimlerile.info^
 ||herseyburakabininsucu.blogspot.com^
+||herseyhalkimiziicin.sbs^
 ||herseyherkessesylsin.sbs^
 ||herseyherkezgusecelyenguncel65.info^
 ||herseysznlegzzel.sbs^
@@ -10257,6 +10260,7 @@
 ||hesapguvenlik.com^
 ||hesapli.o-bilet.eu^
 ||hesapteknik-lutgr-ekon.myonlineportal.ch^
+||hesobtiy1650.site^
 ||hettinger.shop^
 ||hewvex.click^
 ||hfcrbt.buzz^
@@ -12239,6 +12243,7 @@
 ||mobilservisler-3.sbs^
 ||mobilservisler-49.sbs^
 ||mobilservisorg.com^
+||mobilseyehatisleml.duckdns.org^
 ||mobiltebce.my-homeip.net^
 ||mobim-liter-y.myonlineportal.ch^
 ||modaesra.com^
@@ -13767,6 +13772,7 @@
 ||saidozdemir.com^
 ||sakjhsadkjdsakhjs.site^
 ||sakketencere.lat^
+||salbeniaqa.cfd^
 ||saldsaldsaldsadpoool.net^
 ||salealert.vu^
 ||salecraft.store^
@@ -16459,6 +16465,7 @@
 ||zanxc23212x2.duckdns.org^
 ||zarluna.gifts^
 ||zartzukurt.click^
+||zasede-zaderete.xyz^
 ||zaurevionyzhub.world^
 ||zavirelqomtu.com^
 ||zavorionix.cyou^
