@@ -536,6 +536,7 @@
 ||11110210221552580.gleeze.com^
 ||11111122222222233333333333.duckdns.org^
 ||11114141414.duckdns.org^
+||111300593882.ooguy.com^
 112.105.19.170
 112.113.112.5
 112.121.165.45
@@ -7051,6 +7052,7 @@
 ||alo-182.xyz^
 ||alo-1822.com^
 ||alo182.com^
+||alo182.org^
 ||alocagrimerkezi.com^
 ||aloo-182.cfd^
 ||aloo-182.sbs^
@@ -8142,6 +8144,7 @@
 ||bsvrrprmsynnkmpnyaaafrstlari.online^
 ||bsvrrprmsynnkmpnyaaafrstlari.pro^
 ||bsvrrprmsynnkmpnyaaafrstlari.xyz^
+||bsvrrrkmpnyaaaprmsynn.info^
 ||bsvrrrkmpnyaaaprmsynnn.art^
 ||bsvrrrkmpnyaaaprmsynnn.info^
 ||bsvrrrkmpnyaaaprmsynnn.online^
@@ -8518,6 +8521,7 @@
 ||climatewatchnepal.com^
 ||clinicly.gifts^
 ||cliniczen.gifts^
+||clkkkprmsynkrdibsvrrr.art^
 ||clkkkprmsynkrdibsvrrr.info^
 ||clndonlinesube.com^
 ||clo4shara.xyz^
@@ -9396,6 +9400,7 @@
 ||finger.cldvrfd.click^
 ||fingersnaapp.lat^
 ||finryn.com^
+||finventurex.com^
 ||finvero.site^
 ||finvero.store^
 ||firesalevip.top^
@@ -11157,6 +11162,7 @@
 ||katil202600001.duckdns.org^
 ||katilim.nicepage.io^
 ||katilimda.nicepage.io^
+||katilmak-gornm-g-rn.myonlineportal.ch^
 ||katki-saglamak-g.myonlineportal.ch^
 ||katymzua.xyz^
 ||kavirex.gifts^
@@ -11556,6 +11562,7 @@
 ||kuveyt-turk-umre.duckdns.org^
 ||kuveytbankacilikarayuzu.duckdns.org^
 ||kuveytbasvuru.rf.gd^
+||kuveythizmetiarayuzu.duckdns.org^
 ||kuveytileturkumreseyehati.duckdns.org^
 ||kuveytileumreseyehati.duckdns.org^
 ||kuveytislemlerinii.duckdns.org^
@@ -14026,6 +14033,7 @@
 ||silent-harvester.cc^
 ||silent-orbit.cc^
 ||silentharbor.top^
+||silverharvest.info^
 ||simclipquartz.cfd^
 ||simdilikyaninageldi.com^
 ||simdilikyanindaburda.com^
@@ -14043,6 +14051,7 @@
 ||siparisim-guvende.online^
 ||siparisim-sepette.com^
 ||siparisimpttavm.com^
+||siparislerolunsuyor.cloud^
 ||siparissatin-al.com^
 ||siparisweb.net^
 ||sirtesevic.net^
@@ -14169,6 +14178,7 @@
 ||solvixo.xyz^
 ||solvoro.xyz^
 ||solxo.xyz^
+||son-gun-destekleme.cfd^
 ||sonbilet.com.tr^
 ||sondakikada.org^
 ||sondakikahaberler2026.com^
@@ -15431,6 +15441,7 @@
 ||tregmceza.org^
 ||tregmkurum.org^
 ||trehlub.com^
+||trekonomimobileonlineapp.xyz^
 ||trelvionix.com^
 ||tremobillgrnlidijitalmenu.xyz^
 ||trendbeat.world^
@@ -16004,6 +16015,7 @@
 ||webmail.6134728541296136547150.duckdns.org^
 ||webmail.73214625721684432160.duckdns.org^
 ||webmail.7641713825499140.duckdns.org^
+||webmail.mobilkuveytturkk.duckdns.org^
 ||webnexus360.com^
 ||webnox.xyz^
 ||webora.cfd^
