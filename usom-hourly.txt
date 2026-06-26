@@ -759,6 +759,7 @@
 125.43.44.207
 125.44.25.122
 ||1253452324124.xyz^
+||12545589989990893.duckdns.org^
 ||1255665988451698992.duckdns.org^
 ||1255665988451698993.duckdns.org^
 126.209.16.237
@@ -6745,6 +6746,7 @@
 ||9848956489.cloud^
 99.119.166.50
 ||999000044444.duckdns.org^
+||99903030x332zww1.duckdns.org^
 ||999991001002026.duckdns.org^
 ||9batcgshuer.thechidocas.cyou^
 ||9c743b80-b.b-cdn.net^
@@ -10007,6 +10009,7 @@
 ||haberler17562.shop^
 ||haberler2026xl.com^
 ||haberler2153212.com^
+||haberler231542423.online^
 ||haberler31345653.shop^
 ||haberler32334.shop^
 ||haberler365guncel.com^
@@ -10964,6 +10967,7 @@
 ||jarnuvex.media^
 ||jaxdurem.com^
 ||jaxdurev.buzz^
+||jbl-turkiye.com^
 ||jeaw520i.space^
 ||jekep15918.online^
 ||jekep15918.store^
@@ -11411,6 +11415,7 @@
 ||kmsorgupratik.com^
 ||kmsorgupttavm.com^
 ||kmsrgoalamyapalimkmhmnamt.com^
+||kmsrgulamagovptt.duckdns.org^
 ||kmyenilmezi.xyz^
 ||kmyikilmazi.xyz^
 ||knaklanlktana.net^
@@ -11553,6 +11558,7 @@
 ||kurbanpaket.icu^
 ||kurocanseak.theworkpc.com^
 ||kurudumprfsnefe43.click^
+||kurumadli.org^
 ||kurumsalbirkurumsal.click^
 ||kurumsalmediamarkt.com^
 ||kusursuzarackiralama.com^
@@ -15287,6 +15293,7 @@
 ||toki-gov-tr-18.vercel.app^
 ||toki-gov-tr-19.vercel.app^
 ||toki-gov-tr-girisi.vercel.app^
+||toki-gov-tr-konut.vercel.app^
 ||toki-gov-tr-mobil-giris.vercel.app^
 ||toki-gov-tr-mobil.vercel.app^
 ||toki-gov-tr.vercel.app^
