@@ -1147,6 +1147,7 @@
 145.239.202.110
 145.40.126.81
 145.6.15.222
+||14512246565578998990.duckdns.org^
 146.0.228.66
 146.0.79.21
 146.103.40.203
@@ -8863,6 +8864,7 @@
 ||dinersciub.qpon^
 ||direktsube-akbank.ph^
 ||dis-ak-kampaing.myonlineportal.ch^
+||discountstock.top^
 ||discountvoucher.cfd^
 ||dispatch-l-grenade.myonlineportal.ch^
 ||dispatch.news7-days-info.org^
@@ -9730,6 +9732,7 @@
 ||girislerbnaseaktiftr.com^
 ||girislerbnasecaktiftr.com^
 ||giriss-times.cfd^
+||girisss-aktiff-sorsisteme.sbs^
 ||girisssulkesorguekraniniz.sbs^
 ||girissube-akbank.ph^
 ||girs-onlne-aktiff.sbs^
@@ -9986,6 +9989,7 @@
 ||haberglobal44.shop^
 ||haberglobalim34.cfd^
 ||habergolburas115.click^
+||haberhaber24.com^
 ||haberhemencebinde.shop^
 ||haberhizli456.shop^
 ||haberhizliaktif.com^
@@ -11543,6 +11547,7 @@
 ||ktalakltlkatla.net^
 ||kubaaraclari.com^
 ||kubamagaza.com^
+||kubamotorluaraclar.com^
 ||kubamotoronline.com^
 ||kubamotorturkiye.com^
 ||kubaonlinesatis.com^
@@ -12317,6 +12322,7 @@
 ||mukemmelbirbaslangicicinharikagunlerde.xyz^
 ||mukulupolisede.lat^
 ||muligipoliteresedese.xyz^
+||mulkukulupolisde-derete.xyz^
 ||mulukilopilede.lat^
 ||mumgidesaccvere.xyz^
 ||mumuhugufereteyese.xyz^
@@ -13087,6 +13093,7 @@
 ||pplardandandan.sbs^
 ||pplardandandan.shop^
 ||pporscsic.net^
+||ppp00oo3o0ooopp.duckdns.org^
 ||ppvagirisgoniz1ernenutrapp.space^
 ||ppvagirisgonizlemenuapptr.space^
 ||pqvagirisonizlemenugapptr.space^
@@ -15305,8 +15312,10 @@
 ||toki-gov-tr-konut3.vercel.app^
 ||toki-gov-tr-konut4.vercel.app^
 ||toki-gov-tr-konut5.vercel.app^
+||toki-gov-tr-konut6.vercel.app^
 ||toki-gov-tr-mobil-giris.vercel.app^
 ||toki-gov-tr-mobil.vercel.app^
+||toki-gov-tr-mobiliniz.vercel.app^
 ||toki-gov-tr.vercel.app^
 ||toki-gov-trk.vercel.app^
 ||toki-govtr-tc.vercel.app^
@@ -15549,6 +15558,7 @@
 ||tuhugferetesede.lat^
 ||tuhwu.buzz^
 ||tukendiamanabizatiyo.sbs^
+||tukendiamanabizatiyor.sbs^
 ||tumalisverisindirimleri6.sbs^
 ||tumceteiddiali.click^
 ||tun6.fitnessresolvepro.run^
@@ -16277,6 +16287,7 @@
 ||yaknhaberburdagelsendebast.world^
 ||yaknzamnhaberburdakampanya3656.click^
 ||yakora7160.online^
+||yakora7160.site^
 ||yakora7160.store^
 ||yakupsahlukbey.click^
 ||yakuptvcezaevinde.click^
