@@ -6877,6 +6877,7 @@
 ||a2abotnet.com^
 ||a6cfe784-e.b-cdn.net^
 ||a7f3c362-9.b-cdn.net^
+||aa31zz31csldakxsad1.cfd^
 ||aa88818818001.duckdns.org^
 ||aaeerrzzccxasqwekx123x1.shop^
 ||abc.3mkorealtd.com^
@@ -7139,6 +7140,7 @@
 ||ara.mobil-obilet.uk^
 ||ara1.me^
 ||arab-tupras-islamictrading.com^
+||araba-cekilisi.com^
 ||arabulucukontrol.org^
 ||arabulucusistemi.org^
 ||aracdetaykontrol.cfd^
@@ -12753,6 +12755,7 @@
 ||openinformation.store^
 ||openings-pest-seven-drinking.trycloudflare.com^
 ||openinsight.world^
+||openinsyte.info^
 ||openjoiter.site^
 ||openjump.site^
 ||openkilopretiv.com^
@@ -12892,6 +12895,7 @@
 ||parendalikla.click^
 ||paribu-araba.com^
 ||paribu-cekilisi.com^
+||paribu-cekilisim.co^
 ||paribu-tr.click^
 ||paribu-tr.site^
 ||paribu.coinsec.co^
@@ -13068,6 +13072,7 @@
 ||portalkamu.org^
 ||portalm1hrs.xyz^
 ||portalsorgulama.org^
+||portalweb-password-security.myonlineportal.ch^
 ||portfoyislem.online^
 ||portlabs.store^
 ||pory-logrenade-ky.myonlineportal.ch^
@@ -13262,6 +13267,7 @@
 ||pttavmilansepetionline.com^
 ||pttavmindirimlisepetim.com^
 ||pttavmkilometre.com^
+||pttavmkilometrebilgi.com^
 ||pttavmkilometresorgu.com^
 ||pttavmkmkontrol.web.app^
 ||pttavmkmraporlama.com^
@@ -13408,6 +13414,7 @@
 ||rafa9911klasdkajx123x123.sbs^
 ||rafaasjck1k2j31x2sadcas.cfd^
 ||rafaaslckjk123klkxads.cfd^
+||rafadantayfa13x123x1312.sbs^
 ||rafaekkcjsakax123.cfd^
 ||rafasdkasdxj1kj3x123x12.shop^
 ||rafasgxasxsafa.cfd^
@@ -14069,6 +14076,7 @@
 ||sirtesevic.net^
 ||siskodadwdaadwadaddla.sbs^
 ||siskodla.sbs^
+||sistemeallll.shop^
 ||sistemgecisiniz.lat^
 ||sistemle-tamamlandirmaniz.com^
 ||sistemyuklendi.online^
@@ -15294,6 +15302,9 @@
 ||toki-gov-tr-19.vercel.app^
 ||toki-gov-tr-girisi.vercel.app^
 ||toki-gov-tr-konut.vercel.app^
+||toki-gov-tr-konut3.vercel.app^
+||toki-gov-tr-konut4.vercel.app^
+||toki-gov-tr-konut5.vercel.app^
 ||toki-gov-tr-mobil-giris.vercel.app^
 ||toki-gov-tr-mobil.vercel.app^
 ||toki-gov-tr.vercel.app^
@@ -15424,6 +15435,7 @@
 ||traffiqly.xyz^
 ||trafiksikti.click^
 ||trafixa.media^
+||trafk9x9x930023.duckdns.org^
 ||trakd6620.nicepage.io^
 ||traktor65dsaf.nicepage.io^
 ||tralalarkefe.com^
@@ -15780,6 +15792,7 @@
 ||uxgbyieldwscz.com^
 ||uy347384.click^
 ||uyap-sorgu.online^
+||uyapdava.com^
 ||uyapdavaesorgu.org^
 ||uyapecezasorgu.org^
 ||uyapeportal.org^
@@ -16280,8 +16293,10 @@
 ||yapgelyapgelkrdbersdwefen7238473.click^
 ||yapidan.fixip.org^
 ||yapidijisube.xyz^
+||yapikredi-world.com.ph^
 ||yapikredi-worldsubem.ph^
 ||yapikredisubesi.ph^
+||yapikrediworldcardislem.ph^
 ||yapimarketinsaaturunlerkarisik.com^
 ||yapimarkettakimaleti.com^
 ||yapisalseyler.co^
