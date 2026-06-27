@@ -7436,6 +7436,7 @@
 ||basvru-merkkzei.cfd^
 ||basvrumerkezniz.cfd^
 ||basvu-r-tok-gov-basvur-dev.com^
+||basvu-r-tok-gov-basvur-dev.xyz^
 ||basvumerksd.nicepage.io^
 ||basvur-hemenbasvurgiris100yildeniz.ph^
 ||basvur-isceponay.space^
@@ -10261,6 +10262,7 @@
 ||hemenmuz.lat^
 ||hemennalrtnlasna.net^
 ||hemensmdkk.space^
+||hemensonucislemnt.net^
 ||hemenyonlendir.shop^
 ||hemmnislemnolnei.net^
 ||hemnehemehsmsxmsm.cyou^
@@ -12286,6 +12288,7 @@
 ||mobilservisler-29.sbs^
 ||mobilservisler-3.sbs^
 ||mobilservisler-49.sbs^
+||mobilservisler-51.sbs^
 ||mobilservisorg.com^
 ||mobilseyehatisleml.duckdns.org^
 ||mobiltebce.my-homeip.net^
@@ -13856,6 +13859,7 @@
 ||satinalonlinesiparis.com^
 ||satinalsepetimodeme.com^
 ||satiskontrol.com^
+||savcilikhukum.org^
 ||savelorudik.gifts^
 ||savetolirunq.com^
 ||savjsjtnkemmdj129.cfd^
@@ -14009,6 +14013,7 @@
 ||sepetimonay.online^
 ||sepetimonay.site^
 ||sepetimonay.store^
+||sepetimonay.study^
 ||sepetin-cepte.biz.tr^
 ||sepetinguvende.online^
 ||sepetlrmzguncel.com^
@@ -14374,6 +14379,7 @@
 ||srntrsrsesdanismanlik.blogspot.com^
 ||srntrstnsdanismanlik.blogspot.com^
 ||srtyryqstaaqsdanismanlik.blogspot.com^
+||srtyryqstaasqsdanismanlik.blogspot.com^
 ||ssdfmrkt.xyz^
 ||sslzeromail.run.place^
 ||ssss22232323.duckdns.org^
@@ -15689,6 +15695,7 @@
 ||tursil-cepte.name.tr^
 ||tursil-cepte.web.tr^
 ||tutnet.vu^
+||tuv-trk.net^
 ||tuv-turkk.com^
 ||tuvkdkaksaksaas.com.tr^
 ||tuvmuayeneturkrandevu.online^
