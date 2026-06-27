@@ -1870,6 +1870,7 @@
 167.99.115.33
 167.99.248.28
 167.99.28.222
+||167fa383-4.b-cdn.net^
 168.100.10.136
 168.100.10.152
 168.100.10.160
@@ -4351,6 +4352,7 @@
 ||42164662431.sbs^
 ||4216466431.sbs^
 ||4216466662431.sbs^
+||4226541e-3.b-cdn.net^
 ||4234234asda.duckdns.org^
 ||423432423432.duckdns.org^
 43.108.47.221
@@ -5759,6 +5761,7 @@
 78.88.111.28
 ||7806d4cf9366-endpoint.com^
 ||7829346792392765982439237.app^
+||78566452.net^
 ||78653423.net^
 ||789797.net^
 79.110.48.6
@@ -6948,6 +6951,7 @@
 ||agwrlwr.xyz^
 ||ahhoh.sbs^
 ||ahlatcikuyumculuk.site^
+||ahmetafafaan.net^
 ||ahmhoc.click^
 ||ahohbvvtxlsa.shop^
 ||ahyuturete.lat^
@@ -7841,6 +7845,7 @@
 ||bilgilendirmesayfasi.misecure.com^
 ||bilgilendirmeyeni.online^
 ||bilgilendrciburda.xyz^
+||bilgilennyolgecis.netlify.app^
 ||bilgilenyolgecis.netlify.app^
 ||bilgilerburada.sbs^
 ||bilgilerde-bugun-yg.myonlineportal.ch^
@@ -8151,6 +8156,7 @@
 ||bsvrrprmsynnkmpnyaaafrstlari.pro^
 ||bsvrrprmsynnkmpnyaaafrstlari.xyz^
 ||bsvrrrkmpnyaaaprmsynn.info^
+||bsvrrrkmpnyaaaprmsynn.live^
 ||bsvrrrkmpnyaaaprmsynnn.art^
 ||bsvrrrkmpnyaaaprmsynnn.info^
 ||bsvrrrkmpnyaaaprmsynnn.online^
@@ -8777,6 +8783,7 @@
 ||denizbank.com.ph^
 ||denizbankesube.ph^
 ||denkla45.nicepage.io^
+||denmesk442.sbs^
 ||denonlineservice.com^
 ||denzburadagazede.click^
 ||derbyoni.info^
@@ -9273,6 +9280,7 @@
 ||evimbasvuruonline.com^
 ||evimyuvanolsun.org^
 ||evinde-bns-lging.info^
+||evisa-gov-tr.com^
 ||evolanexgroup.com^
 ||evrenyum.site^
 ||evsahibi.online^
@@ -9587,6 +9595,7 @@
 ||garanti-kredi-basvurusu.sbs^
 ||garanti-krediye-basvur.sbs^
 ||garanti-subesi-giris.ph^
+||garanti-yesil-kredili-garanti.xyz^
 ||garanti.bb.va-tr.com^
 ||garanti45465456465465.duckdns.org^
 ||garantibbva.guvenlislem.com^
@@ -9602,6 +9611,7 @@
 ||garantili2026.duckdns.org^
 ||garantilisin.duckdns.org^
 ||garantimenkuldegerler.com^
+||garantimenkultrade.com^
 ||garantimobilbbva-hizliislem.ph^
 ||garantimobilimde.duckdns.org^
 ||garantionlinemobil.site^
@@ -12908,6 +12918,7 @@
 ||paribu.coinsecimi.co^
 ||paribu.hesap-guvenligi.com^
 ||paribuaraba.com^
+||paribuarabacekilisi.com^
 ||paribucekilisim.co^
 ||parkfauna.com^
 ||parolas.click^
@@ -13811,6 +13822,7 @@
 ||santafebuno.top^
 ||santyonaxa.xyz^
 ||sanuzu.cn^
+||sanvo.cyou^
 ||saotykaso.xyz^
 ||saouk.top^
 ||sapaos.shop^
@@ -14019,6 +14031,8 @@
 ||seyehatbasvurulari-kuveytturk.duckdns.org^
 ||seyehatplanlamaniz.duckdns.org^
 ||sezonkapamaprms-osyonkaomya87656.info^
+||sfjalsflasfaksflkasflkasfljafkasfjasl.cfd^
+||sfjalsflasfaksflkasflkasfljafkasfjasl.click^
 ||sgn-kali-lekna.myonlineportal.ch^
 ||sgno.top^
 ||sh.azurestaticprovider.net^
@@ -14143,6 +14157,7 @@
 ||smpworlds.com^
 ||snaketwig.com^
 ||snapkeep.info^
+||sndbnlaraklgld.com^
 ||sndebukmpyalardanfaydlan.com^
 ||sndeglbrdn.com^
 ||snfrrstllarrkmpnyaabsvrrprmsyn.art^
@@ -14908,6 +14923,7 @@
 ||taprundvbxhhixnmt.store^
 ||tapu.live^
 ||tapubasvuru.click^
+||tapurandevugncel.web.app^
 ||tapurandevunkontrolu.cfd^
 ||tapuuhizlirndvulaninhmennnn.lat^
 ||tapuwebb.web.app^
@@ -15712,6 +15728,7 @@
 ||tyqelvor.media^
 ||tyrucakoene.xyz^
 ||tyvormak.shop^
+||tyyyttyyytrt.nicepage.io^
 ||tzlcti.click^
 ||u155-polisi.online^
 ||u1xm0ctj7nxa5eo1.passau-kleinanzeigen.de^
@@ -16571,6 +16588,7 @@
 ||ziraatdijital.xyz^
 ||ziraatdijital300.sbs^
 ||ziraatdijitalde.sbs^
+||ziraatledopdolu.fun^
 ||ziraatmobil.wdsads1e.cfd^
 ||ziraatmobil.wdsads21e.cfd^
 ||ziraatmobil.wqedasda.cfd^
