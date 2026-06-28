@@ -8994,6 +8994,9 @@
 ||dzbank.capital^
 ||e-aidtodemelr-2023-gov-tr.rf.gd^
 ||e-alisveris-ilan-sepetim.com^
+||e-dev-toki-gov-basvuru-dev.online^
+||e-dev-toki-gov-basvuru-dev.site^
+||e-dev-toki-gov-basvuru.site^
 ||e-devlet-pandemiyardimdestegi.ph^
 ||e-devlet-portal-giris.haksizfil.cfd^
 ||e-devlet.gov3.site^
@@ -9859,6 +9862,7 @@
 ||grntwn.buzz^
 ||grntx123x1jxjkadsxas.shop^
 ||groupfiba.org^
+||groupforkick.info^
 ||growora.media^
 ||growthhengine.com^
 ||growthhpathway.com^
@@ -10757,6 +10761,7 @@
 ||internetbasvukanallari.duckdns.org^
 ||internetbasvurukatilimi.xyz^
 ||internetduyurularisiz.duckdns.org^
+||internetsubesi.online^
 ||internews.tr^
 ||intranet.garantibbvakredibasvuru.com^
 ||intrawld.com^
@@ -11278,6 +11283,7 @@
 ||kemrionhq.site^
 ||kemrionhubs.store^
 ||kendimlehepsorunumvar.click^
+||kendinehas.click^
 ||kent-civilian-men-detailed.trycloudflare.com^
 ||kentblack.cfd^
 ||kentfiresafe.com^
@@ -11839,6 +11845,7 @@
 ||lrdansandandandan.sbs^
 ||lrdansandandandan.shop^
 ||lrdansandands.shop^
+||lrdansandansandan.club^
 ||lrlzlu.cc^
 ||lrnway.vu^
 ||lsban4kprmsyon.fwh.is^
@@ -12809,6 +12816,7 @@
 ||onlinesozlesmeler.org^
 ||onlline-sbm.org^
 ||onllineislemgarantiguncel.duckdns.org^
+||onllinekonomimobilleapptr.xyz^
 ||onlne-182.xyz^
 ||onlnie-onaylan-islmminiz.sbs^
 ||onlnkceante.duckdns.org^
@@ -12988,6 +12996,8 @@
 ||paribu.hesap-guvenligi.com^
 ||paribuaraba.com^
 ||paribuarabacekilisi.com^
+||paribuarabacekilisim.co^
+||paribuarabacekilisim.com^
 ||paribucekilisim.co^
 ||parkfauna.com^
 ||parolas.click^
@@ -13294,6 +13304,7 @@
 ||pttavm-km-bilgi.web.app^
 ||pttavm-km-dokumu.firebaseapp.com^
 ||pttavm-km-dokumu.web.app^
+||pttavm-km-hizliogren.firebaseapp.com^
 ||pttavm-km-hizliogren.web.app^
 ||pttavm-km-sorgulama-otomasyon.firebaseapp.com^
 ||pttavm-km-sorgulama-otomasyon.web.app^
@@ -15466,6 +15477,7 @@
 ||toplukonut8879772196.vercel.app^
 ||toplukonut9812492112.vercel.app^
 ||toplukonutbasvurusu2.vercel.app^
+||toplukonutbasvurusua.vercel.app^
 ||toplukonutbasvurusuc.vercel.app^
 ||toplukonutbasvurusuk.vercel.app^
 ||toplukonutbasvurusum.vercel.app^
@@ -15846,6 +15858,7 @@
 ||ultimatecore.net^
 ||ultimatenewschannel.com^
 ||ultrena.xyz^
+||uludagerikli.xyz^
 ||ululink.click^
 ||umghjmtrynwernwe.click^
 ||umr2xx12e31x2.duckdns.org^
