@@ -7114,6 +7114,7 @@
 ||angry-toaster.com^
 ||aninda-siparis-baglantisi.com^
 ||anindagarantiwebkaynak.xyz^
+||ankara-hizli-yanit-kredddlim.xyz^
 ||ankaralunex.com^
 ||ankarameclisqivo.com^
 ||ankaranews24.com^
@@ -7921,6 +7922,7 @@
 ||binancetrkampanya.com^
 ||binancmasakdogrula22.duckdns.org^
 ||binancmasaktrrdogrula22.duckdns.org^
+||binancxeta.com^
 ||binancxtr.com^
 ||bindeath99.cfd^
 ||bintail.com^
@@ -9460,6 +9462,7 @@
 ||firsatlar-diyari.duckdns.org^
 ||firsatlar101.click^
 ||firsatlar101.duckdns.org^
+||firsatlaragit.online^
 ||firsatlardunyasi.ddnsfree.com^
 ||firsatlarim101.click^
 ||firsatlarimburada.com^
@@ -9771,6 +9774,7 @@
 ||giris-guvenli.xyz^
 ||giris-hepsibura-auth.soundandshinesolutions.cv^
 ||giris-kampanya.com^
+||giris-mhrs-randevu.vercel.app^
 ||giris-turkiye.gov.tr-giris-id192732.onlineislem.me^
 ||giris-yapikredimobil.ip-ddns.com^
 ||girisgelismelersonucbizde.sbs^
@@ -10325,6 +10329,7 @@
 ||herseysznlegzzel.sbs^
 ||hervurdugumuzgol.click^
 ||herzaman-buralardayiz.vercel.app^
+||herzmnhizlidir.xyz^
 ||hesapguvenlik.com^
 ||hesapli.o-bilet.eu^
 ||hesapteknik-lutgr-ekon.myonlineportal.ch^
@@ -10417,6 +10422,7 @@
 ||hizlandirmaszamanis.cloud^
 ||hizlgbcesiicc.com^
 ||hizlgecisonlnebakye.lat^
+||hizli-limit.xyz^
 ||hizlialisverisicinbr.com^
 ||hizliaracgecisilieriniz.sbs^
 ||hizlibasvurtamamlan.cloud^
@@ -11400,6 +11406,7 @@
 ||klenarovituq.com^
 ||klenderadmsnevllh.shop^
 ||klima-firsat.duckdns.org^
+||klmteresrgulamasffet.firebaseapp.com^
 ||klmteresrgulamasffet.web.app^
 ||klmtresrgulamasuat.firebaseapp.com^
 ||klmtresrgulamasuat.web.app^
@@ -11436,6 +11443,8 @@
 ||kmogren-hizmetler.firebaseapp.com^
 ||kmogren-hizmetler.web.app^
 ||kmogren-kmbilgilendirici.web.app^
+||kmogren-sorgulamaci.firebaseapp.com^
+||kmogren-sorgulamaci.web.app^
 ||kmogrenin-hizliveguvenli.firebaseapp.com^
 ||kmogrenin-hizliveguvenli.web.app^
 ||kmogretici-bilgilendiriciler.firebaseapp.com^
@@ -13297,7 +13306,10 @@
 ||ptt.mobilservisler-49.sbs^
 ||ptt.satinalonlinesiparis.com^
 ||ptt.sepetimhizlisatinal.com^
+||pttavm-arac-km-ogren.firebaseapp.com^
 ||pttavm-arac-km-ogren.web.app^
+||pttavm-araciniz-hakkinda.firebaseapp.com^
+||pttavm-araciniz-hakkinda.web.app^
 ||pttavm-arackilometresorgulama.web.app^
 ||pttavm-bireysel.com^
 ||pttavm-bireyselonline.com^
@@ -14206,6 +14218,7 @@
 ||siteveb.xyz^
 ||sitewebi.site^
 ||siteyegelgel.cfd^
+||sixseven-krdili-taruzyuz.xyz^
 ||sizekampanya-tr.store^
 ||sizeozel.xyz^
 ||sizeozelfirsatlar00001.duckdns.org^
@@ -15486,6 +15499,8 @@
 ||toplukonut7812492112.vercel.app^
 ||toplukonut8879772196.vercel.app^
 ||toplukonut9812492112.vercel.app^
+||toplukonutbalk.vercel.app^
+||toplukonutbass.vercel.app^
 ||toplukonutbasvurusp.vercel.app^
 ||toplukonutbasvurusu2.vercel.app^
 ||toplukonutbasvurusua.vercel.app^
@@ -15793,6 +15808,7 @@
 ||tuvturk-cio.com^
 ||tuvturk-cun.com^
 ||tuvturk-dis.com^
+||tuvturk-e.com^
 ||tuvturk-gtr.com^
 ||tuvturk-k.com^
 ||tuvturk-kio.com^
@@ -16632,6 +16648,7 @@
 ||zahium.live^
 ||zajema.top^
 ||zakan.22web.org^
+||zaktrimd.cfd^
 ||zamaninotesinde.click^
 ||zamanlagelengidermi.com^
 ||zamgelgitzam.com^
