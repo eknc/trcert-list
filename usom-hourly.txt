@@ -10132,6 +10132,7 @@
 ||hakeiwjs727wj.com^
 ||hakkc4b1enb1yemenedneb.life^
 ||haksizfil.cfd^
+||halk-kredi.vercel.app^
 ||halkbankfinansal.click^
 ||halkbankparam.com.ph^
 ||halkbilgialani.com^
@@ -11420,6 +11421,8 @@
 ||km-burdanogrenilir.web.app^
 ||km-durumsorgulama.firebaseapp.com^
 ||km-durumsorgulama.web.app^
+||km-sorgu-avmptt.firebaseapp.com^
+||km-sorgu-avmptt.web.app^
 ||km-sorgu-pttavm-platform.firebaseapp.com^
 ||km-sorgu-pttavm-platform.web.app^
 ||kmanaliz.com^
@@ -11436,6 +11439,8 @@
 ||kmkayitpttavm.com^
 ||kmkmsorgulamagovpttdonerbicagi.duckdns.org^
 ||kmkmsorgulamagovvpttazerblbl.duckdns.org^
+||kmkmsorgulamazfer.firebaseapp.com^
+||kmkmsorgulamazfer.web.app^
 ||kmkmsrglumaislemlergovptttmbb.duckdns.org^
 ||kmkmsrgulamagvvtptmt.duckdns.org^
 ||kmkontrol.com^
@@ -13016,9 +13021,11 @@
 ||paribu.coinsecimi.co^
 ||paribu.hesap-guvenligi.com^
 ||paribuaraba.com^
+||paribuarabacekilisi.co^
 ||paribuarabacekilisi.com^
 ||paribuarabacekilisim.co^
 ||paribuarabacekilisim.com^
+||paribuarabasansi.com^
 ||paribucekilisim.co^
 ||parkfauna.com^
 ||parolas.click^
@@ -13305,6 +13312,12 @@
 ||ptt-avm-bireysel-sepetim.com^
 ||ptt-avm-kilo-metre-sorgula.firebaseapp.com^
 ||ptt-avm-kilo-metre-sorgula.web.app^
+||ptt-avm-kmsorgu.firebaseapp.com^
+||ptt-avm-kmsorgu.web.app^
+||ptt-avm-sorgulama.firebaseapp.com^
+||ptt-avm-sorgulama.web.app^
+||ptt-km-sorgula-ma.firebaseapp.com^
+||ptt-km-sorgula-ma.web.app^
 ||ptt.avmhemenal.com^
 ||ptt.avmsiparislerim.com^
 ||ptt.mobilservisler-25.sbs^
