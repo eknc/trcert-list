@@ -5562,6 +5562,7 @@
 67.219.103.250
 67.220.95.213
 67.43.234.96
+||6773345531.xyz^
 ||678432243.net^
 ||678678456354.net^
 ||678786432.net^
@@ -8892,6 +8893,7 @@
 ||dinersciub.qpon^
 ||direktsube-akbank.ph^
 ||dis-ak-kampaing.myonlineportal.ch^
+||disclaud-password-security.myonlineportal.ch^
 ||discountstock.top^
 ||discountvoucher.cfd^
 ||dispatch-l-grenade.myonlineportal.ch^
@@ -9326,6 +9328,7 @@
 ||f08a9acc-9.b-cdn.net^
 ||f13682ae-e.b-cdn.net^
 ||f36c2774f013-endpoint.com^
+||f41ea047-f.b-cdn.net^
 ||f4dub9is1r.icu^
 ||f749dkfk.click^
 ||faalsias.nicepage.io^
@@ -11397,6 +11400,7 @@
 ||klenarovituq.com^
 ||klenderadmsnevllh.shop^
 ||klima-firsat.duckdns.org^
+||klmteresrgulamasffet.web.app^
 ||klmtresrgulamasuat.firebaseapp.com^
 ||klmtresrgulamasuat.web.app^
 ||klyqemora.buzz^
@@ -11673,6 +11677,7 @@
 ||kveylekrt.duckdns.org^
 ||kvrnjr30.apexharvestor.digital^
 ||kvvefskco.gleeze.com^
+||kydrmassanadmdglsn.com^
 ||kylgcsbrcnzodynltf.com^
 ||kyrocn.duckdns.org^
 ||kytbsvrhmnt.hicam.net^
@@ -12333,6 +12338,7 @@
 ||mobilservisler-49.sbs^
 ||mobilservisler-51.sbs^
 ||mobilservisler-53.sbs^
+||mobilservisler-54.sbs^
 ||mobilservisorg.com^
 ||mobilseyehatisleml.duckdns.org^
 ||mobiltebce.my-homeip.net^
@@ -12457,6 +12463,7 @@
 ||nationyn.com^
 ||natlig.buzz^
 ||natmanmltanlna.net^
+||nato-nkkrkakrerdiniverr.xyz^
 ||naverixo.gifts^
 ||navhsfgsadfas1.cfd^
 ||navhsfgsadfas1.lat^
@@ -13290,6 +13297,7 @@
 ||ptt.mobilservisler-49.sbs^
 ||ptt.satinalonlinesiparis.com^
 ||ptt.sepetimhizlisatinal.com^
+||pttavm-arac-km-ogren.web.app^
 ||pttavm-arackilometresorgulama.web.app^
 ||pttavm-bireysel.com^
 ||pttavm-bireyselonline.com^
@@ -14182,6 +14190,7 @@
 ||sirtesevic.net^
 ||siskodadwdaadwadaddla.sbs^
 ||siskodla.sbs^
+||siskolarlaberke.xyz^
 ||sistemeallll.shop^
 ||sistemgecisiniz.lat^
 ||sistemle-tamamlandirmaniz.com^
@@ -15358,6 +15367,7 @@
 ||tkibsvrgmh.com^
 ||tkibsvrrsc.sbs^
 ||tkisencis.net^
+||tksiehhfi.net^
 ||tkssafafaxassxcafc.xyz^
 ||tlgrdplantwzqyy.com^
 ||tlkkkslekr.space^
@@ -15476,6 +15486,7 @@
 ||toplukonut7812492112.vercel.app^
 ||toplukonut8879772196.vercel.app^
 ||toplukonut9812492112.vercel.app^
+||toplukonutbasvurusp.vercel.app^
 ||toplukonutbasvurusu2.vercel.app^
 ||toplukonutbasvurusua.vercel.app^
 ||toplukonutbasvurusuc.vercel.app^
@@ -15619,6 +15630,7 @@
 ||trendyolltd.com^
 ||trendyolltd.me^
 ||trendyolltd.vip^
+||trguvenlisiparis.online^
 ||trilogicworld.com^
 ||tripadvisor-photo-view.com^
 ||trisletimgarantiguncelportal.duckdns.org^
@@ -15782,6 +15794,7 @@
 ||tuvturk-cun.com^
 ||tuvturk-dis.com^
 ||tuvturk-gtr.com^
+||tuvturk-k.com^
 ||tuvturk-kio.com^
 ||tuvturk-kse.com^
 ||tuvturk-li.com^
