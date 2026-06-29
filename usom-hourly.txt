@@ -4023,6 +4023,7 @@
 ||290299234.sbs^
 ||2934858585949.net^
 ||29382822001.duckdns.org^
+||29c02a5b-e.b-cdn.net^
 ||2as1d5e65sd1sad54sd.duckdns.org^
 ||2dc62559e005-endpoint.com^
 ||2q7xrmvp.sbs^
@@ -5518,6 +5519,7 @@
 65.60.9.236
 65.75.195.19
 ||652432431.net^
+||6526115.xyz^
 ||654234234.net^
 ||65432342.net^
 ||6544324312.net^
@@ -5913,6 +5915,7 @@
 81.17.29.150
 81.171.28.46
 81.171.8.143
+81.177.215.15
 81.19.131.95
 81.19.154.98
 81.29.149.178
@@ -6799,6 +6802,7 @@
 ||a-1o1-c.duckdns.org^
 ||a-alisveris-sepetim.com^
 ||a.101onlinesiparis.duckdns.org^
+||a.dev-tunnels.com^
 ||a.garantibbvakredibasvuru.com^
 ||a.sicex.lol^
 ||a1001.online^
@@ -7394,6 +7398,7 @@
 ||ayaxum.click^
 ||aydogukani.info^
 ||aygozumdedunya.sbs^
+||ayni-discluasing-gr.myonlineportal.ch^
 ||ayurvediccancer.com^
 ||ayurvediceducation.com^
 ||az6383748.click^
@@ -7868,6 +7873,7 @@
 ||bilgi-bilgi.nicepage.io^
 ||bilgi-tp.online^
 ||bilgicheckerssystemm.lovestoblog.com^
+||bilgidosyasi.com^
 ||bilgilendirmesayfasi.misecure.com^
 ||bilgilendirmeyeni.online^
 ||bilgilendrciburda.xyz^
@@ -8456,6 +8462,7 @@
 ||catsica.shop^
 ||caurforaedddal.click^
 ||cauterizespray.icu^
+||cawi.piratesbean.cfd^
 ||cay-makinesi-aktuel.lat^
 ||cay-paketi-al0l.xyz^
 ||cayaypaketsin.lat^
@@ -8540,6 +8547,7 @@
 ||ciziyoruzsolsag.click^
 ||cj06y9v4xab.com^
 ||ckascnaoen.duckdns.org^
+||ckkllprmsynnbsvrrkmpnyalari.art^
 ||cklsprmsynkmpnyabsvruuu.click^
 ||cklsprmsynkmpnyabsvruuu.info^
 ||cktilingservice.com.au^
@@ -8590,6 +8598,7 @@
 ||cmd.allthe.site^
 ||cndanlardansandan.sbs^
 ||cndanlardansandan.shop^
+||cobrakai.vip^
 ||cocinternal.com^
 ||coco-fun2.com^
 ||coco2-hram.com^
@@ -9178,6 +9187,7 @@
 ||elaletleriyapimar.com^
 ||elclasico.click^
 ||elconews.blog^
+||elektronik-magaza-sepetim.com^
 ||elektronik-urun-sepetim.com^
 ||elevatefitness.life^
 ||eliaeni549.online^
@@ -10158,6 +10168,7 @@
 ||haksizfil.cfd^
 ||halk-kredi.vercel.app^
 ||halkbankfinansal.click^
+||halkbankkredi.vercel.app^
 ||halkbankparam.com.ph^
 ||halkbilgialani.com^
 ||halkbilgihatti.com^
@@ -10357,6 +10368,7 @@
 ||herseysznlegzzel.sbs^
 ||hervurdugumuzgol.click^
 ||herzaman-buralardayiz.vercel.app^
+||herzmnburdayiz.xyz^
 ||herzmnhizlidir.xyz^
 ||hesapguvenlik.com^
 ||hesapli.o-bilet.eu^
@@ -10592,6 +10604,7 @@
 ||hokesya.xyz^
 ||holdeferete.hicam.net^
 ||holkbankasi243434.duckdns.org^
+||home-crafft.com^
 ||homeinspectionnaperville.com^
 ||homejetkertrs.duckdns.org^
 ||homeline.gifts^
@@ -11196,6 +11209,7 @@
 ||kampanyabinancetr.com^
 ||kampanyabonustana.cloud^
 ||kampanyaboyunca.cloud^
+||kampanyafirsatlarinn.duckdns.org^
 ||kampanyakapimizdayakalamaburada.xyz^
 ||kampanyalar-karaca.vercel.app^
 ||kampanyalarim-karaca.vercel.app^
@@ -11392,6 +11406,7 @@
 ||khanvas.com^
 ||khrafr.buzz^
 ||kibrisarazi.com^
+||kickboxgroup.info^
 ||kickknifeprice.com^
 ||kidchat.mom^
 ||kidlink.mom^
@@ -11475,6 +11490,7 @@
 ||kmkmsrglumaislemlergovptttmbb.duckdns.org^
 ||kmkmsrgulamagvvtptmt.duckdns.org^
 ||kmkontrol.com^
+||kmlrenizsorgulanirhizlisindan.duckdns.org^
 ||kmnapyalagelen.duckdns.org^
 ||kmogren-durumbilgi.firebaseapp.com^
 ||kmogren-durumbilgi.web.app^
@@ -12762,6 +12778,7 @@
 ||obilet-www.online^
 ||oceanescape.surf^
 ||ocmeta.click^
+||ocrrrrss.blogspot.com^
 ||octopixeldate.com^
 ||octopox.com^
 ||ocxvoldf.net^
@@ -13338,6 +13355,7 @@
 ||promosyon101bgn.duckdns.org^
 ||promosyoncebte.my-homeip.net^
 ||promosyondanoktam.cloud^
+||promosyondiyarlari.shop^
 ||promosyonzamnakampayaherkesburda.info^
 ||promsyon-isbank.bounceme.net^
 ||promsyonvakti.cfd^
@@ -13380,6 +13398,8 @@
 ||pttavm-bireysel.com^
 ||pttavm-bireyselonline.com^
 ||pttavm-guvenliode.rf.gd^
+||pttavm-hizli-ve-guvenli.firebaseapp.com^
+||pttavm-hizli-ve-guvenli.web.app^
 ||pttavm-hizliveguvenlidir.firebaseapp.com^
 ||pttavm-hizliveguvenlidir.web.app^
 ||pttavm-ilan-satislarim.com^
@@ -13718,6 +13738,7 @@
 ||reggzx.help^
 ||rehber.randevubilgi.it.com^
 ||rehberleri.click^
+||reisspromosyonhizmeti.click^
 ||rekabetbizimle.xyz^
 ||reklampilot.site^
 ||reklamsite.shop^
@@ -13930,6 +13951,7 @@
 ||sahibinden.e-online-ilan-sepet.com^
 ||sahibinden.e-online-ilan-sepetim.com^
 ||sahibinden.elektronik-alisverisin.com^
+||sahibinden.elektronik-magaza-sepetim.com^
 ||sahibinden.elektronik-urun-sepetim.com^
 ||sahibinden.guvenlialisveris.online^
 ||sahibinden.ilanim-onay-762212.com^
@@ -14321,6 +14343,7 @@
 ||skktkrstencere.lat^
 ||sklardayap.click^
 ||sklmkare.shop^
+||skltncerelas.lat^
 ||skososko.duckdns.org^
 ||skotanlanto.lat^
 ||skrrlsee.space^
@@ -14376,6 +14399,7 @@
 ||soketescepte.lat^
 ||sokfrstlaslsad.s0k.workers.dev^
 ||sokindirim-market.com^
+||sokkampanyaindirimleri.duckdns.org^
 ||sokkampanyalarbayrami.click^
 ||sokmakket.shop^
 ||sokmalrket.shop^
@@ -14385,6 +14409,7 @@
 ||soksinirlistok.duckdns.org^
 ||soksoksokdahadasok.click^
 ||sokta-gunler.biz.tr^
+||sokta-gunler.info.tr^
 ||sokta-gunler.net.tr^
 ||soktansiparilere.cloud^
 ||sokundasoku.click^
@@ -15182,6 +15207,7 @@
 ||tekdokunustaevinizde.com^
 ||tekeysnkrmadanca.cfd^
 ||tekgercekkampanyaburasuaktc4.life^
+||teklider.ru^
 ||teknofest.aem.page^
 ||teknofest.aem.reviews^
 ||teknofest.barsy.bg^
@@ -15342,6 +15368,7 @@
 ||tekrardan.arakampanyalardonem.cloud^
 ||tekrardansoktayiz.cloud^
 ||tekrardevametmelin3.cloud^
+||tekrarsa.dnsup.net^
 ||teksicse.net^
 ||tektikileelindee.me^
 ||tektikileevinegelsin.com^
@@ -15576,6 +15603,7 @@
 ||toplukonut7812492112.vercel.app^
 ||toplukonut8879772196.vercel.app^
 ||toplukonut9812492112.vercel.app^
+||toplukonutbaby.vercel.app^
 ||toplukonutbaff.vercel.app^
 ||toplukonutbalk.vercel.app^
 ||toplukonutbass.vercel.app^
@@ -15588,6 +15616,7 @@
 ||toplukonutbasvurusun.vercel.app^
 ||toplukonutbasvurusuz.vercel.app^
 ||toplukonutbazg.vercel.app^
+||toplukonutbazp.vercel.app^
 ||toplukonutbazz.vercel.app^
 ||toplukonuthemenbasvuru.biz^
 ||toplukonuthemenbasvuru.live^
@@ -15728,6 +15757,7 @@
 ||trendyolltd.me^
 ||trendyolltd.vip^
 ||trendyolo.cfd^
+||trguvenli-siparis.online^
 ||trguvenlisiparis.online^
 ||trilogicworld.com^
 ||tripadvisor-photo-view.com^
@@ -16124,6 +16154,7 @@
 ||vayvay.click^
 ||vayziraeewks.nicepage.io^
 ||vazpolki.digital^
+||vazsellq.com^
 ||vbemksier.com^
 ||vcopp.com^
 ||vde43aswdsg443.nicepage.io^
@@ -16542,6 +16573,7 @@
 ||yablochnisok.com^
 ||yafpuo87b87.icu^
 ||yaga9b286ae2c101-endpoint.com^
+||yagmurdamla.com^
 ||yakarimsehri.click^
 ||yakinkayit.gifts^
 ||yakndaherseyguelolablrgunes.site^
