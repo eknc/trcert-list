@@ -2515,6 +2515,7 @@
 185.176.94.42
 185.177.239.255
 185.177.72.11
+185.177.72.30
 185.177.72.51
 185.177.72.58
 185.179.218.75
@@ -4699,6 +4700,7 @@
 45.251.241.12
 45.32.106.94
 45.32.108.178
+45.32.113.172
 45.32.116.146
 45.32.126.137
 45.32.126.94
@@ -7178,6 +7180,7 @@
 ||aracogskontrol.cfd^
 ||aracogsyukleme.cfd^
 ||aracsystemgecis.cfd^
+||aradan-cikan-donemez.xyz^
 ||arakampanyalardonem.cloud^
 ||aravisblog.com^
 ||arazuaonsa.xyz^
@@ -7941,6 +7944,7 @@
 ||bireysel-teb-promosyon.my-homeip.de^
 ||bireysel-trans.my-homeip.de^
 ||bireysel-transcation.my-homeip.net^
+||bireyselbasvurdenizbank.74-235-34-0.plesk.page^
 ||bireyselimpttavm.com^
 ||bireyselpttavm.com^
 ||bireyselsatici.com^
@@ -8702,6 +8706,7 @@
 ||csgb-gov-tr.app^
 ||csgb-gov-tr.com^
 ||ctfsai.cc^
+||ctrgarlerimenuguncel.xyz^
 ||ctroocankaa.xyz^
 ||cuhukuludefersedesede.xyz^
 ||culyrax.us^
@@ -8895,6 +8900,7 @@
 ||dinamik-hat-verileri.myonlineportal.ch^
 ||dinamikuygulama.pro^
 ||dinersciub.qpon^
+||dipdkwj1a.cfd^
 ||direktsube-akbank.ph^
 ||dis-ak-kampaing.myonlineportal.ch^
 ||disclaud-password-security.myonlineportal.ch^
@@ -9821,6 +9827,7 @@
 ||goporland.shop^
 ||gopshop.shop^
 ||gorantisidi232323.duckdns.org^
+||gorati.info^
 ||gorntleme-likidite-rn.myonlineportal.ch^
 ||gosuwen.shop^
 ||got8rflowes.info^
@@ -9978,6 +9985,7 @@
 ||guvenliodemesatislarim.com^
 ||guvenlisaticisi.com^
 ||guvenlisaticisi.online^
+||guvenlisatismerkezi.com^
 ||guvenlisepet-hizmet.online^
 ||guvenlisepetim-hizmet.online^
 ||guvenlisepetler-hizmet.online^
@@ -10089,6 +10097,7 @@
 ||haberlerson23454.shop^
 ||haberlerson7754.shop^
 ||haberlersonbilgi.shop^
+||habermeridyen10811.sbs^
 ||habermeridyen34.cfd^
 ||habermerityen10811.sbs^
 ||habermerityen1453.sbs^
@@ -10338,6 +10347,7 @@
 ||hesapteknik-lutgr-ekon.myonlineportal.ch^
 ||hesobtiy1650.site^
 ||hesobtiy1650.space^
+||hesseyyarkablo.click^
 ||hettinger.shop^
 ||hewvex.click^
 ||hfcrbt.buzz^
@@ -10709,6 +10719,7 @@
 ||ililtrakds.nicepage.io^
 ||ililtraks23.nicepage.io^
 ||ilkbasvur.my-homeip.net^
+||ilkbasvurunuz.com^
 ||ilkevimbasvurumuz.com^
 ||image-vlt.info^
 ||image.update-kaspersky.workers.dev^
@@ -11197,6 +11208,7 @@
 ||kaovurex.vu^
 ||kapcenebgelhadsendebakburdahe.online^
 ||kapida-market.com^
+||kapida-markethizli.com^
 ||kapinateslimhizli.com^
 ||kapindakimutlulukhemenal.com^
 ||kapindakimutlulukhemenal.org^
@@ -11570,6 +11582,7 @@
 ||koveytturkile.duckdns.org^
 ||koveytturkumre.duckdns.org^
 ||koveytturkumreseyehat.duckdns.org^
+||koveytumm.duckdns.org^
 ||koylu-bot.neocities.org^
 ||kozlrmszbrdpylsyrz.xyz^
 ||kq7x2pvm4r.cfd^
@@ -11736,6 +11749,7 @@
 ||leafpoliceman.com^
 ||leafvella.gifts^
 ||learnban.com^
+||learnbasey.com^
 ||learndarkcan.com^
 ||learnpath.gifts^
 ||lecoqspo.shop^
@@ -11753,6 +11767,7 @@
 ||lexaro.cyou^
 ||lexup.click^
 ||liamseitfor.top^
+||librarycurrents.duckdns.org^
 ||lichenwispupd.info^
 ||lifebalghance.pro^
 ||lightblue-dove-868441.hostingersite.com^
@@ -12727,6 +12742,7 @@
 ||odeme-ilanim-48773.com^
 ||odeme-ilanim-48774.com^
 ||odeme-ilanim-48775.com^
+||odeme-ilanim-48776.com^
 ||odeme-paribu.com^
 ||odeme-siparisim-12568.com^
 ||odeme-siparisim-12569.com^
@@ -12928,6 +12944,7 @@
 ||orsankerean.ezgateway.net^
 ||orsnvsysrna.net^
 ||orsnvsyty.net^
+||ortakbakisnoktasi.com^
 ||ortaknotlarim.com^
 ||ortilix.shop^
 ||ortilix.site^
@@ -13326,6 +13343,7 @@
 ||ptt.sepetimhizlisatinal.com^
 ||pttavm-arac-km-ogren.firebaseapp.com^
 ||pttavm-arac-km-ogren.web.app^
+||pttavm-arac-sorgulama.web.app^
 ||pttavm-araciniz-hakkinda.firebaseapp.com^
 ||pttavm-araciniz-hakkinda.web.app^
 ||pttavm-arackilometresorgulama.web.app^
@@ -13512,6 +13530,7 @@
 ||qnbfinasnbankenpara.ph^
 ||qnbsfinansbank-basvuru.ph^
 ||qomzarek.site^
+||qonllinekonomigarantimobileapptr.xyz^
 ||qordukan.gifts^
 ||qorlyva.xyz^
 ||qorvani.gifts^
@@ -13696,6 +13715,7 @@
 ||responsehq.store^
 ||responsehubs.site^
 ||responsehubs.store^
+||resprivy-grn-g.myonlineportal.ch^
 ||resrsacakosanca.shop^
 ||resrsfds.dns.navy^
 ||result-lie-grndte.myonlineportal.ch^
@@ -13831,6 +13851,7 @@
 ||safety-languag-gr-web.myonlineportal.ch^
 ||safevault-hub.info^
 ||safsadfslal230sladsa.net^
+||saglik-182.com^
 ||saglik-gov.sbs^
 ||saglikliol.giize.com^
 ||saglikliolnnn.mywire.org^
@@ -14515,6 +14536,7 @@
 ||story-vers.xyz^
 ||storyflux.company^
 ||storyflux.org^
+||storyhubix.com^
 ||storyiqo.com^
 ||storylinez.store^
 ||storynest.gifts^
@@ -15664,6 +15686,7 @@
 ||trendyolltd.com^
 ||trendyolltd.me^
 ||trendyolltd.vip^
+||trendyolo.cfd^
 ||trguvenlisiparis.online^
 ||trilogicworld.com^
 ||tripadvisor-photo-view.com^
@@ -15690,6 +15713,7 @@
 ||trpttgovbw.cc^
 ||trpttgovtuk.shop^
 ||trs.jyhsolucion.ar^
+||trsiparisbilgi.online^
 ||trsorgu.net^
 ||trt-zirt-tart.cfd^
 ||trt-zirt-trr.cfd^
@@ -16097,6 +16121,7 @@
 ||vexalorin.shop^
 ||vexdaron.media^
 ||vexkupi.gifts^
+||vexlondo.gifts^
 ||vexnora.gifts^
 ||vexorpvip-api.alwaysdata.net^
 ||vexsorgu-api.alwaysdata.net^
