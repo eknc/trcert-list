@@ -77,6 +77,7 @@
 ||101firsatlarin.com^
 ||101firsatlars.click^
 ||101indirimfirsati.site^
+||101kapindakampanyasi.duckdns.org^
 ||101kereonline.shop^
 ||101onlinemerkezlersistem.pages.dev^
 ||101satislar.click^
@@ -7184,6 +7185,7 @@
 ||aracmuayenehaber.com^
 ||aracmuayeneislem.com^
 ||aracmuayeneislemleri.sbs^
+||aracmuayenerandevualma.blogspot.com^
 ||aracmuaynalhemen.uk^
 ||aracogskontrol.cfd^
 ||aracogsyukleme.cfd^
@@ -8467,6 +8469,7 @@
 ||cay-makinesi-aktuel.lat^
 ||cay-paketi-al0l.xyz^
 ||cayaypaketsin.lat^
+||caycial.online^
 ||caydan-lik-indirimleri.net.tr^
 ||caykaraca-11d70fd257ba.herokuapp.com^
 ||caymakineleri.com^
@@ -8729,6 +8732,7 @@
 ||ctrgarlerimenuguncel.xyz^
 ||ctroocankaa.xyz^
 ||cuhukuludefersedesede.xyz^
+||cukulopi-dazedese.xyz^
 ||culyrax.us^
 ||cumgukuldaferetesede.xyz^
 ||cumisaldi.net^
@@ -10170,7 +10174,9 @@
 ||haftanin-noktasi.name.tr^
 ||haftanin-noktasi.net.tr^
 ||haftaninenyenigirisleriburdan.xyz^
+||haikbank.com^
 ||hakanretto.duckdns.org^
+||hakanrettoilekeyfinebak.duckdns.org^
 ||hakeiwjs727wj.com^
 ||hakkc4b1enb1yemenedneb.life^
 ||haksizfil.cfd^
@@ -11218,6 +11224,7 @@
 ||kampanyabinancetr.com^
 ||kampanyabonustana.cloud^
 ||kampanyaboyunca.cloud^
+||kampanyafirsatlariniz.duckdns.org^
 ||kampanyafirsatlarinn.duckdns.org^
 ||kampanyakapimizdayakalamaburada.xyz^
 ||kampanyalar-karaca.vercel.app^
@@ -11461,6 +11468,8 @@
 ||kkmpnyasonnnnfrstkbsvrr.art^
 ||kkmpnyasonnnnfrstkbsvrr.info^
 ||kkmpnyasonnnnfrstkbsvrr.live^
+||kkozelkmpnycklsbsvrrr.info^
+||kkozelkmpnycklsbsvrrr.pro^
 ||kkwxle.click^
 ||kl55polisi155.online^
 ||klasik6dsa.nicepage.io^
@@ -11482,6 +11491,7 @@
 ||km-sorgu-avmptt.web.app^
 ||km-sorgu-pttavm-platform.firebaseapp.com^
 ||km-sorgu-pttavm-platform.web.app^
+||km-sorgulamak-icin-burdan.web.app^
 ||kmanaliz.com^
 ||kmaraca.duckdns.org^
 ||kmbilgiogren.com^
@@ -12421,6 +12431,7 @@
 ||mobilpkampanyam.duckdns.org^
 ||mobilservis-83.sbs^
 ||mobilservis-84.sbs^
+||mobilservisiniz-10.sbs^
 ||mobilservisler-25.sbs^
 ||mobilservisler-26.sbs^
 ||mobilservisler-28.sbs^
@@ -13211,6 +13222,7 @@
 ||pisolink.click^
 ||pissispissman.com^
 ||pitirpiti.click^
+||pitongrub.xyz^
 ||pivmarko.gifts^
 ||pixelkeep.cyou^
 ||pixelline.digital^
@@ -13423,6 +13435,7 @@
 ||pttavm-ilan-satislarim.com^
 ||pttavm-ilanlarim-sepette.com^
 ||pttavm-ilanlarim.com^
+||pttavm-kilo-metre-sorgulama.web.app^
 ||pttavm-kilometre-ogren.web.app^
 ||pttavm-kilometre-raporu.web.app^
 ||pttavm-km-bilgi.web.app^
@@ -13885,6 +13898,7 @@
 ||s0kmarkatller.shop^
 ||s0kmarkel.lat^
 ||s0kmarkeletler.shop^
+||s0kmarkeltler.shop^
 ||s0kmarkeltler.xyz^
 ||s0kmarkez.shop^
 ||s0kmarklet.shop^
@@ -13997,6 +14011,7 @@
 ||sahibinden.siparisim-guvende.online^
 ||sahibinden.siparisim-sepette.com^
 ||sahibinden.siparissatin-al.com^
+||sahibinden.trguvenli-siparis.online^
 ||sahibinden.trhizmetservis.online^
 ||sahibinden.trsiparisodeme.online^
 ||sahibindenguvenliadres.com^
@@ -14310,6 +14325,7 @@
 ||siparis-iade.com^
 ||siparis-magazasi.com^
 ||siparis-satinal.com^
+||siparishizliolsut.cloud^
 ||siparisim-guvende.online^
 ||siparisim-sepette.com^
 ||siparisimpttavm.com^
@@ -14623,6 +14639,7 @@
 ||storyiqo.com^
 ||storylinez.store^
 ||storynest.gifts^
+||storystreamza.info^
 ||storyupdate.online^
 ||storyyn.com^
 ||stosrsadxadsax.sbs^
@@ -15736,6 +15753,7 @@
 ||transferforadg.click^
 ||transitcaxip.com^
 ||tranzed.org^
+||travels-network-contrast-slides.trycloudflare.com^
 ||travimin.org^
 ||travionaconnect.com^
 ||travionasystem.com^
@@ -15929,6 +15947,7 @@
 ||turnkeyaiagents.com^
 ||tursabacentasorgula.com^
 ||tursabacentesorgula.org^
+||tursabonlinesorgu.com^
 ||tursabsorgu.org^
 ||tursil-cepte.biz.tr^
 ||tursil-cepte.name.tr^
