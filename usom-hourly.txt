@@ -6603,6 +6603,7 @@
 94.154.35.208
 94.154.35.99
 94.154.37.213
+94.154.43.158
 94.156.10.164
 94.156.114.56
 94.156.128.159
@@ -6992,6 +6993,7 @@
 ||ajb8.com^
 ||ajcsdskjacjdkscjkx213x312.cfd^
 ||ajhuy39393.click^
+||ak-kampanya.vercel.app^
 ||ak-mobilislemlerinizicintektikla-ak.duckdns.org^
 ||akaycicekcilik.com.tr^
 ||akbank-borc-sorgulama.ph^
@@ -8825,6 +8827,7 @@
 ||deepconnghection.info^
 ||deeprace.info^
 ||deepwork.study^
+||degerplatformu.com^
 ||delicebet.com^
 ||delightful-pony-1d3e5c.netlify.app^
 ||delii.icu^
@@ -8928,6 +8931,7 @@
 ||dinamikuygulama.pro^
 ||dinersciub.qpon^
 ||dipdkwj1a.cfd^
+||dipdkwj1a.cyou^
 ||direktsube-akbank.ph^
 ||dis-ak-kampaing.myonlineportal.ch^
 ||disclaud-password-security.myonlineportal.ch^
@@ -9852,6 +9856,7 @@
 ||gokaca.store^
 ||gokaraca.shop^
 ||gokarcas.store^
+||goktr.sbs^
 ||gokuryebasvuru.net^
 ||gokyuzugun.com^
 ||goldblueapp.shop^
@@ -9992,6 +9997,7 @@
 ||gunlukbilgilerbrda.sbs^
 ||gunlukbilgilerburadadir.blog^
 ||gunlukbilgilerr.sbs^
+||gunlukdosyalar.com^
 ||gununbakisi.com^
 ||gununpusulasi.gifts^
 ||gununubilsende.com^
@@ -10190,6 +10196,7 @@
 ||halkbilgiplatform.com^
 ||halkbnkmobilduyuru.duckdns.org^
 ||halkduyurum2221.duckdns.org^
+||halkdyruonay.webhop.me^
 ||halkfaizsizkredibasvuru.duckdns.org^
 ||halkgiris.duckdns.org^
 ||halkgirisiniz.duckdns.org^
@@ -10197,6 +10204,7 @@
 ||halkilegiris.duckdns.org^
 ||halkimizlabasbas.sbs^
 ||halkinolanmayislardir.sbs^
+||halkinsesinidinle.sbs^
 ||halkmobil.duckdns.org^
 ||halkmobilgiris.duckdns.org^
 ||halkmobill.duckdns.org^
@@ -10550,6 +10558,7 @@
 ||hizlionaygerekenislerde.net^
 ||hizlionaylarimseninlebirlikteherzaman.store^
 ||hizlionaylarseninlebirlikteherzaman.com.tr^
+||hizlionline.com^
 ||hizlirgec.click^
 ||hizlisatismerkezi.com^
 ||hizlisdbakieyr.online^
@@ -10636,6 +10645,7 @@
 ||horizoneguide.com^
 ||horizonera.cfd^
 ||horyhk.click^
+||hospitality-woods-jewellery-bubble.trycloudflare.com^
 ||hosted-by.yeezyhost.net^
 ||hostsignal.xyz^
 ||hotnow.sweeffg.online^
@@ -10672,6 +10682,7 @@
 ||humorfilms.lol^
 ||hun2sadcjkdaskx123x1dasz123.shop^
 ||hunascldsjk1x3jkx1321c2.cfd^
+||hunasdkjxakjsk12312.shop^
 ||huncsakdjajkx1k23x12.sbs^
 ||hungrntisx123123x123sadcasd.cfd^
 ||hungrntkasdjk123x123x12.cfd^
@@ -11059,6 +11070,7 @@
 ||ivorilla.cloud^
 ||ivozt.com^
 ||iyikivarmisiniz.com^
+||izakfsss.blogspot.com^
 ||izalkfssq.blogspot.com^
 ||izalkoofss.blogspot.com^
 ||izaltoqpdf.dns.navy^
@@ -11827,6 +11839,7 @@
 ||levri.cfd^
 ||lexaro.cyou^
 ||lexup.click^
+||lflix.neocities.org^
 ||liamseitfor.top^
 ||librarycurrents.duckdns.org^
 ||lichenwispupd.info^
@@ -13149,6 +13162,7 @@
 ||pazarama.duckdns.org^
 ||pazarama.guvenlihizmetler.online^
 ||pazarama.guvenlisaticisi.online^
+||pazarama.hizlionline.com^
 ||pazarama.indirimsepetinde.com^
 ||pazarama.odemeyonetimi.com^
 ||pazarama.onayliplatform.com^
@@ -13561,6 +13575,7 @@
 ||q73449.click^
 ||q7m2z9k4t1p8.cfd^
 ||q7vxm2t4k.sbs^
+||q9w2k7r5t8x1.sbs^
 ||qanor.bond^
 ||qavdeli.tr^
 ||qavdukan.gifts^
@@ -13798,6 +13813,7 @@
 ||resmigazete.sbs^
 ||resmigirisekrani.sbs^
 ||resmituvturk.online^
+||resortzonehub.com^
 ||respick.digital^
 ||responseapp.site^
 ||responseapp.store^
@@ -15603,6 +15619,8 @@
 ||toki-gov-trk.vercel.app^
 ||toki-govtr-tc.vercel.app^
 ||toki-konut-basvurutr.org^
+||toki-toplukonut.vercel.app^
+||toki-toplukonutlar.vercel.app^
 ||toki2006-vercel.vercel.app^
 ||tokigov-tr.vercel.app^
 ||tokikonutbasvurulari2.vercel.app^
@@ -15868,6 +15886,7 @@
 ||tukendiamanabizatiyor.sbs^
 ||tumalisverisindirimleri6.sbs^
 ||tumceteiddiali.click^
+||tumictiklerinisay.sbs^
 ||tun6.fitnessresolvepro.run^
 ||turansorgupanel.xyz^
 ||turixarackiralama.com^
@@ -15912,6 +15931,7 @@
 ||turkiye-petrolleri.pro^
 ||turkiye.gov.clskl.com^
 ||turkiye.gov.tr-resmigazete.77-83-201-134.plesk.page^
+||turkiyeaktifhaber.com^
 ||turkiyebilgiagi.com^
 ||turkiyebilgihatti.com^
 ||turkiyebilgirehberi.com^
@@ -16014,6 +16034,7 @@
 ||tvtrkjhzmetlrebsd.store^
 ||tvtrkkdshhzimetburds.online^
 ||tvtrkkdshhzimetburds.store^
+||tvtur-k.net^
 ||tvutkyns.net^
 ||tvutrkny.net^
 ||tvuttrknsy.net^
@@ -16504,6 +16525,7 @@
 ||x23k1j2ck312x123k123c12.sbs^
 ||x2edcsilwx.icu^
 ||x32bc232.duckdns.org^
+||x4n6v1m8z9p3.cfd^
 ||x8m4k2q9f6b3n7vpat.cfd^
 ||xaedm.top^
 ||xaj1k23xjksadkl12.cfd^
@@ -16721,6 +16743,7 @@
 ||yghsajfsjagfasax99.lat^
 ||yghsajfsjagfasax99.sbs^
 ||yghsajfsjagfasax99.xyz^
+||yheqkrqxjpebtab.fun^
 ||yhstore.top^
 ||yifubafu.s3.ap-southeast-1.amazonaws.com^
 ||yifxea.click^
