@@ -702,6 +702,7 @@
 121.78.124.7
 121.78.147.213
 121.92.21.139
+||1211122211112.duckdns.org^
 ||12121222122.duckdns.org^
 ||121586sssrdabs.xyz^
 122.10.118.125
@@ -6825,9 +6826,11 @@
 ||a101indirimfirsatlarim.xyz^
 ||a101indirimmmmm.duckdns.org^
 ||a101kampanyalarii.blogspot.com^
+||a101katalogguncel.duckdns.org^
 ||a101katologz.duckdns.org^
 ||a101mayisfirsatlari.x10.mx^
 ||a101mayisfirsatlari.xo.je^
+||a101pazar.com^
 ||a101yilinfirsatlar.com^
 ||a10firsat.duckdns.org^
 ||a1menkuldegerler.com^
@@ -6966,6 +6969,7 @@
 ||aesgvawvafaw.cfd^
 ||aetherlabd.info^
 ||aexm.top^
+||afetyardimlari.com^
 ||afonsoferragista.com^
 ||aforvm.com^
 ||afrfgunndeobletozelfrsatlar.click^
@@ -7306,6 +7310,7 @@
 ||atladimtumsekten.click^
 ||atomprofitplatform.com^
 ||atsheisdomestic.org^
+||attendance-marilyn-move-during.trycloudflare.com^
 ||atto-seal.com^
 ||audit.checkmarx.cx^
 ||audita101.fecrux.com^
@@ -7965,6 +7970,7 @@
 ||birazyolumvar.click^
 ||birbirimizlesizlepromosyon.duckdns.org^
 ||birevonalu.com^
+||bireybasvur.click^
 ||bireycel-pass.my-homeip.net^
 ||bireysel-mobil-shop.sbs^
 ||bireysel-mobil-tr.sbs^
@@ -7992,6 +7998,7 @@
 ||bizdebulesc39.xyz^
 ||bizdebulesc61.xyz^
 ||bizdenhizlisiyoktur.click^
+||bizi101kurtaracak.cloud^
 ||bizimcberecendere.sbs^
 ||bizimlebirliktesiniz.com^
 ||bizimleyarisamazlar.sbs^
@@ -8276,6 +8283,7 @@
 ||bulduretede.lat^
 ||bulkore.shop^
 ||bulletproofdomai2n.com^
+||bulugarese-dafure.xyz^
 ||bulukuhurete.lat^
 ||bulunmakta-fayda-g.myonlineportal.ch^
 ||bumbephgsdsa.cyou^
@@ -10092,6 +10100,7 @@
 ||haber255.shop^
 ||haber34-resres-rscds.shop^
 ||haber343.shop^
+||haber344323.sbs^
 ||haber360-gdasgvsad56asdg5.shop^
 ||haber3601tr-gdasgvsad56asdg5.shop^
 ||haber360tc2026.shop^
@@ -10928,6 +10937,7 @@
 ||isfirsatlarimbugun.duckdns.org^
 ||isgilan.com^
 ||isimdesinburada.duckdns.org^
+||iskampanyasum4.xyz^
 ||iskurbasvur.ph^
 ||islebaglanhayta.sbs^
 ||isledijitalcepe.sbs^
@@ -10981,6 +10991,7 @@
 ||istanbulbelgimmcan.xyz^
 ||istanbulbelgimmkart.xyz^
 ||istanbulbelgimmkartcan.xyz^
+||istanbulbenim3434.xyz^
 ||istanbulbenimla.xyz^
 ||istanbulberzan.xyz^
 ||istanbulberzancan.xyz^
@@ -12030,6 +12041,7 @@
 ||lunxo.xyz^
 ||lunyra.xyz^
 ||lunzeko.tr^
+||luoksa99asdasdasdsadsada.click^
 ||lurox.bond^
 ||luts-liberyagrn.myonlineportal.ch^
 ||lvy9fhm9h8bj.icu^
@@ -13063,6 +13075,7 @@
 ||optionlabs.site^
 ||optionlabs.store^
 ||optixauvex.us^
+||opzkklid.cfd^
 ||oralet.nicepage.io^
 ||oraletene.nicepage.io^
 ||orange-cell-1353.hellohiall.workers.dev^
@@ -13137,7 +13150,10 @@
 ||ozllkmpnyaprmsnnbsvr.info^
 ||ozllkmpnyaprmsnnbsvr.live^
 ||ozllkmpnyaprmsnnbsvr.online^
+||ozllkmpynyaasbsbrrrfrstlar.art^
 ||ozllkmpynyaasbsbrrrfrstlar.info^
+||ozllkmpynyaasbsbrrrfrstlar.live^
+||ozllkmpynyaasbsbrrrfrstlar.pro^
 ||ozspfp.buzz^
 ||p-9jluifuu.workers.dev^
 ||p155polisi.online^
@@ -13228,6 +13244,7 @@
 ||pazaramahizlionay.net^
 ||pazaramatg.duckdns.org^
 ||pazararna.online^
+||pazmarto.com^
 ||pazrama.duckdns.org^
 ||pazramaa.duckdns.org^
 ||pcxturkiye.com^
@@ -13508,8 +13525,10 @@
 ||ptt.avmsiparislerim.com^
 ||ptt.mobilservisler-25.sbs^
 ||ptt.mobilservisler-49.sbs^
+||ptt.mobilservisler-65.sbs^
 ||ptt.satinalonlinesiparis.com^
 ||ptt.sepetimhizlisatinal.com^
+||pttavm-arac-gecmisi.web.app^
 ||pttavm-arac-km-ogren.firebaseapp.com^
 ||pttavm-arac-km-ogren.web.app^
 ||pttavm-arac-sorgulama.web.app^
@@ -13598,6 +13617,7 @@
 ||pttavmkilometre.com^
 ||pttavmkilometrebilgi.com^
 ||pttavmkilometresorgu.com^
+||pttavmkmkontrol.firebaseapp.com^
 ||pttavmkmkontrol.web.app^
 ||pttavmkmraporlama.com^
 ||pttavmkmsorgulama.com^
@@ -13734,6 +13754,7 @@
 ||r.garantibbvakredibasvuru.com^
 ||r2w8k5z9p3t6.cfd^
 ||r4xq7mv2.sbs^
+||r7m2x9q4v6n1.cfd^
 ||r7mvjl67.space^
 ||r7vx2m.cfd^
 ||r99sadhashdh9asdhahsdsk2.click^
@@ -15710,6 +15731,7 @@
 ||toki-toplukonut.vercel.app^
 ||toki-toplukonutlar.vercel.app^
 ||toki2006-vercel.vercel.app^
+||tokibasv3urdumunnngeldi.xyz^
 ||tokigov-tr.vercel.app^
 ||tokikonutbasvurulari2.vercel.app^
 ||tokisatis.duckdns.org^
@@ -15732,6 +15754,7 @@
 ||topiclibrary.com^
 ||topiclin.com^
 ||topictrail.news^
+||toplu-konut-idaresi-basvurusu.vercel.app^
 ||toplu-konut-projesi-toki-gov-tr.ph^
 ||toplukonu5391282121.vercel.app^
 ||toplukonut0701455346.vercel.app^
@@ -15775,7 +15798,9 @@
 ||toplukonuthemenbasvuru.sbs^
 ||toplukonutiadresi.duckdns.org^
 ||toplukonutidareleri358122.vercel.app^
+||toplukonutidaresibabygangsubesi.vercel.app^
 ||toplukonutidaresigungecmiyoryenibiseyolmasin.vercel.app^
+||toplukonutsignalgiris.vercel.app^
 ||toplumbakisi.com^
 ||toplumpenceresi.com^
 ||toplumraporu.com^
@@ -16348,6 +16373,7 @@
 ||ventrio.site^
 ||ventrio.store^
 ||venturevault.pics^
+||veonllinevservise.xyz^
 ||veralunahorizon.com^
 ||veridica.xyz^
 ||verifysuper.com^
