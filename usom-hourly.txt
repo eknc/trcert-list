@@ -8357,6 +8357,7 @@
 ||buyukbaliklaratarimolta.click^
 ||buzzaro.media^
 ||buzzdaily.online^
+||buzzflixra.com^
 ||buzzstage.media^
 ||bva-bsvrs.lat^
 ||bva-bsvru.lat^
