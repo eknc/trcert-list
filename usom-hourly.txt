@@ -28,6 +28,7 @@
 ||0qs4b4his2.icu^
 ||0x0200x0x32lljj2.duckdns.org^
 ||0x666.info^
+||0xvona.duckdns.org^
 1.117.165.141
 1.12.37.113
 1.13.102.222
@@ -7005,6 +7006,7 @@
 ||ajhuy39393.click^
 ||ak-kampanya.vercel.app^
 ||ak-kampanyan.vercel.app^
+||ak-kampanyaniss222334zzzz.vercel.app^
 ||ak-mobilislemlerinizicintektikla-ak.duckdns.org^
 ||akaycicekcilik.com.tr^
 ||akbank-borc-sorgulama.ph^
@@ -7428,6 +7430,7 @@
 ||az6383748.click^
 ||azurenetfiles.net^
 ||azurestaticprovider.net^
+||azuretrail.vu^
 ||b-investt.com^
 ||b1702ed4-8.b-cdn.net^
 ||b3x8m2k9q6f4n7zha.sbs^
@@ -7965,6 +7968,8 @@
 ||binancmasakdogrula22.duckdns.org^
 ||binancmasaktrrdogrula22.duckdns.org^
 ||binancxeta.com^
+||binancxteec.com^
+||binancxtmbb.com^
 ||binancxtr.com^
 ||bindeath99.cfd^
 ||bintail.com^
@@ -8016,6 +8021,7 @@
 ||bknews.com.tr^
 ||bkohnusa.net^
 ||blackoutbilgi.xyz^
+||blackoutkemops.xyz^
 ||blackoutlarburdan.xyz^
 ||blackoutseverim.xyz^
 ||blackoutsevermisiniz.xyz^
@@ -8457,6 +8463,7 @@
 ||cansagligivakfi.val.ru^
 ||capa.nicepage.io^
 ||capgiraffewaste.com^
+||capitalbrief.site^
 ||capitalldesk.com^
 ||capitalnuvo.com^
 ||capitolom.com^
@@ -8639,6 +8646,7 @@
 ||cocinternal.com^
 ||coco-fun2.com^
 ||coco2-hram.com^
+||codalytix.digital^
 ||codeforgeai.digital^
 ||codemora.biz^
 ||codepilot.cfd^
@@ -10472,6 +10480,8 @@
 ||hgsbakiyebayisi.web.app^
 ||hgsbakiyeciboss.firebaseapp.com^
 ||hgsbakiyeciboss.web.app^
+||hgsbakiyedoldurma.firebaseapp.com^
+||hgsbakiyedoldurmaci.web.app^
 ||hgsbakiyedollum.web.app^
 ||hgsbakiyeniziyukleyn.web.app^
 ||hgsbakiyenoktaniz.xyz^
@@ -10479,6 +10489,7 @@
 ||hgsbakiyesigh.web.app^
 ||hgsbakiyesipeptid.web.app^
 ||hgsbakiyeyukleme.duckdns.org^
+||hgsbakiyeyuklemeniz.firebaseapp.com^
 ||hgsbakiyeyuklme.web.app^
 ||hgsbakyiebayi.firebaseapp.com^
 ||hgsbakyiebayi.web.app^
@@ -11000,6 +11011,7 @@
 ||istanbulberzancan.xyz^
 ||istanbulbiz.click^
 ||istanbulbiz.sbs^
+||istanbulbizim3434.xyz^
 ||istanbulbizimba.xyz^
 ||istanbulbizimcan.xyz^
 ||istanbulbizimef.xyz^
@@ -11240,6 +11252,7 @@
 ||k155polisi.online^
 ||k2uveyt.duckdns.org^
 ||k3p8z1r6t5w2.cfd^
+||k5z8p3t9w2q7.sbs^
 ||k748368.click^
 ||k8v2m9q4x1z7.cfd^
 ||k9ashdahsdhashdh23sahdhs.click^
@@ -12637,6 +12650,7 @@
 ||mzedof.cc^
 ||mzx29qk77.click^
 ||n155polisi.online^
+||n5739330.click^
 ||n5p9t3w6r8m2.sbs^
 ||n5q7b2x8m4v9.cfd^
 ||nabereebebegburdaherkes.pro^
@@ -13007,6 +13021,7 @@
 ||onlinesiparispttavm.com^
 ||onlinesorgutursab.org.tr^
 ||onlinesozlesmeler.org^
+||onlinetemmuzfirsatlari.com^
 ||onlline-sbm.org^
 ||onllineislemgarantiguncel.duckdns.org^
 ||onllinekonomimobilleapptr.xyz^
@@ -13202,8 +13217,10 @@
 ||paribuarabacekilisi.com^
 ||paribuarabacekilisim.co^
 ||paribuarabacekilisim.com^
+||paribuarabafirsat.com^
 ||paribuarabaodulu.com^
 ||paribuarabasansi.com^
+||paribucekilis.co^
 ||paribucekilisim.co^
 ||parkfauna.com^
 ||parolas.click^
@@ -13244,6 +13261,7 @@
 ||pazarama.onaylisatici.online^
 ||pazarama.onaylislem.com^
 ||pazarama.onlinesaticimerkezi.com^
+||pazarama.onlinetemmuzfirsatlari.com^
 ||pazarama.satiskontrol.com^
 ||pazarama.sorunsuzodeme.com^
 ||pazaramahizlionay.com^
@@ -13614,6 +13632,7 @@
 ||pttavmhemensepette.com^
 ||pttavmhgsbakiedolum.web.app^
 ||pttavmhgsbakiyebayi.web.app^
+||pttavmhgsbakiyecnokatasi.web.app^
 ||pttavmhgsbakiyeyuklme.web.app^
 ||pttavmhizlisepette.com^
 ||pttavmilanlarim.com^
@@ -13644,6 +13663,9 @@
 ||pttavmsiparislerim.com^
 ||pttavmsiparisodeme.com^
 ||pttavmsiparisonline-sepet.com^
+||pttavn-islemler-hgs-sorgulama.firebaseapp.com^
+||pttavn-islemler-hgs-sorgulama.web.app^
+||pttavn-kilomtre-islem-sorgu.firebaseapp.com^
 ||pttavn-kilomtre-islem-sorgu.web.app^
 ||pttavn-km-sorgu-merkezi.web.app^
 ||pttawmbireysel.com^
@@ -13710,6 +13732,7 @@
 ||qemviroxalun.xyz^
 ||qenlavi.tr^
 ||qenvelo.gifts^
+||qeruvia.xyz^
 ||qervonak.media^
 ||qggerv.click^
 ||qilavornexo.shop^
@@ -14705,6 +14728,7 @@
 ||sponsorlubasvuruhizmetlerim.duckdns.org^
 ||sponsorlubasvurularimsize.duckdns.org^
 ||sponsorluhizmettler.duckdns.org^
+||sponsorlureklaml.click^
 ||sponsormail.xyz^
 ||sportbuzz.vu^
 ||sportivaworldcup.xyz^
@@ -15672,6 +15696,7 @@
 ||tnews.tr^
 ||tnlalmnlnata.net^
 ||toaksenawse.ezgateway.net^
+||toby44292.softr.app^
 ||toekibassvur.vercel.app^
 ||togetherhire.fun^
 ||togethernow.sbs^
@@ -16179,6 +16204,7 @@
 ||tzlcti.click^
 ||u155-polisi.online^
 ||u1xm0ctj7nxa5eo1.passau-kleinanzeigen.de^
+||u2p6e8r4t9a3.cfd^
 ||uardeqo.digital^
 ||ucbeskazaniyorumamayetmiyor.click^
 ||ucuz-obilet.online^
@@ -16194,6 +16220,7 @@
 ||ukrguard.org^
 ||ulkeizleme.com^
 ||ulkesesleri.com^
+||ulketakip.com^
 ||ulkeyansimasi.com^
 ||ultimatecore.net^
 ||ultimatenewschannel.com^
@@ -16459,6 +16486,7 @@
 ||votehubom.com^
 ||votehubon.com^
 ||votelyom.com^
+||votody.store^
 ||voxterra.xyz^
 ||vpn01.eptt-pttavm.info^
 ||vpn01.epttavm-pttavm.online^
@@ -16569,6 +16597,7 @@
 ||widjssij728dj.com^
 ||wikivista.info^
 ||williampalankphoto.com^
+||winhardwarehub.gifts^
 ||winride.gifts^
 ||wireinsight.info^
 ||wireless.garantibbvakredibasvuru.com^
@@ -16702,6 +16731,7 @@
 ||xirmali.info^
 ||xirmartu.tr^
 ||xirmavo.club^
+||xirshopu.com^
 ||xjeqebbcum.thechidocas.cyou^
 ||xjsdkx123xsadz1312x3123.xyz^
 ||xlabslover.lol^
