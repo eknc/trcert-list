@@ -8033,6 +8033,7 @@
 ||binancetr.duckdns.org^
 ||binancetrbasvurulari.duckdns.org^
 ||binancetrkampanya.com^
+||binanciaturkey.top^
 ||binancmasakdogrula22.duckdns.org^
 ||binancmasaktrrdogrula22.duckdns.org^
 ||binancxeta.com^
@@ -8767,6 +8768,7 @@
 ||contacttrixauvex.ink^
 ||controlpanel.asia^
 ||convertmora.icu^
+||convertnexa.com^
 ||convertro.live^
 ||coralveiltyd.pro^
 ||corefluxd.pro^
@@ -9889,6 +9891,7 @@
 ||gelirkenbiradetekmekalmakistermisin.online^
 ||gelirkenbiradetekmekalmakistermisin.xyz^
 ||gelisiyoruz.com^
+||gelistirilmisarayuz.abrdns.com^
 ||geliyormuyuz.online^
 ||gelonaviku.com^
 ||gelsendehaydkatlkan250.click^
@@ -11029,6 +11032,7 @@
 ||insuarenc-liberty.myonlineportal.ch^
 ||insuarence-lgty.myonlineportal.ch^
 ||intercttp.xyz^
+||interiordecor.pics^
 ||interland-ofise-g.myonlineportal.ch^
 ||intern-gr-lenade.myonlineportal.ch^
 ||internet-koveyttork.duckdns.org^
@@ -11521,6 +11525,7 @@
 ||kargotakip.ptt.com.sistemi.biz.tr^
 ||karijis.top^
 ||karisik.click^
+||karmab.nicepage.io^
 ||karnpanyalarirn.xyz^
 ||karostmufz.com^
 ||karsepti.gifts^
@@ -12452,6 +12457,7 @@
 ||mehhrs.dns.navy^
 ||mehrasee.co^
 ||mektupyazsana.com^
+||meliven.com^
 ||melorinu.top^
 ||meloviraworld.com^
 ||meltoxa.site^
@@ -13390,6 +13396,7 @@
 ||paribu.hesap-guvenligi.com^
 ||paribuaraba.com^
 ||paribuaraba2026.com^
+||paribuarabacekilis.com^
 ||paribuarabacekilisi.co^
 ||paribuarabacekilisi.com^
 ||paribuarabacekilisim.co^
@@ -13405,10 +13412,12 @@
 ||paribuarabakazan.com^
 ||paribuarabakazani.com^
 ||paribuarabaodulu.com^
+||paribuarabaplus.com^
 ||paribuarabasansi.com^
 ||paribucekilis.co^
 ||paribucekilisi.co^
 ||paribucekilisim.co^
+||paribuodul.com^
 ||parkfauna.com^
 ||parolas.click^
 ||partishoptr.com^
@@ -17320,6 +17329,7 @@
 ||zavorionix.cyou^
 ||zawsterris.com^
 ||zaxenorudikq.com^
+||zbaforumkf.cfd^
 ||zbnznbhassaxas33.cfd^
 ||zbnznbhassaxas33.cyou^
 ||zbnznbhassaxas33.lat^
