@@ -979,6 +979,7 @@
 139.99.83.25
 14.103.104.162
 14.103.114.63
+14.103.117.97
 14.103.127.30
 14.103.145.202
 14.103.145.211
@@ -992,6 +993,7 @@
 14.225.210.98
 14.46.136.77
 140.206.81.178
+140.227.39.147
 140.245.40.189
 140.82.14.117
 140.82.20.165
@@ -1500,6 +1502,7 @@
 154.23.186.99
 154.23.221.136
 154.26.190.6
+154.26.235.97
 154.39.137.203
 154.39.142.177
 154.39.238.101
@@ -1798,6 +1801,7 @@
 163.5.210.210
 163.5.214.40
 163.5.221.110
+163.53.201.45
 163.61.102.245
 163.61.110.175
 164.155.205.99
@@ -1884,6 +1888,7 @@
 167.88.175.231
 167.88.36.13
 167.99.115.33
+167.99.12.43
 167.99.248.28
 167.99.28.222
 ||167fa383-4.b-cdn.net^
@@ -2200,6 +2205,7 @@
 176.65.149.163
 176.65.149.168
 176.65.149.19
+176.65.149.200
 176.65.149.209
 176.65.149.225
 176.65.149.226
@@ -2220,6 +2226,7 @@
 177.37.98.163
 177.39.204.34
 177.84.130.195
+178.104.121.73
 178.125.204.198
 178.128.107.204
 178.128.109.37
@@ -2801,6 +2808,7 @@
 186.169.48.87
 186.189.103.21
 186.57.1.241
+186.68.83.104
 187.0.128.86
 187.108.1.130
 187.127.140.151
@@ -2853,6 +2861,7 @@
 188.34.130.40
 188.34.195.44
 188.40.187.155
+188.43.214.29
 188.68.217.84
 188.68.43.28
 188.69.225.188
@@ -2862,6 +2871,7 @@
 188.92.79.115
 188.92.79.116
 189.165.70.195
+189.204.156.170
 189.84.215.139
 190.123.46.21
 190.131.194.90
@@ -3674,6 +3684,7 @@
 209.74.77.201
 209.99.185.221
 209.99.185.223
+209.99.185.52
 209.99.188.199
 209.99.189.102
 209.99.190.206
@@ -3880,6 +3891,7 @@
 218.187.69.59
 218.193.83.70
 218.200.20.254
+218.205.37.160
 218.255.96.245
 218.60.255.188
 218.65.110.180
@@ -4404,6 +4416,7 @@
 43.132.196.160
 43.132.212.111
 43.132.235.4
+43.134.24.11
 43.134.25.139
 43.134.49.202
 43.135.145.61
@@ -4530,6 +4543,7 @@
 45.134.140.69
 45.134.174.235
 45.134.26.35
+45.134.79.85
 45.135.135.100
 45.135.180.177
 45.135.180.38
@@ -5314,6 +5328,7 @@
 54.36.145.173
 54.36.180.110
 54.36.49.151
+54.37.10.124
 54.37.70.249
 54.39.83.187
 54.92.11.182
@@ -5337,6 +5352,7 @@
 ||56f6862b-7.b-cdn.net^
 57.128.155.22
 57.128.225.99
+57.128.255.67
 57.129.137.101
 57.129.51.86
 57.69.19.70
@@ -6982,6 +6998,7 @@
 ||adaletmahkeme.org^
 ||adaybasvurkayit.com.tr^
 ||adceonlaylardaa1o1.duckdns.org^
+||adcjklcjjqexqwexqwi123x12.cfd^
 ||adcjobengage.com^
 ||adelincloacker2.com^
 ||adflowza.sbs^
@@ -9601,6 +9618,7 @@
 ||filev2.getsession.org^
 ||filmfunny.lol^
 ||filoarackiralamarentacar.com^
+||filokoc.net^
 ||filokurarackiralama.com^
 ||filoportarackiralama.com^
 ||filorentistkurumsal.com^
@@ -9973,6 +9991,7 @@
 ||gitgidebildiginyerdeyim.sbs^
 ||gitgideduzeliyor.sbs^
 ||gjbdijittal.com^
+||gkldkasxklkl13x12z123.sbs^
 ||glintryvo.com^
 ||global-news7.com^
 ||globalbuyshop.top^
@@ -11083,6 +11102,7 @@
 ||isletimgarantinewdestekportal.duckdns.org^
 ||isletmedesteklerii.com^
 ||isleyasiyorum.com^
+||islmnktnas.net^
 ||islthbnhhayd.com^
 ||ismel32.blob.core.windows.net^
 ||ismobilinfirsatinim.duckdns.org^
@@ -15974,6 +15994,7 @@
 ||tokibasv3urdumunnngeldi.xyz^
 ||tokigov-tr.vercel.app^
 ||tokikonutbasvurulari2.vercel.app^
+||tokikonuthamurabi.vercel.app^
 ||tokisatis.duckdns.org^
 ||tokisatisibasladi.com^
 ||tokitoki.tech^
@@ -15995,6 +16016,7 @@
 ||topiclibrary.com^
 ||topiclin.com^
 ||topictrail.news^
+||toplu-konut-idaresi-basvurunh.vercel.app^
 ||toplu-konut-idaresi-basvurunuzu.vercel.app^
 ||toplu-konut-idaresi-basvurusu.vercel.app^
 ||toplu-konut-projesi-toki-gov-tr.ph^
@@ -16181,6 +16203,8 @@
 ||trendyol1.homes^
 ||trendyol1.lat^
 ||trendyol1.lol^
+||trendyol1.xyz^
+||trendyol2.cfd^
 ||trendyol2.click^
 ||trendyol2.xyz^
 ||trendyol3.baby^
