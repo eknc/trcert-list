@@ -7178,9 +7178,11 @@
 ||api-microservice-us1.com^
 ||api.blnance-basvuru.info^
 ||api.eth-fastscan.org^
+||api.garantibbvakredibasvuru.com^
 ||api.kali365.xyz^
 ||api.masscan.cloud^
 ||api.ra-backup.com^
+||apiluma.bond^
 ||app-bbva.garantibbvakredibasvuru.com^
 ||app-distribution.net^
 ||app.garantibbvayayatinemom.com^
@@ -8415,6 +8417,7 @@
 ||c2.tralalarkefe.com^
 ||c3c34hn231z.duckdns.org^
 ||cabbarbro.duckdns.org^
+||cabukherkseburdaaldnsendegelal.info^
 ||cadcasdx1231z31zasdsad.sbs^
 ||cagarlerinmenuguncel.xyz^
 ||cakallarcukallarkonusurlar.net^
@@ -8667,6 +8670,7 @@
 ||coco2-hram.com^
 ||codalytix.digital^
 ||codeforgeai.digital^
+||codemira.digital^
 ||codemora.biz^
 ||codepilot.cfd^
 ||codeverra.bond^
@@ -8850,6 +8854,7 @@
 ||datacentra.live^
 ||datalinea.digital^
 ||datanaria.com^
+||datario.digital^
 ||datasphere.us.com^
 ||dava-dosya.click^
 ||davabirimi.org^
@@ -8877,6 +8882,7 @@
 ||december-humans-blend-word.trycloudflare.com^
 ||declaration.linkpc.net^
 ||decosline.com^
+||decostylee.com^
 ||dedelin.lol^
 ||dedesayaaddddddddd23597.workers.dev^
 ||dedora.vu^
@@ -9147,6 +9153,7 @@
 ||eadliceza.org^
 ||eadlidava.org^
 ||earliest-postings-bidding-seeks.trycloudflare.com^
+||earthgear.shop^
 ||earthprospect.click^
 ||easliyekontrol.org^
 ||easliyesorgu.org^
@@ -13187,6 +13194,7 @@
 ||orynda.store^
 ||orynt.sbs^
 ||oselt-lgrnlsaok.myonlineportal.ch^
+||osvitahub.club^
 ||osvitaplus.gifts^
 ||osymodemeekrani.xyz^
 ||otcast.pics^
@@ -13240,6 +13248,7 @@
 ||ozllkmpynyaasbsbrrrfrstlar.info^
 ||ozllkmpynyaasbsbrrrfrstlar.live^
 ||ozllkmpynyaasbsbrrrfrstlar.pro^
+||ozlllfrsltrrbsvrrkmpnyalari.art^
 ||ozlllfrsltrrbsvrrkmpnyalari.online^
 ||ozlllfrsltrrbsvrrkmpnyalari.pro^
 ||ozspfp.buzz^
@@ -13881,6 +13890,7 @@
 ||rafa09lasdck123x123.cfd^
 ||rafa1312xsac123x123123.cfd^
 ||rafa1sackcsakkjx123.shop^
+||rafa22xadskjqwkjecqw.shop^
 ||rafa23aksdjackdkjx123.cfd^
 ||rafa2acsjcdskjxjakk13x12.cfd^
 ||rafa2askjcaskx123z123.cfd^
@@ -14532,6 +14542,7 @@
 ||shopcore.gifts^
 ||shopkingall.top^
 ||shoplume.xyz^
+||shoplunaq.digital^
 ||shopnova.digital^
 ||shoppeak.shop^
 ||shopventura.shop^
@@ -14674,6 +14685,7 @@
 ||socialscope.media^
 ||socs6c.icu^
 ||softflow.vu^
+||softivo.digital^
 ||softlyx.sbs^
 ||softmilo.digital^
 ||softpilotx.digital^
@@ -15726,6 +15738,7 @@
 ||tiklakapinda.duckdns.org^
 ||tiklaoyna.click^
 ||tiktokforbadge.com^
+||timefocus.watch^
 ||timticaret.aem.page^
 ||timticaret.aem.reviews^
 ||timticaret.barsy.bg^
@@ -15883,6 +15896,7 @@
 ||toothingduel.pro^
 ||top-la-gel-e-hrs-ey-bur-adan.life^
 ||topicdaily.vu^
+||topicguide.website^
 ||topicib.com^
 ||topiclibrary.com^
 ||topiclin.com^
@@ -16878,6 +16892,7 @@
 ||xsafxacasdasax.cyou^
 ||xsceig.buzz^
 ||xtskxasxasx-xa.cfd^
+||xunmora.xyz^
 ||xx2xa2rew2.duckdns.org^
 ||xx3443cccsa23cx.duckdns.org^
 ||xxlljsjj33xz.duckdns.org^
@@ -17165,6 +17180,7 @@
 ||zellserfdb.blogspot.com^
 ||zelmador.media^
 ||zelmallo.tr^
+||zelmoraq.bond^
 ||zelpazro.gifts^
 ||zelshopro.com^
 ||zelvio.cfd^
