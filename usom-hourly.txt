@@ -9970,6 +9970,7 @@
 ||giris-hepsibura-auth.soundandshinesolutions.cv^
 ||giris-kampanya.com^
 ||giris-mhrs-randevu.vercel.app^
+||giris-secim-kampany.sbs^
 ||giris-turkiye.gov.tr-giris-id192732.onlineislem.me^
 ||giris-yapikredimobil.ip-ddns.com^
 ||girisgelismelersonucbizde.sbs^
@@ -10282,6 +10283,7 @@
 ||haberler2026xl.com^
 ||haberler2153212.com^
 ||haberler231542423.online^
+||haberler23432.sbs^
 ||haberler2523432.sbs^
 ||haberler31345653.shop^
 ||haberler32334.shop^
@@ -12290,6 +12292,7 @@
 ||maliyesicil.org^
 ||maliyesorgutr.org^
 ||maliyet-fark.myonlineportal.ch^
+||maliyetakip.com^
 ||maliyetalepformu.com^
 ||maliyetebligat.org^
 ||maliyetr.org^
@@ -13391,6 +13394,7 @@
 ||paribuarabacekilisi.com^
 ||paribuarabacekilisim.co^
 ||paribuarabacekilisim.com^
+||paribuarabadunyasi.com^
 ||paribuarabafest.com^
 ||paribuarabafirsat.com^
 ||paribuarabafirsati.com^
@@ -15913,6 +15917,7 @@
 ||tkibsvrgmh.com^
 ||tkibsvrrsc.sbs^
 ||tkisencis.net^
+||tksiccerde.net^
 ||tksiehhfi.net^
 ||tkssafafaxassxcafc.xyz^
 ||tlgrdplantwzqyy.com^
@@ -15948,6 +15953,7 @@
 ||togghaziran5000.com^
 ||togghizlibasvuru.sbs^
 ||togghizlikayit.com^
+||togghizlisatis.cfd^
 ||toggkayit.com^
 ||toggotomobil.com^
 ||toggsiparis.com^
