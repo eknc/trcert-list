@@ -897,6 +897,7 @@
 138.201.195.156
 138.201.50.5
 138.226.236.51
+138.226.236.52
 138.226.247.241
 138.249.139.6
 138.68.143.68
@@ -2599,6 +2600,7 @@
 185.22.154.73
 185.220.172.2
 185.220.59.104
+185.221.153.121
 185.221.174.184
 185.221.198.82
 185.221.216.189
@@ -2947,7 +2949,9 @@
 192.36.27.51
 192.36.57.164
 192.36.57.56
+192.42.116.105
 192.42.116.107
+192.42.116.58
 192.46.223.211
 192.46.231.103
 192.46.237.163
@@ -3715,6 +3719,7 @@
 212.32.237.92
 212.34.138.4
 212.34.155.18
+212.46.12.182
 212.46.38.246
 212.47.230.36
 212.68.34.132
@@ -4465,6 +4470,7 @@
 45.11.229.11
 45.11.26.186
 45.11.89.19
+45.112.194.82
 45.114.192.137
 45.119.55.66
 45.12.130.27
@@ -5723,6 +5729,7 @@
 77.61.147.141
 77.66.192.139
 77.67.80.31
+77.72.85.62
 77.73.129.64
 77.73.133.72
 77.75.230.164
@@ -6829,6 +6836,7 @@
 ||a101.empordafibra.com^
 ||a101a101.shop^
 ||a101aldn.duckdns.org^
+||a101extrakatalog.site^
 ||a101harca.shop^
 ||a101harcaharcabitmez.duckdns.org^
 ||a101indirimfirsatlarim.xyz^
@@ -7975,6 +7983,7 @@
 ||bilimuskudar.w-staticblitz.com^
 ||bilimuskudar.wixsite.com^
 ||bilimuskudar.zone.id^
+||bilukufere-gudazese.xyz^
 ||bimmarketleri.com^
 ||binance-web30.shop^
 ||binancemobileapp.ph^
@@ -8146,6 +8155,7 @@
 ||bootiva.shop^
 ||bore.pub^
 ||borilune.pro^
+||borsaci.site^
 ||borsagundemi.media^
 ||borusan-ai.net^
 ||bosflux.gifts^
@@ -8514,6 +8524,7 @@
 ||cartnova.biz^
 ||cartora.biz^
 ||cartpeak.gifts^
+||cartradepoint.com^
 ||casaformst.com^
 ||casdlax213kcasdacs123.shop^
 ||casewiselegal.com^
@@ -8835,6 +8846,7 @@
 ||dailyvista.world^
 ||dailyyn.com^
 ||dakatawebstick.com^
+||dakisha.com^
 ||dakmerro.gifts^
 ||dalvico.shop^
 ||dalvico.site^
@@ -9394,6 +9406,7 @@
 ||esube.expresgroup.com^
 ||esube.fbavarlikmenkul.com^
 ||esube.fbpiyasa.com^
+||esube.hbyatirim.com^
 ||esube.iknmusteri.online^
 ||esubem--qnbfinansbank.ph^
 ||esubem-tebde-pro.my-homeip.de^
@@ -10041,6 +10054,7 @@
 ||guncelhaberportali.com^
 ||guncelhizlihikaye.com^
 ||gunceliz.site^
+||guncelmercekler.com^
 ||guncelmerkezigarantiislemcozum.online^
 ||guncelnotlistesi.com^
 ||guncelrota.gifts^
@@ -10809,6 +10823,7 @@
 ||hzegcva.click^
 ||hzegcvb.click^
 ||hzlnhmnislmlr.com^
+||hzlrandvv-webtp.space^
 ||hzltasler.store^
 ||hzrndaefsnerodylebslr.com^
 ||hzusdkueeasdstydns.online^
@@ -11792,6 +11807,8 @@
 ||krasentiqo.one^
 ||krdanlopardansd.click^
 ||krdeslercendrm.cfd^
+||krdiibsvrrfrsltrrrspnnnnn.info^
+||krdiibsvrrfrsltrrrspnnnnn.pro^
 ||kreatif-destek.com^
 ||kreautopagne.de^
 ||kreddii-merkezisonn.com^
@@ -12072,6 +12089,7 @@
 ||loprdasdmngdsa.shop^
 ||lordansandannrdan.click^
 ||lorevantpoint.top^
+||lorevixa.gifts^
 ||lorinex.gifts^
 ||lorqexo.gifts^
 ||loserrq0j1sha8.com^
@@ -12130,6 +12148,7 @@
 ||lyxgonu.website^
 ||lzuyis.click^
 ||m-hr-s.wqdx12x1.click^
+||m-hr-s.wqdx12x1.rest^
 ||m-hr-s.wqdx12x1.xyz^
 ||m-obilet.org^
 ||m-sikayetvar.com^
@@ -12450,6 +12469,7 @@
 ||mhrsrandevu1182.site^
 ||mhrsrandevunburadan.com^
 ||mhrsrandevunburadan.duckdns.org^
+||mhrsrandevunburadann.duckdns.org^
 ||mhs420dq.com^
 ||mhsaogreen.uk^
 ||mhsaraktiv.uk^
@@ -13183,6 +13203,7 @@
 ||orsnvsysrna.net^
 ||orsnvsyty.net^
 ||ortakbakisnoktasi.com^
+||ortakgundelik.com^
 ||ortaknotlarim.com^
 ||ortilix.shop^
 ||ortilix.site^
@@ -14486,6 +14507,7 @@
 ||serceparmak.cyou^
 ||serceparmak.xyz^
 ||serkanbas57.sbs^
+||sermayemerkez.site^
 ||seroboybyli.net^
 ||serokvazir.cfd^
 ||seroluni.pro^
@@ -15505,6 +15527,7 @@
 ||techhavenx.com^
 ||techmora.sbs^
 ||technoinfo.xyz^
+||technovy.digital^
 ||techroboticslabmade-techie-com-s-account.workers.dev^
 ||techrock.digital^
 ||techva.cyou^
@@ -15961,6 +15984,7 @@
 ||tordevol.com^
 ||tordnews.com^
 ||torduko.gifts^
+||torkasaq.gifts^
 ||torkrama.gifts^
 ||torlino.cfd^
 ||torlotiq.gifts^
@@ -16486,6 +16510,7 @@
 ||vaxdori.tr^
 ||vaxenorudilq.com^
 ||vaxorilqemu.xyz^
+||vaxunor.gifts^
 ||vaybetekbasina.lat^
 ||vaylele.cfd^
 ||vaylele.click^
@@ -16762,6 +16787,7 @@
 ||wp-tracker.com^
 ||wpsock.com^
 ||wqdx12x1.forum^
+||wqdx12x1.rest^
 ||wqedasewqra.cfd^
 ||wqeddaqw.cfd^
 ||wqeddaseqw.cfd^
@@ -17226,6 +17252,7 @@
 ||zir-dijitalbasvurularim.sbs^
 ||zir-dijitalinternet.sbs^
 ||zir-dijitalinternetbasvuru.sbs^
+||zir-dijitalinternetbasvurulari.sbs^
 ||zir-kampayalar.sbs^
 ||zira-a-t-bireysel-basvuru-ekran.my-homeip.de^
 ||zira-a-t-login-page.my-homeip.de^
