@@ -495,6 +495,7 @@
 109.205.214.35
 109.206.236.209
 109.207.171.226
+109.207.41.125
 109.234.156.179
 109.237.99.23
 109.244.69.102
@@ -528,6 +529,7 @@
 111.230.93.174
 111.230.96.32
 111.235.76.92
+111.250.197.57
 111.53.23.141
 111.7.106.105
 111.7.68.222
@@ -716,6 +718,7 @@
 122.146.90.121
 122.152.231.146
 122.155.28.155
+122.166.253.226
 122.175.54.67
 122.183.248.102
 123.10.153.253
@@ -788,6 +791,7 @@
 128.254.207.82
 128.49.100.57
 128.90.141.158
+||12855w652.click^
 129.121.114.124
 129.154.242.197
 129.212.209.120
@@ -2006,6 +2010,7 @@
 172.86.66.43
 172.86.68.64
 172.86.70.73
+172.86.72.193
 172.86.72.240
 172.86.73.139
 172.86.73.46
@@ -2058,6 +2063,7 @@
 173.46.80.206
 173.53.43.7
 174.138.62.216
+174.75.211.198
 175.106.11.242
 175.118.126.65
 175.178.166.216
@@ -2674,6 +2680,7 @@
 185.246.128.181
 185.246.223.75
 185.247.137.174
+185.247.137.190
 185.247.224.41
 185.250.151.155
 185.255.114.110
@@ -4141,6 +4148,7 @@
 ||35c195e4-7.b-cdn.net^
 36.112.17.125
 36.134.69.15
+36.137.38.119
 36.152.9.62
 36.255.98.152
 36.255.98.159
@@ -4625,6 +4633,7 @@
 45.15.17.67
 45.150.108.242
 45.150.34.158
+45.150.66.187
 45.150.67.235
 45.151.81.138
 45.151.91.187
@@ -5084,6 +5093,7 @@
 ||4864958496556489.net^
 49.12.198.231
 49.12.210.140
+49.124.153.13
 49.124.155.174
 49.13.126.124
 49.13.15.66
@@ -5767,6 +5777,7 @@
 ||77cxmai3zm.icu^
 78.108.216.20
 78.11.10.78
+78.111.230.45
 78.128.112.209
 78.128.112.6
 78.134.4.112
@@ -6196,6 +6207,7 @@
 87.121.84.45
 87.121.84.57
 87.121.84.83
+87.156.185.61
 87.230.98.74
 87.236.177.9
 87.237.202.67
@@ -6801,6 +6813,7 @@
 ||9zaeto0la2z7mdtvcg8zhilom4y7r53tw36esjgrifet62smtvojkgdgdyw.s3.us-east-2.amazonaws.com^
 ||BilgiCheckersSystem.lovestoblog.com^
 ||Fifa.house^
+||Otokocfilom.net^
 ||a-101-de-extra-bugune-ozel-sepette-firsat-tr.shop^
 ||a-101-de-extra-sadece-bugune-ozel-mobilde-tr.bireysel-shop-tr.sbs^
 ||a-101-de-extra-sadece-bugune-ozel-sepette-tr.bireysel-shop-tr.online^
@@ -8045,6 +8058,7 @@
 ||bkleradlsfoa.cfd^
 ||bknews.com.tr^
 ||bkohnusa.net^
+||blackoutabi.sbs^
 ||blackoutbilgi.xyz^
 ||blackoutkemops.xyz^
 ||blackoutlarburdan.xyz^
@@ -8333,6 +8347,7 @@
 ||buradamutluveucuz.com^
 ||buradangelsin.xyz^
 ||buradayizbiz.sbs^
+||burads-6d5bb5751c89.herokuapp.com^
 ||burads1-939ee2a65a73.herokuapp.com^
 ||burads1-bb4ae103b5bb.herokuapp.com^
 ||burads1-bef6a617f032.herokuapp.com^
@@ -8675,6 +8690,7 @@
 ||cmd.allthe.site^
 ||cndanlardansandan.sbs^
 ||cndanlardansandan.shop^
+||cntqsexvtasxmenuguncexzll.xyz^
 ||cobrakai.vip^
 ||cocinternal.com^
 ||coco-fun2.com^
@@ -9401,6 +9417,7 @@
 ||esrmhrlrandvlar.com^
 ||esterbutik.com^
 ||estobasvuru.84945184465.cloud^
+||esube-fibayatirim.com^
 ||esube-infoyatirim.com^
 ||esube-referans.com^
 ||esube.expresgroup.com^
@@ -9856,6 +9873,7 @@
 ||genovixworld.com^
 ||geod-l-g-r-n-l-t.myonlineportal.ch^
 ||geralnewlong.com^
+||gercekrealistsa.remotewire.net^
 ||gestrak-basavtr.cfd^
 ||get-basvrru-yap.cfd^
 ||getarvion.site^
@@ -9949,6 +9967,7 @@
 ||gmaildestektr.com^
 ||gmcemrketlerce.cfd^
 ||go.garantibbvakredibasvuru.com^
+||goalfree.cfd^
 ||gohaber.shop^
 ||gojemex.top^
 ||gokaca.store^
@@ -11066,6 +11085,7 @@
 ||istanbulavrupasm.shop^
 ||istanbulbeelgimcan.xyz^
 ||istanbulbelggim.xyz^
+||istanbulbelgiimmmcann.xyz^
 ||istanbulbelgim.xyz^
 ||istanbulbelgimcann.xyz^
 ||istanbulbelgimkart.xyz^
@@ -11085,6 +11105,7 @@
 ||istanbulbizimef.xyz^
 ||istanbulbizimherzmn.xyz^
 ||istanbulbizimla.xyz^
+||istanbulbizimlee.xyz^
 ||istanbulbizimm.xyz^
 ||istanbulbizimmeeef.xyz^
 ||istanbulbizimmm.xyz^
@@ -11470,6 +11491,7 @@
 ||katlanabilirmasasandalyetakimi.com^
 ||katymzua.xyz^
 ||kavirex.gifts^
+||kavulix.gifts^
 ||kaxuq.sbs^
 ||kaya-lifonsy-tre-gir.myonlineportal.ch^
 ||kayglanmadansendebasvru.click^
@@ -11582,6 +11604,8 @@
 ||kikpx.top^
 ||kilmtresrgulamarmzan.firebaseapp.com^
 ||kilmtresrgulamarmzan.web.app^
+||kilometesrglrmbrdan.click^
+||kilometre-herzamanburda.firebaseapp.com^
 ||kilometre-herzamanburda.web.app^
 ||kilometrecikus.xyz^
 ||kilometrecikusburda.xyz^
@@ -12160,6 +12184,7 @@
 ||m4zp2vk.sbs^
 ||m67exdgs7xbk.icu^
 ||m7q2xrv4k9.cfd^
+||m9x4q2v8n1z6.cfd^
 ||maasprom.my-homeip.net^
 ||maaspromosyon.my-homeip.de^
 ||macljksave.life^
@@ -12403,6 +12428,7 @@
 ||merkezigarantimenucozumlerim.cc^
 ||merkezihekimrandevusu.dyndns-at-home.com^
 ||merkeziiprmsynnfrstlarrbsvrr.live^
+||merkezinceleme.com^
 ||merkeziteknikgarantimenucozumleri.space^
 ||merkeznoktasi.com^
 ||merkeztakibi.com^
@@ -13016,6 +13042,7 @@
 ||official-version.com^
 ||ogreninrandevunuzu.com^
 ||ogrenmeasamasiekranlariniz.sbs^
+||ohlsdtes.net^
 ||ohqbtbbavnet.garantibbvakredibasvuru.com^
 ||oilwealthpro.com^
 ||ojj.a3jb4ob55b1uk2wr.fun^
@@ -13221,6 +13248,7 @@
 ||otcast.pics^
 ||otokocarackirala.com^
 ||otokocfilokurumsal.com^
+||otokocfilokurumsal.net^
 ||otokocfilorent.com^
 ||otokocfilorentacar.com^
 ||otokocfilorentacar.net^
@@ -13229,6 +13257,7 @@
 ||otokockurumsal.rent^
 ||otokockurumsalbayi.com^
 ||otokockurumsalkiralama.com^
+||otokockurumsaltr.com^
 ||otokocrent.net^
 ||otokocrentcar.com^
 ||otokocrentfilo.com^
@@ -13315,6 +13344,7 @@
 ||paribuarabacekilisim.co^
 ||paribuarabacekilisim.com^
 ||paribuarabafirsat.com^
+||paribuarabafirsati.com^
 ||paribuarabahediye.com^
 ||paribuarabakampanya.com^
 ||paribuarabakatil.com^
@@ -13661,6 +13691,7 @@
 ||ptt.satinalonlinesiparis.com^
 ||ptt.sepetimhizlisatinal.com^
 ||pttavm-arac-bilgileriniz.firebaseapp.com^
+||pttavm-arac-gecmisi.firebaseapp.com^
 ||pttavm-arac-gecmisi.web.app^
 ||pttavm-arac-km-ogren.firebaseapp.com^
 ||pttavm-arac-km-ogren.web.app^
@@ -13694,6 +13725,8 @@
 ||pttavm-km-tespit.web.app^
 ||pttavm-kmcinizburda.firebaseapp.com^
 ||pttavm-kmcinizburda.web.app^
+||pttavm-kmsorgulama-hizmeti.firebaseapp.com^
+||pttavm-kmsorgulama-hizmeti.web.app^
 ||pttavm-odemenizguvende.com^
 ||pttavm-onlinesatis.com^
 ||pttavm-onlinesepetim.com^
@@ -13754,6 +13787,8 @@
 ||pttavmkilometre.com^
 ||pttavmkilometrebilgi.com^
 ||pttavmkilometresorgu.com^
+||pttavmkmislem.firebaseapp.com^
+||pttavmkmislem.web.app^
 ||pttavmkmkontrol.firebaseapp.com^
 ||pttavmkmkontrol.web.app^
 ||pttavmkmportal.web.app^
@@ -13786,6 +13821,7 @@
 ||pttkargo.mobilservisler-27.sbs^
 ||pttkargo.online-alisveris-sepetiniz.com^
 ||pttkargotakib.com^
+||pttkmsorgu.com^
 ||pttonlinealisveris.com^
 ||pttonlinesiparislerim.com^
 ||pttov.bond^
@@ -13909,6 +13945,7 @@
 ||raf3134sadacjj1x3jk1jk23x12.shop^
 ||rafa0102xadskjx2h3jx12312.cfd^
 ||rafa09lasdck123x123.cfd^
+||rafa123x1askdajkdjka123z12.cfd^
 ||rafa1312xsac123x123123.cfd^
 ||rafa1sackcsakkjx123.shop^
 ||rafa22xadskjqwkjecqw.shop^
@@ -14490,6 +14527,7 @@
 ||sepet-odemesi-1988.com^
 ||sepetetikla.online^
 ||sepetguvende.online^
+||sepetimde-odeme-3955.com^
 ||sepetimdeindirimleriyakala.com^
 ||sepetimonay.online^
 ||sepetimonay.site^
@@ -14577,6 +14615,7 @@
 ||sicak-mavi-yazi-bva.xyz^
 ||sicex.lol^
 ||sicilegm.org^
+||sicilmali.org^
 ||sicilmaliye.org^
 ||signalpress.company^
 ||signalpress.world^
@@ -15981,6 +16020,7 @@
 ||topppira.sbs^
 ||topprogressstores.online^
 ||toravel.gifts^
+||toravina.gifts^
 ||tordevol.com^
 ||tordnews.com^
 ||torduko.gifts^
@@ -16103,6 +16143,10 @@
 ||trendyol-mall.biz^
 ||trendyol-mall.online^
 ||trendyol.ilanservis-odemen.online^
+||trendyol2.click^
+||trendyol3.xyz^
+||trendyol7.click^
+||trendyol7.lol^
 ||trendyolbasvuru.com^
 ||trendyolkepim.com^
 ||trendyolkleding.com^
@@ -16270,6 +16314,7 @@
 ||tutnet.vu^
 ||tuv-trk.net^
 ||tuv-turkk.com^
+||tuv.12855w652.forum^
 ||tuvkdkaksaksaas.com.tr^
 ||tuvmuayeneturkrandevu.online^
 ||tuvonaylandisistem.xyz^
@@ -16888,6 +16933,7 @@
 ||xn--a101alsveris-64b.com^
 ||xn--aatszu-o9a.xyz^
 ||xn--arkasakoskar-d5b.com^
+||xn--asjdoasdjsadsda-blc.xyz^
 ||xn--atansghuz-ypb.xyz^
 ||xn--btso-qpa.com^
 ||xn--dngdongsz-vpbh.xyz^
