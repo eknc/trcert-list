@@ -9103,6 +9103,7 @@
 ||dijitaleiscep.sytes.net^
 ||dijitalekonomikdestekmobil.xyz^
 ||dijitalfirsatduyurularims.sbs^
+||dijitalform.sbs^
 ||dijitalgarantitalepyonetimsistemi.space^
 ||dijitalgib-tr.com^
 ||dijitalsbasvurukanal.duckdns.org^
@@ -9520,6 +9521,7 @@
 ||esube-fibayatirim.com^
 ||esube-infoyatirim.com^
 ||esube-referans.com^
+||esube-teraportfoy.com^
 ||esube.expresgroup.com^
 ||esube.fbavarlikmenkul.com^
 ||esube.fbpiyasa.com^
@@ -14290,6 +14292,7 @@
 ||reeeeealy.com^
 ||reews09weersus.com^
 ||ref-986972.duckdns.org^
+||referansmenkuldeger.com^
 ||referlumen.sbs^
 ||reformyn.com^
 ||regdev-google.com^
@@ -17336,6 +17339,7 @@
 ||yaslanirsambirgunyakalarsin.sbs^
 ||yasoguh.xyz^
 ||yatirimblogu.com^
+||yatirimci-merkezi.com^
 ||yatirimfinansmanmenkuldegerler.net^
 ||yatirimufku.site^
 ||yavilladayizyahapis.click^
