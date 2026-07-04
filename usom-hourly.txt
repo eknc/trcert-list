@@ -638,6 +638,7 @@
 117.248.166.8
 117.248.169.137
 117.54.226.50
+117.55.203.189
 117.72.242.9
 117.72.70.169
 118.107.219.66
@@ -998,6 +999,7 @@
 14.46.136.77
 140.206.81.178
 140.227.39.147
+140.233.190.47
 140.245.40.189
 140.82.14.117
 140.82.20.165
@@ -1753,6 +1755,8 @@
 161.97.82.97
 161.97.99.49
 162.141.111.227
+162.141.92.173
+162.141.92.3
 162.19.175.44
 162.19.196.13
 162.19.237.181
@@ -2174,17 +2178,23 @@
 176.65.139.163
 176.65.139.166
 176.65.139.177
+176.65.139.182
+176.65.139.188
 176.65.139.215
 176.65.139.22
 176.65.139.225
 176.65.139.25
+176.65.139.26
 176.65.139.31
+176.65.139.54
 176.65.139.59
 176.65.139.60
 176.65.139.66
 176.65.139.7
 176.65.139.8
 176.65.139.81
+176.65.139.89
+176.65.139.90
 176.65.139.96
 176.65.139.99
 176.65.140.132
@@ -2283,6 +2293,7 @@
 178.17.57.102
 178.171.123.80
 178.175.134.52
+178.18.147.96
 178.18.246.136
 178.18.248.36
 178.20.210.63
@@ -2408,6 +2419,7 @@
 182.96.1.9
 ||1822-mehares.com^
 ||182hstanerandvm.com^
+||182iletisim.xyz^
 ||182internette.com^
 ||182internettee.com^
 ||182randvm.com^
@@ -2901,6 +2913,7 @@
 191.96.207.179
 191.96.207.201
 192.109.138.65
+192.109.200.47
 192.109.200.50
 192.110.247.46
 192.116.236.99
@@ -3578,6 +3591,9 @@
 205.185.127.97
 205.189.160.3
 205.209.116.54
+205.237.106.127
+205.237.106.27
+205.237.110.243
 206.119.124.126
 206.119.80.89
 206.123.128.81
@@ -4208,6 +4224,7 @@
 37.120.239.187
 37.120.239.33
 37.120.239.52
+37.16.74.24
 37.16.75.69
 37.187.154.79
 37.187.74.75
@@ -4686,6 +4703,7 @@
 45.153.34.195
 45.153.34.203
 45.153.34.236
+45.153.34.26
 45.153.34.41
 45.153.34.54
 45.153.34.85
@@ -4736,6 +4754,7 @@
 45.192.219.60
 45.194.22.139
 45.194.86.85
+45.194.92.2
 45.195.148.107
 45.195.148.73
 45.195.57.30
@@ -5175,6 +5194,7 @@
 5.145.171.57
 5.161.190.139
 5.161.227.224
+5.175.215.102
 5.175.237.74
 5.175.249.223
 5.178.0.29
@@ -5231,6 +5251,7 @@
 5.35.104.31
 5.35.44.176
 5.39.19.13
+5.39.216.137
 5.39.221.36
 5.39.221.47
 5.39.221.48
@@ -6126,6 +6147,7 @@
 84.72.235.18
 ||8488xx8323.duckdns.org^
 85.106.203.106
+85.11.167.101
 85.11.167.19
 85.11.167.220
 85.11.187.64
@@ -6187,6 +6209,7 @@
 85.239.149.16
 85.239.149.40
 85.239.149.78
+85.239.151.41
 85.239.243.155
 85.239.33.149
 85.239.34.174
@@ -6251,7 +6274,9 @@
 87.121.79.6
 87.121.84.111
 87.121.84.24
+87.121.84.243
 87.121.84.25
+87.121.84.27
 87.121.84.45
 87.121.84.57
 87.121.84.83
@@ -6690,6 +6715,7 @@
 94.156.114.56
 94.156.128.159
 94.156.152.226
+94.156.152.234
 94.156.152.44
 94.156.152.67
 94.156.155.42
@@ -8079,6 +8105,8 @@
 ||binancetr.duckdns.org^
 ||binancetrbasvurulari.duckdns.org^
 ||binancetrkampanya.com^
+||binanciasturk.top^
+||binanciasturkeys.top^
 ||binanciasturkish.top^
 ||binanciaturkey.top^
 ||binancmasakdogrula22.duckdns.org^
@@ -9115,6 +9143,7 @@
 ||dijitalacentasorgulama.org^
 ||dijitalbasvurukanallarim.sbs^
 ||dijitalbasvurukatilimi.sbs^
+||dijitalbilgiform.sbs^
 ||dijitalbilgilendirmeler.xyz^
 ||dijitalbilgilendirmelerrim.duckdns.org^
 ||dijitaleis.space^
@@ -10338,6 +10367,7 @@
 ||haber1420.shop^
 ||haber1425.sbs^
 ||haber142512.sbs^
+||haber1452.sbs^
 ||haber1453.sbs^
 ||haber25-assf.shop^
 ||haber252.shop^
@@ -12064,6 +12094,7 @@
 ||krediiibsvrrkmpnyaafrsatlarii.life^
 ||krediiibsvrrkmpnyaafrsatlarii.online^
 ||krediiibsvrrkmpnyaafrsatlarii.xyz^
+||krediikmpnyaabsvrrsnfrstlarrr.info^
 ||krediikmpnyaabsvrrsnfrstlarrr.pro^
 ||kredimatik.sbs^
 ||kredionaylamaca.sbs^
@@ -13600,6 +13631,7 @@
 ||paribuarabafirsat.com^
 ||paribuarabafirsati.com^
 ||paribuarabahediye.com^
+||paribuarabahediyesi.com^
 ||paribuarabakampanya.com^
 ||paribuarabakampanyasi.com^
 ||paribuarabakatil.com^
@@ -13611,6 +13643,7 @@
 ||paribuarabaodul.com^
 ||paribuarabaodulu.com^
 ||paribuarabaplus.com^
+||paribuarabapromosyonu.com^
 ||paribuarabasahibi.com^
 ||paribuarabasansi.com^
 ||paribuarabasepeti.com^
@@ -16131,6 +16164,7 @@
 ||thelintora.store^
 ||themeltoxa.site^
 ||thenovara.site^
+||thereisnoscape.shop^
 ||thering.site^
 ||therovexa.store^
 ||thickentributary.digital^
@@ -17455,6 +17489,7 @@
 ||yaz-ppromosyonlariburada.com^
 ||yaz-promosyonu-teb.my-homeip.de^
 ||yaz-promosyonu-tebden.my-homeip.de^
+||yazbonusu.digital^
 ||yazkampanyasi.beer^
 ||yb2xzzz2k4343.duckdns.org^
 ||ybh4c4ugfxc.weeknedzoff.com^
