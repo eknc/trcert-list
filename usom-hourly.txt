@@ -5,6 +5,7 @@
 ||00898933.sbs^
 ||008ogwe.icu^
 ||009987b555552.duckdns.org^
+||010101023x235.duckdns.org^
 ||019d442a-endpoint.com^
 ||019d442e-endpoint.com^
 ||019d6860-endpoint.com^
@@ -10588,6 +10589,7 @@
 ||haobbao.com^
 ||haploadpin.com^
 ||happyreel.lol^
+||harberdarolsendeherseydengelbasr.biz^
 ||harcaharca-co.liveon.site^
 ||hardenedraisin.lasergrayscale.com^
 ||hardware-office.cc^
@@ -10795,6 +10797,7 @@
 ||hgs-ode-yukle-simdi.cfd^
 ||hgs-ode-zamani.cfd^
 ||hgs-odemeleri.duckdns.org^
+||hgs-pttavm.ph^
 ||hgs-simdi-yukleme-zamani.cfd^
 ||hgsaracdolum.web.app^
 ||hgsbakieduragi.web.app^
@@ -12077,6 +12080,7 @@
 ||kondromalazi.lat^
 ||kontrolpanel3541.com^
 ||konuriskalmaksa.click^
+||konveyt-giris.duckdns.org^
 ||kopru-bagla-t.myonlineportal.ch^
 ||koralansakadar.co^
 ||korlinnnimmir.com^
@@ -14251,6 +14255,7 @@
 ||pvasquez-princetonpartners-com-s-account.workers.dev^
 ||pzbsin.com^
 ||pzqpef.click^
+||q-n-bislem.duckdns.org^
 ||q378373.click^
 ||q52gk1ifewrutsc8.eptt-pttavm.info^
 ||q73449.click^
@@ -14837,6 +14842,7 @@
 ||sdcwww.oss-ap-southeast-1.aliyuncs.com^
 ||sdfbhygbertbqwer.click^
 ||sdfcsdfasdfasd.duckdns.org^
+||sdfsdasdfsdfsd.duckdns.org^
 ||sdfsdfqweqwef.duckdns.org^
 ||sdklcflsd231xasc123x12.cfd^
 ||sdklcflsd231xasc123x12.lol^
@@ -17781,6 +17787,7 @@
 ||zartzukurt.click^
 ||zasede-zaderete.xyz^
 ||zaurevionyzhub.world^
+||zauubslru-byyzaz-a1e01-rkatxe.lol^
 ||zavirelqomtu.com^
 ||zavorionix.cyou^
 ||zawsterris.com^
