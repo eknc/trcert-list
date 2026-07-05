@@ -712,6 +712,7 @@
 121.92.21.139
 ||1211122211112.duckdns.org^
 ||12121222122.duckdns.org^
+||12154455541565565690.duckdns.org^
 ||121586sssrdabs.xyz^
 122.10.118.125
 122.10.91.36
@@ -6436,11 +6437,13 @@
 89.64.70.69
 89.67.211.162
 ||89sadhash23sadh99sadhsd.click^
+||89sakdjkxk1l2312z312.sbs^
 ||8bknr2494g2.thechidocas.cyou^
 ||8d8ypzcydx35.icu^
 ||8mvq2xr.sbs^
 90.156.218.31
 90.156.4.204
+||90sadjkajklxk13x12.shop^
 91.103.252.165
 91.103.252.189
 91.103.252.206
@@ -7054,6 +7057,7 @@
 ||aceritop.com^
 ||acikekranbasvurulari.sbs^
 ||acikgundem.cyou^
+||aciklayici-klagr-edinim.myonlineportal.ch^
 ||acikliyabilriim.blogspot.com^
 ||acikpencere.gifts^
 ||acil112acill.xyz^
@@ -8001,6 +8005,7 @@
 ||belgegirisi-netgsm.com^
 ||belgimonay.click^
 ||belgimxcvxx.sbs^
+||belirleme-sinirlar-durdur.myonlineportal.ch^
 ||belivo.online^
 ||bellpearefrigerator.com^
 ||beloads.com^
@@ -8351,6 +8356,7 @@
 ||brightslunar.com^
 ||brika.surf^
 ||brimarto.gifts^
+||brinshopqa.cyou^
 ||briskinternet.com^
 ||brivanahubs.store^
 ||brokeapt.com^
@@ -9644,6 +9650,7 @@
 ||exanova.site^
 ||exanova.store^
 ||exczx.com^
+||exhibitproject.com^
 ||exonri.info^
 ||expedla-getphoto.cloud^
 ||extendyourcredibility.de^
@@ -10252,6 +10259,7 @@
 ||gryhnthtyuwer.click^
 ||gstaticnews.com^
 ||gstaticsnews.org^
+||gstaticsnewsz.com^
 ||gudkoarancasa.cfd^
 ||guhdureteserete.biz^
 ||guhubumuveredete.lol^
@@ -11306,6 +11314,7 @@
 ||isleyasiyorum.com^
 ||islmnktnas.net^
 ||isln-taknsjmaasn.net^
+||isln-taknsjmasn.net^
 ||islthbnhhayd.com^
 ||ismel32.blob.core.windows.net^
 ||ismobilinfirsatinim.duckdns.org^
@@ -12362,6 +12371,7 @@
 ||lodolasdenzdeneleser.xyz^
 ||loft488.xyz^
 ||logicalnewrestore.com^
+||logiccoder.digital^
 ||logicharbor.buzz^
 ||logifelsic.info^
 ||logikcraft.pro^
@@ -12810,6 +12820,7 @@
 ||mioljhsdol.cyou^
 ||miravalue.shop^
 ||mirexolzenova.xyz^
+||mirkazuno.sbs^
 ||misslink.click^
 ||mivqalo.tr^
 ||mjhgrb.click^
@@ -13683,6 +13694,7 @@
 ||paribuarabasansi.com^
 ||paribuarabasepeti.com^
 ||paribuarabasevinci.com^
+||paribuarabasevindirir.com^
 ||paribuarabasi.com^
 ||paribuarabayikazan.com^
 ||paribuarabayolunda.com^
@@ -13693,6 +13705,7 @@
 ||paribucekilis.online^
 ||paribucekilisi.co^
 ||paribucekilisim.co^
+||paribukazancarki.com^
 ||paribuodul.com^
 ||paribuodulcarki.com^
 ||paribusanscarki.com^
@@ -14938,6 +14951,7 @@
 ||serokvazir.cfd^
 ||seroluni.pro^
 ||serotoninenterprise.com^
+||sertifiky-daha-fazla.myonlineportal.ch^
 ||servalingarden.pro^
 ||server.cubatiendaalimentos.com.mx^
 ||serverhubx.cyou^
@@ -16533,6 +16547,7 @@
 ||travionasystem.com^
 ||travix.cyou^
 ||travorazone.com^
+||trazomika.capital^
 ||trbinance-tr.duckdns.org^
 ||trbncdogrulama2026masak.duckdns.org^
 ||trbnincebasvurularim.duckdns.org^
@@ -17070,6 +17085,7 @@
 ||vertualstreak.info^
 ||vetepez.top^
 ||vexalorin.shop^
+||vexaroza.digital^
 ||vexdaron.media^
 ||vexkupi.gifts^
 ||vexlondo.gifts^
