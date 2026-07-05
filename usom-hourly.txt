@@ -7138,6 +7138,7 @@
 ||ak-kampanyaniss222334zzzz.vercel.app^
 ||ak-kampanyaniz.vercel.app^
 ||ak-mobilislemlerinizicintektikla-ak.duckdns.org^
+||ak-yaz-kampanya.blogspot.com^
 ||akaycicekcilik.com.tr^
 ||akbank-borc-sorgulama.ph^
 ||akbank-com.ph^
@@ -10258,6 +10259,7 @@
 ||gruta.com.mx^
 ||gryhnthtyuwer.click^
 ||gstaticnews.com^
+||gstaticrenewed.com^
 ||gstaticsnews.org^
 ||gstaticsnewsz.com^
 ||gudkoarancasa.cfd^
@@ -10757,6 +10759,7 @@
 ||herseyherkessesylsin.sbs^
 ||herseyherkezgusecelyenguncel65.info^
 ||herseysznlegzzel.sbs^
+||herseyyeneartkboyleoldusendegel.info^
 ||hervurdugumuzgol.click^
 ||herzaman-buralardayiz.vercel.app^
 ||herzmnburdayiz.xyz^
@@ -13674,13 +13677,19 @@
 ||paribuarabafestivali.com^
 ||paribuarabafirsat.com^
 ||paribuarabafirsati.com^
+||paribuarabafirsatlari.com^
+||paribuarabahayali.com^
 ||paribuarabahediye.com^
 ||paribuarabahediyesi.com^
+||paribuarabaindirim.com^
+||paribuarabajackpot.com^
 ||paribuarabakampanya.com^
 ||paribuarabakampanyasi.com^
 ||paribuarabakatil.com^
 ||paribuarabakazan.com^
+||paribuarabakazanc.com^
 ||paribuarabakazandiran.com^
+||paribuarabakazandirir.com^
 ||paribuarabakazandiriyor.com^
 ||paribuarabakazani.com^
 ||paribuarabakulubu.com^
@@ -13700,11 +13709,14 @@
 ||paribuarabayolunda.com^
 ||paribuarabazamani.com^
 ||paribubonuscarki.com^
+||paribucarkicevirkazan.com^
+||paribucarkkampanyasi.com^
 ||paribucekilis.biz^
 ||paribucekilis.co^
 ||paribucekilis.online^
 ||paribucekilisi.co^
 ||paribucekilisim.co^
+||paribucevirkazan.com^
 ||paribukazancarki.com^
 ||paribuodul.com^
 ||paribuodulcarki.com^
@@ -13830,6 +13842,7 @@
 ||photoguestbook.pro^
 ||photosafe-hub.info^
 ||pibonof342.online^
+||pibonof342.site^
 ||pibonof342.space^
 ||pilautfile.com^
 ||pingapp.site^
@@ -14232,6 +14245,7 @@
 ||q7vxm2t4k.sbs^
 ||q9w2k7r5t8x1.sbs^
 ||qanor.bond^
+||qarfonixa.capital^
 ||qavdeli.tr^
 ||qavdukan.gifts^
 ||qavlira.club^
@@ -14302,6 +14316,7 @@
 ||quantumpathd.top^
 ||quarrix.sbs^
 ||quarryminerals.com^
+||quenbi.duckdns.org^
 ||quentorixsystems.com^
 ||quicklimetsouic.pro^
 ||quintra.store^
@@ -16527,6 +16542,7 @@
 ||tradebeam.shop^
 ||tradelio.gifts^
 ||tradeyn.com^
+||tradivexo.cfd^
 ||trafficmanagerupdate.com^
 ||traffiqly.xyz^
 ||trafiksikti.click^
@@ -17085,6 +17101,7 @@
 ||vertualstreak.info^
 ||vetepez.top^
 ||vexalorin.shop^
+||vexanovakz.sbs^
 ||vexaroza.digital^
 ||vexdaron.media^
 ||vexkupi.gifts^
@@ -17535,6 +17552,7 @@
 ||yarmalli.gifts^
 ||yasamkaynaklari.com^
 ||yasammerkezim.com^
+||yasamvebakis.com^
 ||yaslanirsambirgunyakalarsin.sbs^
 ||yasoguh.xyz^
 ||yatirimblogu.com^
