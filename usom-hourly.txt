@@ -9083,6 +9083,7 @@
 ||deeprace.info^
 ||deepwork.study^
 ||degerplatformu.com^
+||delicate-froyo-d9bfe4.netlify.app^
 ||delicebet.com^
 ||delightful-pony-1d3e5c.netlify.app^
 ||delii.icu^
@@ -10485,6 +10486,7 @@
 ||haberler32334.shop^
 ||haberler3422.sbs^
 ||haberler365guncel.com^
+||haberler4422424.shop^
 ||haberler4567844.shop^
 ||haberler4722.shop^
 ||haberler47823.shop^
@@ -12800,6 +12802,7 @@
 ||mhrsportal.vercel.app^
 ||mhrsrandevu.art^
 ||mhrsrandevu1182.site^
+||mhrsrandevualsanala.duckdns.org^
 ||mhrsrandevuburada.duckdns.org^
 ||mhrsrandevunburadan.com^
 ||mhrsrandevunburadan.duckdns.org^
