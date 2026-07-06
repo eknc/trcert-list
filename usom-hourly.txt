@@ -775,6 +775,7 @@
 125.44.25.122
 ||1253452324124.xyz^
 ||125415554558998991.duckdns.org^
+||125415554558998993.duckdns.org^
 ||12545589989990893.duckdns.org^
 ||1255665988451698992.duckdns.org^
 ||1255665988451698993.duckdns.org^
@@ -7211,6 +7212,7 @@
 ||aldin-caymakinesi.lat^
 ||aldinaktuelcay.xyz^
 ||aldinaldinaktuel.blogspot.com^
+||aldinaldinekstra.xyz^
 ||aldinaldinsende.click^
 ||aldinaldintemmuz.com^
 ||aldinbrasicay.lat^
@@ -7460,6 +7462,7 @@
 ||ashpaltlonpro.com^
 ||ashx.lhlsjcb.com^
 ||asics-turkiye.com^
+||aslanapp-bd0eefc497ce.herokuapp.com^
 ||aslankaplanherkeseburdakaplan.site^
 ||asliyegov.org^
 ||asliyesorgusu.org^
@@ -7708,6 +7711,7 @@
 ||basvurularbaslasdir.cloud^
 ||basvurulardevamediyo.cloud^
 ||basvurumbbvada.duckdns.org^
+||basvurumburda.click^
 ||basvurumerkeizma.cloud^
 ||basvurumerkezi.abrdns.com^
 ||basvurummobildenbntr.duckdns.org^
@@ -7968,6 +7972,7 @@
 ||bayykartech.com^
 ||bb-bb-vv-aa-ss-dd.xyz^
 ||bb-dd-cc-aa-gg.lat^
+||bb-dd-cc-aa-gg.xyz^
 ||bb-vv-aa-aa-gg-dd.xyz^
 ||bb-vv-aa-aa-gg-sd.xyz^
 ||bb-vv-aa-aa-ss-dd.xyz^
@@ -8755,6 +8760,7 @@
 ||ceaswadereli-viplifere.xyz^
 ||cebimdekimobilsubelerim.sbs^
 ||cebinizdekiglobalekran.duckdns.org^
+||cekilis--paribu.com^
 ||cekilis-kampanya.store^
 ||cekilis-kampanya.xyz^
 ||cekilis-paribu.com^
@@ -9132,7 +9138,9 @@
 ||dendendenburdakan47632830100.click^
 ||denemelergarismenuguncell.xyz^
 ||denionline.com^
+||deniz-mobil-com-promosyyon-anindan.duckdns.org^
 ||deniz-mobil-com-promosyyon-cebinde.duckdns.org^
+||deniz-mobil-com-promosyyon-ceptenn.duckdns.org^
 ||deniz-mobil-com-promosyyon-ekrani.duckdns.org^
 ||deniz-mobil-com-promosyyon-guncel.duckdns.org^
 ||deniz-mobil-com-promosyyon-sistemi.duckdns.org^
@@ -9781,6 +9789,7 @@
 ||fenqila.club^
 ||fentclearance.live^
 ||fentra.best^
+||fentris.org^
 ||ferdancandansandan.shop^
 ||ferdancandansandan.xyz^
 ||fertilitysaving.com^
@@ -10544,6 +10553,7 @@
 ||haberler31345653.shop^
 ||haberler32334.shop^
 ||haberler3422.sbs^
+||haberler3552323.shop^
 ||haberler363234.shop^
 ||haberler365guncel.com^
 ||haberler4422424.shop^
@@ -10922,6 +10932,7 @@
 ||hgszmniykleme.net^
 ||hgszmniykleme.online^
 ||hgszmniykleme.store^
+||hgszmniykleme.xyz^
 ||hhgcykl.click^
 ||hhgcyklm.click^
 ||hhgcyklme.click^
@@ -11617,6 +11628,7 @@
 ||jackscommunications.com^
 ||jaequlin.vu^
 ||jaguar-style.cfd^
+||jaguarslippers.com^
 ||jalwat.com^
 ||jambrilo.fund^
 ||jamescare.cfd^
@@ -12001,6 +12013,7 @@
 ||kkmpnyasonnnnfrstkbsvrr.live^
 ||kkozelkmpnycklsbsvrrr.info^
 ||kkozelkmpnycklsbsvrrr.pro^
+||kkuvvve.duckdns.org^
 ||kkwxle.click^
 ||kkxqbh.top^
 ||kl55polisi155.online^
@@ -12164,6 +12177,7 @@
 ||konveyt-giris.duckdns.org^
 ||kopru-bagla-t.myonlineportal.ch^
 ||koralansakadar.co^
+||koravelo.sbs^
 ||korlinnnimmir.com^
 ||korovkamu.com^
 ||korvex.cyou^
@@ -12185,6 +12199,7 @@
 ||koveytturkumreseyehat.duckdns.org^
 ||koveytumm.duckdns.org^
 ||koylu-bot.neocities.org^
+||koyunn.nicepage.io^
 ||kozlrmszbrdpylsyrz.xyz^
 ||kq7x2pvm4r.cfd^
 ||kraca-tr.shop^
@@ -12248,6 +12263,7 @@
 ||krelastonui.icu^
 ||krelavonuti.gifts^
 ||krenta.gifts^
+||krevon.org^
 ||krevont.cyou^
 ||krezi-merkezleri.duckdns.org^
 ||kripto-btc-turkbonus20.com^
@@ -12376,6 +12392,7 @@
 ||leniencyskirttray.com^
 ||lestresot.info^
 ||lesyatsmhzmt.com^
+||levano.gifts^
 ||levariq.gifts^
 ||levexionmedia.com^
 ||levline.gifts^
@@ -13053,6 +13070,7 @@
 ||mobilservisler-51.sbs^
 ||mobilservisler-53.sbs^
 ||mobilservisler-54.sbs^
+||mobilservisler-68.sbs^
 ||mobilservisorg.com^
 ||mobilseyehatisleml.duckdns.org^
 ||mobiltalepfirsati.duckdns.org^
@@ -13782,6 +13800,9 @@
 ||parayladiploma.web.app^
 ||parbuynowshop.com^
 ||parendalikla.click^
+||paribu--cekilis.com^
+||paribu--cekilisi.com^
+||paribu--technology.com^
 ||paribu--tekloloji.com^
 ||paribu-araba.com^
 ||paribu-cekilis.co^
@@ -13929,6 +13950,7 @@
 ||perplexity-platform.gitlab.io^
 ||persaniusdimonica8.com^
 ||personalsafe.cyou^
+||pestquiltsurprise.com^
 ||petalara.com^
 ||petalbella.gifts^
 ||petflow.gifts^
@@ -16814,6 +16836,7 @@
 ||trixauvexnet.ink^
 ||trizcom.cfd^
 ||trkamusorgu.org^
+||trkara.nicepage.io^
 ||trkaraca.shop^
 ||trkaracas.shop^
 ||trkasaldcc.nicepage.io^
@@ -17220,6 +17243,7 @@
 ||vasdeli.boats^
 ||vaslosalco.co^
 ||vatandaslrndkktineiletsm.sbs^
+||vatandasrandevuportall.duckdns.org^
 ||vault-sentinel.com^
 ||vaxbazel.gifts^
 ||vaxdori.tr^
@@ -17387,6 +17411,7 @@
 ||w-konut.click^
 ||w3xasv14culvnqj.top^
 ||w6m3r8p5t9q1.sbs^
+||w7n4x9r2t6p5.sbs^
 ||wahffsfdsahuakdjsax1.bond^
 ||wahffsfdsahuakdjsax1.cfd^
 ||wallmilo.com^
@@ -17444,6 +17469,7 @@
 ||website6657196.nicepage.io^
 ||website6658609.nicepage.io^
 ||website6659845.nicepage.io^
+||website6660935.nicepage.io^
 ||websitegit.lol^
 ||websitetasarimlarim.sbs^
 ||webtapcs.store^
@@ -17484,6 +17510,7 @@
 ||wireom.com^
 ||wjueor.buzz^
 ||woauka446vb.icu^
+||woodwok.asia^
 ||worker-net.com^
 ||worknews.online^
 ||worknova.digital^
@@ -17529,6 +17556,7 @@
 ||wqeddasqw.cfd^
 ||wqrrtqwtg.xyz^
 ||wqrwqewqerwqrwqed.com^
+||wravio.info^
 ||wrned.com^
 ||wrvuga.buzz^
 ||wrwgwgs.xyz^
@@ -18058,6 +18086,7 @@
 ||zirtolar-ggsd.cfd^
 ||zitrkfs.cfd^
 ||ziyaret-prise-lov.myonlineportal.ch^
+||ziytratgx.cfd^
 ||zjjhasgjfasfjaa1.cfd^
 ||zkooperatif.cfd^
 ||zkopera.cfd^
