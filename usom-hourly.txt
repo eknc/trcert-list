@@ -9189,6 +9189,7 @@
 ||devumo.top^
 ||dewhurricaneicicle.com^
 ||dfgdfge4gfdgfd.nicepage.io^
+||dfgdfgerht.duckdns.org^
 ||dfter.netlify.app^
 ||dgmbiq.buzz^
 ||dhamoyush.com^
@@ -10476,6 +10477,7 @@
 ||haber1425.sbs^
 ||haber142512.sbs^
 ||haber1452.sbs^
+||haber1452.shop^
 ||haber1453.sbs^
 ||haber25-assf.shop^
 ||haber252.shop^
@@ -14021,6 +14023,7 @@
 ||pixelkeep.cyou^
 ||pixelline.digital^
 ||pixelmira.live^
+||pixeloza.xyz^
 ||pixoluna.bond^
 ||piyasa-yaklasim.info^
 ||piyasabizim.click^
@@ -17387,6 +17390,7 @@
 ||votehubom.com^
 ||votehubon.com^
 ||votelyom.com^
+||votenza.info^
 ||votody.store^
 ||voxterra.xyz^
 ||vpn.garantibbvakredibasvuru.com^
@@ -17823,6 +17827,7 @@
 ||yeniguzelgunlerkapida.com^
 ||yenildigimteksavas.sbs^
 ||yenileniyoruz.online^
+||yeninokta.abrdns.com^
 ||yeniperspektif.site^
 ||yeniyepyenifirsatlar.com^
 ||yeniyilmlgrsoss.online^
