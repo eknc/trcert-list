@@ -649,6 +649,7 @@
 118.107.46.174
 118.107.7.166
 118.140.151.242
+118.145.151.135
 118.174.98.182
 118.193.240.214
 118.193.44.112
@@ -1458,6 +1459,7 @@
 152.89.198.214
 152.89.198.77
 153.117.40.134
+153.80.249.218
 154.135.250.22
 154.146.238.122
 154.160.64.122
@@ -1511,6 +1513,8 @@
 154.219.123.25
 154.220.123.162
 154.220.92.179
+154.220.92.188
+154.220.93.247
 154.222.224.94
 154.223.19.106
 154.223.21.130
@@ -1705,6 +1709,7 @@
 159.100.6.69
 159.100.9.252
 159.196.128.120
+159.198.32.222
 159.198.36.115
 159.203.143.205
 159.203.164.101
@@ -1768,6 +1773,7 @@
 162.19.237.181
 162.210.194.2
 162.210.196.101
+162.211.230.239
 162.213.194.186
 162.215.170.26
 162.216.5.130
@@ -4121,6 +4127,7 @@
 ||300j34cx2credxixx311.duckdns.org^
 31.13.248.89
 31.131.26.161
+31.132.90.3
 31.135.199.145
 31.14.142.50
 31.149.213.145
@@ -5353,6 +5360,7 @@
 51.75.247.232
 51.77.140.144
 51.79.152.16
+51.79.152.192
 51.79.154.30
 51.79.154.42
 51.79.19.53
@@ -5640,6 +5648,7 @@
 ||65445345.net^
 ||65454234423.net^
 66.112.216.232
+66.132.172.193
 66.132.186.180
 66.132.186.190
 66.132.186.199
@@ -6078,6 +6087,7 @@
 82.156.146.62
 82.180.133.120
 82.199.223.75
+82.202.179.6
 82.25.35.25
 82.25.70.65
 82.26.74.104
@@ -7213,6 +7223,7 @@
 ||aldin-caymakinesi.lat^
 ||aldinaktuelcay.xyz^
 ||aldinaldinaktuel.blogspot.com^
+||aldinaldinekstra.site^
 ||aldinaldinekstra.xyz^
 ||aldinaldinsende.click^
 ||aldinaldintemmuz.com^
@@ -7443,6 +7454,7 @@
 ||asdlfdsamfksdafmkl.net^
 ||asdsaf0sdvldmv.net^
 ||asdsaqffllfe00n.net^
+||asdxkwqkexjqwx123x1.cfd^
 ||aselite.xyz^
 ||aselsan-app.digital^
 ||aselsan-healthcare.com^
@@ -7569,6 +7581,7 @@
 ||aviskiralama.duckdns.org^
 ||avisotomobilkiralama.com^
 ||avisrental.fun^
+||avisturkey.vercel.app^
 ||avmhemenal.com^
 ||avmkampanyasi.com^
 ||avmsiparislerim.com^
@@ -7713,6 +7726,7 @@
 ||basvurularbaslasdir.cloud^
 ||basvurulardevamediyo.cloud^
 ||basvurumbbvada.duckdns.org^
+||basvurumburada.click^
 ||basvurumburda.click^
 ||basvurumerkeizma.cloud^
 ||basvurumerkezi.abrdns.com^
@@ -8543,6 +8557,7 @@
 ||burda-frslat.xyz^
 ||burdayzsendegelkatl89.click^
 ||burdnvlarasndbk.com^
+||burefuda-zelokipare.lol^
 ||burkcmanoanakca.xyz^
 ||burkut.aem.page^
 ||burkut.aem.reviews^
@@ -8654,6 +8669,7 @@
 ||cambioefectivo.com^
 ||cameislem.22web.org^
 ||camlarfilmli.click^
+||camorreado.click^
 ||campanha1-api.ef971a42.workers.dev^
 ||campixo.media^
 ||camporaq.com^
@@ -9180,6 +9196,7 @@
 ||destekyardimlari.com^
 ||destekyardimlarim.com^
 ||detayli-blogu-g.myonlineportal.ch^
+||deteledussers020201030.yyuyy.com^
 ||deukargotakip.com^
 ||dev.evsahibibasvuru.com^
 ||devamederiz.sonkaracafirsatinialalim.shop^
@@ -9293,6 +9310,7 @@
 ||docviro.xyz^
 ||dogrudanbakis.com^
 ||dogrudanveriler.com^
+||dogubakisi.com^
 ||doktoraix.com^
 ||dolandiriciyakuptv.click^
 ||dolap.ilanim-onay-762213.com^
@@ -9355,6 +9373,7 @@
 ||dunyacokguzel.netlify.app^
 ||dunyamali.sbs^
 ||dunyamutfagindanlezzetler.shop^
+||duoasdhashdhas988asdhashd.click^
 ||duszgouz.com^
 ||duyanlardan-duymayanlara-grsgor.sbs^
 ||duygularimbekler.click^
@@ -9406,6 +9425,7 @@
 ||e-online-ilan-sepet.com^
 ||e-online-ilan-sepetim.com^
 ||e-onlineislemlerim.rf.gd^
+||e-sozlesme.kurumsal-online-islem.com^
 ||e-sube-isbank.ph^
 ||e-sube.infobireysel.online^
 ||e-sube.istanbul-portfoydanismanlik.com^
@@ -9962,6 +9982,7 @@
 ||freeworldcupstreaming.xyz^
 ||freshdirection.online^
 ||freshlanez.com^
+||freshperspective.info^
 ||freshpulsedaily.com^
 ||freshscopehub.com^
 ||freshtrail.info^
@@ -11427,6 +11448,7 @@
 ||islemlerhizmet.online^
 ||islemlerinizzzizz.sbs^
 ||islemnktnasna.net^
+||islemnokta-nasita.net^
 ||islemnoktnasni.net^
 ||islemonlinegarantimobilguncel.online^
 ||islemtakibi.com^
@@ -11718,6 +11740,7 @@
 ||k0bibasvurularim.click^
 ||k0bibilgilendirmesi.com^
 ||k0bidestegi.com^
+||k0bidestegim.cfd^
 ||k0bidesteke.click^
 ||k0bidestekmerkezi.com^
 ||k0bihaberl.com^
@@ -11808,6 +11831,7 @@
 ||kanada.ct.ws^
 ||kankacmsendebasvurartdesign.art^
 ||kankanerdesnzyau3028109e323d.click^
+||kanmaynsahtesetlergbehaydebak45.click^
 ||kanpamyaburedayenc4b1.pro^
 ||kanpyasunfursathemnbashur3498023209.click^
 ||kanyancgenelmerkezkanalask.online^
@@ -11914,6 +11938,7 @@
 ||kelmoxi.forum^
 ||kelopins.info^
 ||kelvra.club^
+||kemanci322.xyz^
 ||kemolarinizburda.xyz^
 ||kemopscuklar.xyz^
 ||kemopscularburda.xyz^
@@ -12617,6 +12642,7 @@
 ||m9x4q2v8n1z6.cfd^
 ||maasprom.my-homeip.net^
 ||maaspromosyon.my-homeip.de^
+||machiacdsxj1k23x12.cfd^
 ||macljksave.life^
 ||madena.qpon^
 ||madimat.yachts^
@@ -13232,6 +13258,7 @@
 ||n5739330.click^
 ||n5p9t3w6r8m2.sbs^
 ||n5q7b2x8m4v9.cfd^
+||n7q2x9m4v6k1.cfd^
 ||nabereebebegburdaherkes.pro^
 ||narkozweb.online^
 ||nasdaqpro.top^
@@ -13248,7 +13275,10 @@
 ||natopress.org^
 ||natosummit.org^
 ||natosummitankara.com^
+||natosummitankara.com.tr^
 ||natosummitankara.org^
+||natosummitankara.tr^
+||natozirvesiankara.com^
 ||naverixo.gifts^
 ||navhsfgsadfas1.cfd^
 ||navhsfgsadfas1.lat^
@@ -13404,8 +13434,10 @@
 ||nolux.sbs^
 ||nomivo.gifts^
 ||nong-lt-rn-en.myonlineportal.ch^
+||nop.lat^
 ||nopanel-363563.top^
 ||nopanel-564732.top^
+||nopanel-815625.top^
 ||nopoked.top^
 ||norteviaproject.com^
 ||northhorizon.company^
@@ -13445,6 +13477,7 @@
 ||ns-wwwbloomberghtcom.ithandinogen.cfd^
 ||ns-wwwbloomberghtcom.sithen.sbs^
 ||ns-wwwhaber61net.fakingguango.cfd^
+||ns-wwwhaber61net.grippex.cfd^
 ||ns-wwwhaber7com-haber.mercalloiter.sbs^
 ||ns-wwwhaber7com-haber.revise.sbs^
 ||ns-wwwntvcomtr.sludgy.cfd^
@@ -13636,6 +13669,7 @@
 ||onlinesorgutursab.org.tr^
 ||onlinesozlesmeler.org^
 ||onlinetemmuzfirsatlari.com^
+||onliseriesxozel.click^
 ||onlline-sbm.org^
 ||onllineislemgarantiguncel.duckdns.org^
 ||onllinekonomimobilleapptr.xyz^
@@ -14265,6 +14299,7 @@
 ||ptt-avm-kmsorgu.web.app^
 ||ptt-avm-sorgulama.firebaseapp.com^
 ||ptt-avm-sorgulama.web.app^
+||ptt-hizliaracsorgu-kmsorgula.web.app^
 ||ptt-km-sorgula-ma.firebaseapp.com^
 ||ptt-km-sorgula-ma.web.app^
 ||ptt-kmsorgula-aracgecmisiogren.firebaseapp.com^
@@ -14317,6 +14352,7 @@
 ||pttavm-kmcinizburda.web.app^
 ||pttavm-kmsorgulama-hizmeti.firebaseapp.com^
 ||pttavm-kmsorgulama-hizmeti.web.app^
+||pttavm-kmsorgulama.web.app^
 ||pttavm-odemenizguvende.com^
 ||pttavm-onlinesatis.com^
 ||pttavm-onlinesepetim.com^
@@ -14531,6 +14567,7 @@
 ||quentorixsystems.com^
 ||quicklimetsouic.pro^
 ||quintra.store^
+||qumora.info^
 ||quorion.site^
 ||qwdfqwefsdafsd.duckdns.org^
 ||qwdx12dxadxq.sbs^
@@ -14686,6 +14723,7 @@
 ||regdev-google.com^
 ||regeurope.online^
 ||reggzx.help^
+||rehber-olusumu-rgnt.myonlineportal.ch^
 ||rehber.randevubilgi.it.com^
 ||rehberdetay.sbs^
 ||rehberleri.click^
@@ -14768,6 +14806,7 @@
 ||roimora.com^
 ||roivelo.live^
 ||roldco.com^
+||romnesst.com^
 ||roomlinee.com^
 ||roomnest.gifts^
 ||roomvend.homes^
@@ -14843,6 +14882,7 @@
 ||sabahaksam.netlify.app^
 ||sabahizlx.dnsup.net^
 ||sabirallahsabir.sbs^
+||sabitgirsiz2026.com^
 ||sacdascdacadcasdadcasds.cfd^
 ||sacmasapan.click^
 ||sacxasfafasfdasfarafs.sbs^
@@ -15498,6 +15538,7 @@
 ||sonrx2odso12xll32.duckdns.org^
 ||sonsaniyeyebirakmamaliyiz.sbs^
 ||sonsiparislerinden.cloud^
+||sonuc-baksrnaltas.net^
 ||sonucislmnktans.net^
 ||soonest-los-establishment-loading.trycloudflare.com^
 ||sooonnkmpnyybsvrprmsynnn.art^
@@ -16246,6 +16287,8 @@
 ||techmora.sbs^
 ||technoinfo.xyz^
 ||technology--paribu.com^
+||technology-paribu.com^
+||technologyparibu.com^
 ||technovy.digital^
 ||techovoise.digital^
 ||techroboticslabmade-techie-com-s-account.workers.dev^
@@ -16720,6 +16763,7 @@
 ||topppira.sbs^
 ||topprogressstores.online^
 ||topubosvuru.online^
+||topubosvuru.store^
 ||toravel.gifts^
 ||toravina.gifts^
 ||tordevol.com^
@@ -17271,6 +17315,7 @@
 ||v434gyh66.nicepage.io^
 ||v4n8z2k7x6p9.cfd^
 ||v5n8x3b6r2w9.sbs^
+||v6n4x9q2m7b1.cfd^
 ||vabelles.com^
 ||vagturk.com^
 ||vakifbankyatirim-click.pages.dev^
@@ -18179,6 +18224,7 @@
 ||zrt300dijital.sbs^
 ||zrt300zrt300.cfd^
 ||zrt300zrt300.sbs^
+||zrt300zzrtt.sbs^
 ||zrtdijital.sbs^
 ||zrtkmprnsyz.click^
 ||zsafdsaghfdassax.sbs^
