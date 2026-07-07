@@ -802,6 +802,7 @@
 128.49.100.57
 128.90.141.158
 ||12855w652.click^
+||12855w652.forum^
 129.121.114.124
 129.154.242.197
 129.212.209.120
@@ -5642,6 +5643,7 @@
 65.60.22.114
 65.60.9.236
 65.75.195.19
+||651351331.xyz^
 ||652432431.net^
 ||6526115.xyz^
 ||654234234.net^
@@ -8319,6 +8321,7 @@
 ||bmkbasvur.com^
 ||bn0b1cvb0c2s2.duckdns.org^
 ||bn23fddnd3.sbs^
+||bn99990009999.duckdns.org^
 ||bnaosf1he.shop^
 ||bnaykartech.com^
 ||bnc001bsv032d.duckdns.org^
@@ -8477,6 +8480,7 @@
 ||bsvrrrkmpnyacklssss.click^
 ||bsvrrrkmpnyacklssss.info^
 ||bsvrrrkmpnyyykrediiifrstlrr.pro^
+||bsvrrrkmpyyynyyykrediiifrstlrr.pro^
 ||bsvrrrrprmmssynnkmpnyyyy.info^
 ||bsvrrrrprmmssynnkmpnyyyy.live^
 ||bsvrruumerkeziiprmsynnn.info^
@@ -9075,6 +9079,7 @@
 ||cyberlyo.digital^
 ||cyberprotector.online^
 ||cykure-lopebadese.xyz^
+||cylupikare-zudefese.lol^
 ||d155polisi.online^
 ||d28c4902-a.b-cdn.net^
 ||d4ug.site^
@@ -9544,6 +9549,7 @@
 ||ehibeler.cfd^
 ||ehlswp.cc^
 ||ehome-grn-gir.pro^
+||ehukukgov.org^
 ||ehukuksorgu.org^
 ||einarkramer.22web.org^
 ||ejecen.com^
@@ -9982,6 +9988,7 @@
 ||forestsignal.com^
 ||forgejadei.pro^
 ||formbasvurum.com^
+||fortunatoankara.xyz^
 ||forum.evsahibibasvuru.com^
 ||forzir.cfd^
 ||founiodrai.digital^
@@ -10527,6 +10534,7 @@
 ||haber132.shop^
 ||haber1420.shop^
 ||haber1425.sbs^
+||haber1425.shop^
 ||haber142512.sbs^
 ||haber1452.sbs^
 ||haber1452.shop^
@@ -10750,6 +10758,7 @@
 ||hastaneserere.uk^
 ||hastanesgmdlm.cfd^
 ||hastanesizin.com^
+||hastaneyapakrandv.duckdns.org^
 ||hastanrsdedede.uk^
 ||hastatnatente.uk^
 ||hastesserae.cfd^
@@ -12981,6 +12990,7 @@
 ||mhrrsdsrnadevusiteds.store^
 ||mhrs-randevu.vercel.app^
 ||mhrsbasvurularinizburadan.duckdns.org^
+||mhrsbasvuruportali.duckdns.org^
 ||mhrsgiris.sbs^
 ||mhrshekimarandevusu.vercel.app^
 ||mhrshekimlarandevusu.vercel.app^
@@ -14600,6 +14610,7 @@
 ||qorlyva.xyz^
 ||qorvani.gifts^
 ||qorvendix.com^
+||qqqqqnnnbb.duckdns.org^
 ||qrlwkemail.garantibbvakredibasvuru.com^
 ||qtwayedfasfhda1sasx2.shop^
 ||quantovexhub.com^
@@ -15151,6 +15162,7 @@
 ||securesitem1.co^
 ||security.bpfi.digital^
 ||securityzirra4bnk4.duckdns.org^
+||secutoki.site^
 ||sedennc4b1jelldc4.garden^
 ||sedgepufftyd.pro^
 ||sefer.obilet.nl^
@@ -16734,6 +16746,7 @@
 ||toki.fastbsvuru.click^
 ||toki2006-vercel.vercel.app^
 ||tokibasv3urdumunnngeldi.xyz^
+||tokifusion.digital^
 ||tokigov-tr.vercel.app^
 ||tokikonutbasvurulari2.vercel.app^
 ||tokikonuthamurabi.vercel.app^
@@ -16837,6 +16850,7 @@
 ||totallegacy.org^
 ||tottalk.mom^
 ||totti.sbs^
+||touropenlederfran.com^
 ||tp-web1979.space^
 ||tpetrolinvest.com^
 ||tpkpolus.ru^
@@ -17184,6 +17198,7 @@
 ||tuvturkkx.com^
 ||tuvturkkye.com^
 ||tuvturkkyr.com^
+||tuvturklse.com^
 ||tuvturklsl.digital^
 ||tuvturkmuayene.org^
 ||tuvturkobs.com^
@@ -17638,6 +17653,7 @@
 ||welllbeingplace.com^
 ||wellvexa.gifts^
 ||welovechinatown.info^
+||weptody.site^
 ||weqdcy.buzz^
 ||wewannaliveinpice.com^
 ||wewannaliveinpicede.com^
@@ -17930,6 +17946,7 @@
 ||yatirimci-merkezi.net^
 ||yatirimfinansmanmenkuldegerler.net^
 ||yatirimufku.site^
+||yauapp-a2dc65a797a0.herokuapp.com^
 ||yavilladayizyahapis.click^
 ||yavshopi.digital^
 ||yaz-ayi-express-bonus.sbs^
@@ -17952,7 +17969,10 @@
 ||yendomburdagelsendeabura87.click^
 ||yengeldmsendekatlmrmyap.click^
 ||yengiriiz2026.com^
+||yengirzs2026.com^
+||yengizrisin.com^
 ||yengunyenheyecanherseyburdaesenedersn.click^
+||yengzlis2026.com^
 ||yeni-bm-yenifirsatlarim.vercel.app^
 ||yeni500dsa.nicepage.io^
 ||yeni5d7h6cc.nicepage.io^
