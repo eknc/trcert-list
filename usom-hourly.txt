@@ -9381,6 +9381,7 @@
 ||docviro.xyz^
 ||dogrudanbakis.com^
 ||dogrudanveriler.com^
+||dogrulama-paramguvende.com^
 ||dogubakisi.com^
 ||doktoraix.com^
 ||dolandiriciyakuptv.click^
@@ -10592,6 +10593,7 @@
 ||guvenlihizmet.online^
 ||guvenlihizmetler.online^
 ||guvenlihizmetleri.online^
+||guvenlimuhasebeodemenoktasi.duckdns.org^
 ||guvenliodeme-sahibinden-havale.com^
 ||guvenliodemesatislarim.com^
 ||guvenlionline.com^
