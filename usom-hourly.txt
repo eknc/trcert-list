@@ -1184,6 +1184,7 @@
 ||14512246565578998990.duckdns.org^
 ||145455588989998990.duckdns.org^
 ||145455588989998992.duckdns.org^
+||145455588989998995.duckdns.org^
 146.0.228.66
 146.0.79.21
 146.103.40.203
@@ -7325,6 +7326,7 @@
 ||anadolukesiti.com^
 ||anadolukoprusu.com^
 ||anadolumahkeme.org^
+||anadolusehri.com^
 ||anadolusync.com^
 ||anadolutrend.com^
 ||anadoluvector.com^
@@ -8460,6 +8462,7 @@
 ||briefzone.xyz^
 ||brighterora.com^
 ||brightfutureview.com^
+||brightloop.today^
 ||brightly.to^
 ||brightnewsfeed.com^
 ||brighto.vu^
@@ -11542,6 +11545,7 @@
 ||intreflex-grentde-ok.myonlineportal.ch^
 ||inves-rapor-ent.myonlineportal.ch^
 ||investika-club.com^
+||investmentpulsehub.com^
 ||investora.capital^
 ||investtmaster.com^
 ||invoice-limat-t.myonlineportal.ch^
@@ -13077,6 +13081,7 @@
 ||menduzek.media^
 ||mentaorb.com^
 ||menuselgiriskayitlarim.sbs^
+||meralina.icu^
 ||merasee.co^
 ||meravix.cyou^
 ||merkantalolol.asia^
@@ -13091,6 +13096,7 @@
 ||merkezinceleme.com^
 ||merkezisistem-b.com^
 ||merkeziteknikgarantimenucozumleri.space^
+||merkeziyetsizbasvuru.abrdns.com^
 ||merkeznoktasi.com^
 ||merkeztakibi.com^
 ||merona.click^
@@ -14339,6 +14345,7 @@
 ||plainraw.com^
 ||plakodirenu.com^
 ||planti.best^
+||planti.sbs^
 ||platfade.tr^
 ||plaxenorudi.gifts^
 ||play67.cc^
@@ -14739,6 +14746,7 @@
 ||q7m2z9k4t1p8.cfd^
 ||q7vxm2t4k.sbs^
 ||q9w2k7r5t8x1.sbs^
+||qa738373.click^
 ||qanor.bond^
 ||qarevisto.sbs^
 ||qarfelinoz-upadexi.lol^
@@ -17499,6 +17507,7 @@
 ||uludagerikli.xyz^
 ||ululink.click^
 ||ulusalbakisim.com^
+||ulusaldefter.com^
 ||ulusalmenkuldegerler.com^
 ||umghjmtrynwernwe.click^
 ||umr2xx12e31x2.duckdns.org^
@@ -17541,6 +17550,7 @@
 ||upsfilo.com^
 ||uptimebox.sbs^
 ||uptimecore.xyz^
+||uptimedeepblue.yyuyy.com^
 ||uqzvdu.buzz^
 ||urbancraftx.com^
 ||urbanforge.vu^
@@ -18190,6 +18200,7 @@
 ||yasamguncesi.com^
 ||yasamkaynaklari.com^
 ||yasammerkezim.com^
+||yasamsayfasi.com^
 ||yasamvebakis.com^
 ||yaslanirsambirgunyakalarsin.sbs^
 ||yasoguh.xyz^
