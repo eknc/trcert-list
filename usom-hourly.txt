@@ -1186,6 +1186,7 @@
 ||145455588989998992.duckdns.org^
 ||145455588989998995.duckdns.org^
 ||145455588989998996.duckdns.org^
+||145455588989998997.duckdns.org^
 146.0.228.66
 146.0.79.21
 146.103.40.203
@@ -4231,6 +4232,7 @@
 ||34424firsatbsvuru.com^
 ||345043674984032.net^
 ||345235fgdfgdgdgdgd.shop^
+||346346wdrf234.click^
 ||346346wdrf23465.click^
 ||3464634dsf235wf2.click^
 ||34985348990000.net^
@@ -7352,6 +7354,7 @@
 ||ankaralunex.com^
 ||ankarameclisqivo.com^
 ||ankaranews24.com^
+||ankarapulse.cyou^
 ||ankarapusula.live^
 ||ankarasummit.com^
 ||ankarasummit.ph^
@@ -7769,6 +7772,7 @@
 ||basvursens.sbs^
 ||basvursenv.sbs^
 ||basvursenz.sbs^
+||basvursrf.sbs^
 ||basvurtamamlana.cloud^
 ||basvuru-cekilis.online^
 ||basvuru-girisi-gvbg.cfd^
@@ -8419,6 +8423,7 @@
 ||borilune.pro^
 ||borsaci.site^
 ||borsagundemi.media^
+||borsava.capital^
 ||borusan-ai.net^
 ||bosflux.gifts^
 ||boslina.gifts^
@@ -8438,6 +8443,7 @@
 ||bradx23x2ff233.duckdns.org^
 ||braiveeaps.com^
 ||braketiretub.com^
+||brakoveni.capital^
 ||bralixor.xyz^
 ||bramblefrondrty.top^
 ||brandjumpy.com^
@@ -9262,6 +9268,7 @@
 ||deniz-mobil-com-promosyonn-cebimde.duckdns.org^
 ||deniz-mobil-com-promosyonn-fast.duckdns.org^
 ||deniz-mobil-com-promosyonn-giriss.duckdns.org^
+||deniz-mobil-com-promosyonun-aninda.duckdns.org^
 ||deniz-mobil-com-promosyyon-anindan.duckdns.org^
 ||deniz-mobil-com-promosyyon-aninnda.duckdns.org^
 ||deniz-mobil-com-promosyyon-cebinde.duckdns.org^
@@ -9336,6 +9343,7 @@
 ||dijital-basvuruadres.sbs^
 ||dijital-basvuruadresim.sbs^
 ||dijital-basvurular.sbs^
+||dijital-bilgi.sbs^
 ||dijital-bireyselbasvurular.sbs^
 ||dijital-bireyselbasvurulari.sbs^
 ||dijital-bireyselbasvurularim.sbs^
@@ -9682,6 +9690,7 @@
 ||elaletleriyapimar.com^
 ||elclasico.click^
 ||elconews.blog^
+||elektronik-alisveris-merkezi.com^
 ||elektronik-magaza-sepetim.com^
 ||elektronik-urun-sepetim.com^
 ||elevatefitness.life^
@@ -10211,6 +10220,7 @@
 ||g2x6k1q8p5v9.cfd^
 ||g584944.click^
 ||g7j3w9m2s6k1.cfd^
+||g7z3p9t4x6m1.cfd^
 ||gadellinet.com^
 ||gajingalews.pro^
 ||galata-modasi.shop^
@@ -10249,6 +10259,7 @@
 ||garantiform.vercel.app^
 ||garantigaranti.pzbsin.com^
 ||garantiimenkuldegerler.com^
+||garantikampanyan.click^
 ||garantili2026.duckdns.org^
 ||garantilisin.duckdns.org^
 ||garantimenkuldegerler.com^
@@ -11132,6 +11143,7 @@
 ||hgssyueklefdbusrs.store^
 ||hgstekburadaaa.xyz^
 ||hgsxsbasvuru.duckdns.org^
+||hgsyklebrcsrgu.xyz^
 ||hgsykleprahgsykle.cfd^
 ||hgsykleykleode.cfd^
 ||hgsylgcsonlinebrcpm.com^
@@ -11174,6 +11186,7 @@
 ||hitkrul.com^
 ||hizlandirmaszamanis.cloud^
 ||hizlgbcesiicc.com^
+||hizlgecisbakieyukleme.web.app^
 ||hizlgecisonlnebakye.lat^
 ||hizli-limit.xyz^
 ||hizli-siparis-sayfasi.com^
@@ -12078,6 +12091,7 @@
 ||karasoftinterior.com^
 ||karca.shop^
 ||kardeslerorda.click^
+||karelunox.cyou^
 ||karg00-vakti.sbs^
 ||karg00-vaktii.sbs^
 ||kargotakip.mobilservis-82.sbs^
@@ -12092,6 +12106,7 @@
 ||kartalreklam9147.duckdns.org^
 ||kartmat.opik.net^
 ||kartomopiks.opik.net^
+||kasalarsaglamtnn.net^
 ||katil202600001.duckdns.org^
 ||katilim.nicepage.io^
 ||katilimda.nicepage.io^
@@ -12137,6 +12152,7 @@
 ||kelmoxi.forum^
 ||kelopins.info^
 ||kelvra.club^
+||kemanci322.cfd^
 ||kemanci322.xyz^
 ||kemolarinizburda.xyz^
 ||kemopscuklar.xyz^
@@ -13119,6 +13135,7 @@
 ||merkezihekimkontrolmerkezi.digital^
 ||merkezihekimrandevusu.dyndns-at-home.com^
 ||merkeziiprmsynnfrstlarrbsvrr.live^
+||merkezikayit.abrdns.com^
 ||merkezinceleme.com^
 ||merkezisistem-b.com^
 ||merkeziteknikgarantimenucozumleri.space^
@@ -13456,11 +13473,15 @@
 ||musteriportalim.sbs^
 ||muygufuderesede.lat^
 ||muzedunyasi.com^
+||muzegezi.click^
 ||muzehizmet.click^
 ||muzeislem.click^
+||muzekapisi.click^
 ||muzekartim.click^
 ||muzekartim.com^
 ||muzeodeme.click^
+||muzeonline.click^
+||muzeportal.biz^
 ||muzeportal.com^
 ||muzeportali.click^
 ||muzeziyaret.click^
@@ -15273,6 +15294,7 @@
 ||sahibinden.e-ilan-online-sepeti.com^
 ||sahibinden.e-online-ilan-sepet.com^
 ||sahibinden.e-online-ilan-sepetim.com^
+||sahibinden.elektronik-alisveris-merkezi.com^
 ||sahibinden.elektronik-alisverisin.com^
 ||sahibinden.elektronik-magaza-sepetim.com^
 ||sahibinden.elektronik-urun-sepetim.com^
@@ -18086,6 +18108,7 @@
 ||xandiro.website^
 ||xasd235467.sbs^
 ||xasklj12k3lxjscdlasjkd.shop^
+||xasx4wf34t34tg.shop^
 ||xasxk12jk3xsadx123x12.lat^
 ||xaueof.click^
 ||xavirelmondiq.xyz^
@@ -18101,6 +18124,7 @@
 ||xeldaqur.shop^
 ||xelmalli.gifts^
 ||xelmunqavero.shop^
+||xelovarnik.shop^
 ||xelovranta.capital^
 ||xeltra.xyz^
 ||xelunoq.gifts^
@@ -18258,6 +18282,7 @@
 ||yatirimci-merkezi.net^
 ||yatirimfinansmanmenkuldegerler.net^
 ||yatirimufku.site^
+||yauapp-006949517387.herokuapp.com^
 ||yauapp-a2dc65a797a0.herokuapp.com^
 ||yavilladayizyahapis.click^
 ||yavshopi.digital^
@@ -18487,6 +18512,7 @@
 ||zelmador.media^
 ||zelmallo.tr^
 ||zelmoraq.bond^
+||zeloravik.shop^
 ||zelpazro.gifts^
 ||zelshopro.com^
 ||zelvanto.xyz^
