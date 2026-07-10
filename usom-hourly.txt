@@ -553,11 +553,13 @@
 112.105.19.170
 112.113.112.5
 112.121.165.45
+112.132.218.45
 112.133.194.254
 112.134.208.214
 112.248.114.89
 112.29.110.89
 112.38.115.115
+112.51.253.153
 112.97.203.199
 ||112112112.click^
 ||1123344225566112.duckdns.org^
@@ -672,6 +674,7 @@
 119.2.126.2
 119.28.32.143
 119.28.41.143
+119.28.49.103
 119.29.219.211
 119.29.235.38
 119.31.186.253
@@ -2369,6 +2372,7 @@
 179.43.172.127
 179.43.172.191
 179.43.175.108
+179.43.176.60
 179.60.149.194
 18.134.0.66
 18.135.29.139
@@ -2455,6 +2459,7 @@
 182.90.229.95
 182.92.133.114
 182.96.1.9
+182.96.95.66
 ||1822-mehares.com^
 ||182hstanerandvm.com^
 ||182iletisim.cfd^
@@ -4253,6 +4258,7 @@
 ||354323223.net^
 ||35658951144785.com^
 ||35c195e4-7.b-cdn.net^
+36.106.166.49
 36.112.17.125
 36.134.69.15
 36.137.38.119
@@ -5753,6 +5759,7 @@
 69.10.60.250
 69.164.216.190
 69.25.4.1
+69.5.169.68
 69.6.220.104
 69.62.86.78
 69.64.35.1
@@ -6817,6 +6824,7 @@
 94.156.232.40
 94.156.33.251
 94.156.64.241
+94.156.64.90
 94.156.65.115
 94.156.65.182
 94.156.65.98
@@ -7244,6 +7252,7 @@
 ||akmobilcebindenisanayifirsati.xyz^
 ||akmuniverstall.top^
 ||akountcenter.com^
+||aksigortabankasigortaciligi.hediyemo.com^
 ||akstruelkapnda.xyz^
 ||aksutelfirsatlarim.xyz^
 ||aktarimekranim.duckdns.org^
@@ -7660,6 +7669,7 @@
 ||aviskirala.com^
 ||aviskiralama.duckdns.org^
 ||avisotomobilkiralama.com^
+||avisrent.net^
 ||avisrental.fun^
 ||avisturkey.vercel.app^
 ||avmhemenal.com^
@@ -10843,6 +10853,7 @@
 ||haberim1453.shop^
 ||haberims.shop^
 ||haberinadresi366.shop^
+||haberinadresi3786.shop^
 ||haberinadresi4186.shop^
 ||haberindirim.cfd^
 ||haberinkaynagindan.shop^
@@ -11498,6 +11509,7 @@
 ||hukukpaneli.org^
 ||hukukyonetim.org^
 ||hukulo-pidezesare.xyz^
+||hukulugude-redesee.lol^
 ||hukumvesorusturma.org^
 ||huldereteyesede.lol^
 ||hulubikasa-deresefu.xyz^
@@ -12101,6 +12113,7 @@
 ||kait1xxax123z21sacx23z123.cfd^
 ||kaita1xsadljkackkj13x132.cfd^
 ||kaita2avjfdskjakdsx23.cfd^
+||kaita2csdkjadkjsadjkx3123x12.sbs^
 ||kaita99asdjkjkqxeqkwe.cfd^
 ||kaitacsdkjck123xk123.sbs^
 ||kaitaelleme3x123z12sacac.cfd^
@@ -12120,6 +12133,7 @@
 ||kalonblsndebnm.shop^
 ||kaltheria.com^
 ||kamnpannyadevamypkrdi360.click^
+||kampanya-cebte.click^
 ||kampanya-karacamobile.vercel.app^
 ||kampanya-paribu.com^
 ||kampanya-saati.duckdns.org^
@@ -14864,6 +14878,7 @@
 ||pttavm.sepetimde-ilanlar.pro^
 ||pttavm.sepette-siparis.com^
 ||pttavm.sepette-siparisim.com^
+||pttavm.sip-tamamlat.com^
 ||pttavm.siparisweb.net^
 ||pttavm.site^
 ||pttavmaracanaliz.firebaseapp.com^
@@ -16137,6 +16152,7 @@
 ||splash.garantibbvakredibasvuru.com^
 ||splt-lo-grenad.myonlineportal.ch^
 ||spnosrlukatilmlarim.duckdns.org^
+||spnsoredreklam.com^
 ||sponsorlu-11.duckdns.org^
 ||sponsorlu-12.duckdns.org^
 ||sponsorlu-14.duckdns.org^
