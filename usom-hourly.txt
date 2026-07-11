@@ -9695,6 +9695,7 @@
 ||edictoria.sbs^
 ||edilgen-kapigr-entry.myonlineportal.ch^
 ||edilim-entry-kapisi.myonlineportal.ch^
+||edilim-kapi-dusunce.myonlineportal.ch^
 ||edinimler-aciklayici-klagr.myonlineportal.ch^
 ||edosyabirimi.org^
 ||edosyaegm.org^
@@ -12907,6 +12908,7 @@
 ||lixmalliq.com^
 ||lixmartu.gifts^
 ||lixmelya.gifts^
+||lixshopro.com^
 ||lixshopu.com^
 ||lixvendq.com^
 ||lkatilim-lkredinizz.cfd^
@@ -12971,6 +12973,7 @@
 ||lrdansandands.shop^
 ||lrdansandanll.sbs^
 ||lrdansandansandan.club^
+||lrdansandansddfgdfg.forum^
 ||lrdanskzordaprrrr.shop^
 ||lrlzlu.cc^
 ||lrnway.vu^
@@ -13416,6 +13419,7 @@
 ||mikolop.com^
 ||mikulatur.com^
 ||milbiorb.com^
+||millenniuminc.my^
 ||milliegitimbakanligi.xyz^
 ||minaren.com^
 ||minavex.gifts^
@@ -14057,6 +14061,7 @@
 ||olsnavyseny.net^
 ||olurbnlrdasanagore.shop^
 ||olusturan-rehber-lbrg.myonlineportal.ch^
+||olusturucu-rehber-edinim.myonlineportal.ch^
 ||olusturucu-rehber-tbrg.myonlineportal.ch^
 ||olverina.cyou^
 ||olyeerqe.net^
@@ -15013,6 +15018,8 @@
 ||qarfelinoz-upadexi.lol^
 ||qarfonixa.capital^
 ||qarfotreni.capital^
+||qarimelox.com^
+||qarovixel.com^
 ||qavdeli.tr^
 ||qavdukan.gifts^
 ||qavlira.club^
@@ -16286,6 +16293,7 @@
 ||subeinf.com^
 ||subemiz-garanti.myonlineportal.eu^
 ||subeportalgiris.com^
+||subesiz-basvur.myonlineportal.eu^
 ||subterranews.pics^
 ||successfulpro.fit^
 ||suclamadava.org^
@@ -18002,6 +18010,7 @@
 ||vasdeli.boats^
 ||vaslosalco.co^
 ||vatandasislemlerionline.fun^
+||vatandasislemlerionline.sbs^
 ||vatandasislemlerionline.shop^
 ||vatandasislemlerionline.space^
 ||vatandaslrndkktineiletsm.sbs^
