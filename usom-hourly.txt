@@ -7681,6 +7681,7 @@
 ||avisrental.fun^
 ||avisturkey.vercel.app^
 ||avm-siparislerim.com^
+||avmbireysel.com^
 ||avmhemenal.com^
 ||avmkampanyasi.com^
 ||avmsiparislerim.com^
