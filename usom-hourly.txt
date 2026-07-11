@@ -5251,6 +5251,7 @@
 49.89.41.187
 ||49494oop49x92.duckdns.org^
 ||4daa2aea93db-endpoint.com^
+||4hex.online^
 ||4kyazilim.com^
 ||4lifetips.com^
 ||4ukwxgexo.icu^
@@ -9210,6 +9211,7 @@
 ||critical-silver-yak.pages.dev^
 ||cropsurname.com^
 ||crpsonlcen.cfd^
+||crsastore.vercel.app^
 ||crtttsaaaonlakcan.xyz^
 ||cryptotoki.site^
 ||cryptotokimarket.store^
@@ -10857,6 +10859,7 @@
 ||haberhizliyorum.com^
 ||haberim1453.shop^
 ||haberims.shop^
+||haberinadresi112233.shop^
 ||haberinadresi366.shop^
 ||haberinadresi3786.shop^
 ||haberinadresi4186.shop^
@@ -12143,6 +12146,7 @@
 ||kampanya-karacamobile.vercel.app^
 ||kampanya-paribu.com^
 ||kampanya-saati.duckdns.org^
+||kampanya-tebte.click^
 ||kampanya.firsat-obilet.nl^
 ||kampanya.mobil-obilet.nl^
 ||kampanya.thykampanyalari.rest^
@@ -14409,6 +14413,7 @@
 ||paribuarabazamani.com^
 ||paribuaracfirsat.com^
 ||paribubonuscarki.com^
+||paribubuyukcekilisi.com^
 ||paribucarkicevir.com^
 ||paribucarkicevirkazan.com^
 ||paribucarkkampanyasi.com^
@@ -16274,6 +16279,7 @@
 ||sube-infoyatirim.com^
 ||sube.sekerplatform.pro^
 ||subeinf.com^
+||subemiz-garanti.myonlineportal.eu^
 ||subeportalgiris.com^
 ||subterranews.pics^
 ||successfulpro.fit^
@@ -18225,6 +18231,7 @@
 ||webdisk.862413415907186120.duckdns.org^
 ||webdisk.sokmarketekstrakampanya3.duckdns.org^
 ||webdisk.sokmarketekstrakampanya5.duckdns.org^
+||webforge.bond^
 ||webmail.6134728541296136547150.duckdns.org^
 ||webmail.73214625721684432160.duckdns.org^
 ||webmail.7641713825499140.duckdns.org^
