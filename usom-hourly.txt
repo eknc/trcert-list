@@ -1194,6 +1194,8 @@
 ||145455588989998997.duckdns.org^
 ||145455588989998998.duckdns.org^
 ||1454555889899989993.duckdns.org^
+||1454555889899989994.duckdns.org^
+||1454555889899989995.duckdns.org^
 146.0.228.66
 146.0.79.21
 146.103.40.203
@@ -7678,6 +7680,7 @@
 ||avisrent.net^
 ||avisrental.fun^
 ||avisturkey.vercel.app^
+||avm-siparislerim.com^
 ||avmhemenal.com^
 ||avmkampanyasi.com^
 ||avmsiparislerim.com^
@@ -8508,6 +8511,7 @@
 ||bozdere-novepaki.lol^
 ||bozkiran-furezopa.lol^
 ||bozmayinayari.dns.navy^
+||boztekin-qirevopa.lol^
 ||bozzl.top^
 ||bpfi.digital^
 ||bra-inns-drops-strategic.trycloudflare.com^
@@ -12095,6 +12099,7 @@
 ||jvibe.buzz^
 ||jzdn-basic.shop^
 ||k0bibasvurularim.click^
+||k0bibilgilendirmeleri.com^
 ||k0bibilgilendirmesi.com^
 ||k0bidestegi.com^
 ||k0bidestegim.cfd^
@@ -13329,6 +13334,7 @@
 ||merkeziyetsizbasvuru.abrdns.com^
 ||merkezkayitarayuzu.abrdns.com^
 ||merkeznoktasi.com^
+||merkezrandevu-hi.com^
 ||merkeztakibi.com^
 ||merona.click^
 ||merovikaglobal.com^
@@ -13644,8 +13650,10 @@
 ||mubarekdays.yyuyy.com^
 ||mudofashion.shop^
 ||mueleer.com^
+||mufasnasfanas.sbs^
 ||muhamadfafaoyunda.net^
 ||muhu-bb-vv-aa-ss-dd.xyz^
+||muhugudueresede-afderese.lol^
 ||mujco.cn^
 ||mukemmelbirbaslangicicinharikagunlerde.xyz^
 ||mukemmelds6f.nicepage.io^
@@ -15111,6 +15119,7 @@
 ||quantumpathd.top^
 ||quarrix.sbs^
 ||quarryminerals.com^
+||qubistora.vu^
 ||quenbi.duckdns.org^
 ||quentorixsystems.com^
 ||quicklimetsouic.pro^
@@ -16192,6 +16201,7 @@
 ||spidermarket.xyz^
 ||spinuni.com^
 ||splash.garantibbvakredibasvuru.com^
+||splashviolet.cfd^
 ||splt-lo-grenad.myonlineportal.ch^
 ||spnosrlukatilmlarim.duckdns.org^
 ||spnsoredreklam.com^
@@ -16827,6 +16837,7 @@
 ||tamponu-yere-bastirdim.xyz^
 ||tamsioaldi.com^
 ||tanfanmansuf3.sbs^
+||tanfanmansuf4.sbs^
 ||tapgncweb.web.app^
 ||taphzmet.store^
 ||tapp-wweeb.com^
@@ -17163,6 +17174,7 @@
 ||tibbtkkontrol.com^
 ||ticaretbakanligidestek.click^
 ||ticaretdestekleri.click^
+||ticaretdestekmerkezi.click^
 ||tidio.cc^
 ||tiklagir101.xyz^
 ||tiklakapinda.duckdns.org^
@@ -18027,6 +18039,7 @@
 ||vantella.shop^
 ||vantro.sbs^
 ||vanzelo.gifts^
+||vapi.take-more.cfd^
 ||vareno.xyz^
 ||varionexdigital.com^
 ||vasdeli.boats^
