@@ -7822,6 +7822,8 @@
 ||basvursens.sbs^
 ||basvursenv.sbs^
 ||basvursenz.sbs^
+||basvursnr.sbs^
+||basvursnz.sbs^
 ||basvursrc.sbs^
 ||basvursrd.sbs^
 ||basvursrf.sbs^
@@ -9945,6 +9947,7 @@
 ||etrona.site^
 ||etrona.store^
 ||eturkehaberler.world^
+||etuv-turkl.digital^
 ||eurasiapulsetrtur.cyou^
 ||eurinvestpro.com^
 ||euromarketsignal.de^
@@ -12243,6 +12246,7 @@
 ||karagozototamir.com^
 ||karakgmyolgecisbrcnzodyn.com^
 ||karapara.icu^
+||karartr.net^
 ||karasoftinterior.com^
 ||karca.shop^
 ||kardeslerorda.click^
@@ -13094,6 +13098,7 @@
 ||makoslzuyt.com^
 ||maleoz.website^
 ||malext.com^
+||malibirim.com^
 ||maliegm.net^
 ||maliidariceza.org^
 ||malimahkeme.org^
@@ -13410,6 +13415,7 @@
 ||mhs420dq.com^
 ||mhsaogreen.uk^
 ||mhsaraktiv.uk^
+||mhshemen.uk^
 ||mhskastogreen.uk^
 ||mhslaatkfff.uk^
 ||mhsscfsrsa12.sbs^
@@ -14819,6 +14825,7 @@
 ||ptt-avm-sorgulama.firebaseapp.com^
 ||ptt-avm-sorgulama.web.app^
 ||ptt-hizliaracsorgu-kmsorgula.web.app^
+||ptt-hizlikm-sorgulama-hizmeti.web.app^
 ||ptt-km-sorgula-ma.firebaseapp.com^
 ||ptt-km-sorgula-ma.web.app^
 ||ptt-kmsorgula-aracgecmisiogren.firebaseapp.com^
@@ -15025,6 +15032,7 @@
 ||qarevisto.sbs^
 ||qarfelinoz-upadexi.lol^
 ||qarfonixa.capital^
+||qarfonixa.com^
 ||qarfotreni.capital^
 ||qarimelox.com^
 ||qarovixel.com^
@@ -16198,6 +16206,7 @@
 ||sponsorluhizmettler.duckdns.org^
 ||sponsorlureklaml.click^
 ||sponsormail.xyz^
+||sponsrmention.com^
 ||sportbuzz.vu^
 ||sportivaworldcup.xyz^
 ||sportivoq.com^
@@ -17150,6 +17159,7 @@
 ||thykampanyalari.cyou^
 ||thykampanyalari.rest^
 ||tibbtkkontrol.com^
+||ticaretdestekleri.click^
 ||tidio.cc^
 ||tiklagir101.xyz^
 ||tiklakapinda.duckdns.org^
