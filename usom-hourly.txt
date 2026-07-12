@@ -6734,6 +6734,7 @@
 92.63.197.133
 92.66.72.172
 92.88.98.199
+||92359302512.duckdns.org^
 93.105.185.139
 93.113.25.114
 93.113.25.46
@@ -8385,6 +8386,7 @@
 ||bkohnusa.net^
 ||blackoutabi.sbs^
 ||blackoutbilgi.xyz^
+||blackoutkemeci.govt.hu^
 ||blackoutkemops.xyz^
 ||blackoutlarburdan.xyz^
 ||blackoutseverim.xyz^
@@ -9437,6 +9439,7 @@
 ||devstreamo.digital^
 ||devumo.top^
 ||dewhurricaneicicle.com^
+||dfbkskbsb.vip^
 ||dfgdfge4gfdgfd.nicepage.io^
 ||dfgdfgerht.duckdns.org^
 ||dfter.netlify.app^
@@ -15074,6 +15077,7 @@
 ||qarfonixa.com^
 ||qarfotreni.capital^
 ||qarimelox.com^
+||qarimovexa.org^
 ||qarovixel.com^
 ||qavdeli.tr^
 ||qavdukan.gifts^
@@ -15541,6 +15545,7 @@
 ||sahibinden-get.guvenlisepetler-hizmet.online^
 ||sahibinden-get.ilandetay-jet.com^
 ||sahibinden-get.ilanjet-hizmetler.com^
+||sahibinden-get.ilanservis-odemehizmetin.online^
 ||sahibinden-get.ilanservisnhizmet.com^
 ||sahibinden-get.jet-servis-hizmetlerim.online^
 ||sahibinden-get.jetservishizmetleriniz.online^
@@ -15853,6 +15858,7 @@
 ||serceparmak.cfd^
 ||serceparmak.cyou^
 ||serceparmak.xyz^
+||serciviiva.click^
 ||serinbahar.com^
 ||serkanbas57.sbs^
 ||sermayemerkez.site^
@@ -16795,6 +16801,7 @@
 ||t9x1q6m4z8w3.sbs^
 ||taatas.com^
 ||tabkherkersegeleceksennerdesn85.info^
+||tablo-edilgen-deger.myonlineportal.ch^
 ||tadsago4210.online^
 ||tadsago4210.site^
 ||tahtalar.cfd^
