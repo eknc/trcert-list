@@ -4485,6 +4485,7 @@
 41.231.37.153
 41.63.63.134
 41.63.96.128
+||4124124124.duckdns.org^
 ||41242142142151512421.duckdns.org^
 ||412941234531.com^
 42.112.26.36
@@ -7252,6 +7253,7 @@
 ||akbank-pw.hizliyatirim.net^
 ||akbankinvest.com^
 ||akbankk-bireysell.ph^
+||akbankmobil.netlify.app^
 ||akbasvurumobil.duckdns.org^
 ||akbiadekampanya2025.click^
 ||akbireyselislemkanali.duckdns.org^
@@ -9901,6 +9903,7 @@
 ||entegremustericozummerkezigiris.space^
 ||entrnow.com^
 ||entruhub.com^
+||enuygun.rent^
 ||enuygunarabakiralama.com^
 ||enuygunarackiralamalar.com^
 ||enuygunfilo.com^
@@ -10801,6 +10804,7 @@
 ||guvenlihizmet.online^
 ||guvenlihizmetler.online^
 ||guvenlihizmetleri.online^
+||guvenlimuhasebeodemeleri.duckdns.org^
 ||guvenlimuhasebeodemenoktasi.duckdns.org^
 ||guvenliodeme-sahibinden-havale.com^
 ||guvenliodemeonay.com^
@@ -13443,6 +13447,7 @@
 ||mhrsonlinebasvuru.duckdns.org^
 ||mhrsportal.vercel.app^
 ||mhrsportalvatandasgiris.duckdns.org^
+||mhrsportalvatandasgirisimizdiranlik.duckdns.org^
 ||mhrsrandevu.art^
 ||mhrsrandevu1182.site^
 ||mhrsrandevualsanala.duckdns.org^
@@ -13450,6 +13455,7 @@
 ||mhrsrandevunburadan.com^
 ||mhrsrandevunburadan.duckdns.org^
 ||mhrsrandevunburadann.duckdns.org^
+||mhrsrandevuportalimizz.duckdns.org^
 ||mhrsrandevusisteminiza.duckdns.org^
 ||mhrssrandevularimmorbidwsynx.com^
 ||mhrsssdsasasa.xyz^
@@ -14114,6 +14120,7 @@
 ||olempying-literally.myonlineportal.ch^
 ||oleogr-veri-analiz.myonlineportal.ch^
 ||olesa5fws.nicepage.io^
+||olimpik-patch-priv.myonlineportal.eu^
 ||olive-monkey-951412.hostingersite.com^
 ||olnysvy.net^
 ||olsakmna.click^
@@ -18105,6 +18112,7 @@
 ||vatandasislemlerionline.space^
 ||vatandaslrndkktineiletsm.sbs^
 ||vatandasmhrsrandevuekranii.duckdns.org^
+||vatandasmhrsrandevusistemz.duckdns.org^
 ||vatandasrandevumhrss.duckdns.org^
 ||vatandasrandevuonlinez.duckdns.org^
 ||vatandasrandevuportall.duckdns.org^
