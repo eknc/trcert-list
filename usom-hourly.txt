@@ -9478,6 +9478,7 @@
 ||devdaynot.com^
 ||devflowtech.digital^
 ||devizo.xyz^
+||devlet-mhrs-randevu.com^
 ||devlum.sbs^
 ||devmodular.bond^
 ||devmora.digital^
@@ -12033,6 +12034,7 @@
 ||istanbulzirvebaba.xyz^
 ||istancan.xyz^
 ||istancanbulkart.xyz^
+||istancansancan.xyz^
 ||istancsnbulkart.xyz^
 ||istascancan.xyz^
 ||istbabacan.xyz^
@@ -15438,6 +15440,7 @@
 ||recallnine.info^
 ||recargapopular.com^
 ||recebamais.com^
+||received-gr-sende.biz^
 ||recepyman.info^
 ||recordapp.store^
 ||recordhq.store^
