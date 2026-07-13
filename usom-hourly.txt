@@ -3848,6 +3848,7 @@
 ||2124552556555695.duckdns.org^
 ||2124552556555696.duckdns.org^
 ||2124552556555697.duckdns.org^
+||2124552556555698.duckdns.org^
 213.109.147.28
 213.109.147.63
 213.130.144.69
@@ -7830,6 +7831,7 @@
 ||basvurevtkixz.sbs^
 ||basvurhemenkapinda.cfd^
 ||basvurlarabasladi.cloud^
+||basvurrvn.sbs^
 ||basvursenc.sbs^
 ||basvursend.sbs^
 ||basvursendem.sbs^
@@ -9630,6 +9632,7 @@
 ||dreamarchive.cyou^
 ||dreamlikeoxidize.space^
 ||drelbuyo.gifts^
+||drelton.vu^
 ||dremalovikuq.com^
 ||drenostavik.gifts^
 ||drenzo.bond^
@@ -10607,6 +10610,7 @@
 ||gilr-laynkarltini.xyz^
 ||gimkupiq.gifts^
 ||gir101tkl.xn--tt-8ja.net^
+||girilenler-de-gr.biz^
 ||giris-guvenli.xyz^
 ||giris-hepsibura-auth.soundandshinesolutions.cv^
 ||giris-kampanya.com^
@@ -11584,6 +11588,7 @@
 ||homevera.gifts^
 ||homiun.live^
 ||hondaturkiyee.com^
+||honeshadrteker.duckdns.org^
 ||honestly.ink^
 ||honufon.com^
 ||hoparlor.click^
@@ -12289,6 +12294,7 @@
 ||kampanyalar-karaca.vercel.app^
 ||kampanyalarikacirma.com^
 ||kampanyalarim-karaca.vercel.app^
+||kampanyalarimiz-yaz.myonlineportal.ch^
 ||kampanyaliurunsayfasi.click^
 ||kampanyya-saati.duckdns.org^
 ||kampanyyafirsatllarikvueyts.sbs^
@@ -13147,6 +13153,7 @@
 ||luoksa99asdasdasdsadsada.click^
 ||lurox.bond^
 ||luts-liberyagrn.myonlineportal.ch^
+||lutuosdahshad124sadh23sda.click^
 ||lvy9fhm9h8bj.icu^
 ||lwwwl55polis.online^
 ||lyhpgi.click^
@@ -13550,6 +13557,7 @@
 ||mhrsrandevuvatandaslarimizin.duckdns.org^
 ||mhrssrandevularimmorbidwsynx.com^
 ||mhrsssdsasasa.xyz^
+||mhrsvatandaslarimduyuru.duckdns.org^
 ||mhrsvatandasportall.duckdns.org^
 ||mhrsvatandasrandevu.duckdns.org^
 ||mhs420dq.com^
@@ -18543,6 +18551,7 @@
 ||wireinsight.info^
 ||wireless.garantibbvakredibasvuru.com^
 ||wireom.com^
+||wispelt.com^
 ||wjueor.buzz^
 ||wmanyrei.icu^
 ||woauka446vb.icu^
