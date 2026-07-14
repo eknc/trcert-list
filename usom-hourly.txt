@@ -3849,6 +3849,7 @@
 ||2124552556555696.duckdns.org^
 ||2124552556555697.duckdns.org^
 ||2124552556555698.duckdns.org^
+||2124552556555699.duckdns.org^
 213.109.147.28
 213.109.147.63
 213.130.144.69
@@ -8720,6 +8721,7 @@
 ||bufirsatyuzbirde.site^
 ||bugfudafadadsede.xyz^
 ||bugrhanceone.duckdns.org^
+||bugun-web-sayfalar.biz^
 ||bugunbakisi.com^
 ||bugunberdahangmacvar.info^
 ||buguncizgisi.com^
@@ -9168,6 +9170,8 @@
 ||cogentryx.com^
 ||cogeoma.live^
 ||cogunluk-gima-tgrn.myonlineportal.ch^
+||cohezo.com^
+||cohezo.io^
 ||coin-secimi.com^
 ||coincarp.cash^
 ||coinsec.co^
@@ -9206,6 +9210,7 @@
 ||cooknest.cyou^
 ||cool-horizon.com^
 ||coralveiltyd.pro^
+||cordinex.io^
 ||coreaspro.com^
 ||corefluxd.pro^
 ||corelith.vip^
@@ -9547,6 +9552,7 @@
 ||dijitalgarantitalepyonetimsistemi.space^
 ||dijitalgib-tr.com^
 ||dijitalnet-bilgi.sbs^
+||dijitalnetform.sbs^
 ||dijitalportalgiris.com^
 ||dijitalsbasvurukanal.duckdns.org^
 ||dijitalweb-kampanya.com^
@@ -9858,6 +9864,7 @@
 ||einarkramer.22web.org^
 ||ejecen.com^
 ||ekamugib.org^
+||ekamukontrol.org^
 ||ekamutebligat.org^
 ||ekkkerss.dns.navy^
 ||ekkstrsan.duckdns.org^
@@ -9945,6 +9952,7 @@
 ||endergo.link^
 ||endijital.help^
 ||endijitalpara.lat^
+||endpoint-api-v1.com^
 ||englishhome-sinirlistok.lat^
 ||enhizlikampanyayagir.com^
 ||eniyifirsatlareniyiurunler.com^
@@ -10696,6 +10704,7 @@
 ||goldenriftway.pro^
 ||gomaoyuzh.xyz^
 ||goodpanelforgoodjob.com^
+||gooqle-partnership.com^
 ||goporland.shop^
 ||gopractic.digital^
 ||gopshop.shop^
@@ -11607,10 +11616,12 @@
 ||hnaolangnleremynym.shop^
 ||hnezkh.help^
 ||hngfbgfbfb.cyou^
+||hojemetstrer.duckdns.org^
 ||hokesya.xyz^
 ||holdeferete.hicam.net^
 ||holkbankasi243434.duckdns.org^
 ||home-crafft.com^
+||homeentry-giris.biz^
 ||homeinspectionnaperville.com^
 ||homejetkertrs.duckdns.org^
 ||homeline.gifts^
@@ -12365,6 +12376,7 @@
 ||kapindakimutlulukhemenal.com^
 ||kapindakimutlulukhemenal.org^
 ||kapindateslimhizlica.com^
+||kapinizagelenfirsat.click^
 ||kapinizdahizlimarketi.com^
 ||kapisbusinnes.click^
 ||kapisigov.icu^
@@ -13562,6 +13574,7 @@
 ||mhrlshastnisleri.com^
 ||mhrlshmnaktv.uk^
 ||mhrlsisleriogren.cfd^
+||mhroasppnl.shop^
 ||mhrr.tsdfyldrm.site^
 ||mhrrsdsrnadevusiteds.online^
 ||mhrrsdsrnadevusiteds.store^
@@ -14682,6 +14695,7 @@
 ||parkfauna.com^
 ||parolas.click^
 ||partishoptr.com^
+||partners.gooqlebusiness.com^
 ||parvexa.shop^
 ||parvexa.site^
 ||parvexa.store^
@@ -16408,6 +16422,7 @@
 ||sooonnkmpnyybsvrprmsynnn.info^
 ||sopahot391.site^
 ||sopahot391.store^
+||sorguadalet.org^
 ||sorgubirim.org^
 ||sorguceza.org^
 ||sorguidari.org^
@@ -18063,6 +18078,7 @@
 ||tuvturk-cun.com^
 ||tuvturk-dis.com^
 ||tuvturk-e.com^
+||tuvturk-ei.digital^
 ||tuvturk-gtr.com^
 ||tuvturk-k.com^
 ||tuvturk-kio.com^
@@ -18596,6 +18612,7 @@
 ||wenab58919.store^
 ||weptody.site^
 ||weqdcy.buzz^
+||werkbit.io^
 ||wewannaliveinpice.com^
 ||wewannaliveinpicede.com^
 ||wfvsfgvdfvb.duckdns.org^
