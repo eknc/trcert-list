@@ -2461,6 +2461,7 @@
 182.16.42.18
 182.191.122.219
 182.234.183.31
+||182.24612-20114.click^
 182.78.17.137
 182.8.226.228
 182.8.226.51
@@ -5487,6 +5488,7 @@
 ||5423423.net^
 ||54354982138943214000.net^
 ||543765423.net^
+||54435623412534265432.org^
 ||546446545487.duckdns.org^
 ||54695869586922222.net^
 ||54698599004949000.net^
@@ -7888,6 +7890,7 @@
 ||basvursrd.sbs^
 ||basvursrf.sbs^
 ||basvursrz.sbs^
+||basvursvm.sbs^
 ||basvurszr.sbs^
 ||basvurtamamlana.cloud^
 ||basvuru-cekilis.online^
@@ -9571,6 +9574,7 @@
 ||dijitalekonomikdestekmobil.xyz^
 ||dijitalfirsatduyurularims.sbs^
 ||dijitalform.sbs^
+||dijitalformgiris.sbs^
 ||dijitalgarantitalepyonetimsistemi.space^
 ||dijitalgib-tr.com^
 ||dijitalnet-bilgi.sbs^
@@ -15181,6 +15185,7 @@
 ||pttavm.crefrsnzngtrdklri.info^
 ||pttavm.e-ilan-online.com^
 ||pttavm.guvendeilesatinal.com^
+||pttavm.guvenli.ilanlar.duckdns.org^
 ||pttavm.guvenlihizmet.online^
 ||pttavm.guvenliteslimat.online^
 ||pttavm.hizliveguvenli.sbs^
@@ -15846,6 +15851,7 @@
 ||sahibinden.elektronik-urun-sepetim.com^
 ||sahibinden.guvenlialisveris.online^
 ||sahibinden.hemenguvendeileal.com^
+||sahibinden.ilan-magaza.com^
 ||sahibinden.ilanim-onay-762212.com^
 ||sahibinden.ile-islemlerim.com.tr^
 ||sahibinden.ile-sepette-onay.com.tr^
@@ -18878,6 +18884,7 @@
 ||xn--nisan-aynda-kampanyalar-burada-9qe.com.tr^
 ||xn--nisan-aynda-kampanyalar-burada-9qe.net.tr^
 ||xn--otokootomotiv-mgb.com^
+||xn--param-gven-de-ile-siparis-lwc.com^
 ||xn--param-gvende-ile-siparisi-tamamla-trendyol-tme.com^
 ||xn--rektaru8-zkb.nicepage.io^
 ||xn--temmuzfrsatlaragatbbvaslennmenuler-hcfhim.site^
