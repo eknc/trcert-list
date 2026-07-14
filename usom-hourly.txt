@@ -4145,6 +4145,8 @@
 ||243312534.net^
 ||24515-2525.xyz^
 ||2452521.sbs^
+||24612-20114.xyz^
+||24612-yara.click^
 ||24612-yara.xyz^
 ||252525-26526.xyz^
 ||2525611.lat^
@@ -7840,6 +7842,7 @@
 ||basliyorgosterisaati.yyuyy.com^
 ||basliyoruz13.xyz^
 ||basliyoruz16.xyz^
+||basliyoruz19.xyz^
 ||basliyoruz20.xyz^
 ||basliyoruz21.xyz^
 ||basliyoruz7.xyz^
@@ -13592,6 +13595,7 @@
 ||mglrsmayls.online^
 ||mh-rs.182iletisim.click^
 ||mh-rsgiris.cyou^
+||mh4rsnadevulariniz3.ydns.eu^
 ||mhddyy.click^
 ||mhhmmhrs.app^
 ||mhhres.dns.navy^
@@ -16349,11 +16353,13 @@
 ||smpworlds.com^
 ||snaketwig.com^
 ||snapkeep.info^
+||snbnlarbrdanalmdnkrl.shop^
 ||sndbnlaraklgld.com^
 ||sndebndangyrotegdmez.shop^
 ||sndebukmpyalardanfaydlan.com^
 ||sndeglbrdn.com^
 ||sndehmngelal.com^
+||sndenbnlaraglbrdanal.shop^
 ||snfrrstllarrkmpnyaabsvrrprmsyn.art^
 ||snfrrstllarrkmpnyaabsvrrprmsyn.fit^
 ||snfrrstllarrkmpnyaabsvrrprmsyn.info^
