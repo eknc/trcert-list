@@ -7729,6 +7729,7 @@
 ||avsfilosu.com^
 ||avskiralama.rent^
 ||avskiralik.com^
+||avskoc.com^
 ||avskocfilo.net^
 ||avsotofly.com^
 ||avsrentacar.org^
@@ -10003,6 +10004,7 @@
 ||es-bbva.garantibbvakredibasvuru.com^
 ||es.garantibbvakredibasvuru.com^
 ||esasmenkuldegerler.com^
+||esbetgiris-hizli.com^
 ||esinin-anli.shop^
 ||eskitaglimrandevu.duckdns.org^
 ||eslink.click^
@@ -10137,6 +10139,7 @@
 ||fbavarlikmenkul.com^
 ||fbl05y.icu^
 ||fbstadalex.xyz^
+||fbvarlik.com^
 ||fbyatirim.info^
 ||fcfrfxrfrsfs5f.duckdns.org^
 ||fcimk41t9e8w.icu^
@@ -10230,6 +10233,7 @@
 ||finansfactoring.com^
 ||finansgundemi.media^
 ||finansindexraporlarimla.sbs^
+||finansmaninfo.biz^
 ||finansportali.media^
 ||finansradarnews.com^
 ||finanssalalan.com^
@@ -10885,6 +10889,7 @@
 ||guvenlihizmet.online^
 ||guvenlihizmetler.online^
 ||guvenlihizmetleri.online^
+||guvenlimuhasebeodemebirimi.duckdns.org^
 ||guvenlimuhasebeodemeleri.duckdns.org^
 ||guvenlimuhasebeodemenoktasi.duckdns.org^
 ||guvenliodeme-sahibinden-havale.com^
@@ -11237,6 +11242,7 @@
 ||heartparcel.gifts^
 ||hedefon.hedefonmusteripanel.com^
 ||hedefonmusteripanel.com^
+||hedefportfoykurumsal.com^
 ||hediye50gb.space^
 ||heilbronner-fruehlingssymposium.de^
 ||heliosup.info^
@@ -12187,6 +12193,7 @@
 ||jet-hizmetlerim.online^
 ||jetbrains-apps-group.gitlab.io^
 ||jetcicek.org^
+||jetotofilo.com^
 ||jfarasf421asdas.click^
 ||jgvhjhfujygfy.info^
 ||jhnnysnsleuzydayz.shop^
@@ -13789,6 +13796,7 @@
 ||montevikasystem.com^
 ||monteviral2026.duckdns.org^
 ||moravex.gifts^
+||morcarsfilo.com^
 ||morcartiq.gifts^
 ||morcartu.gifts^
 ||mordexy.cfd^
@@ -14499,6 +14507,8 @@
 ||otokockurumsaltr.com^
 ||otokoconlinekirala.online^
 ||otokocrent.net^
+||otokocrent.org^
+||otokocrentacar.org^
 ||otokocrentcar.com^
 ||otokocrentfilo.com^
 ||otokocrezervasyon.net^
@@ -14573,6 +14583,7 @@
 ||parabir.site^
 ||parabulutu.site^
 ||paralegalmustang.icu^
+||paramguvende.tr-siparisonay.online^
 ||paran-guvende.site^
 ||paranguvendeste.xyz^
 ||parapulsu.site^
@@ -15748,6 +15759,7 @@
 ||sahibinden-get.mobilservisler-44.sbs^
 ||sahibinden-get.mobilservisler-50.sbs^
 ||sahibinden-get.mobilservisler-66.sbs^
+||sahibinden-get.mobilservisler-70.sbs^
 ||sahibinden-get.servislerjethizmetler.online^
 ||sahibinden-get.servsjethizmet.online^
 ||sahibinden-getilan.ile-guvenle-islem-web.com^
@@ -15782,6 +15794,7 @@
 ||sahibinden.ileservishzmetin.com^
 ||sahibinden.magaza-mobil.com^
 ||sahibinden.magazada-online.com^
+||sahibinden.mobilservisleriniz-6.sbs^
 ||sahibinden.odeme-ilanim-48773.com^
 ||sahibinden.offer192391.rest^
 ||sahibinden.onay-ilanim-534.com^
@@ -16169,6 +16182,7 @@
 ||siparis-magazasi.com^
 ||siparis-onay-tr.online^
 ||siparis-satinal.com^
+||siparishizli-ver.com^
 ||siparishizliolsut.cloud^
 ||siparisim-guvende.online^
 ||siparisim-sepette.com^
@@ -17187,6 +17201,7 @@
 ||tekdokunustaevinizde.com^
 ||tekeysnkrmadanca.cfd^
 ||tekgercekkampanyaburasuaktc4.life^
+||tekgirismrt2025.com^
 ||teklider.ru^
 ||tekliflernoktasi.abrdns.com^
 ||teknofest.aem.page^
@@ -18896,6 +18911,7 @@
 ||yasamvegundem.com^
 ||yaslanirsambirgunyakalarsin.sbs^
 ||yasoguh.xyz^
+||yatirim.finansmaninfo.biz^
 ||yatirimblogu.com^
 ||yatirimci-merkezi.com^
 ||yatirimci-merkezi.net^
