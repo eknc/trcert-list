@@ -7043,6 +7043,7 @@
 ||a.garantibbvakredibasvuru.com^
 ||a.sicex.lol^
 ||a1001.online^
+||a101-com-tr-aldin-aldin-extra-online.elenamasaj.com^
 ||a101-com-tr-onlineozel.duckdns.org^
 ||a101-com.tr.webliosy.online^
 ||a101-harca.duckdns.org^
@@ -8623,6 +8624,7 @@
 ||brolta.vu^
 ||bronzelocker.bond^
 ||brovixa.cyou^
+||brovixan.com^
 ||brrrdyzzzzzsnlllll.shop^
 ||brule.live^
 ||brunestavok.gifts^
@@ -9888,6 +9890,7 @@
 ||elektronik-alisveris-merkezi.com^
 ||elektronik-magaza-sepetim.com^
 ||elektronik-urun-sepetim.com^
+||elenamasaj.com^
 ||elevatefitness.life^
 ||eliaeni549.online^
 ||eliaeni549.store^
@@ -11347,6 +11350,7 @@
 ||hgs-odemeleri.duckdns.org^
 ||hgs-pttavm.ph^
 ||hgs-simdi-yukleme-zamani.cfd^
+||hgs15temmuz.ph^
 ||hgsaracdolum.web.app^
 ||hgsbakieduragi.web.app^
 ||hgsbakielersmc.lat^
@@ -12748,6 +12752,7 @@
 ||kolayliksayesinde.com^
 ||kolaymil.netlify.app^
 ||kolaysepet.online^
+||kolektif-ajans-yaz.biz^
 ||kolmlolla-ukler-ciklsosto.xyz^
 ||kommando.live^
 ||kondromalazi.lat^
@@ -13581,6 +13586,7 @@
 ||mhrsrandevuvatandaslarimizin.duckdns.org^
 ||mhrssrandevularimmorbidwsynx.com^
 ||mhrsssdsasasa.xyz^
+||mhrsvatandaslaricinonline.duckdns.org^
 ||mhrsvatandaslarimduyuru.duckdns.org^
 ||mhrsvatandasportall.duckdns.org^
 ||mhrsvatandasrandevu.duckdns.org^
@@ -14470,6 +14476,7 @@
 ||osymodemeekrani.xyz^
 ||otcast.pics^
 ||otokocarackirala.com^
+||otokocarackirala.org^
 ||otokocfilokurumsal.com^
 ||otokocfilokurumsal.net^
 ||otokocfilorent.com^
@@ -14483,9 +14490,11 @@
 ||otokockurumsalbayi.com^
 ||otokockurumsalkiralama.com^
 ||otokockurumsaltr.com^
+||otokoconlinekirala.online^
 ||otokocrent.net^
 ||otokocrentcar.com^
 ||otokocrentfilo.com^
+||otokocrezervasyon.net^
 ||otokoctr.com^
 ||otokoctr.net^
 ||otokoctr.rent^
@@ -15040,6 +15049,7 @@
 ||ptt.mobilservisler-25.sbs^
 ||ptt.mobilservisler-49.sbs^
 ||ptt.mobilservisler-65.sbs^
+||ptt.mobilservisler-67.sbs^
 ||ptt.satinalonlinesiparis.com^
 ||ptt.sepetimhizlisatinal.com^
 ||pttavm-arac-bilgileriniz.firebaseapp.com^
@@ -15711,6 +15721,7 @@
 ||sahibinden-get.alimlarinizhizmetler.online^
 ||sahibinden-get.detayservisn.com^
 ||sahibinden-get.emobileservislerr.com^
+||sahibinden-get.guvenli-hizmet.online^
 ||sahibinden-get.guvenli-odemelerim.pro^
 ||sahibinden-get.guvenliodemelerim.online^
 ||sahibinden-get.guvenlisepetler-hizmet.online^
@@ -16406,6 +16417,7 @@
 ||sozlesme.islem-hizmet.com^
 ||sozlesme.online-hizmet-islem.com^
 ||sozlesmeniz-sahibinden.kurumsal-online-islem.com^
+||sozlesmeotokoc.com^
 ||sozlesmepolice.com^
 ||sozlesmepolice.org^
 ||sozlesmepoliceniz.sbs^
@@ -18437,6 +18449,7 @@
 ||voltafabrika.com^
 ||voltafabrikasi.com^
 ||voltamagaza.com^
+||voltamotorluaraclar.com^
 ||voltamotoronline.com^
 ||voltaonlinesatis.com^
 ||voltaturkiye.com^
@@ -18498,6 +18511,7 @@
 ||wazqunor.icu^
 ||wb5sh2enfodu09pr0esw.innovaxazd.icu^
 ||wbnsn-tapurandvusun.com^
+||wbnsn-tapurandvusun.info^
 ||wbnsn-tapurandvusun.net^
 ||wbnsn-tapurandvusun.online^
 ||wbtapss.store^
