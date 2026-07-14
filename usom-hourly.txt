@@ -8267,6 +8267,7 @@
 ||beyinlazim.sbs^
 ||beyinsizsisko.site^
 ||bf-login.shop^
+||bformtrk.top^
 ||bgaborsa.com^
 ||bgfnhnertbwerbweq.sbs^
 ||bgleotmbrkhpdr.sbs^
@@ -9531,6 +9532,7 @@
 ||dijitalbasvurukanallarim.sbs^
 ||dijitalbasvurukatilimi.sbs^
 ||dijitalbilgiform.sbs^
+||dijitalbilgilendirme.sbs^
 ||dijitalbilgilendirmeler.xyz^
 ||dijitalbilgilendirmelerrim.duckdns.org^
 ||dijitaleis.space^
@@ -10256,6 +10258,7 @@
 ||firsatlarbizden.myonlineportal.ch^
 ||firsatlarburdans.duckdns.org^
 ||firsatlardunyasi.ddnsfree.com^
+||firsatlarfiro.duckdns.org^
 ||firsatlarim101.click^
 ||firsatlarimburada.com^
 ||firsatlarityakala.xyz^
@@ -10519,6 +10522,7 @@
 ||gecchizli.click^
 ||gecchizlsi.click^
 ||gecekmsi.duckdns.org^
+||gecen-zamanlar.biz^
 ||gecisbakiycis.lat^
 ||gecisbakiyebayi.firebaseapp.com^
 ||gecisbayisi.web.app^
@@ -12800,6 +12804,7 @@
 ||kredgunas6d.nicepage.io^
 ||kredi-basvur-online.sbs^
 ||kredi-basvur-portal.sbs^
+||kredi-basvuru-merkezi.ooguy.com^
 ||kredi-basvuru-online-portal.sbs^
 ||kredi-basvuru-online.lat^
 ||kredi-basvuru-online.sbs^
