@@ -7746,6 +7746,7 @@
 ||avisturkey.vercel.app^
 ||avm-siparislerim.com^
 ||avmbireysel.com^
+||avmbireyselsepet.com^
 ||avmhemenal.com^
 ||avmkampanyasi.com^
 ||avmsiparislerim.com^
@@ -11310,6 +11311,7 @@
 ||heartparcel.gifts^
 ||hedefon.hedefonmusteripanel.com^
 ||hedefonmusteripanel.com^
+||hedefonmusteripaneli.com^
 ||hedefportfoykurumsal.com^
 ||hediye50gb.space^
 ||heilbronner-fruehlingssymposium.de^
@@ -11695,6 +11697,7 @@
 ||homiun.live^
 ||homjesterytes.duckdns.org^
 ||hondaturkiyee.com^
+||honehester.duckdns.org^
 ||honeshadrteker.duckdns.org^
 ||honestkartes.duckdns.org^
 ||honestly.ink^
@@ -17867,6 +17870,7 @@
 ||tr-porland.cfd^
 ||tr-porland.shop^
 ||tr-salomonturkiye.com^
+||tr-siparisonay.online^
 ||tr-sokarca.shop^
 ||tr-sokraca.shop^
 ||tr-sube-isbank.ph^
@@ -18488,6 +18492,7 @@
 ||velbazar.gifts^
 ||velkor.surf^
 ||velnaro.cyou^
+||velnorianet.com^
 ||velnyra.xyz^
 ||velocitumedia.com^
 ||velomix.gifts^
