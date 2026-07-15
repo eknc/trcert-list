@@ -782,6 +782,7 @@
 124.33.173.242
 124.56.42.75
 ||124566556565899091.duckdns.org^
+||124566556565899094.duckdns.org^
 ||124959300023.duckdns.org^
 125.16.27.190
 125.43.44.207
@@ -12991,6 +12992,7 @@
 ||kuluhugude-redesede.lol^
 ||kuluhugudefere.xyz^
 ||kumbara.iyiliginmucitleri.com^
+||kumuhuguduere-sederete.lol^
 ||kunnvffeyt.giize.com^
 ||kunveytgiris.duckdns.org^
 ||kunvufeytrk.duckdns.org^
@@ -19000,6 +19002,7 @@
 ||y-uygun-l-g.myonlineportal.ch^
 ||y0nl3ndiriliy0rdunsuzdawsz.duckdns.org^
 ||y0nl3ndiriliy0rs8nuz.duckdns.org^
+||y0nl3ndiriliy0senuz.duckdns.org^
 ||y0nl3ndiriliyors0nuz24.duckdns.org^
 ||y0nl3ndirilyors3nzi.duckdns.org^
 ||y0nl3ndirliyo4s0nz.duckdns.org^
