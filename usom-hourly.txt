@@ -7088,6 +7088,7 @@
 ||a101pazar.com^
 ||a101yilinfirsatlar.com^
 ||a10firsat.duckdns.org^
+||a10l.org^
 ||a1menkuldegerler.com^
 ||a1o1.ile-e-islemlerim.com.tr^
 ||a1o1aktuel.blogspot.com^
@@ -11691,6 +11692,7 @@
 ||hometbe.com^
 ||homevera.gifts^
 ||homiun.live^
+||homjesterytes.duckdns.org^
 ||hondaturkiyee.com^
 ||honeshadrteker.duckdns.org^
 ||honestkartes.duckdns.org^
@@ -12164,6 +12166,7 @@
 ||istecep.site^
 ||istefirsatlarburda.com^
 ||istekuzerineistanbul.xyz^
+||istengelenler.shop^
 ||isthasnbllm.com^
 ||isthemenbasvur.uk^
 ||istkart.xyz^
@@ -12445,6 +12448,7 @@
 ||kapiskara.lat^
 ||kapitalix.capital^
 ||kapsamli-ebyl-g.myonlineportal.ch^
+||kapsamsekil-acil.biz^
 ||kapsmuh.com^
 ||karac.shop^
 ||karaca-burada.vercel.app^
@@ -12962,6 +12966,7 @@
 ||ksiyt3wmdupp.icu^
 ||ksuueue211.duckdns.org^
 ||ktalakltlkatla.net^
+||ktcjadskjx1k23xk1zl123123.click^
 ||kubaaraclari.com^
 ||kubamagaza.com^
 ||kubamotorluaraclar.com^
@@ -13674,6 +13679,7 @@
 ||mhrsrandevu1182.site^
 ||mhrsrandevualsanala.duckdns.org^
 ||mhrsrandevuburada.duckdns.org^
+||mhrsrandevuekraaan.duckdns.org^
 ||mhrsrandevuekranlarimizdirr.duckdns.org^
 ||mhrsrandevuekranlarimizzz.duckdns.org^
 ||mhrsrandevularinizbasladi.duckdns.org^
@@ -15005,6 +15011,7 @@
 ||portalsorgulama.org^
 ||portalweb-password-security.myonlineportal.ch^
 ||portfoyislem.online^
+||portfoynurol.com^
 ||portlabs.store^
 ||pory-logrenade-ky.myonlineportal.ch^
 ||post.garantibbvakredibasvuru.com^
@@ -19365,6 +19372,7 @@
 ||ziraatmobil.wqedasdqa.cfd^
 ||ziraatmobil.wqedasdwqa.cfd^
 ||ziraatoffshore.online^
+||ziraatsbank.xyz^
 ||ziraatselseyler.fun^
 ||zirahot-basvur.vercel.app^
 ||zirat-kredi-basvuru-formu.duckdns.org^
@@ -19374,6 +19382,7 @@
 ||zircartel.tr^
 ||zirdefisatkacmaz.duckdns.org^
 ||zireluxa.gifts^
+||zirkalex.mom^
 ||ziroootget.cfd^
 ||zirtajcsdcadsa1xs12.cfd^
 ||zirtat.cfd^
