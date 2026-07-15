@@ -344,6 +344,8 @@
 104.238.220.216
 104.238.61.144
 104.238.61.32
+104.243.32.213
+104.243.43.16
 104.244.72.123
 104.245.241.157
 104.245.244.139
@@ -779,6 +781,7 @@
 124.223.106.247
 124.33.173.242
 124.56.42.75
+||124566556565899091.duckdns.org^
 ||124959300023.duckdns.org^
 125.16.27.190
 125.43.44.207
@@ -4178,6 +4181,7 @@
 ||29c02a5b-e.b-cdn.net^
 ||2a0aabb0-e.b-cdn.net^
 ||2as1d5e65sd1sad54sd.duckdns.org^
+||2baserec2.guru^
 ||2dc62559e005-endpoint.com^
 ||2q7xrmvp.sbs^
 ||2t24.my^
@@ -9208,6 +9212,7 @@
 ||codextech.net.pe^
 ||codiva.vu^
 ||codlix.cyou^
+||coffeesaloon.online^
 ||cogentryx.com^
 ||cogeoma.live^
 ||cogunluk-gima-tgrn.myonlineportal.ch^
@@ -12467,6 +12472,7 @@
 ||karaca-modes.shop^
 ||karaca-onlinemagaza.vercel.app^
 ||karaca-store.shop^
+||karaca-temmuz.shop^
 ||karaca.sbs^
 ||karacaa.co^
 ||karacaa.xyz^
@@ -12536,6 +12542,7 @@
 ||kazprofitlab.com^
 ||kazprominvest.com^
 ||kazprominvestplat.com^
+||kbeautyreviews.com^
 ||kcbps.com^
 ||kd7wb66c6fgoylhv8wnh.icu^
 ||kddredi-ztra.cfd^
@@ -13896,6 +13903,7 @@
 ||monteraa.shop^
 ||montevikasystem.com^
 ||monteviral2026.duckdns.org^
+||moonsand.store^
 ||moravex.gifts^
 ||morcarsfilo.com^
 ||morcartiq.gifts^
@@ -14278,6 +14286,7 @@
 ||nudorleto.online^
 ||nufusehliyetsorgu6.ph^
 ||nuhugurtertese.xyz^
+||nurolportfoyum.com^
 ||nuvanta.cyou^
 ||nuvbazel.com^
 ||nuvbazro.com^
@@ -15602,6 +15611,7 @@
 ||rec.allthe.site^
 ||recallnine.info^
 ||recargapopular.com^
+||recavb22.online^
 ||recebamais.com^
 ||received-gr-sende.biz^
 ||recepyman.info^
@@ -17546,6 +17556,7 @@
 ||tevmui.shop^
 ||textplot.top^
 ||tfgistanbulmenkuldegerler.com^
+||thatwascringe.com^
 ||thearvion.store^
 ||thecocacola-company.com^
 ||thehizlionaygerekenislerde.com^
@@ -17811,6 +17822,7 @@
 ||topnewsdeskreport24.info^
 ||topppira.sbs^
 ||topprogressstores.online^
+||toprakline.com^
 ||toptandonertantuniiixxx.xyz^
 ||topubosvuru.online^
 ||topubosvuru.store^
@@ -18055,6 +18067,7 @@
 ||tt33300003033.duckdns.org^
 ||tta3p0px47q0.icu^
 ||ttccckk.duckdns.org^
+||ttektiklaspnsrlurklam.com^
 ||ttkkmmmevmmynn.org^
 ||ttkpqa.buzz^
 ||ttooakcanosac.xyz^
@@ -19307,6 +19320,8 @@
 ||zeloria.info^
 ||zelpazro.gifts^
 ||zelshopro.com^
+||zelus-checker.cfd^
+||zelus.icu^
 ||zelvanto.xyz^
 ||zelvio.cfd^
 ||zen-tava.com^
@@ -19399,6 +19414,7 @@
 ||zirtajcsdcadsa1xs12.cfd^
 ||zirtat.cfd^
 ||zirtbastvsu.nicepage.io^
+||zirtiigf.cfd^
 ||zirtolar-ggsd.cfd^
 ||zitrkfs.cfd^
 ||ziyaret-prise-lov.myonlineportal.ch^
