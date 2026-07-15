@@ -7751,6 +7751,7 @@
 ||avisturkey.vercel.app^
 ||avm-siparislerim.com^
 ||avmbireysel.com^
+||avmbireyselsatis.com^
 ||avmbireyselsepet.com^
 ||avmhemenal.com^
 ||avmkampanyasi.com^
@@ -7846,6 +7847,7 @@
 ||base22.digital^
 ||basennwrpin.com^
 ||baskwms.top^
+||basladikla4.sbs^
 ||basladimibasvuralari.cloud^
 ||basliyorgosterisaati.yyuyy.com^
 ||basliyoruz13.xyz^
@@ -9214,6 +9216,7 @@
 ||codiva.vu^
 ||codlix.cyou^
 ||coffeesaloon.online^
+||cogalim-edinim.biz^
 ||cogentryx.com^
 ||cogeoma.live^
 ||cogunluk-gima-tgrn.myonlineportal.ch^
@@ -9591,6 +9594,7 @@
 ||dijitalacentasorgulama.org^
 ||dijitalbasvurukanallarim.sbs^
 ||dijitalbasvurukatilimi.sbs^
+||dijitalbilgi-giris.sbs^
 ||dijitalbilgiform.sbs^
 ||dijitalbilgilendirme.sbs^
 ||dijitalbilgilendirmeler.xyz^
@@ -11479,6 +11483,7 @@
 ||hgskurumsal.net^
 ||hgslendifasnxs.xyz^
 ||hgsodeme.com^
+||hgsonlneyklebkye.cfd^
 ||hgsplakasorgula.store^
 ||hgspttbakiyeyukleyn.web.app^
 ||hgsss-odemeleriniz.com^
@@ -11950,6 +11955,7 @@
 ||internetbasvukanallari.duckdns.org^
 ||internetbasvurukatilimi.xyz^
 ||internetduyurularisiz.duckdns.org^
+||internetislemleri-akmobil-bireysel-com.duckdns.org^
 ||internetsubesi.online^
 ||internews.tr^
 ||intranet.garantibbvakredibasvuru.com^
@@ -13957,6 +13963,7 @@
 ||mudofashion.shop^
 ||mueleer.com^
 ||mufasnasfanas.sbs^
+||muguhudue-redesetre.lol^
 ||muhamadfafaoyunda.net^
 ||muhu-bb-vv-aa-ss-dd.xyz^
 ||muhugudueresede-afderese.lol^
@@ -18962,6 +18969,7 @@
 ||xn--param-gvende-ile-siparisi-tamamla-trendyol-tme.com^
 ||xn--rektaru8-zkb.nicepage.io^
 ||xn--temmuzfrsatlaragatbbvaslennmenuler-hcfhim.site^
+||xn--temmuzfrsatlarbvagarantsslemmenulermn-nrfhjbalb.shop^
 ||xn--unutgecmstju-84bb.com^
 ||xn--vakfbank-i80d.com^
 ||xn--yenipouttef-4zb.nicepage.io^
