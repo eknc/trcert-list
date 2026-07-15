@@ -9608,6 +9608,7 @@
 ||dijitalgarantitalepyonetimsistemi.space^
 ||dijitalgib-tr.com^
 ||dijitalnet-bilgi.sbs^
+||dijitalnetbilgi-giris.sbs^
 ||dijitalnetform.sbs^
 ||dijitalportalgiris.com^
 ||dijitalsbasvurukanal.duckdns.org^
@@ -10742,6 +10743,7 @@
 ||glantix.capital^
 ||glantix.surf^
 ||glantos.org^
+||glatas.nicepage.io^
 ||glimzo.click^
 ||glintryvo.com^
 ||global-news7.com^
@@ -10772,6 +10774,7 @@
 ||goodpanelforgoodjob.com^
 ||googlemeet98ty.pages.dev^
 ||gooqle-partnership.com^
+||gooqlemeetnow.com^
 ||goporland.shop^
 ||gopractic.digital^
 ||gopshop.shop^
@@ -11334,6 +11337,7 @@
 ||hellokaracaev.shop^
 ||hellokaracaev.store^
 ||hellokaracaevs.store^
+||hellowhomest.duckdns.org^
 ||helprewardroom.com^
 ||helpuapipl.org^
 ||heltaskeltahenterprise.com^
@@ -13548,6 +13552,7 @@
 ||mednyk.gifts^
 ||medoviypirog.com^
 ||meek-kangaroo-389f62.netlify.app^
+||meet-webconnect.com^
 ||meetarvion.site^
 ||meetclick.store^
 ||meetkilopretiv.com^
@@ -15989,6 +15994,7 @@
 ||saleo.nicepage.io^
 ||salero.gifts^
 ||saletiszacipo.club^
+||salt-okunur.click^
 ||saltanat2market.com.tr^
 ||samel.casa^
 ||samiads-946c93444c3e.herokuapp.com^
@@ -17553,6 +17559,7 @@
 ||tera-home.com^
 ||terafolt.com^
 ||terepoligierese.sbs^
+||tereyopli-gereyupi.lol^
 ||termosindirim.duckdns.org^
 ||termosindiriml.com^
 ||terstdidca.net^
@@ -18719,6 +18726,7 @@
 ||web-basvurum-grntbbva.fixip.org^
 ||web-links-mobil-tr.click^
 ||web-links-mobil-tr.sbs^
+||web-meets.com^
 ||web-telegram.ug^
 ||webb-182.com^
 ||webbtaccss.space^
