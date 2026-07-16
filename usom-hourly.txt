@@ -188,6 +188,7 @@
 103.187.5.128
 103.188.82.240
 103.189.235.93
+103.189.48.29
 103.192.226.46
 103.193.177.152
 103.195.191.198
@@ -494,6 +495,7 @@
 109.120.137.128
 109.120.156.253
 109.120.179.170
+109.122.18.38
 109.167.249.94
 109.172.85.95
 109.172.88.38
@@ -596,6 +598,7 @@
 115.132.36.41
 115.133.192.219
 115.190.115.237
+115.198.84.218
 115.227.26.85
 115.227.49.23
 115.231.236.150
@@ -696,6 +699,7 @@
 120.231.21.8
 120.24.193.58
 120.27.233.135
+120.48.15.138
 120.48.156.17
 120.48.18.226
 120.48.34.72
@@ -1455,6 +1459,7 @@
 151.242.30.13
 151.242.58.76
 151.243.113.33
+151.243.150.222
 151.243.213.234
 151.243.213.58
 151.245.104.90
@@ -1576,7 +1581,9 @@
 154.88.96.49
 154.88.96.61
 154.88.97.36
+154.88.97.45
 154.88.97.58
+154.88.99.36
 154.89.152.240
 154.9.237.158
 154.90.47.77
@@ -1862,6 +1869,7 @@
 163.53.201.45
 163.61.102.245
 163.61.110.175
+163.7.1.156
 164.155.205.99
 164.215.103.143
 164.215.103.20
@@ -2279,6 +2287,7 @@
 176.65.149.209
 176.65.149.225
 176.65.149.226
+176.65.149.236
 176.65.149.32
 176.9.2.144
 176.9.4.26
@@ -2401,6 +2410,7 @@
 180.178.189.7
 180.178.32.214
 180.178.58.83
+180.184.142.135
 180.210.220.139
 180.210.220.148
 180.210.220.54
@@ -2467,6 +2477,7 @@
 182.191.122.219
 182.234.183.31
 ||182.24612-20114.click^
+182.253.221.210
 182.78.17.137
 182.8.226.228
 182.8.226.51
@@ -2623,6 +2634,7 @@
 185.176.94.42
 185.177.239.255
 185.177.72.11
+185.177.72.17
 185.177.72.29
 185.177.72.30
 185.177.72.51
@@ -3538,6 +3550,7 @@
 ||1temmuzayinaozelkampanyalar.duckdns.org^
 ||1zxcnzxhf43412fcdzxcxz.sbs^
 2.237.57.70
+2.26.50.151
 2.26.75.16
 2.56.126.230
 2.56.190.139
@@ -3868,6 +3881,7 @@
 213.163.42.68
 213.165.51.115
 213.165.58.7
+213.165.79.15
 213.171.4.200
 213.173.45.230
 213.176.113.168
@@ -4051,6 +4065,7 @@
 23.146.184.38
 23.146.242.131
 23.162.40.187
+23.164.48.21
 23.226.138.143
 23.226.138.161
 23.226.71.197
@@ -5361,6 +5376,7 @@
 5.252.21.207
 5.252.21.236
 5.252.74.119
+5.253.59.242
 5.255.110.101
 5.255.113.9
 5.255.115.56
@@ -5785,6 +5801,7 @@
 67.207.89.61
 67.21.178.234
 67.21.32.81
+67.213.127.205
 67.217.228.14
 67.217.228.142
 67.217.228.160
@@ -5812,6 +5829,7 @@
 69.10.60.250
 69.164.216.190
 69.25.4.1
+69.5.169.105
 69.5.169.68
 69.6.220.104
 69.62.86.78
@@ -6196,6 +6214,7 @@
 82.26.74.104
 82.29.53.187
 82.29.72.16
+82.29.72.65
 82.47.101.191
 82.62.169.130
 82.66.224.173
@@ -6434,6 +6453,7 @@
 87.249.50.64
 87.251.66.118
 87.251.67.51
+87.97.60.168
 ||876654465.net^
 ||87665543.net^
 ||8768345345.net^
@@ -6585,6 +6605,7 @@
 91.107.221.88
 91.108.240.52
 91.108.244.85
+91.108.82.101
 91.109.20.161
 91.109.201.223
 91.121.140.167
@@ -6631,6 +6652,7 @@
 91.193.19.12
 91.194.229.214
 91.195.240.123
+91.196.152.180
 91.196.32.55
 91.198.77.161
 91.199.160.218
@@ -7003,6 +7025,7 @@
 95.85.252.196
 95.85.93.196
 95.92.242.30
+96.126.130.126
 96.126.176.130
 96.31.67.39
 96.44.189.109
@@ -7063,6 +7086,7 @@
 ||a-101-extra-sadece-online-ozel-tr.online-shop-bireysel-tr.sbs^
 ||a-101-extra-sadece-online-ozel-tr.online-tr-shop-mobil.sbs^
 ||a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs^
+||a-101-online-ozel-extra-mobil-tr.sepette-indirim.online^
 ||a-101c0mtlc.shop^
 ||a-101indirim.com^
 ||a-1o1-c.duckdns.org^
@@ -7415,6 +7439,7 @@
 ||aloo-182.sbs^
 ||aloo-182.xyz^
 ||aloo182.com^
+||alphabitcapital.info^
 ||alphallinktech.com^
 ||alphanonega.org^
 ||alphavista360.com^
@@ -7744,6 +7769,7 @@
 ||aviluxo.com^
 ||avis-filo.kurumsal-online-islem.com^
 ||avis-online-kiralama00.duckdns.org^
+||avisfilo.rent^
 ||avisfiloarackirala.sbs^
 ||avisfilokurumsal.com^
 ||avisfilorent.com^
@@ -9615,6 +9641,7 @@
 ||dijitalbilgilendirme.sbs^
 ||dijitalbilgilendirmeler.xyz^
 ||dijitalbilgilendirmelerrim.duckdns.org^
+||dijitalbilginet-giris.sbs^
 ||dijitaleis.space^
 ||dijitaleiscep.sytes.net^
 ||dijitalekonomikdestekmobil.xyz^
@@ -9842,6 +9869,7 @@
 ||ecezakontrol.org^
 ||ecezamaliye.com^
 ||ecezamgov.org^
+||ecezamkontrol.org^
 ||echojournal.today^
 ||echomorningsardine.com^
 ||econaturex.com^
@@ -10067,6 +10095,7 @@
 ||eolvaru.com^
 ||eonllinemobiledijitalimit.xyz^
 ||eorgke09054909j.com^
+||eorthopaedics.com^
 ||ep6pheij.com^
 ||epgoldsecurity.com^
 ||eportalasliye.org^
@@ -11343,6 +11372,7 @@
 ||headlinepress.icu^
 ||headlinevoyage.com^
 ||headlinx.info^
+||headly.online^
 ||healario.gifts^
 ||healcare.bond^
 ||healightejustb.org^
@@ -11794,6 +11824,7 @@
 ||hukulugude-redesee.lol^
 ||hukumvesorusturma.org^
 ||huldereteyesede.lol^
+||huligili-gulederase.lol^
 ||hulubikasa-deresefu.xyz^
 ||hulugo-paresedefu.lol^
 ||huluguhufuere-sede.xyz^
@@ -14239,6 +14270,7 @@
 ||nice-protect.com^
 ||nicenews79.com^
 ||nicolanicszira.nicepage.io^
+||niggerdemon.in^
 ||night-service.vip^
 ||nightstalkerd.pro^
 ||niguo.top^
@@ -14663,6 +14695,7 @@
 ||otcast.pics^
 ||otokocarackirala.com^
 ||otokocarackirala.org^
+||otokocelektroniksozlesme.com^
 ||otokocfilokurumsal.com^
 ||otokocfilokurumsal.net^
 ||otokocfilorent.com^
@@ -15764,6 +15797,7 @@
 ||rettobasicimhrswsynx.duckdns.org^
 ||retuki-laking-strasfor.myonlineportal.ch^
 ||reveal-expanded-messenger-brokers.trycloudflare.com^
+||revola.life^
 ||rexulon.gifts^
 ||reynoldsjace5.workers.dev^
 ||reynus.live^
@@ -16018,17 +16052,20 @@
 ||sahibinden.trsiparisodeme.online^
 ||sahibindenguvenliadres.com^
 ||sahibindenguvenlikargo.com^
+||sahibindenguvenlimuhasebeodemeleri.duckdns.org^
 ||sahibindeni.com.tr^
 ||sahibindenilankargoo.com^
 ||sahibindenile.com.tr^
 ||sahibindenkargoilan.com^
 ||sahibindenkargoo.com^
+||sahibindenkaskoodemenoktasi.duckdns.org^
 ||sahibindenmuhasebe.xyz^
 ||sahibindenmuhasebeodeme.com^
 ||sahibindenmuhasebeodemenoktasi.dedyn.io^
 ||sahibindenparamguvende.tr^
 ||sahibindenparamguvende.tr-s.online^
 ||sahibindensigortaodeme.com^
+||sahibindensigortaodemesi.com^
 ||sahibindensozlesmeodemeleri.dedyn.io^
 ||sahibiniden.ile-sepetlerim.com.tr^
 ||sahibiyiz.sbs^
@@ -16067,6 +16104,7 @@
 ||sapaos.shop^
 ||sarisincitirikacirmamabi.click^
 ||sasadg.b-cdn.net^
+||sastoro.com^
 ||satin-al-siparis.com^
 ||satinal-siparis.com^
 ||satinalonlinesiparis.com^
@@ -18854,6 +18892,7 @@
 ||widjssij728dj.com^
 ||wikivista.info^
 ||williampalankphoto.com^
+||windowscreenrepairnearme.com^
 ||winhardwarehub.gifts^
 ||winride.gifts^
 ||wireinsight.info^
@@ -19572,6 +19611,7 @@
 ||zxcfsdfcwefwef.duckdns.org^
 ||zxzcvzcvxczvxzsax9.cfd^
 ||zxzcvzcvxczvxzsax9.cyou^
+||zynaris.io^
 ||zync-stream.com^
 ||zyntharioxcrypt.com^
 ||zypharionvect.org^
