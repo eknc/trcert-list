@@ -7977,12 +7977,15 @@
 ||baykarforex.com^
 ||baykarforge.xyz^
 ||baykarfrance.shop^
+||baykargazete.info^
+||baykargundem.info^
 ||baykarhisseleri.com^
 ||baykarinvesti.com^
 ||baykarinvestings.com^
 ||baykarinvestment.net^
 ||baykarinvestment.org^
 ||baykaritalia.shop^
+||baykarledger.info^
 ||baykarmagaza.adobeaemcloud.com^
 ||baykarmagaza.aem.live^
 ||baykarmagaza.aem.page^
@@ -8622,6 +8625,7 @@
 ||brandolim.com^
 ||brandora.blog^
 ||brandtokihair.beauty^
+||branteloq.com^
 ||brarldansansndandan.click^
 ||braskevu.media^
 ||brassframeweapon.com^
@@ -9246,6 +9250,7 @@
 ||configalign.com^
 ||confirmed11190.cfd^
 ||connect.garantibbvakredibasvuru.com^
+||connectasia.asia^
 ||connectptogether.ink^
 ||conny-tortilla.vip^
 ||consistentdigital.de^
@@ -9361,6 +9366,7 @@
 ||cumgukuldaferetesede.xyz^
 ||cumisaldi.net^
 ||curkaonucakle.xyz^
+||currentbeam.online^
 ||currentnest.today^
 ||currentnews.icu^
 ||cursor-8ced8a.gitlab.io^
@@ -9715,6 +9721,7 @@
 ||dressstrangervessel.com^
 ||driftcoredf.top^
 ||driftingpine.com^
+||drillinsight.click^
 ||drispo-laungard.myonlineportal.ch^
 ||drive-mofa-account-downlaod-folder-production.up.railway.app^
 ||driverbackup.gifts^
@@ -9869,6 +9876,7 @@
 ||eeeee33e311.duckdns.org^
 ||eesnnas.dns.navy^
 ||eevtasmenuguncell.xyz^
+||effectivevideostrategies.click^
 ||effsanelndlrlmsaatlerllbasladdll.com^
 ||efsanebayramfirsatlari.com.tr^
 ||efsanefirsatlartektikla.com^
@@ -10782,6 +10790,7 @@
 ||gorati.info^
 ||gorntleme-likidite-rn.myonlineportal.ch^
 ||goruntulenme-yanit-girisim.myonlineportal.eu^
+||gosterim-harcama.xyz^
 ||gostermelikdiplomaal.github.io^
 ||gosuwen.shop^
 ||got8rflowes.info^
@@ -10924,6 +10933,8 @@
 ||guncelverimerkezi.com^
 ||guncelyorumlar.com^
 ||gundemcizgisi.gifts^
+||gundemdunyasi.company^
+||gundemfeneri.online^
 ||gundemguncelhaber.com^
 ||gundemguncelplatform.com^
 ||gundemhaberfirsat.com^
@@ -13728,6 +13739,7 @@
 ||mhrsvatandaslaricinonline.duckdns.org^
 ||mhrsvatandaslarimduyuru.duckdns.org^
 ||mhrsvatandasportall.duckdns.org^
+||mhrsvatandasportalyonlendirme.duckdns.org^
 ||mhrsvatandasrandevu.duckdns.org^
 ||mhs420dq.com^
 ||mhsaogreen.uk^
@@ -14124,6 +14136,7 @@
 ||netorbit.sbs^
 ||netprobe.vu^
 ||netttvcxguncelil.xyz^
+||netvanta.digital^
 ||netw-comment-pls.myonlineportal.ch^
 ||neuromancersolutionsenterprise.icu^
 ||nevadanhrs.xyz^
@@ -14156,6 +14169,7 @@
 ||newsoria.online^
 ||newspeakly.com^
 ||newsportalx.com^
+||newsquark.top^
 ||newssprout.company^
 ||newssprout.world^
 ||newstarcommunity.com^
@@ -14729,6 +14743,7 @@
 ||paribu--technology.com^
 ||paribu--tekloloji.com^
 ||paribu-araba.com^
+||paribu-arabacekilisi.com^
 ||paribu-arabahediye.com^
 ||paribu-buyukcekilisi.com^
 ||paribu-cekilis.co^
@@ -14991,6 +15006,7 @@
 ||plomby.org^
 ||plomvex.xyz^
 ||plorvix.vu^
+||plovis.sbs^
 ||pluginchad.xyz^
 ||plurnostavi.gifts^
 ||pocmsmdi.net^
@@ -15046,6 +15062,7 @@
 ||portalm1hrs.xyz^
 ||portalrandevuwsynxhak4n.duckdns.org^
 ||portalsorgulama.org^
+||portalvatandasmhrsz.duckdns.org^
 ||portalweb-password-security.myonlineportal.ch^
 ||portfoyislem.online^
 ||portfoynurol.com^
@@ -15153,6 +15170,7 @@
 ||profitib.com^
 ||profitzs.com^
 ||profosyonelccoklusupurge.click^
+||progetto-finanziario24.org^
 ||projeaktif.org^
 ||projects-poker-championships-selecting.trycloudflare.com^
 ||promaroz.com^
@@ -16276,6 +16294,7 @@
 ||shield-sky.com^
 ||shop-tr-online-mobil.click^
 ||shop-tr-online-mobil.sbs^
+||shoparo.info^
 ||shopcore.gifts^
 ||shopkingall.top^
 ||shoplume.xyz^
@@ -17781,6 +17800,7 @@
 ||toothingduel.pro^
 ||top-la-gel-e-hrs-ey-bur-adan.life^
 ||topicdaily.vu^
+||topicforge.top^
 ||topicgrove.info^
 ||topicguide.website^
 ||topicib.com^
@@ -18333,7 +18353,9 @@
 ||uludagerikli.xyz^
 ||ululink.click^
 ||ulusalbakisim.com^
+||ulusalcember.com^
 ||ulusaldefter.com^
+||ulusaldoga.com^
 ||ulusaldurak.com^
 ||ulusalevren.com^
 ||ulusalmenkuldegerler.com^
