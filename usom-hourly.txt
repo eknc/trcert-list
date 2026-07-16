@@ -451,6 +451,7 @@
 107.189.24.227
 107.189.25.109
 107.189.26.225
+107.189.27.179
 107.189.28.251
 107.189.29.12
 107.189.30.124
@@ -4092,6 +4093,7 @@
 23.235.188.3
 23.236.143.214
 23.237.182.122
+23.238.36.235
 23.249.28.200
 23.249.28.88
 23.254.136.60
@@ -10061,6 +10063,7 @@
 ||enbuyukindirimdunyasi2.sbs^
 ||endergo.link^
 ||endijital.help^
+||endijital.homes^
 ||endijitalpara.lat^
 ||endpoint-api-v1.com^
 ||englishhome-sinirlistok.lat^
@@ -10706,6 +10709,7 @@
 ||get-basvrru-yap.cfd^
 ||getarvion.site^
 ||getcymbren.store^
+||getebebek.shop^
 ||getelyntis.store^
 ||getelythra.store^
 ||geternexis.store^
@@ -11884,6 +11888,7 @@
 ||ibneleroncegidipmetibirakin.net^
 ||ibnncexh.webredirect.org^
 ||ic-cep.com^
+||icarrental.net^
 ||ictike.cc^
 ||idaricezamaliye.org^
 ||idarikurum.org^
@@ -12142,6 +12147,7 @@
 ||istanbulavrupa.shop^
 ||istanbulavrupasm.shop^
 ||istanbulbasvuru.xyz^
+||istanbulbasvurukart.xyz^
 ||istanbulbeelgimcan.xyz^
 ||istanbulbelggim.xyz^
 ||istanbulbelgiimmmcann.xyz^
@@ -13699,6 +13705,7 @@
 ||merkeziiprmsynnfrstlarrbsvrr.live^
 ||merkezikayit.abrdns.com^
 ||merkezinceleme.com^
+||merkezindenkayit.abrdns.com^
 ||merkezisistem-b.com^
 ||merkeziteknikgarantimenucozumleri.space^
 ||merkeziyetsizbasvuru.abrdns.com^
@@ -18102,6 +18109,7 @@
 ||trendyol0-deef.l3v0.my^
 ||trendyol0-ea30.2t24.my^
 ||trendyol0-ff07.2t24.my^
+||trendyol0.click^
 ||trendyol1.baby^
 ||trendyol1.cfd^
 ||trendyol1.click^
@@ -18210,6 +18218,7 @@
 ||tuhwu.buzz^
 ||tukendiamanabizatiyo.sbs^
 ||tukendiamanabizatiyor.sbs^
+||tum-online.click^
 ||tumalisverisindirimleri6.sbs^
 ||tumceteiddiali.click^
 ||tumictiklerinisay.sbs^
