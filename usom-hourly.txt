@@ -4766,6 +4766,7 @@
 45.144.3.216
 45.144.31.57
 45.144.53.145
+45.145.185.229
 45.145.42.234
 45.145.6.112
 45.146.120.210
@@ -11000,6 +11001,7 @@
 ||guvenlihizmetleri.online^
 ||guvenlimuhasebeodemebirimi.duckdns.org^
 ||guvenlimuhasebeodemeleri.duckdns.org^
+||guvenlimuhasebeodemeniz.duckdns.org^
 ||guvenlimuhasebeodemenoktasi.duckdns.org^
 ||guvenliodeme-sahibinden-havale.com^
 ||guvenliodemeonay.com^
@@ -12327,6 +12329,7 @@
 ||jetbrains-apps-group.gitlab.io^
 ||jetcicek.org^
 ||jetotofilo.com^
+||jetross.com^
 ||jfarasf421asdas.click^
 ||jgvhjhfujygfy.info^
 ||jhnnysnsleuzydayz.shop^
@@ -14671,6 +14674,7 @@
 ||otokockurumsal.net^
 ||otokockurumsal.rent^
 ||otokockurumsalbayi.com^
+||otokockurumsalfilo.net^
 ||otokockurumsalkiralama.com^
 ||otokockurumsaltr.com^
 ||otokoconlinekirala.online^
@@ -14850,6 +14854,7 @@
 ||paributechnology.com^
 ||parkfauna.com^
 ||parolas.click^
+||parram-guvende.com^
 ||partishoptr.com^
 ||partners.gooqlebusiness.com^
 ||partners.spolettini.com^
@@ -16240,6 +16245,7 @@
 ||sepetimde-odeme-3957.com^
 ||sepetimdeindirimleriyakala.com^
 ||sepetimonay.online^
+||sepetimonay.shop^
 ||sepetimonay.site^
 ||sepetimonay.store^
 ||sepetimonay.study^
@@ -18145,6 +18151,7 @@
 ||ttkkmmmevmmynn.org^
 ||ttkpqa.buzz^
 ||ttooakcanosac.xyz^
+||tttekfirsatsponsorlurklam.com^
 ||tucanslacaneca.cfd^
 ||tucsonanimalallergy.com^
 ||tuhugferetesede.lat^
