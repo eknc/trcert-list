@@ -7332,8 +7332,10 @@
 ||akbank-borc-sorgulama.ph^
 ||akbank-com.ph^
 ||akbank-invest-hub.sbs^
+||akbank-isube.ph^
 ||akbank-kredi-basvuru-merkezi.loseyourip.com^
 ||akbank-pw.hizliyatirim.net^
+||akbankdirekt-kampanyalar.ph^
 ||akbankinvest.com^
 ||akbankk-bireysell.ph^
 ||akbankmobil.netlify.app^
@@ -9903,6 +9905,7 @@
 ||edilgen-kapigr-entry.myonlineportal.ch^
 ||edilim-entry-kapisi.myonlineportal.ch^
 ||edilim-kapi-dusunce.myonlineportal.ch^
+||edinim-izleme.click^
 ||edinimler-aciklayici-klagr.myonlineportal.ch^
 ||edosyabirimi.org^
 ||edosyaegm.org^
@@ -11066,6 +11069,7 @@
 ||gxmbgl.help^
 ||gytcuj.buzz^
 ||gzkarca.shop^
+||h-gs-odemelerinizxx.duckdns.org^
 ||h01-captcha.sbs^
 ||h155polisi.online^
 ||h1k9p4z7m6q2.cfd^
@@ -11534,6 +11538,7 @@
 ||hgsbakiyeukleyin.web.app^
 ||hgsbakiyeyukleme.duckdns.org^
 ||hgsbakiyeyuklemeniz.firebaseapp.com^
+||hgsbakiyeyuklemetr.com.ph^
 ||hgsbakiyeyuklme.web.app^
 ||hgsbakiyeyuklmei.firebaseapp.com^
 ||hgsbakiyeyuklmei.web.app^
@@ -12291,6 +12296,7 @@
 ||istntblgtrjrg.com^
 ||istpalenkova.xyz^
 ||istsenben.xyz^
+||isube-qnbfinansbankasi.ph^
 ||isubeakbankdirekt.ph^
 ||isxbank-promo.redirectme.net^
 ||ivdharcpulu.com^
@@ -17465,6 +17471,7 @@
 ||techva.cyou^
 ||techvera.digital^
 ||tefasglobal.com^
+||tefasyatirimpaneli.com^
 ||teflonpot-cyo.xyz^
 ||tehelp.com^
 ||tek-uygulamada-gecerli.lol^
@@ -18699,6 +18706,7 @@
 ||vertualstreak.info^
 ||vetepez.top^
 ||vexalorin.shop^
+||vexaluniqo.gifts^
 ||vexalunor.cfd^
 ||vexalunorq.capital^
 ||vexanovakz.sbs^
@@ -19152,6 +19160,7 @@
 ||y-uygun-l-g.myonlineportal.ch^
 ||y0nl3ndiriliy0rdunsuzdawsz.duckdns.org^
 ||y0nl3ndiriliy0rs8nuz.duckdns.org^
+||y0nl3ndiriliy0rsunuze.duckdns.org^
 ||y0nl3ndiriliy0senuz.duckdns.org^
 ||y0nl3ndiriliyors0nuz24.duckdns.org^
 ||y0nl3ndirilyors3nzi.duckdns.org^
@@ -19336,6 +19345,7 @@
 ||yolgoarackiralama.com^
 ||yolixarackiralama.com^
 ||yolumuzdunya.com.tr^
+||yonelen-zaman.click^
 ||yonl3ndirilidiorusunizi.duckdns.org^
 ||yonlen.duckdns.org^
 ||yonlendeiiyonuz7290012.duckdns.org^
