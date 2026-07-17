@@ -4052,6 +4052,7 @@
 222.253.102.94
 222.77.214.223
 222.91.197.133
+||2222210x0x022gh.duckdns.org^
 223.123.44.120
 223.153.192.84
 223.16.184.105
@@ -10071,6 +10072,8 @@
 ||ekraninizaktif-ogrenmesikolay.sbs^
 ||ekraninizzgirisoanysorogren.sbs^
 ||ekraninizzonayy-kontrol.sbs^
+||ekranmhrsvatandasbasvuru.duckdns.org^
+||ekranportalmhrsgirisvatandas.duckdns.org^
 ||ekspres.obilet-www.online^
 ||ekstra101.dpdns.org^
 ||ekstramarket.duckdns.org^
@@ -13173,6 +13176,7 @@
 ||kredi-online-islem.sbs^
 ||kredi-online-islemleri.lat^
 ||kredi-online-islemleri.sbs^
+||kredibasvuru.duckdns.org^
 ||kredibasvuru.lat^
 ||kredibasvurulari.lat^
 ||kredibasvuruonayla.com^
@@ -14644,11 +14648,13 @@
 ||offservers.ru^
 ||ogreninrandevunuzu.com^
 ||ogrenmeasamasiekranlariniz.sbs^
+||ogrenmesorgulamaislerinz.sbs^
 ||ohlsdtes.net^
 ||ohqbtbbavnet.garantibbvakredibasvuru.com^
 ||oilwealthpro.com^
 ||ojj.a3jb4ob55b1uk2wr.fun^
 ||okidoki-flax.vercel.app^
+||okkziug.cfd^
 ||oklefe.com^
 ||okmegnsdc.info^
 ||okohholdingsltd.com^
@@ -17579,6 +17585,7 @@
 ||talvoro.store^
 ||tamamhadherseebakgotur.info^
 ||tamamla-sip.com^
+||tamamla-sipars.com^
 ||tamamladim.click^
 ||tamammarket.click^
 ||tamelix.vu^
