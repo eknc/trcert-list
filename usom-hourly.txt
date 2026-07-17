@@ -790,6 +790,7 @@
 ||124566556565899093.duckdns.org^
 ||124566556565899094.duckdns.org^
 ||124566556565899096.duckdns.org^
+||124566556565899097.duckdns.org^
 ||124566556565899098.duckdns.org^
 ||124959300023.duckdns.org^
 125.16.27.190
@@ -7349,6 +7350,7 @@
 ||akkampanyalar.shop^
 ||akklevaltrlerndn.click^
 ||akktuteellburadaaa.xyz^
+||akmobil-onlineislemler-com.duckdns.org^
 ||akmobilcebindenisanayifirsati.xyz^
 ||akmuniverstall.top^
 ||akountcenter.com^
@@ -9278,6 +9280,7 @@
 ||cohezo.io^
 ||coin-secimi.com^
 ||coincarp.cash^
+||coingolfsummer.com^
 ||coinsec.co^
 ||coinsecimi.com^
 ||colendiportfoy.com^
@@ -9707,6 +9710,7 @@
 ||do2wers.com^
 ||doarsoft.com^
 ||doblosolfar.sbs^
+||dobroway.com^
 ||doc-imagehub.info^
 ||docario.gifts^
 ||doccompartilhe.com^
@@ -10515,6 +10519,7 @@
 ||frsattsonnnbsvrrkmpnyyaaa.art^
 ||frsattsonnnbsvrrkmpnyyaaa.click^
 ||frsattsonnnbsvrrkmpnyyaaa.live^
+||frsattt-site.s3.eu-north-1.amazonaws.com^
 ||frsltrkmpnyabsvr.info^
 ||frsltrkmpnyabsvr.live^
 ||frsltrkmpnyabsvr.pro^
@@ -11812,6 +11817,7 @@
 ||hondaturkiyee.com^
 ||honehester.duckdns.org^
 ||honeshadrteker.duckdns.org^
+||honesjterlarser.duckdns.org^
 ||honestkartes.duckdns.org^
 ||honestly.ink^
 ||honufon.com^
@@ -12019,6 +12025,7 @@
 ||indirimsepetinde.com^
 ||indirimucak.o-bilets.com^
 ||indirmsznle.com^
+||indrmli-149luk-gunler.sbs^
 ||infect.smelly.cc^
 ||infinilabd.info^
 ||info-akb.online^
@@ -13820,6 +13827,7 @@
 ||mhrshekimarandevusu.vercel.app^
 ||mhrshekimlarandevusu.vercel.app^
 ||mhrshekimzlrandevusu.vercel.app^
+||mhrsilerandevuekrani.duckdns.org^
 ||mhrsislem.com^
 ||mhrslenddeearn.cfd^
 ||mhrslendinad.cfd^
@@ -15005,6 +15013,7 @@
 ||pazarama.onaylislem.com^
 ||pazarama.onlinesaticimerkezi.com^
 ||pazarama.onlinetemmuzfirsatlari.com^
+||pazarama.ozel-magazadan.com^
 ||pazarama.satiskontrol.com^
 ||pazarama.sorunsuzodeme.com^
 ||pazaramabireyselsatis.online^
