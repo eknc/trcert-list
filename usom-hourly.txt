@@ -805,6 +805,7 @@
 ||125415554558998993.duckdns.org^
 ||12545589989990893.duckdns.org^
 ||1254598989899890.duckdns.org^
+||1254598989899893.duckdns.org^
 ||1255665988451698992.duckdns.org^
 ||1255665988451698993.duckdns.org^
 126.209.16.237
@@ -7725,6 +7726,7 @@
 ||asteara.org^
 ||astrocaf.com^
 ||astrosastro.live^
+||astrovector.capital^
 ||asutelbizimleindirim.xyz^
 ||asutelimbizimle.xyz^
 ||asxadl12kl3c12jkx1l23x1.cfd^
@@ -7746,6 +7748,7 @@
 ||auroraclair.com^
 ||aurorait.blog^
 ||authorized-logins.net^
+||autodiscover.1254598989899893.duckdns.org^
 ||autodiscover.459671325743t527140.duckdns.org^
 ||autodiscover.619378724639012408150.duckdns.org^
 ||autodiscover.73214625721684432190.duckdns.org^
@@ -8380,6 +8383,7 @@
 ||benibirdahanezamangorcen.click^
 ||benimadimkenankamberseninlegoruscez.com^
 ||benyenbasladmszdegelhabd87.info^
+||benzin-pro.com^
 ||bepviews.com^
 ||beralisvc.info^
 ||beransraol.com^
@@ -8504,6 +8508,7 @@
 ||binatolme.pro^
 ||bindeath99.cfd^
 ||bintail.com^
+||biocircuit.capital^
 ||biralanabirharikaekmekveriyorum.space^
 ||birazyolumvar.click^
 ||birbirimizlesizlepromosyon.duckdns.org^
@@ -8622,6 +8627,8 @@
 ||blestorians.cfd^
 ||blesturadimq.com^
 ||blissly.bond^
+||blog.evsahibibasvuru.com^
+||blogs.evsahibibasvuru.com^
 ||blogsayfamiz.sbs^
 ||bloomaura.info^
 ||bloomvella.gifts^
@@ -9402,6 +9409,7 @@
 ||cp-is-statik.myonlineportal.ch^
 ||cp.dene.de.com^
 ||cpanel.10807206403201140.duckdns.org^
+||cpanel.1254598989899893.duckdns.org^
 ||cpanel.381365462354821010.duckdns.org^
 ||cpanel.381365462354821020.duckdns.org^
 ||cpanel.5018924765717295120.duckdns.org^
@@ -9414,6 +9422,7 @@
 ||cpanel.basvurumonayysizhesapsorugulama.duckdns.org^
 ||cpanel.evsahibibasvuru.com^
 ||cpanel.sokmarketekstrakampanya2.duckdns.org^
+||cpcalendars.1254598989899893.duckdns.org^
 ||cpcalendars.7641713825499130.duckdns.org^
 ||cpcalendars.7641713825499160.duckdns.org^
 ||cpcalendars.7641713825499180.duckdns.org^
@@ -9538,6 +9547,7 @@
 ||daspcz.help^
 ||daspino.vu^
 ||dastore.top^
+||data.evsahibibasvuru.com^
 ||datacentra.live^
 ||datalinea.digital^
 ||datanaria.com^
@@ -10308,6 +10318,7 @@
 ||exonri.info^
 ||expedla-getphoto.cloud^
 ||extendyourcredibility.de^
+||extranet.evsahibibasvuru.com^
 ||eypdvy.click^
 ||eyqwj.com^
 ||ezblrclme.shop^
@@ -10321,6 +10332,7 @@
 ||faalsias.nicepage.io^
 ||fabrikadanhalkaa.shop^
 ||face-kampnyalari.xyz^
+||facebook.evsahibibasvuru.com^
 ||faceit-clubs-verify.com^
 ||faceit-discord.com^
 ||faceit-verification-clubs.com^
@@ -10577,6 +10589,7 @@
 ||forzir.cfd^
 ||founiodrai.digital^
 ||fovbuyra.gifts^
+||fr.evsahibibasvuru.com^
 ||fred-reasons-loads-blocks.trycloudflare.com^
 ||freetv-izlesende.com^
 ||freeworldcup.xyz^
@@ -10908,6 +10921,7 @@
 ||git-basvuruyapv.cfd^
 ||git-service.com^
 ||git-tanstack.com^
+||git.evsahibibasvuru.com^
 ||gitgidebildiginyerdeyim.sbs^
 ||gitgideduzeliyor.sbs^
 ||gjbdijittal.com^
@@ -10924,6 +10938,7 @@
 ||globalfinancehub.world^
 ||globalfiscaldaily.com^
 ||globalheadlinehub.online^
+||gmail.evsahibibasvuru.com^
 ||gmaildestektr.com^
 ||gmcemrketlerce.cfd^
 ||gmslb.net^
@@ -12208,6 +12223,7 @@
 ||ipucu-web.click^
 ||iqd2g5opy2vua7p8hd19.innovaxazd.icu^
 ||iqvotd.buzz^
+||irc.evsahibibasvuru.com^
 ||irm-loomer-kray.myonlineportal.ch^
 ||ironbrave.online^
 ||irony.lat^
@@ -12455,6 +12471,7 @@
 ||isube-qnbfinansbankasi.ph^
 ||isubeakbankdirekt.ph^
 ||isxbank-promo.redirectme.net^
+||it.evsahibibasvuru.com^
 ||ivdharcpulu.com^
 ||ivdmobil.com^
 ||ivorilla.cloud^
@@ -12511,6 +12528,7 @@
 ||j155polisi.online^
 ||j4jobspk.com^
 ||j784745.click^
+||jabber.evsahibibasvuru.com^
 ||jackscommunications.com^
 ||jaequlin.vu^
 ||jaguar-style.cfd^
@@ -13395,6 +13413,7 @@
 ||lexup.click^
 ||lflix.neocities.org^
 ||liamseitfor.top^
+||lib.evsahibibasvuru.com^
 ||librarycurrents.duckdns.org^
 ||lichenwispupd.info^
 ||lifebalghance.pro^
@@ -13633,6 +13652,7 @@
 ||mahkemelik.help^
 ||mahkemesorgula.org^
 ||maideloyaro.pro^
+||mail.1254598989899893.duckdns.org^
 ||mail.1492138126532079202410.duckdns.org^
 ||mail.4368958847.duckdns.org^
 ||mail.6134728541296136547130.duckdns.org^
@@ -13646,6 +13666,7 @@
 ||mail.adayislem.com.tr^
 ||mail.blnance-basvuru.info^
 ||mail.digital-ode.com^
+||mail.evsahibibasvuru.com^
 ||mail.magelan-nato.net^
 ||mail.nato-hq.com^
 ||mail.nato-otan.net^
@@ -14201,6 +14222,7 @@
 ||monerix.capital^
 ||monevo.gifts^
 ||moneyportfoy.com^
+||monitor.evsahibibasvuru.com^
 ||monitorix.cyou^
 ||montagelips.info^
 ||monteraa.shop^
@@ -14769,6 +14791,7 @@
 ||online-shop-bireysel-tr.site^
 ||online-sorgulama.com^
 ||online.empordafibra.com^
+||online.evsahibibasvuru.com^
 ||online.fbasube.pro^
 ||online.fbavarlikmenkul.com^
 ||online182.com^
@@ -15015,6 +15038,7 @@
 ||pan.rongtv.xyz^
 ||pancakeswap.financial^
 ||panel.allthe.site^
+||panel.evsahibibasvuru.com^
 ||panel.hdfportfoy.com^
 ||panel.hedefonmusteripanel.com^
 ||pantolonunnerdendiyor.click^
@@ -15123,6 +15147,7 @@
 ||parolas.click^
 ||parram-guvende.com^
 ||partishoptr.com^
+||partner.evsahibibasvuru.com^
 ||partners.gooqlebusiness.com^
 ||partners.spolettini.com^
 ||parvexa.shop^
@@ -15994,6 +16019,7 @@
 ||red-viper.com^
 ||redbull-hiring.com^
 ||redirectsi1.sbs^
+||redmine.evsahibibasvuru.com^
 ||rednoff.shop^
 ||redpageataninannesivefatetsin.net^
 ||redwing.top^
@@ -17108,6 +17134,7 @@
 ||stosrsadxadsax.sbs^
 ||strabellaparfumes.com^
 ||stratline.icu^
+||stream.evsahibibasvuru.com^
 ||streambepro.top^
 ||streamcommun1ty.com^
 ||streamforgeonline.co^
@@ -17157,6 +17184,7 @@
 ||suwens.top^
 ||suyaxqxa.click^
 ||sv-gercek-g-i-r.myonlineportal.ch^
+||sv.evsahibibasvuru.com^
 ||svans-loyp-gren.myonlineportal.ch^
 ||svclsc.com^
 ||svdlgnlrdebyzsvdklrdan.click^
@@ -17949,6 +17977,7 @@
 ||temmuzda-sizlerleryiz.click^
 ||temmuzfirsatlari.click^
 ||temmuzfirsatlari.com^
+||temmuzfirsatlarinagiirisiimbvagarantisiyle.click^
 ||temmuzkampanyalarimiz.my-homeip.de^
 ||temmuzlaherseyindirimle101.com^
 ||temmuzlndirimlericepte.com^
@@ -17970,6 +17999,7 @@
 ||test.blnance-basvuru.info^
 ||test.evsahibibasvuru.com^
 ||test.shellsell.market^
+||test1.evsahibibasvuru.com^
 ||testediyorum.cfd^
 ||testediyorum.sbs^
 ||tester124124.duckdns.org^
@@ -18012,6 +18042,7 @@
 ||tiklakapinda.duckdns.org^
 ||tiklaoyna.click^
 ||tiktokforbadge.com^
+||time.evsahibibasvuru.com^
 ||timefocus.watch^
 ||timticaret.aem.page^
 ||timticaret.aem.reviews^
@@ -18704,6 +18735,7 @@
 ||tuvvturks.digital^
 ||tuyoahsadhahsd909adsdhas.click^
 ||tuyoashdahsdhashd92sdh92sad.click^
+||tv.evsahibibasvuru.com^
 ||tvrktshdabzursd.store^
 ||tvtrkhdizmbeyrs.online^
 ||tvtrkhdizmbeyrs.store^
@@ -19179,6 +19211,7 @@
 ||webbtaccss.space^
 ||webcodenest.co^
 ||webdevora.digital^
+||webdisk.1254598989899893.duckdns.org^
 ||webdisk.6134728541296136547120.duckdns.org^
 ||webdisk.619378724639012408140.duckdns.org^
 ||webdisk.73214625721684432160.duckdns.org^
@@ -19186,6 +19219,7 @@
 ||webdisk.sokmarketekstrakampanya3.duckdns.org^
 ||webdisk.sokmarketekstrakampanya5.duckdns.org^
 ||webforge.bond^
+||webmail.1254598989899893.duckdns.org^
 ||webmail.6134728541296136547150.duckdns.org^
 ||webmail.73214625721684432160.duckdns.org^
 ||webmail.7641713825499140.duckdns.org^
@@ -19846,6 +19880,7 @@
 ||zevfesedlipilgiasdere.xyz^
 ||zexcommunity.xyz^
 ||zeytaro.com^
+||zfonemk.cfd^
 ||zfwalfjcadcswlfjwsdfw.sbs^
 ||zg5mkr7q.apexharvestor.digital^
 ||zgj1tam9.space^
