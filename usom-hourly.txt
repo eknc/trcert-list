@@ -50,6 +50,7 @@
 ||10000000001.opik.net^
 ||100101099999900001.duckdns.org^
 ||1001harcabitmez.click^
+||101-kstra.s3.eu-north-1.amazonaws.com^
 101.126.141.180
 101.201.213.210
 101.32.26.154
@@ -4167,6 +4168,7 @@
 ||2348932749832432.net^
 ||2351245.click^
 ||2353676gseasfdgsdf1263.click^
+||235dfsfds23gsdf.click^
 ||235fjpsdo23532.cfd^
 ||235sdaf235sa.click^
 ||237727232basvuru.fixip.org^
@@ -7107,6 +7109,7 @@
 ||a-101-extra-mobil-sadece-online-ozel-siparis-tr.online-mobil-shop-tr.com^
 ||a-101-extra-mobile-ozel-bugun-sepette-tr.online-bireysel-mobil-tr.site^
 ||a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click^
+||a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online^
 ||a-101-extra-sadece-bugune-ozel-mobilde-tr.online-tr-shop-mobil.click^
 ||a-101-extra-sadece-bugune-ozel-online-siparis-tr.bireysel-mobil-shop-tr.com^
 ||a-101-extra-sadece-online-mobile-ozel-tr.online-shop-bireysel-tr.online^
@@ -7370,6 +7373,7 @@
 ||akbankinvest.com^
 ||akbankk-bireysell.ph^
 ||akbankmobil.netlify.app^
+||akbankmobilnet.ph^
 ||akbasvurumobil.duckdns.org^
 ||akbiadekampanya2025.click^
 ||akbireyselislemkanali.duckdns.org^
@@ -8315,6 +8319,7 @@
 ||bbvagarantibank.ph^
 ||bbvagarantiwebiadesi.ph^
 ||bbvaonlinefirsatlar.duckdns.org^
+||bbzirbta.cfd^
 ||bcv-acces.lat^
 ||bcv-basvrm.lat^
 ||bcv-bsvrs.lat^
@@ -8486,6 +8491,7 @@
 ||bilopiddsade-cere.xyz^
 ||bilsesavasiyorumdahanelerle.sbs^
 ||bilukufere-gudazese.xyz^
+||bimcellodeme.ph^
 ||bimmarketleri.com^
 ||binance-web30.shop^
 ||binancemasakdogrulamaactivasyon.duckdns.org^
@@ -9191,6 +9197,7 @@
 ||cemostvsn.net^
 ||cenedenemexxlerxxinvaxxrtevsi.xyz^
 ||cepc4b1scepc4b1sburda84.live^
+||cepgarantisube.ph^
 ||cepte-sok.shop^
 ||cepte-sokindirim.rf.gd^
 ||ceptehabaerglobalim.shop^
@@ -9397,6 +9404,7 @@
 ||corvus-infra.cc^
 ||coslyintra.online^
 ||cosmic-nebula.cc^
+||cosmicmatrix.capital^
 ||cosmicupto.info^
 ||cosmosfinans.com^
 ||costislandkeyboard.com^
@@ -9593,6 +9601,7 @@
 ||deep-ai-guard.store^
 ||deep-eprime.app^
 ||deep-harborio.com^
+||deepbiosphere.capital^
 ||deepconnghection.info^
 ||deeprace.info^
 ||deepwork.study^
@@ -10733,6 +10742,7 @@
 ||garantibbva.guvenlislem.com^
 ||garantibbvabankas.ph^
 ||garantibbvacepmobil.duckdns.org^
+||garantibbvahesaphareketleri.ph^
 ||garantibbvaintl.com^
 ||garantibbvakredi.otzo.com^
 ||garantibbvapromosyon.com^
@@ -10822,6 +10832,7 @@
 ||genelgundem7.com^
 ||generates-springfield-inn-provision.trycloudflare.com^
 ||generator-qrcode.online^
+||geneticorbit.capital^
 ||gennora.shop^
 ||gennora.site^
 ||gennora.store^
@@ -11990,6 +12001,7 @@
 ||html-replica-controller-perceived.trycloudflare.com^
 ||httpsistmknvcnbvcx.com^
 ||hub.ssa-userstatus.com^
+||hugufudere-redesede.lol^
 ||huhgu-fuyur-desede.xyz^
 ||huhukitakip.org^
 ||hukligefertuyise.xyz^
@@ -12466,6 +12478,7 @@
 ||istmknvcbnxcvb.com^
 ||istmoparacsorgu.online^
 ||istmstets.click^
+||istnbannlkrt.com^
 ||istnblwaskrsxt.online^
 ||istnike67.xyz^
 ||istnnmblas.com^
@@ -14963,6 +14976,7 @@
 ||otokocfilotr.net^
 ||otokockiralamatr.com^
 ||otokockurumsal.net^
+||otokockurumsal.org^
 ||otokockurumsal.rent^
 ||otokockurumsalbayi.com^
 ||otokockurumsalfilo.net^
@@ -17159,6 +17173,7 @@
 ||sube.sekermenkul.com^
 ||sube.sekerplatform.pro^
 ||subeinf.com^
+||subeislemlerim-akbank.ph^
 ||subemiz-garanti.myonlineportal.eu^
 ||subeportalgiris.com^
 ||subesiz-basvur.myonlineportal.eu^
@@ -19705,6 +19720,7 @@
 ||yklehgsyklepra.cfd^
 ||yllrdnsnlrdansdasds.click^
 ||ynl3ndiriyn3nuzknkk.duckdns.org^
+||ynlendirbrnkrkmdyivlasi.duckdns.org^
 ||ynlendirdstmkrkmayav.duckdns.org^
 ||ynlendiriyonuzzknkk.duckdns.org^
 ||ynlendiriyos67nuz.duckdns.org^
@@ -19964,6 +19980,7 @@
 ||zkoperatifi.cfd^
 ||zkoperatifs.cfd^
 ||zkrikayt.cfd^
+||zkrsifg.cfd^
 ||zktarim.cfd^
 ||zlm0106661.duckdns.org^
 ||zlm11090100001.duckdns.org^
