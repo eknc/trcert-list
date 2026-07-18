@@ -10735,6 +10735,7 @@
 ||garantisizlerlerkredii.autos^
 ||garantisizlerlerkredii.cfd^
 ||garantisizlerlerkredii.lat^
+||garantisizlerlerkredii.lol^
 ||garantisizlerlerkredii.quest^
 ||garantisizlerlerkredii.sbs^
 ||garantisizlerlerkredii.xyz^
@@ -13058,6 +13059,7 @@
 ||kmpnymrkzfrstbsvr.info^
 ||kmpnymrkzfrstbsvr.live^
 ||kmpnymrkzfrstbsvr.pro^
+||kmpnyprmssyncklssssss.pro^
 ||kmpnyprmsynckls0.info^
 ||kmpnyprmsynckls0.pro^
 ||kmpnysprmsyncklss.pro^
@@ -16549,6 +16551,7 @@
 ||sepetimonay.study^
 ||sepetimonay.surf^
 ||sepetin-cepte.biz.tr^
+||sepetin-cepte.net.tr^
 ||sepetinguvende.online^
 ||sepetlrmzguncel.com^
 ||sepette-ilanlar-9811.com^
@@ -19441,6 +19444,7 @@
 ||xz21x513z123c321.lat^
 ||xz21x513z123c321.shop^
 ||xz23x123dsdsas.duckdns.org^
+||xzeez.cfd^
 ||xzrt300zx300xrt.cfd^
 ||xzrt300zxdv300xrt.cfd^
 ||xzrt300zxnv300xrt.cfd^
