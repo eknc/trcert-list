@@ -8842,6 +8842,7 @@
 ||btcturk-platform.com^
 ||btcturk.site^
 ||btjzcg.click^
+||btksikayet-btk-sikayet.up.railway.app^
 ||bu-cumartesi.dynv6.net^
 ||bu-cumasizdeyiz.org^
 ||bu-ff-dd-ss-de.xyz^
@@ -11677,6 +11678,7 @@
 ||hgsbakyiebayi.firebaseapp.com^
 ||hgsbakyiebayi.web.app^
 ||hgsbasvurumhizmeti.duckdns.org^
+||hgsbkyeyklecfd.cfd^
 ||hgsbkyeyklehdi.cfd^
 ||hgsborcodemeguncl.com^
 ||hgsborcodemeguncl.xyz^
@@ -11902,6 +11904,7 @@
 ||hnezkh.help^
 ||hngfbgfbfb.cyou^
 ||hobesletr.duckdns.org^
+||hodesterker.duckdns.org^
 ||hojemetstrer.duckdns.org^
 ||hokesya.xyz^
 ||holdeferete.hicam.net^
@@ -16576,6 +16579,7 @@
 ||serotoninenterprise.com^
 ||sertifiky-daha-fazla.myonlineportal.ch^
 ||servalingarden.pro^
+||server-guide--microsoftsignin.replit.app^
 ||server.cubatiendaalimentos.com.mx^
 ||serverhubx.cyou^
 ||servernest.sbs^
@@ -18568,6 +18572,7 @@
 ||turkiyebilgisi.com^
 ||turkiyebonus.net^
 ||turkiyebulletin.com^
+||turkiyefinans-katilim-com.duckdns.org^
 ||turkiyefinans.pzbsin.com^
 ||turkiyefocus.com^
 ||turkiyegozlemagi.com^
