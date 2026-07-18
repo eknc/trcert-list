@@ -806,6 +806,7 @@
 ||12545589989990893.duckdns.org^
 ||1254598989899890.duckdns.org^
 ||1254598989899893.duckdns.org^
+||1254598989899894.duckdns.org^
 ||1255665988451698992.duckdns.org^
 ||1255665988451698993.duckdns.org^
 126.209.16.237
@@ -7749,6 +7750,7 @@
 ||aurorait.blog^
 ||authorized-logins.net^
 ||autodiscover.1254598989899893.duckdns.org^
+||autodiscover.1254598989899894.duckdns.org^
 ||autodiscover.459671325743t527140.duckdns.org^
 ||autodiscover.619378724639012408150.duckdns.org^
 ||autodiscover.73214625721684432190.duckdns.org^
@@ -9410,6 +9412,7 @@
 ||cp.dene.de.com^
 ||cpanel.10807206403201140.duckdns.org^
 ||cpanel.1254598989899893.duckdns.org^
+||cpanel.1254598989899894.duckdns.org^
 ||cpanel.381365462354821010.duckdns.org^
 ||cpanel.381365462354821020.duckdns.org^
 ||cpanel.5018924765717295120.duckdns.org^
@@ -9423,6 +9426,7 @@
 ||cpanel.evsahibibasvuru.com^
 ||cpanel.sokmarketekstrakampanya2.duckdns.org^
 ||cpcalendars.1254598989899893.duckdns.org^
+||cpcalendars.1254598989899894.duckdns.org^
 ||cpcalendars.7641713825499130.duckdns.org^
 ||cpcalendars.7641713825499160.duckdns.org^
 ||cpcalendars.7641713825499180.duckdns.org^
@@ -13653,6 +13657,7 @@
 ||mahkemesorgula.org^
 ||maideloyaro.pro^
 ||mail.1254598989899893.duckdns.org^
+||mail.1254598989899894.duckdns.org^
 ||mail.1492138126532079202410.duckdns.org^
 ||mail.4368958847.duckdns.org^
 ||mail.6134728541296136547130.duckdns.org^
@@ -15877,6 +15882,7 @@
 ||r9m2p6w4k8n1.sbs^
 ||ra-backup.com^
 ||racestrech.info^
+||radio.evsahibibasvuru.com^
 ||raf3134sadacjj1x3jk1jk23x12.shop^
 ||rafa0102xadskjx2h3jx12312.cfd^
 ||rafa09lasdck123x123.cfd^
@@ -19212,6 +19218,7 @@
 ||webcodenest.co^
 ||webdevora.digital^
 ||webdisk.1254598989899893.duckdns.org^
+||webdisk.1254598989899894.duckdns.org^
 ||webdisk.6134728541296136547120.duckdns.org^
 ||webdisk.619378724639012408140.duckdns.org^
 ||webdisk.73214625721684432160.duckdns.org^
@@ -19220,6 +19227,7 @@
 ||webdisk.sokmarketekstrakampanya5.duckdns.org^
 ||webforge.bond^
 ||webmail.1254598989899893.duckdns.org^
+||webmail.1254598989899894.duckdns.org^
 ||webmail.6134728541296136547150.duckdns.org^
 ||webmail.73214625721684432160.duckdns.org^
 ||webmail.7641713825499140.duckdns.org^
