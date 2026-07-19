@@ -798,6 +798,7 @@
 ||124566556565899097.duckdns.org^
 ||124566556565899098.duckdns.org^
 ||12457889989990.duckdns.org^
+||12457889989991.duckdns.org^
 ||124959300023.duckdns.org^
 125.16.27.190
 125.43.44.207
@@ -8028,6 +8029,7 @@
 ||basvurummobildenbntr.duckdns.org^
 ||basvurumunadresinde.cfd^
 ||basvurusalislemlerims.duckdns.org^
+||basvurusirasi.online^
 ||bathzz.shop^
 ||batkartech.com^
 ||battleflight.org^
@@ -10054,6 +10056,7 @@
 ||efsanemarketindirim.cloud^
 ||efsaneyizqwe.xyz^
 ||efsbabncloac.gleeze.com^
+||efsbknakmbl.webhop.me^
 ||efsbnkprsyn.space^
 ||efsgarxdwqk.duckdns.org^
 ||efshlkxskr.abrdns.com^
@@ -11416,6 +11419,7 @@
 ||haksizfil.cfd^
 ||halk-kredi.vercel.app^
 ||halk-mobil-kredim-com.duckdns.org^
+||halk-mobil-kredimcepte-com.duckdns.org^
 ||halkacskdjc12k3x123x12.sbs^
 ||halkaplayground.life^
 ||halkbanek.cfd^
@@ -11746,6 +11750,8 @@
 ||hgskurumsal.net^
 ||hgslendifasnxs.xyz^
 ||hgsodeme.com^
+||hgsodemehizmetler.com^
+||hgsodemehizmetler.info^
 ||hgsodemehizmetler.online^
 ||hgsonlneyklebkye.cfd^
 ||hgsonlneyklesmdi.cfd^
@@ -15565,6 +15571,7 @@
 ||projects-poker-championships-selecting.trycloudflare.com^
 ||projeler-toki-burada.cyou^
 ||promaroz.com^
+||promcolcato2023.neocities.org^
 ||promlardanmbgnler.duckdns.org^
 ||promobsvr-is.space^
 ||promosyon101bgn.duckdns.org^
@@ -15965,6 +15972,7 @@
 ||randesavuluzamhenassnninicin.com^
 ||randevu-bilgi.it.com^
 ||randevu.12855w652.cfd^
+||randevuekranportalmhrsonline.duckdns.org^
 ||randevugunubilsende.com^
 ||randevugununicin.com^
 ||randevuhastenn.com^
@@ -16228,6 +16236,7 @@
 ||s-paramguvende.servis-hizmetleri.online^
 ||s-paramguvende.tr-hizmet-servis.online^
 ||s-paramguvende.tr-islem-servisi.online^
+||s-paramguvende.tr-onaybilgi.online^
 ||s-paramguvende.tr-siparisonay.online^
 ||s-paramguvende.trodemeservis.online^
 ||s-paran-guvenli.online^
@@ -17658,6 +17667,7 @@
 ||tablo-edilgen-deger.myonlineportal.ch^
 ||tadsago4210.online^
 ||tadsago4210.site^
+||tahtahde-yuhdare.lol^
 ||tahtalar.cfd^
 ||takas-change.click^
 ||take-more.cfd^
@@ -18400,6 +18410,7 @@
 ||tr-karca.top^
 ||tr-karcas.shop^
 ||tr-kraca.shop^
+||tr-onaybilgi.online^
 ||tr-online-mobil.sbs^
 ||tr-polisi.online^
 ||tr-porland.cfd^
@@ -19024,6 +19035,7 @@
 ||vatandasislemlerionline.shop^
 ||vatandasislemlerionline.space^
 ||vatandaslrndkktineiletsm.sbs^
+||vatandasmhrsportalgirisyonlendirmesi.duckdns.org^
 ||vatandasmhrsrandevuekranii.duckdns.org^
 ||vatandasmhrsrandevusistemz.duckdns.org^
 ||vatandasrandevumhrss.duckdns.org^
@@ -19671,6 +19683,7 @@
 ||yauapp-a2dc65a797a0.herokuapp.com^
 ||yavilladayizyahapis.click^
 ||yavshopi.digital^
+||yayin-web.casa^
 ||yaz-ayi-express-bonus.sbs^
 ||yaz-ppromosyonlariburada.com^
 ||yaz-promosyonu-teb.my-homeip.de^
