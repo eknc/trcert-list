@@ -8030,6 +8030,7 @@
 ||basvurumunadresinde.cfd^
 ||basvurusalislemlerims.duckdns.org^
 ||basvurusirasi.online^
+||basvurziyytar.cfd^
 ||bathzz.shop^
 ||batkartech.com^
 ||battleflight.org^
@@ -8852,6 +8853,7 @@
 ||bsvrumrkzibdahmnbasvr.xyz^
 ||bsvrunuzas.nicepage.io^
 ||bsvruoanayis.bounceme.net^
+||bsvrurgiris.nicepage.io^
 ||bsvrussbbnkonay.webhop.me^
 ||bsvurrrkmpnyylrrsnfrstlarr.info^
 ||bsvurum-kvveyt.xyz^
@@ -8927,6 +8929,7 @@
 ||bumbephgsdsa.cyou^
 ||bumkuolpirehi.lat^
 ||bumuhugu-gulukutere.lol^
+||bumuhugudereteyse.lol^
 ||bumukulude-tuyuretese.lol^
 ||bumuludeasedere.lol^
 ||bunarethiqol.com^
@@ -11483,6 +11486,7 @@
 ||hasdasdagsax1.cfd^
 ||hasdasdagsax1.xyz^
 ||hashfashfsahfa.com^
+||hasmnsamhshansanmasmhsan73.space^
 ||hasnmrlhs.online^
 ||hasntahizfafamar.cfd^
 ||hasntahizmar.cfd^
@@ -14247,6 +14251,7 @@
 ||mobilservisin-10.sbs^
 ||mobilservisin-15.sbs^
 ||mobilservisin-20.sbs^
+||mobilservisin-22.sbs^
 ||mobilservisiniz-10.sbs^
 ||mobilservisler-25.sbs^
 ||mobilservisler-26.sbs^
@@ -14258,7 +14263,9 @@
 ||mobilservisler-53.sbs^
 ||mobilservisler-54.sbs^
 ||mobilservisler-68.sbs^
+||mobilservisler-83.sbs^
 ||mobilservisleriniz-1.sbs^
+||mobilservisleriniz-3.sbs^
 ||mobilservisorg.com^
 ||mobilseyehatisleml.duckdns.org^
 ||mobiltalepfirsati.duckdns.org^
@@ -15101,6 +15108,7 @@
 ||parabir.site^
 ||parabulutu.site^
 ||paralegalmustang.icu^
+||paramguvende-getilan.my^
 ||paramguvende.tr-siparisonay.online^
 ||paran-guvende.site^
 ||paranguvendeste.xyz^
@@ -16652,12 +16660,14 @@
 ||sepetimde-odeme-3955.com^
 ||sepetimde-odeme-3957.com^
 ||sepetimdeindirimleriyakala.com^
+||sepetimonay.click^
 ||sepetimonay.online^
 ||sepetimonay.shop^
 ||sepetimonay.site^
 ||sepetimonay.store^
 ||sepetimonay.study^
 ||sepetimonay.surf^
+||sepetimonaycom.shop^
 ||sepetin-cepte.biz.tr^
 ||sepetin-cepte.net.tr^
 ||sepetinguvende.online^
