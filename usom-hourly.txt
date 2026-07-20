@@ -7384,6 +7384,7 @@
 ||akbireyselislemkanali.duckdns.org^
 ||akbklaprmsynllrla.xyz^
 ||akefsmblsbbe.duckdns.org^
+||akillisechim.today^
 ||akiste-l-entegre.myonlineportal.ch^
 ||akkampanyalar.shop^
 ||akklevaltrlerndn.click^
@@ -7596,6 +7597,7 @@
 ||applio.xyz^
 ||appnexlab.digital^
 ||apps.docu-sign.net^
+||appsy.vu^
 ||appvo.cyou^
 ||aprocore.tr^
 ||aprograde.tr^
@@ -8071,6 +8073,7 @@
 ||baykar.sbs^
 ||baykarai.nl^
 ||baykarairsprings.com.tr^
+||baykarajans.info^
 ||baykarbulten.info^
 ||baykardefense.net^
 ||baykardevletdestekli-click.pages.dev^
@@ -8769,6 +8772,7 @@
 ||bridge-star.cfd^
 ||brief.news7-days-info.org^
 ||briefblast.com^
+||briefcurrent.top^
 ||brieflance.media^
 ||briefom.com^
 ||briefop.com^
@@ -9204,6 +9208,7 @@
 ||ceaswadereli-viplifere.xyz^
 ||cebimdekimobilsubelerim.sbs^
 ||cebinde-temmuz.biz.tr^
+||cebinde-temmuz.com.tr^
 ||cebinizdekiglobalekran.duckdns.org^
 ||cekilis--paribu.com^
 ||cekilis-kampanya.store^
@@ -9881,6 +9886,7 @@
 ||dreamarchive.cyou^
 ||dreamlikeoxidize.space^
 ||drelbuyo.gifts^
+||drelkis.com^
 ||drelton.vu^
 ||dremalovikuq.com^
 ||drembal.xyz^
@@ -9954,7 +9960,9 @@
 ||e-ilan-alisveris-sepet.com^
 ||e-ilan-alisveris-sepeti.com^
 ||e-ilan-alisveris-sepetim.com^
+||e-ilan-elektronik-sepetimiz.com^
 ||e-ilan-elektronik-siparisim.com^
+||e-ilan-elektronik.com^
 ||e-ilan-online-alisveris-sepetim.com^
 ||e-ilan-online-alisveriz-sepetim.com^
 ||e-maliyetalepformu.com^
@@ -11193,6 +11201,7 @@
 ||gunlukdosyalar.com^
 ||gunlukvizyon.com^
 ||gunlukyasamim.com^
+||gunrehberi.online^
 ||gununbakisi.com^
 ||gununbakisi.cyou^
 ||gunundosyasi.com^
@@ -11617,6 +11626,7 @@
 ||hemeleterfesa.duckdns.org^
 ||hememislemnkta.net^
 ||hemen-satinal.com^
+||hemen-siparisver.com^
 ||hemenalnsanra.net^
 ||hemenalpttavm.com^
 ||hemenalsnlsa.net^
@@ -13661,6 +13671,7 @@
 ||lunmallo.gifts^
 ||lunmivo.shop^
 ||lunoxstar.xyz^
+||lunqaro.xyz^
 ||lunrafi.gifts^
 ||luntra.cyou^
 ||lunvaro.xyz^
@@ -13714,6 +13725,7 @@
 ||magaza-mobil.com^
 ||magaza-odemesi.com^
 ||magazada-online.com^
+||magazadan-odeme.com^
 ||magazadan-odemem.com^
 ||magazadan-siparis.com^
 ||magazanizagelenfirsat.click^
@@ -16838,6 +16850,7 @@
 ||siparis-magazasi.com^
 ||siparis-onay-tr.online^
 ||siparis-satinal.com^
+||siparisaktif.online^
 ||siparishizli-ver.com^
 ||siparishizliolsut.cloud^
 ||siparisim-guvende.online^
@@ -17231,6 +17244,7 @@
 ||storynest.gifts^
 ||storystreamza.info^
 ||storyupdate.online^
+||storyvista.online^
 ||storywire.site^
 ||storyyn.com^
 ||stosrsadxadsax.sbs^
@@ -18080,6 +18094,7 @@
 ||tells-vendors-speech-taste.trycloudflare.com^
 ||telvexi.com^
 ||telvoro.onl^
+||temmuz-cepte.net.tr^
 ||temmuzayifirsatlarla101.com^
 ||temmuzayina-ozelfirsatlar1.duckdns.org^
 ||temmuzda-sizlerleryiz.click^
@@ -18526,6 +18541,7 @@
 ||trendly.gifts^
 ||trendnestx.com^
 ||trendpulsif.com^
+||trendrally.online^
 ||trendwatch.vu^
 ||trendyol-baglanti-ile-satin-al.com^
 ||trendyol-ile-baglanti-tamamla.com^
@@ -18539,6 +18555,7 @@
 ||trendyol0-6791.2t24.my^
 ||trendyol0-97b4.2t24.my^
 ||trendyol0-c6bf.2t24.my^
+||trendyol0-d2ef.gjswxattkq.yoga^
 ||trendyol0-d426.2t24.my^
 ||trendyol0-deef.l3v0.my^
 ||trendyol0-ea30.2t24.my^
