@@ -792,6 +792,7 @@
 124.223.106.247
 124.33.173.242
 124.56.42.75
+||124124121.sbs^
 ||124566556565899091.duckdns.org^
 ||124566556565899093.duckdns.org^
 ||124566556565899094.duckdns.org^
@@ -4301,6 +4302,7 @@
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
 ||31akkcasjkkx12k3jx321.cfd^
+||31jctjk3k1l2z12lk3c12k312.cfd^
 32.143.50.222
 ||321321321.vercel.app^
 ||321xz123123.duckdns.org^
@@ -7148,6 +7150,7 @@
 ||a101-com-tr-aldin-aldin-extra-online.elenamasaj.com^
 ||a101-com-tr-onlineozel.duckdns.org^
 ||a101-com.tr.webliosy.online^
+||a101-ekstra.s3.eu-north-1.amazonaws.com^
 ||a101-harca.duckdns.org^
 ||a101-kampanya-tum-haftasi-hafta-boyunca-indirim-firsat.site^
 ||a101.bdyoutube.com^
@@ -7533,6 +7536,7 @@
 ||anadoludefteri.com^
 ||anadoludosyasi.com^
 ||anadolugateway.com^
+||anadolugenis.com^
 ||anadolugozlem.com^
 ||anadoluhikayesi.com^
 ||anadoluisigi.com^
@@ -9922,6 +9926,7 @@
 ||doxxela.ink^
 ||drakebro.duckdns.org^
 ||dramko.gifts^
+||dranvist.qpon^
 ||drasnova.com^
 ||dravelion.com^
 ||dravionix.pro^
@@ -9931,6 +9936,7 @@
 ||drelbuyo.gifts^
 ||drelkis.com^
 ||drelton.vu^
+||drelvix.vu^
 ||dremalovikuq.com^
 ||drembal.xyz^
 ||dremix.pics^
@@ -10099,6 +10105,7 @@
 ||education-baykar-investment-program-com.pages.dev^
 ||eduflow.icu^
 ||edumind.digital^
+||edwngarxkdb.abrdns.com^
 ||ee10bbf6c689-endpoint.com^
 ||eeee0xx00211.duckdns.org^
 ||eeeee33e311.duckdns.org^
@@ -10286,6 +10293,7 @@
 ||entreyy-git.cfd^
 ||entrnow.com^
 ||entruhub.com^
+||entry-web.guru^
 ||enuygun.rent^
 ||enuygunarabakiralama.com^
 ||enuygunarackiralamalar.com^
@@ -10782,6 +10790,7 @@
 ||futurepathway.company^
 ||futurix.vu^
 ||fuyulokere-badazede.xyz^
+||fvckthesystem.duckdns.org^
 ||fvghntryunretner.click^
 ||fvpqjm.buzz^
 ||fvxcuvuyte.live^
@@ -12411,6 +12420,7 @@
 ||islem-hizmet.com^
 ||islem-linkiniz.com^
 ||islembilgisistemi.abrdns.com^
+||islemek-giris.casa^
 ||islemerkezler.sbs^
 ||islemkanali.com^
 ||islemler-akbank.ph^
@@ -12939,6 +12949,7 @@
 ||kartomopiks.opik.net^
 ||kasalarsaglamtanktank.net^
 ||kasalarsaglamtnn.net^
+||kastamaonulusarmisakciskkke3x.duckdns.org^
 ||katil202600001.duckdns.org^
 ||katilim.nicepage.io^
 ||katilimda.nicepage.io^
@@ -13276,6 +13287,8 @@
 ||kocfiinance.com^
 ||kocfinans-app.click^
 ||kocfinanssecimtestiozelsecimprogrami.click^
+||kockurumsal.rent^
+||kocotofilo.net^
 ||kocotomobil.com^
 ||kocraw.click^
 ||koelra-lg-grn.myonlineportal.ch^
@@ -13884,6 +13897,7 @@
 ||maplebrookfieldridge.icu^
 ||marjinstyle.shop^
 ||mark-squires-expressrancnes-com-s-account.workers.dev^
+||markafilo.net^
 ||market-yapi.com^
 ||marketaktuellerim.com^
 ||marketcredibilitysignals.de^
@@ -14601,6 +14615,7 @@
 ||netttvcxguncelil.xyz^
 ||netvanta.digital^
 ||netw-comment-pls.myonlineportal.ch^
+||neuralforges.capital^
 ||neuromancersolutionsenterprise.icu^
 ||nevadanhrs.xyz^
 ||neverthiskeep.xyz^
@@ -15114,12 +15129,17 @@
 ||osymodemeekrani.xyz^
 ||otaviofritzen.online^
 ||otcast.pics^
+||otokoc.rent^
 ||otokocarackirala.com^
 ||otokocarackirala.org^
 ||otokocelektroniksozlesme.com^
+||otokocfilo.net^
+||otokocfilo.org^
 ||otokocfilokurumsal.com^
 ||otokocfilokurumsal.net^
+||otokocfilom.net^
 ||otokocfilomkurumsal.com^
+||otokocfilomkurumsal.net^
 ||otokocfilorent.com^
 ||otokocfilorentacar.com^
 ||otokocfilorentacar.net^
@@ -15134,6 +15154,7 @@
 ||otokockurumsalfilo.net^
 ||otokockurumsalkiralama.com^
 ||otokockurumsaltr.com^
+||otokoclakirala.com^
 ||otokoconlinekirala.online^
 ||otokocrent.net^
 ||otokocrent.org^
@@ -15196,6 +15217,7 @@
 ||p155polisi.online^
 ||p3k8z1m6q9v2.cfd^
 ||p4z67ft6w3y9.cfd^
+||p4z8r1t6w3y9.cfd^
 ||p8z4t1k6r9w3.cfd^
 ||paent.online^
 ||pagnebleedwhite.space^
@@ -15957,6 +15979,7 @@
 ||qanor.bond^
 ||qarevisto.sbs^
 ||qarfelinoz-upadexi.lol^
+||qarfelunax.shop^
 ||qarfomirax.com^
 ||qarfonixa.capital^
 ||qarfonixa.com^
@@ -15982,6 +16005,7 @@
 ||qelbazaro.gifts^
 ||qelmarku.com^
 ||qelmartox.xyz^
+||qelomarix.eu^
 ||qelpazar.gifts^
 ||qelretio.gifts^
 ||qelunatrix.capital^
@@ -16249,6 +16273,8 @@
 ||renatalopeslope.pro^
 ||renovantcorner.top^
 ||renticoarackiralama.com^
+||rentirent.com^
+||rentiva.net^
 ||reporthive.company^
 ||repqoow77wiqi.com^
 ||res2erch-sl2ut.com^
@@ -16408,6 +16434,7 @@
 ||saatlereburadanerisin.yyuyy.com^
 ||sabahaksam.netlify.app^
 ||sabahizlx.dnsup.net^
+||sabir.jspara-col.cfd^
 ||sabirallahsabir.sbs^
 ||sabirtgiriz2026.com^
 ||sabitgirsisz2026.com^
@@ -17020,6 +17047,7 @@
 ||skso255144771eknebsk.dpdns.org^
 ||skullcrusherd.pro^
 ||sky-borders.com^
+||sky-head.cfd^
 ||skyhanni.cloud^
 ||skylytika.site^
 ||skyverge.cfd^
@@ -17036,6 +17064,7 @@
 ||smpworlds.com^
 ||snaketwig.com^
 ||snapkeep.info^
+||snapstory.online^
 ||snbnlarbrdanalmdnkrl.shop^
 ||sndbnlaraklgld.com^
 ||sndebndangyrotegdmez.shop^
@@ -17900,6 +17929,7 @@
 ||tamevix.com^
 ||tamponu-yere-bastirdim.xyz^
 ||tamsioaldi.com^
+||tanergiyimiboist.duckdns.org^
 ||tanfanmansuf.sbs^
 ||tanfanmansuf3.sbs^
 ||tanfanmansuf4.sbs^
@@ -18805,6 +18835,7 @@
 ||turkeyfinancetoday.com^
 ||turkeyfinans.click^
 ||turkeyfirsat.click^
+||turkeyindirim.click^
 ||turkeyinvestclub.com^
 ||turkeyinvesttracker.com^
 ||turkeynewstop.blog^
@@ -19156,11 +19187,13 @@
 ||uymnrtwerbqw.click^
 ||uymretwebrfgbtrybw.click^
 ||uyu.wantedrelief.com^
+||uzatma.casa^
 ||uzlasmadosya.com^
 ||uzlasmadosyalar.org^
 ||uzlasmadosyauyap.org^
 ||uzlasmaemaliye.org^
 ||uzlasmagov.org^
+||uzlasmasorgu.com^
 ||uzlasmasorgutr.com^
 ||uzlasmauyap.net^
 ||uzmandiploma.com^
@@ -19490,6 +19523,7 @@
 ||webtapsc.store^
 ||webtkrmsal.com^
 ||webtkrmsal.web.app^
+||webvexa.vu^
 ||webwise.vu^
 ||wecbgrt.weebly.com^
 ||weekly.table-news-today.org^
@@ -19568,6 +19602,7 @@
 ||worldpressline.com^
 ||worldtrend.online^
 ||worpax.org^
+||worpaxti.surf^
 ||worpist.rest^
 ||wosuqyy.xyz^
 ||wotpoc.shop^
@@ -19607,6 +19642,7 @@
 ||www-qnb-finansbank.ph^
 ||www-qnbfinansbank-cekilis-firsat-com.ph^
 ||www-qnbfinansbank-cepsubesi-com.ph^
+||www-qnbfinansbank-kampanya.ph^
 ||www-qnbfinansbank-yenilenen-subem.ph^
 ||www-toki-gov-tr-ev.vercel.app^
 ||www.drivelivelime.com^
@@ -20203,6 +20239,7 @@
 ||zireluxa.gifts^
 ||zirkalex.mom^
 ||ziroootget.cfd^
+||zirpon.forum^
 ||zirtajcsdcadsa1xs12.cfd^
 ||zirtat.cfd^
 ||zirtbastvsu.nicepage.io^
@@ -20260,6 +20297,7 @@
 ||ztakrim.cfd^
 ||ztarty.cfd^
 ||ztrrkt-katlim.cfd^
+||ztrtrtdsryl.cfd^
 ||zulopi-karefudere.xyz^
 ||zulveta.gifts^
 ||zunirov.gifts^
