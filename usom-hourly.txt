@@ -1751,6 +1751,7 @@
 158.94.211.17
 ||159-karayol.com^
 159.100.13.216
+159.100.13.22
 159.100.18.123
 159.100.18.129
 159.100.18.23
@@ -7659,6 +7660,7 @@
 ||arorayedekparcatr.com^
 ||arquivos-omie.com^
 ||arracxxacnmuyayne.online^
+||arrrzumstwt.com^
 ||arrzuminndrim.com^
 ||artikburdan.netlify.app^
 ||artivun.sbs^
@@ -12012,6 +12014,7 @@
 ||homenejstt.duckdns.org^
 ||homenestkrtest.duckdns.org^
 ||homeorbitx.com^
+||homestkald.duckdns.org^
 ||homestlerkestfg.duckdns.org^
 ||hometbe.com^
 ||homevera.gifts^
@@ -13110,6 +13113,7 @@
 ||kmkmsrgulamagvvtptmt.duckdns.org^
 ||kmkontrol.com^
 ||kmlrenizsorgulanirhizlisindan.duckdns.org^
+||kmm-verilerinizi-ogrenin.web.app^
 ||kmmmnnnppyyyybsvrrprmsynnfrstlllrr.info^
 ||kmmmnnnppyyyybsvrrprmsynnfrstlllrr.pro^
 ||kmnapyalagelen.duckdns.org^
@@ -13728,6 +13732,7 @@
 ||magazadan-odeme.com^
 ||magazadan-odemem.com^
 ||magazadan-siparis.com^
+||magazamda-ilanim.com^
 ||magazanizagelenfirsat.click^
 ||magelan-nato.net^
 ||magenta-chough-241198.hostingersite.com^
@@ -13995,6 +14000,7 @@
 ||merkeszahbereaknalbbsc251.click^
 ||merkezdekayit.abrdns.com^
 ||merkezekayit.abrdns.com^
+||merkezekayitli.abrdns.com^
 ||merkezhaberlerlerle.sbs^
 ||merkezhobil.click^
 ||merkezibilgileri.com^
@@ -16321,8 +16327,10 @@
 ||sabahaksam.netlify.app^
 ||sabahizlx.dnsup.net^
 ||sabirallahsabir.sbs^
+||sabirtgiriz2026.com^
 ||sabitgirsisz2026.com^
 ||sabitgirsiz2026.com^
+||sabitgirsizi2026.com^
 ||sacdascdacadcasdadcasds.cfd^
 ||sacmasapan.click^
 ||sacxasfafasfdasfarafs.sbs^
@@ -16411,6 +16419,7 @@
 ||sahibinden-sepet.guvendeticaretlerim.online^
 ||sahibinden-sepet.guvendeticaretlerim.shop^
 ||sahibinden-sepet.guvenliticaretlerim.shop^
+||sahibinden-sepet.sepetimonay.click^
 ||sahibinden-sepet.sepetimonay.lat^
 ||sahibinden-sepet.sepetimonay.surf^
 ||sahibinden-sozlesme.kurumsal-online-islem.com^
@@ -16421,6 +16430,7 @@
 ||sahibinden.e-elektronik-firsat-sepetimiz.com^
 ||sahibinden.e-ilan-alisveris-sepet.com^
 ||sahibinden.e-ilan-alisveris-sepetim.com^
+||sahibinden.e-ilan-elektronik-sepetimiz.com^
 ||sahibinden.e-ilan-online-sepeti.com^
 ||sahibinden.e-online-ilan-sepet.com^
 ||sahibinden.e-online-ilan-sepetim.com^
@@ -16430,6 +16440,7 @@
 ||sahibinden.elektronik-urun-sepetim.com^
 ||sahibinden.get-paramguvende.my^
 ||sahibinden.guvenlialisveris.online^
+||sahibinden.hemen-siparisver.com^
 ||sahibinden.hemenguvendeileal.com^
 ||sahibinden.hizlisiparis-ver.com^
 ||sahibinden.ilan-magaza.com^
@@ -16439,6 +16450,7 @@
 ||sahibinden.ileservishzmetin.com^
 ||sahibinden.magaza-mobil.com^
 ||sahibinden.magazada-online.com^
+||sahibinden.magazadan-odeme.com^
 ||sahibinden.mobilservisleriniz-6.sbs^
 ||sahibinden.odeme-ilanim-48773.com^
 ||sahibinden.offer192391.rest^
@@ -16844,6 +16856,7 @@
 ||sinterfumesco.com^
 ||siparilersicinburdayiz.cloud^
 ||siparilserdevamediyor.cloud^
+||siparis-baglantisi-kisa-link.com^
 ||siparis-guvenliodeme.com^
 ||siparis-hizliodeme.com^
 ||siparis-iade.com^
@@ -17802,6 +17815,7 @@
 ||tanfanmansuf4.sbs^
 ||tapgncweb.web.app^
 ||taphzmet.store^
+||taphzmett.shop^
 ||tapp-wweeb.com^
 ||taprnbdbvdhgzimet.online^
 ||taprnbdbvdhgzimet.store^
@@ -18553,6 +18567,7 @@
 ||trendyol0-54a2.2t24.my^
 ||trendyol0-5cd8.2t24.my^
 ||trendyol0-6791.2t24.my^
+||trendyol0-8579.volcesjiasu.top^
 ||trendyol0-97b4.2t24.my^
 ||trendyol0-c6bf.2t24.my^
 ||trendyol0-d2ef.gjswxattkq.yoga^
@@ -18826,6 +18841,7 @@
 ||tuvturk-kse.com^
 ||tuvturk-li.com^
 ||tuvturk-lspd.com^
+||tuvturk-ors.com^
 ||tuvturk-rose.com^
 ||tuvturk-rov.com^
 ||tuvturk-wir.com^
