@@ -5975,6 +5975,7 @@
 77.110.107.175
 77.110.116.227
 77.110.122.58
+77.110.127.205
 77.111.101.78
 77.221.149.58
 77.221.149.67
@@ -7582,6 +7583,7 @@
 ||anladinmibeni.sbs^
 ||anladmbelkgelenolrbrakbunu.online^
 ||anlasma-literaly-gr.myonlineportal.ch^
+||anlik-ilan-odemesi.com^
 ||anlikgundem.click^
 ||anlikgundem24.com^
 ||anliksonhaber.com^
@@ -8748,6 +8750,7 @@
 ||bolekcreative.com^
 ||boltcamelfortitude.com^
 ||bombclick.org^
+||bombclick.pro^
 ||boneoakvision.com^
 ||bonus-garantkredideyiz.myonlineportal.ch^
 ||bonusfirsat.digital^
@@ -10628,6 +10631,7 @@
 ||firjacket.top^
 ||firsai.tipshub.net^
 ||firsat-obilet.online^
+||firsat-urununuz-sondemler.sbs^
 ||firsatarackiralama.online^
 ||firsati-kacirma.duckdns.org^
 ||firsatisindeekran.duckdns.org^
@@ -11092,6 +11096,7 @@
 ||goalfree.cfd^
 ||goalsheepvision.com^
 ||goankara.net^
+||gobf.mx^
 ||gocmenbilgiportali.online^
 ||gocmenkarar.online^
 ||gocmenkarar.xyz^
@@ -14201,6 +14206,7 @@
 ||mhrrsdsrnadevusiteds.online^
 ||mhrrsdsrnadevusiteds.store^
 ||mhrs-randevu.vercel.app^
+||mhrs-s.digital^
 ||mhrsanlikolarakrandevuhak4nxd.duckdns.org^
 ||mhrsbasvurularinizburadan.duckdns.org^
 ||mhrsbasvuruportali.duckdns.org^
@@ -14994,6 +15000,7 @@
 ||ondansonrasindabizdebiliriz.com^
 ||ondid.skin^
 ||ondofinance.tech^
+||onedrive.cv^
 ||onedrivesupport.net^
 ||onehead.cfd^
 ||onem-loft-sofisgrn.myonlineportal.ch^
@@ -15433,6 +15440,7 @@
 ||pazarama-hizli-onay.com^
 ||pazarama-hizli-onay.net^
 ||pazarama-kurban.duckdns.org^
+||pazarama.anlik-ilan-odemesi.com^
 ||pazarama.bireyselsatici.online^
 ||pazarama.duckdns.org^
 ||pazarama.guvenlihizmetler.online^
@@ -16577,6 +16585,7 @@
 ||sahibinden-sepet.guvendeticaretlerim.online^
 ||sahibinden-sepet.guvendeticaretlerim.shop^
 ||sahibinden-sepet.guvenliticaretlerim.shop^
+||sahibinden-sepet.sepetimdeonay.shop^
 ||sahibinden-sepet.sepetimonay.click^
 ||sahibinden-sepet.sepetimonay.lat^
 ||sahibinden-sepet.sepetimonay.surf^
@@ -16839,6 +16848,7 @@
 ||selunari.cfd^
 ||selvio.xyz^
 ||selvora-drasulofi.lol^
+||semacicek.com^
 ||semigoddess.com^
 ||senalisiksinyyabitanepatlat.sbs^
 ||senatom.com^
@@ -19002,6 +19012,7 @@
 ||tursil-cepte.name.tr^
 ||tursil-cepte.web.tr^
 ||tutnet.vu^
+||tuv-res.digital^
 ||tuv-trk.net^
 ||tuv-turkk.com^
 ||tuv-turkl.digital^
@@ -20298,6 +20309,7 @@
 ||zirat-kredi-basvuru-formu.duckdns.org^
 ||ziratdeneme123x2.duckdns.org^
 ||ziratfirsatkamnpysi.duckdns.org^
+||ziratoff.online^
 ||ziratt-yeni.com^
 ||zircartel.tr^
 ||zirdefisatkacmaz.duckdns.org^
