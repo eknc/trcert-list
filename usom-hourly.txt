@@ -489,6 +489,7 @@
 108.61.142.190
 108.61.189.125
 108.61.23.192
+108.61.75.232
 109.104.153.203
 109.104.153.21
 109.105.193.76
@@ -1205,6 +1206,7 @@
 144.31.54.243
 144.31.57.65
 144.31.57.67
+144.48.6.3
 144.76.184.11
 144.91.103.204
 144.91.119.115
@@ -1326,6 +1328,7 @@
 147.135.209.245
 147.135.244.43
 147.139.29.220
+147.182.234.126
 147.185.133.145
 147.185.238.49
 147.189.138.33
@@ -1928,6 +1931,7 @@
 165.232.114.242
 165.232.118.119
 165.232.128.24
+165.232.153.54
 165.232.163.192
 165.232.167.241
 165.232.73.237
@@ -5017,6 +5021,7 @@
 45.61.136.228
 45.61.136.30
 45.61.136.7
+45.61.136.76
 45.61.136.79
 45.61.136.81
 45.61.136.85
@@ -5658,6 +5663,7 @@
 62.210.201.223
 62.215.108.18
 62.233.57.94
+62.60.131.168
 62.60.131.180
 62.60.131.184
 62.60.131.187
@@ -5721,6 +5727,7 @@
 64.227.41.39
 64.227.48.212
 64.227.86.1
+64.23.243.34
 64.235.37.140
 64.24.179.210
 64.31.28.221
@@ -5889,6 +5896,7 @@
 70.184.13.47
 70.34.194.185
 70.34.195.221
+70.34.205.43
 70.34.208.197
 70.34.242.220
 70.34.242.255
@@ -7397,6 +7405,7 @@
 ||akbank-kredi-basvuru-merkezi.loseyourip.com^
 ||akbank-pw.hizliyatirim.net^
 ||akbankdirekmobil.ph^
+||akbankdireksube.ph^
 ||akbankdirekt-kampanyalar.ph^
 ||akbankinvest.com^
 ||akbankk-bireysell.ph^
@@ -9854,6 +9863,7 @@
 ||dijitalnetform.sbs^
 ||dijitalportalgiris.com^
 ||dijitalsbasvurukanal.duckdns.org^
+||dijitalsorgu.sbs^
 ||dijitalweb-kampanya.com^
 ||dijitalweb-kampanyalarimiz.com^
 ||dijitalyapi.click^
@@ -12049,6 +12059,7 @@
 ||hl55polisi.online^
 ||hlgsaracsistemi.xyz^
 ||hlkwebsubayrntilarsub532.shop^
+||hlkwebsubayrntilarsub583.shop^
 ||hlkxk13j12kxjkladxas.cfd^
 ||hlmsdistnbsvr.com^
 ||hlrsrandevugrs.cfd^
@@ -13289,6 +13300,8 @@
 ||kmpnyysbsvrrprmsynn.live^
 ||kmpnyysbsvrrprmsynn.pro^
 ||kmpnyyssbsvrrrsnfrstlarrr.info^
+||kmpnyyvbsvrrprmsynnnn.info^
+||kmpnyyvbsvrrprmsynnnn.pro^
 ||kmpnyyyfrstlarrrbsvrsss.art^
 ||kmppyybsvuuurrrprmsynn.art^
 ||kmppyybsvuuurrrprmsynn.info^
@@ -13824,6 +13837,7 @@
 ||m-obilet.uk^
 ||m-sikayetvar.com^
 ||m.ayfon16.click^
+||m.nousomtr1.click^
 ||m.serciviiva.click^
 ||m.xrdnet.click^
 ||m1k7x4q8v9n3.cfd^
@@ -14798,6 +14812,8 @@
 ||norvionix.sbs^
 ||notify.garantibbvakredibasvuru.com^
 ||notifypulsynk.ink^
+||nousomtr1.click^
+||nousomtr1.club^
 ||nousomtr1.xyz^
 ||nova-lan.com^
 ||novacove.qpon^
@@ -15363,6 +15379,7 @@
 ||paribuarabaplus.com^
 ||paribuarabapromosyon.com^
 ||paribuarabapromosyonu.com^
+||paribuarabaruyasi.com^
 ||paribuarabasahibi.com^
 ||paribuarabasansi.com^
 ||paribuarabasepeti.com^
@@ -18747,6 +18764,7 @@
 ||trendyol-mall.biz^
 ||trendyol-mall.online^
 ||trendyol.ilanservis-odemen.online^
+||trendyol.mobilservisin-24.sbs^
 ||trendyol0-1029.l3v0.my^
 ||trendyol0-4124.2t24.my^
 ||trendyol0-54a2.2t24.my^
@@ -18885,6 +18903,7 @@
 ||tumictiklerinisay.sbs^
 ||tun6.fitnessresolvepro.run^
 ||tunaportfoyonetim.com^
+||tunaportfoyyatirim.com^
 ||tunaportfoyyonetim.com^
 ||tunexia.gifts^
 ||tupras-islamictradings.com^
@@ -19358,6 +19377,7 @@
 ||velqaro.gifts^
 ||veltirio.com^
 ||velto-rinex.website^
+||veltrim.vu^
 ||velua.one^
 ||velunix.shop^
 ||velunori.top^
@@ -20174,6 +20194,7 @@
 ||zakan.22web.org^
 ||zaktrimd.cfd^
 ||zaltori.org^
+||zaltrom.xyz^
 ||zamaninotesinde.click^
 ||zamanlagelengidermi.com^
 ||zamgelgitzam.com^
