@@ -809,6 +809,7 @@
 ||12457889989994.duckdns.org^
 ||12457889989995.duckdns.org^
 ||12457889989996.duckdns.org^
+||12457889989998.duckdns.org^
 ||124959300023.duckdns.org^
 125.16.27.190
 125.43.44.207
@@ -8110,6 +8111,8 @@
 ||basvurukuvytpromosyon.duckdns.org^
 ||basvurularbaslasdir.cloud^
 ||basvurulardevamediyo.cloud^
+||basvurularimiz.myonlineportal.de^
+||basvurulariniz.myonlineportal.de^
 ||basvurulariniz.sbs^
 ||basvurumbbvada.duckdns.org^
 ||basvurumburada.click^
@@ -8800,6 +8803,7 @@
 ||bombclick.pro^
 ||boneoakvision.com^
 ||bonus-garantkredideyiz.myonlineportal.ch^
+||bonus20-referans.com^
 ||bonusfirsat.digital^
 ||bonusveren512siteler.click^
 ||bookedadmpanel.pro^
@@ -9745,6 +9749,7 @@
 ||ddqlub.click^
 ||dduagirislerimenugonizlemeapptr.space^
 ||dealnest.bond^
+||dealvella.com^
 ||dealwave.vu^
 ||dears.serveirc.com^
 ||debateom.com^
@@ -10587,6 +10592,7 @@
 ||fatihomercetin.netlify.app^
 ||fatmaouzh.xyz^
 ||faturapanelleri.duckdns.org^
+||faydaliyasam.info^
 ||fazlalik-verat-rgrn.myonlineportal.ch^
 ||fb755442-4.b-cdn.net^
 ||fbavarlik.com^
@@ -12414,6 +12420,7 @@
 ||ilelebetsizinle.click^
 ||ileri-agency.myonlineportal.ch^
 ||ileribakislar.com^
+||ilerivizyonrotasi.com^
 ||ilerleme-yaptirim-grim.myonlineportal.ch^
 ||ileservishzmetinz.com^
 ||iletilisim.com^
@@ -12791,6 +12798,7 @@
 ||ivorilla.cloud^
 ||ivozt.com^
 ||iyikivarmisiniz.com^
+||iyiliknoktasi.live^
 ||izakdos.dnsup.net^
 ||izakfsss.blogspot.com^
 ||izakkfosa.blogspot.com^
@@ -14288,6 +14296,7 @@
 ||merkezinkayitli.abrdns.com^
 ||merkezisistem-b.com^
 ||merkeziteknikgarantimenucozumleri.space^
+||merkeziyetkayit.abrdns.com^
 ||merkeziyetsizbasvuru.abrdns.com^
 ||merkezkayitarayuzu.abrdns.com^
 ||merkezkayiti.abrdns.com^
@@ -14955,6 +14964,7 @@
 ||nopanel-564732.top^
 ||nopanel-815625.top^
 ||nopoked.top^
+||noreplaydestekbinance.com^
 ||normalmesafe.live^
 ||norpax.pics^
 ||norteviaproject.com^
@@ -15108,6 +15118,7 @@
 ||ogreninrandevunuzu.com^
 ||ogrenmeasamasiekranlariniz.sbs^
 ||ogrenmesorgulamaislerinz.sbs^
+||ogrenmevizyonu.biz^
 ||ohlsdtes.net^
 ||ohqbtbbavnet.garantibbvakredibasvuru.com^
 ||oilwealthpro.com^
@@ -15339,6 +15350,7 @@
 ||ortakverimerkezi.com^
 ||ortakyansima.com^
 ||ortakyasamim.com^
+||ortakyasamyolu.com^
 ||ortakyuzumuz.com^
 ||ortilix.shop^
 ||ortilix.site^
@@ -16377,6 +16389,7 @@
 ||raftoksafasgfasax.cfd^
 ||rail-log-ant-l.myonlineportal.ch^
 ||rakaxlaraqaa.com^
+||raksdlaskckjlc123x132.cfd^
 ||rallyhollow.com^
 ||ralstore.gifts^
 ||ramsparkgirisi.sbs^
@@ -18326,6 +18339,7 @@
 ||techrock.digital^
 ||techva.cyou^
 ||techvera.digital^
+||techveras.online^
 ||teeeekfirsatspnsrlurklam.com^
 ||tefasglobal.com^
 ||tefasyatirimpaneli.com^
