@@ -807,6 +807,7 @@
 ||12457889989992.duckdns.org^
 ||12457889989993.duckdns.org^
 ||12457889989994.duckdns.org^
+||12457889989995.duckdns.org^
 ||124959300023.duckdns.org^
 125.16.27.190
 125.43.44.207
@@ -9050,6 +9051,7 @@
 ||bumuludeasedere.lol^
 ||bunarethiqol.com^
 ||buncloset.com^
+||buradahemensagliklanve.digital^
 ||buradahepbirliktekaldik.com^
 ||buradahizmetttt.sbs^
 ||buradamutluveucuz.com^
@@ -11570,6 +11572,7 @@
 ||haberler4567844.shop^
 ||haberler4722.shop^
 ||haberler47823.shop^
+||haberler48751.sbs^
 ||haberler54232.shop^
 ||haberler554.shop^
 ||haberler56755712366.com^
@@ -12038,6 +12041,7 @@
 ||hizlandirmaszamanis.cloud^
 ||hizlgbcesiicc.com^
 ||hizlgecisbakieyukleme.web.app^
+||hizlgecisbakiyedoldurma.web.app^
 ||hizlgecisbakiyeyukleme.web.app^
 ||hizlgecisonlnebakye.lat^
 ||hizli-limit.xyz^
@@ -12096,6 +12100,7 @@
 ||hizligecisyuklemc.lat^
 ||hizligecisyuklemeciniz.firebaseapp.com^
 ||hizligecisyuklemeim.web.app^
+||hizligecisyuklemeniz.web.app^
 ||hizligecisyuklemeyeriniz.firebaseapp.com^
 ||hizligecisyuklme.web.app^
 ||hizliguvenlionay.com^
@@ -13444,6 +13449,7 @@
 ||kobiyardimerkezi.com^
 ||kocarackiralama.com^
 ||kocfiinance.com^
+||kocfilokurumsal.net^
 ||kocfinans-app.click^
 ||kocfinanssecimtestiozelsecimprogrami.click^
 ||kockurumsal.com^
@@ -14700,6 +14706,7 @@
 ||mynvesry.net^
 ||mypivotloop.co^
 ||mypushstack.co^
+||myqafua.info^
 ||myrionix.shop^
 ||myrionix.site^
 ||myrionix.store^
@@ -14931,6 +14938,7 @@
 ||norvaxis.info^
 ||norvexa.live^
 ||norvionix.sbs^
+||notificationsupdates.com^
 ||notify.garantibbvakredibasvuru.com^
 ||notifypulsynk.ink^
 ||nousomtr1.click^
@@ -15163,6 +15171,7 @@
 ||online-shop-bireysel-tr.site^
 ||online-sorgulama.com^
 ||online-tr-shop-mobil.site^
+||online-web-store.online^
 ||online.empordafibra.com^
 ||online.evsahibibasvuru.com^
 ||online.fbasube.pro^
@@ -15455,6 +15464,7 @@
 ||paribu--technology.com^
 ||paribu--tekloloji.com^
 ||paribu-araba-cekilisi.ooguy.com^
+||paribu-araba-cekilisi.opik.net^
 ||paribu-araba-kazan.com^
 ||paribu-araba.com^
 ||paribu-arabacekilisi.com^
@@ -17443,6 +17453,7 @@
 ||sonsaniyeyebirakmamaliyiz.sbs^
 ||sonsiparislerinden.cloud^
 ||sonuc-baksrnaltas.net^
+||sonuc-islemkantas.net^
 ||sonuc-nktanslata.net^
 ||sonuc-saniatlasna.net^
 ||sonuci-nnsatknasa.net^
@@ -18490,6 +18501,7 @@
 ||temutruweb.blogspot.com^
 ||temvara-qimarezu.lol^
 ||tenkoff.org^
+||teorkeance.loseyourip.com^
 ||tepelecir.store^
 ||tepki-stil.myonlineportal.ch^
 ||tera-home.com^
@@ -19068,6 +19080,7 @@
 ||ttooakcanosac.xyz^
 ||tttekfirsatsponsorlurklam.com^
 ||tttektikklasponsorlurrklam.com^
+||ttttektikklasponsorlurrklam.com^
 ||tucanslacaneca.cfd^
 ||tucsonanimalallergy.com^
 ||tuhugferetesede.lat^
@@ -19491,6 +19504,7 @@
 ||v6n4x9q2m7b1.cfd^
 ||vabelles.com^
 ||vagturk.com^
+||vakifbanksistemi.click^
 ||vakifbankyatirim-click.pages.dev^
 ||vakifbankyatirim.click^
 ||vakifiletisim.pro^
@@ -19981,6 +19995,7 @@
 ||xazumek.media^
 ||xbd.garden^
 ||xcn23aj234cd.duckdns.org^
+||xczvcxdsa.com^
 ||xddqjfhgtwbg.xyz^
 ||xe54ghj.com^
 ||xeebii.com^
@@ -20162,6 +20177,7 @@
 ||yardimkapisi.org^
 ||yarmalli.gifts^
 ||yasamadresi.com^
+||yasamamnsebebib.sbs^
 ||yasamdefteri.com^
 ||yasamdefterim.com^
 ||yasamduragi.com^
