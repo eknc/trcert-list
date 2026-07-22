@@ -2425,6 +2425,7 @@
 179.43.175.108
 179.43.176.60
 179.60.149.194
+||17bucuktemmuzsipairls.cloud^
 18.134.0.66
 18.135.29.139
 18.199.101.111
@@ -11580,6 +11581,7 @@
 ||habertry4561.shop^
 ||haberturkey1453.sbs^
 ||haberturkiye.shop^
+||haberturkiye1453.sbs^
 ||habervakti.org^
 ||haberzone24.com^
 ||hacelu.com^
@@ -18437,6 +18439,7 @@
 ||telvexi.com^
 ||telvoro.onl^
 ||temmuz-cepte.net.tr^
+||temmuz-cepte.org.tr^
 ||temmuzayifirsatlarla101.com^
 ||temmuzayina-ozelfirsatlar1.duckdns.org^
 ||temmuzda-sizlerleryiz.click^
