@@ -10771,6 +10771,7 @@
 ||flopodas.com^
 ||florancia.gifts^
 ||florania.gifts^
+||florarentcar.org^
 ||flowexi.com^
 ||floworix.com^
 ||flowradarpro.com^
@@ -13774,6 +13775,7 @@
 ||limit-var-kredin.biz^
 ||limoncubakie.lat^
 ||limuzindamat.lol^
+||lindarentacar.com^
 ||lineev.shop^
 ||linen-tapir-659851.hostingersite.com^
 ||linetra.shop^
@@ -15181,6 +15183,7 @@
 ||online-hizmet-islemleri.com^
 ||online-hizmet-islemleriniz.com^
 ||online-islemlerim.com.tr^
+||online-islemnktansa.net^
 ||online-kampanyaniz.my-homeip.de^
 ||online-karaca.vercel.app^
 ||online-kuveytmobil.duckdns.org^
@@ -17569,6 +17572,7 @@
 ||sptlrdelndrmguncel.com^
 ||sptlrflrsatlrsizinlee.com^
 ||sptlrfrsltlrguncell.com^
+||srgumynerndvu.cfd^
 ||srnacxcdanismanlik.blogspot.com^
 ||srnafsrqsasdanismanlik.blogspot.com^
 ||srnarcdanismanlik.blogspot.com^
@@ -19286,6 +19290,7 @@
 ||tuvturk-wir.com^
 ||tuvturk-xxk.com^
 ||tuvturkabim.com^
+||tuvturkaracmuayenerandevuonlinealin.com^
 ||tuvturkels.com^
 ||tuvturkeop.com^
 ||tuvturkeor.com^
@@ -20038,6 +20043,7 @@
 ||xelvornuqami.bond^
 ||xelvuroq.tr^
 ||xemdorak.com^
+||xemro.xyz^
 ||xenbazli.tr^
 ||xenbuyra.com^
 ||xendora.xyz^
