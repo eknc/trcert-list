@@ -529,6 +529,7 @@
 110.37.13.228
 110.42.42.64
 110.78.115.41
+110.78.252.134
 110.92.64.117
 110.92.64.17
 111.10.224.70
@@ -8274,6 +8275,7 @@
 ||baykarnetwork.info^
 ||baykarnews.gifts^
 ||baykarpetrol.com^
+||baykarplatform-system.com^
 ||baykarprogram.com^
 ||baykarpublic-investmentplatform.com^
 ||baykarpulse.info^
@@ -9558,6 +9560,7 @@
 ||courtneyhambat.fit^
 ||courtneyhambat.online^
 ||cowsidewalktune.com^
+||cozone.co^
 ||cozycandles.gifts^
 ||cp-is-statik.myonlineportal.ch^
 ||cp.dene.de.com^
@@ -9768,6 +9771,7 @@
 ||demira.store^
 ||demirparmakliklar.sbs^
 ||demkoru-fanuzeki.lol^
+||demlervedemlikbizimisimiz.sbs^
 ||demyurt-qanupore.lol^
 ||dendendenburdakan47632830100.click^
 ||denemelergarismenuguncell.xyz^
@@ -11797,6 +11801,7 @@
 ||hedefonmusteripanel.com^
 ||hedefonmusteripaneli.com^
 ||hedefportfoykurumsal.com^
+||hedefprtfoy.com^
 ||hediye50gb.space^
 ||heilbronner-fruehlingssymposium.de^
 ||heliosup.info^
@@ -12249,6 +12254,7 @@
 ||hregirsi.click^
 ||hsauyeet.live^
 ||hseterf.web.app^
+||hsgpraykleme.cfd^
 ||hshsosoeej.blogspot.com^
 ||hsldistnbsvlr.com^
 ||hsnytenkjj.lol^
@@ -12982,6 +12988,7 @@
 ||kampanyabinancetr.com^
 ||kampanyabonustana.cloud^
 ||kampanyaboyunca.cloud^
+||kampanyadijitalvakifmobil.com.ph^
 ||kampanyafirsatlariniz.duckdns.org^
 ||kampanyafirsatlarinn.duckdns.org^
 ||kampanyagel101.duckdns.org^
@@ -13057,9 +13064,11 @@
 ||karacahaziran.com^
 ||karacahome.vercel.app^
 ||karacailedevamediyorum.com^
+||karacakaramacakovalaca.xyz^
 ||karacalar-sepetimde.vercel.app^
 ||karacalar-sepetimden.vercel.app^
 ||karacan-cepte.com.tr^
+||karacan-cepte.info.tr^
 ||karacanisan.vercel.app^
 ||karacaonline.store^
 ||karacastore.club^
@@ -13442,6 +13451,7 @@
 ||kocotofilo.net^
 ||kocotomobil.com^
 ||kocraw.click^
+||kocrental.org^
 ||koelra-lg-grn.myonlineportal.ch^
 ||koent.website^
 ||kofeynayagush.com^
@@ -15152,6 +15162,7 @@
 ||online-promosyon-basvur.my-homeip.de^
 ||online-shop-bireysel-tr.site^
 ||online-sorgulama.com^
+||online-tr-shop-mobil.site^
 ||online.empordafibra.com^
 ||online.evsahibibasvuru.com^
 ||online.fbasube.pro^
@@ -15373,6 +15384,7 @@
 ||oxdzxz.click^
 ||oyakglobal.com^
 ||oyaktrade.com^
+||oykportfolio.online^
 ||oynat.click^
 ||oyrnassevry.net^
 ||oyunyagmuru.xyz^
@@ -15442,6 +15454,7 @@
 ||paribu--cekilisi.com^
 ||paribu--technology.com^
 ||paribu--tekloloji.com^
+||paribu-araba-cekilisi.ooguy.com^
 ||paribu-araba-kazan.com^
 ||paribu-araba.com^
 ||paribu-arabacekilisi.com^
@@ -18999,6 +19012,7 @@
 ||trmasakportal.org^
 ||trmasaksorgu.com^
 ||trmerkezigarantimenucozumlerim.online^
+||trndyl.medianova.com^
 ||trnewsel.com^
 ||trnewsio.com^
 ||trnewsku.com^
@@ -19118,9 +19132,12 @@
 ||turkhavayolukampanya.my^
 ||turkhavayolukampanya.sbs^
 ||turkiinvest.com^
+||turkish-airlines.com.ph^
+||turkish-airlines.ph^
 ||turkishaircrg.com^
 ||turkishairlines-emeklikampanyasi.kimbilirziya.click^
 ||turkishairlines-emeklikampanyasi.vaybetekbasina.lat^
+||turkishairlines.net.ph^
 ||turkishairlineskampanya.olumedavet.sbs^
 ||turkishairlineskampanyalari.3tabakvar.sbs^
 ||turkishairlineskampanyalari.xzeez.cfd^
@@ -19269,6 +19286,7 @@
 ||tuyoashdahsdhashd92sdh92sad.click^
 ||tv.evsahibibasvuru.com^
 ||tvrktshdabzursd.store^
+||tvtrkarcmuayne.cfd^
 ||tvtrkhdizmbeyrs.online^
 ||tvtrkhdizmbeyrs.store^
 ||tvtrkhzimerbuds.online^
@@ -20158,6 +20176,7 @@
 ||yaslanirsambirgunyakalarsin.sbs^
 ||yasoguh.xyz^
 ||yatirim.finansmaninfo.biz^
+||yatirim.oykportfolio.online^
 ||yatirimblogu.com^
 ||yatirimci-merkezi.com^
 ||yatirimci-merkezi.net^
