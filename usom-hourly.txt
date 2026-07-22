@@ -808,6 +808,7 @@
 ||12457889989993.duckdns.org^
 ||12457889989994.duckdns.org^
 ||12457889989995.duckdns.org^
+||12457889989996.duckdns.org^
 ||124959300023.duckdns.org^
 125.16.27.190
 125.43.44.207
@@ -4206,6 +4207,7 @@
 24.96.14.46
 ||2419414.xyz^
 ||243312534.net^
+||2451.ezpizi.click^
 ||24515-2525.xyz^
 ||2452521.sbs^
 ||24612-20114.xyz^
@@ -7142,6 +7144,7 @@
 ||a-101-de-extra-sadece-bugune-ozel-sepette-tr.bireysel-shop-tr.online^
 ||a-101-de-extra-sponsor-mobil-tr.online-bireysel-mobil-tr.click^
 ||a-101-de-sadece-extra-bugune-ozel-indirimli-siparis-tr.onlinecep-tr.site^
+||a-101-extra-internete-ozel.indirim-online-mobil.site^
 ||a-101-extra-mobil-online-ozel-tr.mobil-bireysel-shop-web-tr.sbs^
 ||a-101-extra-mobil-sadece-online-ozel-siparis-tr.online-mobil-shop-tr.com^
 ||a-101-extra-mobile-ozel-bugun-sepette-tr.online-bireysel-mobil-tr.site^
@@ -8985,6 +8988,7 @@
 ||bu-pazartesi.giize.com^
 ||bu-pazartesim.dedyn.io^
 ||bu-sonfirsatlarhaziran.online^
+||buapp1-99579a8a4cfa.herokuapp.com^
 ||buaskboylebtmezbrakmaterketmebenatma.online^
 ||buayinicindnegecenler.duckdns.org^
 ||bubeuf.live^
@@ -9561,6 +9565,7 @@
 ||councilyn.com^
 ||courtneyhambat.fit^
 ||courtneyhambat.online^
+||couturista.shop^
 ||cowsidewalktune.com^
 ||cozone.co^
 ||cozycandles.gifts^
@@ -9773,6 +9778,7 @@
 ||demira.store^
 ||demirparmakliklar.sbs^
 ||demkoru-fanuzeki.lol^
+||demlenedemlene.sbs^
 ||demlervedemlikbizimisimiz.sbs^
 ||demyurt-qanupore.lol^
 ||dendendenburdakan47632830100.click^
@@ -11291,6 +11297,7 @@
 ||grupdk.com^
 ||gruta.com.mx^
 ||gryhnthtyuwer.click^
+||gsrzirtf.cfd^
 ||gstaticnews.com^
 ||gstaticrenewed.com^
 ||gstaticsnews.org^
@@ -11668,6 +11675,7 @@
 ||halklaiciceyiz1.sbs^
 ||halklarinbirlikteligi.sbs^
 ||halklarinbirlikteligi1.sbs^
+||halkmobil-internet-islemlerim-com.duckdns.org^
 ||halkmobil.duckdns.org^
 ||halkmobilgiris.duckdns.org^
 ||halkmobill.duckdns.org^
@@ -11902,6 +11910,7 @@
 ||herzaman-buralardayiz.vercel.app^
 ||herzmnburdayiz.xyz^
 ||herzmnhizlidir.xyz^
+||hesapdumantvrk.net^
 ||hesapguvenlik.com^
 ||hesapli.o-bilet.eu^
 ||hesapteknik-lutgr-ekon.myonlineportal.ch^
@@ -12106,6 +12115,7 @@
 ||hizliguvenlionay.com^
 ||hizlihaber.shop^
 ||hizlihizmett6.sbs^
+||hizlika-mpanyalar.biz^
 ||hizlikapidamarket.com^
 ||hizlikayitt.com^
 ||hizlikempos.xyz^
@@ -12199,6 +12209,7 @@
 ||hmnntkans.net^
 ||hmnntlnasa.net^
 ||hmnsamnsansamhsahsasnmsamn443.sbs^
+||hmnsanmashsnmshasnmasmhasnms.fwh.is^
 ||hmntknlasntam.net^
 ||hmujqf.buzz^
 ||hnaolangnleremynym.shop^
@@ -13160,6 +13171,7 @@
 ||kelmoxi.forum^
 ||kelopins.info^
 ||kelspar.shop^
+||kelvort.click^
 ||kelvra.club^
 ||kemanci322.cfd^
 ||kemanci322.xyz^
@@ -13959,6 +13971,7 @@
 ||m1uyhni1r56q.icu^
 ||m2k9xvr7p.cfd^
 ||m3p8z6v2n9q4.cfd^
+||m3v9x2p7z6q4.lol^
 ||m4v8q2n7x5b6.cfd^
 ||m4yuri.online^
 ||m4zp2vk.sbs^
@@ -14280,6 +14293,7 @@
 ||merona.click^
 ||merovikaglobal.com^
 ||merrnsondanismanlik.blogspot.com^
+||messtxgymx.xyz^
 ||metabolicflux.com^
 ||metallrheinnn.live^
 ||methodicalness.de^
@@ -14572,6 +14586,7 @@
 ||mobilseyehatisleml.duckdns.org^
 ||mobiltalepfirsati.duckdns.org^
 ||mobiltebce.my-homeip.net^
+||mobilweb-hat-grn.casa^
 ||mobim-liter-y.myonlineportal.ch^
 ||modaesra.com^
 ||modernharbor.xyz^
@@ -14646,6 +14661,7 @@
 ||muguhudue-redesetre.lol^
 ||muhamadfafaoyunda.net^
 ||muhu-bb-vv-aa-ss-dd.xyz^
+||muhugudue-redetesede.lol^
 ||muhugudueresede-afderese.lol^
 ||muhugudueretese-duguhuderede.lol^
 ||mujco.cn^
@@ -14724,6 +14740,7 @@
 ||n5q7b2x8m4v9.cfd^
 ||n5x9r3w7t2q8.click^
 ||n7q2x9m4v6k1.cfd^
+||n8x2q7v4c1r8t.sbs^
 ||n8x2q7v4k1m5.lol^
 ||nabereebebegburdaherkes.pro^
 ||nanofrontier.capital^
@@ -15349,6 +15366,7 @@
 ||otokocfilosu.com^
 ||otokocfilotr.com^
 ||otokocfilotr.net^
+||otokocfiloturkiye.net^
 ||otokockiralamatr.com^
 ||otokockurumsal.net^
 ||otokockurumsal.org^
@@ -15363,6 +15381,8 @@
 ||otokocrent.org^
 ||otokocrentacar.net^
 ||otokocrentacar.org^
+||otokocrental.com^
+||otokocrental.org^
 ||otokocrentcar.com^
 ||otokocrentcar.org^
 ||otokocrentcars.com^
@@ -17308,6 +17328,7 @@
 ||snbnlarbrdanalmdnkrl.shop^
 ||sndbnlaraklgld.com^
 ||sndebndangyrotegdmez.shop^
+||sndebnlarahmngt.com^
 ||sndebukmpyalardanfaydlan.com^
 ||sndebunlaraglmban.com^
 ||sndeglbrdn.com^
@@ -17575,6 +17596,7 @@
 ||ssdfmrkt.xyz^
 ||ssinvestigaciones.com^
 ||sslzeromail.run.place^
+||sso-auth.com^
 ||ssss22232323.duckdns.org^
 ||sssseww23xx.duckdns.org^
 ||sstrak-bsrvat.cfd^
@@ -19994,6 +20016,7 @@
 ||xavvendi.gifts^
 ||xazumek.media^
 ||xbd.garden^
+||xbossgymxistanbul.xyz^
 ||xcn23aj234cd.duckdns.org^
 ||xczvcxdsa.com^
 ||xddqjfhgtwbg.xyz^
@@ -20228,6 +20251,7 @@
 ||yemys.nicepage.io^
 ||yendenburadasdsddenz360.click^
 ||yendomburdagelsendeabura87.click^
+||yenegeldbasladkbzszdegelnh.click^
 ||yengeldmsendekatlmrmyap.click^
 ||yengiriiz2026.com^
 ||yengirzs2026.com^
@@ -20235,6 +20259,7 @@
 ||yengunyenheyecanherseyburdaesenedersn.click^
 ||yengzlis2026.com^
 ||yeni-bm-yenifirsatlarim.vercel.app^
+||yeni-safha.guru^
 ||yeni500dsa.nicepage.io^
 ||yeni5d7h6cc.nicepage.io^
 ||yeniayaozel-gr.myonlineportal.ch^
