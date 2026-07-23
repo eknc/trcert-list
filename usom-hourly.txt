@@ -5989,6 +5989,7 @@
 ||756543345.net^
 ||75656754.net^
 ||756675765.net^
+||7568567232354236.org^
 ||75853489.xyz^
 76.165.13.247
 76.64.54.159
@@ -8035,6 +8036,7 @@
 ||balikcihasogeliyo.fun^
 ||bambaska.casa^
 ||bambuicin.sbs^
+||banabakarifdabi.sbs^
 ||bancaporinternetbbmx.online^
 ||bandshipstool.com^
 ||bandspongewatch.com^
@@ -8570,6 +8572,7 @@
 ||bilgilerburada.sbs^
 ||bilgilerde-bugun-yg.myonlineportal.ch^
 ||bilgipath.com^
+||bilgipusulasi.co^
 ||bilgivegorus.com^
 ||bilgiveislemsistemi.abrdns.com^
 ||bilgiveiyilik.sbs^
@@ -9058,6 +9061,7 @@
 ||bugunpaydasi.com^
 ||bugunrandevual.com^
 ||bugunrotasi.com^
+||bugunsayfasi.com^
 ||bugunsehri.com^
 ||bugunyasam.com^
 ||buh-gu-dr-se-de.xyz^
@@ -10085,6 +10089,7 @@
 ||dremix.pics^
 ||drenostavik.gifts^
 ||drenzo.bond^
+||drenzol.org^
 ||drenzol.shop^
 ||drenzol.vu^
 ||dressstrangervessel.com^
@@ -10300,6 +10305,8 @@
 ||egiiris-on.cfd^
 ||egiiris-onn.cfd^
 ||egitimfaydasi.capital^
+||egitimkapisi.com^
+||egitimmerkezi.info^
 ||egitimova.com^
 ||egmbirim.net^
 ||egmbirim.org^
@@ -10342,6 +10349,7 @@
 ||ekonomigelecek.com^
 ||ekonomihatti.site^
 ||ekonomikmarketler.click^
+||ekonomirehberi.capital^
 ||ekonomitamam.click^
 ||ekonomiturkey.click^
 ||ekontrolgib.org^
@@ -10639,6 +10647,7 @@
 ||fatihomercetin.netlify.app^
 ||fatmaouzh.xyz^
 ||faturapanelleri.duckdns.org^
+||faydagelecek.com^
 ||faydakoprusu.live^
 ||faydaliyasam.info^
 ||fazlalik-verat-rgrn.myonlineportal.ch^
@@ -11296,6 +11305,7 @@
 ||graburban.com^
 ||grademeta.tr^
 ||gradixt.tr^
+||gragelerdesasdas.duckdns.org^
 ||granadabelekluxury.com^
 ||granadaluxuriesbelek.com^
 ||granadaluxuryspa.com^
@@ -11419,8 +11429,12 @@
 ||guncelsikayetler-369.sbs^
 ||guncelsikayetler-452.sbs^
 ||guncelsikayetler-455.sbs^
+||guncelsikayetler-458.sbs^
+||guncelsikayetler-459.sbs^
 ||guncelsikayetler-67.sbs^
+||guncelsikayetler-773.sbs^
 ||guncelsikayetler-774.sbs^
+||guncelsikayetler-778.sbs^
 ||guncelsikayetler-82.sbs^
 ||guncelsikayetler-970.sbs^
 ||guncelsikayetler-c14.sbs^
@@ -11636,6 +11650,7 @@
 ||haberler3412366.com^
 ||haberler3422.sbs^
 ||haberler34341.sbs^
+||haberler3465672.sbs^
 ||haberler3538434.shop^
 ||haberler3552323.shop^
 ||haberler363234.shop^
@@ -11828,6 +11843,7 @@
 ||haydasitems123.co^
 ||hayde.click^
 ||haydgelsendekatlbuna250.click^
+||hayirgelecek.capital^
 ||hayrdlragasendegelburasayaarttkson65.info^
 ||hayudarete.biz^
 ||hayvdldlss.nicepage.io^
@@ -11903,6 +11919,7 @@
 ||hembasvrkyt.hicam.net^
 ||hemeleterfesa.duckdns.org^
 ||hememislemnkta.net^
+||hemen-birkacdakika.guru^
 ||hemen-satinal.com^
 ||hemen-siparisver.com^
 ||hemenalnsanra.net^
@@ -13375,6 +13392,7 @@
 ||kiralikaracinizburada.com^
 ||kireiu.eu^
 ||kirmizibasliklipose.duckdns.org^
+||kirmizibasliklitirtil.duckdns.org^
 ||kisa-birseyler.cfd^
 ||kisa-links.site^
 ||kisa-links.xyz^
@@ -14450,6 +14468,7 @@
 ||mhrrsdsrnadevusiteds.online^
 ||mhrrsdsrnadevusiteds.store^
 ||mhrs-2.digital^
+||mhrs-app.online^
 ||mhrs-d.digital^
 ||mhrs-randevu.vercel.app^
 ||mhrs-s.digital^
@@ -15604,12 +15623,14 @@
 ||paribu-arabahediye.com^
 ||paribu-arabakazan.com^
 ||paribu-buyukcekilisi.com^
+||paribu-cark-cekilisi.opik.net^
 ||paribu-carkcekilisi.com^
 ||paribu-cekilis.co^
 ||paribu-cekilisi.com^
 ||paribu-cekilisim.co^
 ||paribu-cekilisleri.com^
 ||paribu-hediyelicark.com^
+||paribu-sansliaraba.com^
 ||paribu-technology.com^
 ||paribu-tr.click^
 ||paribu-tr.site^
@@ -17510,6 +17531,7 @@
 ||sokmakket.shop^
 ||sokmalrket.shop^
 ||sokmarket.spinetabided.cfd^
+||sokmarketlerfirsatlarim.com^
 ||sokmarketonlineozel.sbs^
 ||sokozelmarketekrani.sbs^
 ||soksinirlistok.duckdns.org^
@@ -18465,6 +18487,7 @@
 ||teflonpot-cyo.xyz^
 ||tehelp.com^
 ||tejjdjsks.nicepage.io^
+||tejjdjskss.nicepage.io^
 ||tek-uygulamada-gecerli.lol^
 ||tekdokunustaevinde.com^
 ||tekdokunustaevinizde.com^
@@ -19182,6 +19205,7 @@
 ||trixauvex.org^
 ||trixauvexnet.ink^
 ||trizcom.cfd^
+||trizratfrfs.cfd^
 ||trkamusorgu.org^
 ||trkara.nicepage.io^
 ||trkaraca.shop^
@@ -20620,6 +20644,7 @@
 ||zanxc23212x2.duckdns.org^
 ||zarluna.gifts^
 ||zartzukurt.click^
+||zarzurtiki-raprapsada.lol^
 ||zasede-zaderete.xyz^
 ||zaurevionyzhub.world^
 ||zauubslru-byyzaz-a1e01-rkatxe.lol^
