@@ -2424,6 +2424,7 @@
 178.63.48.196
 178.66.70.14
 178.79.188.181
+179.0.179.179
 179.124.129.242
 179.179.197.196
 179.43.146.227
@@ -4284,6 +4285,7 @@
 31.192.107.165
 31.192.234.22
 31.214.157.49
+31.22.91.251
 31.220.1.44
 31.220.1.83
 31.222.235.198
@@ -6854,6 +6856,7 @@
 91.92.255.77
 91.92.34.128
 91.92.34.130
+91.92.40.108
 91.92.40.118
 91.92.46.12
 91.92.46.60
@@ -7199,6 +7202,7 @@
 ||a.garantibbvakredibasvuru.com^
 ||a.sicex.lol^
 ||a1001.online^
+||a100111aa101110202.duckdns.org^
 ||a101-com-tr-aldin-aldin-extra-online.elenamasaj.com^
 ||a101-com-tr-onlineozel.duckdns.org^
 ||a101-com.tr.webliosy.online^
@@ -7450,6 +7454,7 @@
 ||akbank-isube.ph^
 ||akbank-kredi-basvuru-merkezi.loseyourip.com^
 ||akbank-pw.hizliyatirim.net^
+||akbankbireysel-sube.ph^
 ||akbankdirekmobil.ph^
 ||akbankdireksube.ph^
 ||akbankdirekt-kampanyalar.ph^
@@ -7879,6 +7884,7 @@
 ||autoupdatet.com^
 ||autoupdatethis.com^
 ||avafex.com^
+||avansy-web.ink^
 ||avantaj-web.guru^
 ||avantajliindirimfirsati7.sbs^
 ||avantajlimarketler.click^
@@ -8572,6 +8578,7 @@
 ||bilgi-tp.online^
 ||bilgicheckerssystemm.lovestoblog.com^
 ||bilgidosyasi.com^
+||bilgikayit.abrdns.com^
 ||bilgilendirmearayuzu.abrdns.com^
 ||bilgilendirmesayfasi.misecure.com^
 ||bilgilendirmeyeni.online^
@@ -9187,6 +9194,7 @@
 ||butunlesme-geri-bildirim.casa^
 ||buvbuvferteipsedere.xyz^
 ||buvugufuerede-daefede.lol^
+||buyazapp1-43a83c3c83a4.herokuapp.com^
 ||buyhatch.xyz^
 ||buyhujufede-readesede.lol^
 ||buypeak.gifts^
@@ -9221,6 +9229,7 @@
 ||bytix.cyou^
 ||bytra.cyou^
 ||bznzn.duckdns.org^
+||c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev^
 ||c.windowsk-cdn.com^
 ||c2.tralalarkefe.com^
 ||c3c34hn231z.duckdns.org^
@@ -10027,6 +10036,7 @@
 ||districtsop.com^
 ||divinlavidaloca.site^
 ||djcasjkcaskcj1ck3jx132.cfd^
+||djflslfjflslfikrorie.blogspot.com^
 ||djtalbsvruefo.space^
 ||dkllbi.click^
 ||dkyatirimmenkul.com^
@@ -11052,6 +11062,7 @@
 ||garantibbvaiade.ph^
 ||garantibbvaintl.com^
 ||garantibbvakredi.otzo.com^
+||garantibbvakredibasvurusu.info^
 ||garantibbvamobil.netlify.app^
 ||garantibbvapromosyon.com^
 ||garantibbvayayatinemom.com^
@@ -12671,6 +12682,7 @@
 ||irm-loomer-kray.myonlineportal.ch^
 ||ironbrave.online^
 ||irony.lat^
+||is-01-ast.ols-img-12.workers.dev^
 ||is-mobilefirsatim.duckdns.org^
 ||is1c2kjkdsakjcskj13c213x1.shop^
 ||isbank-basvuruonayiniz.duckdns.org^
@@ -14517,6 +14529,8 @@
 ||mhrs-2.digital^
 ||mhrs-app.online^
 ||mhrs-d.digital^
+||mhrs-giris.blog^
+||mhrs-hastane.digital^
 ||mhrs-randevu.vercel.app^
 ||mhrs-s.digital^
 ||mhrs5nwdkm3.duckdns.org^
@@ -14557,6 +14571,7 @@
 ||mhrsrandevusisteminiza.duckdns.org^
 ||mhrsrandevuvatandaslarimizin.duckdns.org^
 ||mhrsrandvlrmzbrasi.sbs^
+||mhrsrarandvlrmbrda.sbs^
 ||mhrssrandevularimmorbidwsynx.com^
 ||mhrsssdsasasa.xyz^
 ||mhrsvatandaslaricinonline.duckdns.org^
@@ -15546,6 +15561,7 @@
 ||otokocfilosu.com^
 ||otokocfilotr.com^
 ||otokocfilotr.net^
+||otokocfiloturkiye.com^
 ||otokocfiloturkiye.net^
 ||otokockiralamatr.com^
 ||otokockurumsal.net^
@@ -15584,6 +15600,7 @@
 ||ouekpg.click^
 ||ouilov.com^
 ||outhowtime.shop^
+||outlook-office.micsrosoftonline.com^
 ||outlookcozumtr24.com^
 ||outlookturk24x.com^
 ||outlookturkplus.com^
@@ -16312,6 +16329,7 @@
 ||pttavmhgsbakiyebayis.web.app^
 ||pttavmhgsbakiyecnokatasi.firebaseapp.com^
 ||pttavmhgsbakiyecnokatasi.web.app^
+||pttavmhgsbakiyedoldur.web.app^
 ||pttavmhgsbakiyenokatasi.web.app^
 ||pttavmhgsbakiyeyuklme.web.app^
 ||pttavmhizlisepette.com^
@@ -16844,6 +16862,7 @@
 ||s-guvendesigortaodeme.duckdns.org^
 ||s-param-guvende.servis-hizmetleri.online^
 ||s-paramguvende.servis-hizmetleri.online^
+||s-paramguvende.servisbilgi-tr.online^
 ||s-paramguvende.tr-hizmet-servis.online^
 ||s-paramguvende.tr-islem-servisi.online^
 ||s-paramguvende.tr-onaybilgi.online^
@@ -17045,6 +17064,7 @@
 ||sahibinden.siparisim-guvende.online^
 ||sahibinden.siparisim-sepette.com^
 ||sahibinden.siparissatin-al.com^
+||sahibinden.siparisver-hemen.com^
 ||sahibinden.trguvenli-siparis.online^
 ||sahibinden.trguvenlisiparisler.online^
 ||sahibinden.trhizmetservis.online^
@@ -17283,6 +17303,7 @@
 ||separation-purchased-beef-mississippi.trycloudflare.com^
 ||sepeetiturkiye.com^
 ||sepet-alisveris.com^
+||sepet-mobil-tr.online^
 ||sepet-odemesi-1985.com^
 ||sepet-odemesi-1988.com^
 ||sepetetikla.online^
@@ -19794,6 +19815,7 @@
 ||vakifkatili.pzbsin.com^
 ||vakifline.org^
 ||vakitline.com^
+||valenspara-elre.it.com^
 ||valerionpark.pro^
 ||valeurban.com^
 ||valnexoria.com^
@@ -19895,6 +19917,7 @@
 ||veri.casa^
 ||veridica.pro^
 ||veridica.xyz^
+||verify-akbank.testyourphishing.com^
 ||verify.federal-docviewer.com^
 ||verifyaccespoint.com^
 ||verifyaccesspoint.com^
@@ -20892,6 +20915,7 @@
 ||zolvica.store^
 ||zomdukiq.gifts^
 ||zookenta.com^
+||zoominviteus1.pages.dev^
 ||zorakelim.sbs^
 ||zoralunix.cyou^
 ||zorena.xyz^
