@@ -4612,6 +4612,7 @@
 ||4226541e-3.b-cdn.net^
 ||4234234asda.duckdns.org^
 ||423432423432.duckdns.org^
+43.106.71.28
 43.108.47.221
 43.128.120.247
 43.129.233.146
@@ -9475,6 +9476,7 @@
 ||claude-code-app.gitlab.io^
 ||claude-desktop-lm.gitlab.io^
 ||claude-desktop.gitlab.io^
+||claude-pro.com^
 ||claudeapp.gitlab.io^
 ||claudecode-desktop.gitlab.io^
 ||claudescript.top^
@@ -10022,6 +10024,7 @@
 ||dkyatirimmenkul.com^
 ||dlderi.com^
 ||dlimc.click^
+||dlrz-web.oss-cn-beijing.aliyuncs.com^
 ||dltruek.com^
 ||dltucra.com^
 ||dm.garantibbvakredibasvuru.com^
@@ -10685,6 +10688,7 @@
 ||fenkasro.gifts^
 ||fenkupri.gifts^
 ||fenmalloq.gifts^
+||fenmallu.com^
 ||fenmercu.gifts^
 ||fenorahubs.site^
 ||fenoralabs.site^
@@ -11309,6 +11313,7 @@
 ||gotoinvst.com^
 ||goturkey.blog^
 ||goturkishmart.shop^
+||gouvvbo.top^
 ||gov.y4nsmsars.sbs^
 ||goveridash.co^
 ||goverru.com^
@@ -11480,6 +11485,7 @@
 ||gundempusula.site^
 ||gundemraporum.com^
 ||gundemrota.world^
+||gundemrotasi.info^
 ||gundemyolu.cyou^
 ||gunler-may-lifty.myonlineportal.ch^
 ||gunlukbakislar.com^
@@ -13842,6 +13848,7 @@
 ||labuns.netlify.app^
 ||lalalala.click^
 ||lalucobug.it.com^
+||laminyamalfans.duckdns.org^
 ||landcomcare.com^
 ||landscapeuganda.com^
 ||lanfits.netlify.app^
@@ -13894,6 +13901,7 @@
 ||liamseitfor.top^
 ||lib.evsahibibasvuru.com^
 ||librarycurrents.duckdns.org^
+||license.claude-pro.com^
 ||lichenwispupd.info^
 ||lifebalghance.pro^
 ||lifescapehub.com^
@@ -15775,6 +15783,7 @@
 ||pavilora.com^
 ||pavmarto.gifts^
 ||pavolen.com^
+||pawsmira.com^
 ||paxshopu.gifts^
 ||paydevletai.com^
 ||payislemmerkezlerin.com^
@@ -15922,6 +15931,7 @@
 ||plainraw.com^
 ||plakodirenu.com^
 ||plambe.xyz^
+||plambex.com^
 ||plambex.org^
 ||planetariumguide.com^
 ||planhesapla.com^
@@ -16056,6 +16066,7 @@
 ||premiumarac.net^
 ||prenovalik.capital^
 ||presence-chris-modern-ata.trycloudflare.com^
+||presscraftly.net^
 ||pressluma.com^
 ||pressspectrum.com^
 ||pressvista.media^
@@ -17044,6 +17055,7 @@
 ||sahibindenmuhasebeodemenoktasi.dedyn.io^
 ||sahibindenparamguvende.tr^
 ||sahibindenparamguvende.tr-s.online^
+||sahibindensigorta.com^
 ||sahibindensigortaodeme.com^
 ||sahibindensigortaodemesi.com^
 ||sahibindensozlesmeodemeleri.dedyn.io^
@@ -17432,6 +17444,7 @@
 ||siparisiniz-tamam.com^
 ||siparislerolunsuyor.cloud^
 ||siparissatin-al.com^
+||siparisver-hemen.com^
 ||siparisweb.net^
 ||sireneluxury.com^
 ||siriqui.xyz^
@@ -17926,6 +17939,7 @@
 ||sxxemizlexxetexx.duckdns.org^
 ||sydv.enyeniweb.com^
 ||syfiaydytea.live^
+||sylverixstrategy.com^
 ||syn.ezpizi.click^
 ||syncdock.click^
 ||syncheaven.online^
@@ -19300,6 +19314,7 @@
 ||trusttaxportal.com^
 ||truxenadoliq.com^
 ||trvolta.com^
+||trvtrkdsnrsvjsd.online^
 ||trvtrkdsnrsvjsd.store^
 ||trwtwsn.duckdns.org^
 ||tryclorenta.site^
@@ -19424,6 +19439,7 @@
 ||turkiyebilgisi.com^
 ||turkiyebonus.net^
 ||turkiyebulletin.com^
+||turkiyeegitim.vu^
 ||turkiyefinans-katilim-com.duckdns.org^
 ||turkiyefinans-katilimyap-com.duckdns.org^
 ||turkiyefinans.pzbsin.com^
@@ -19444,6 +19460,7 @@
 ||turkiyemerkezbankasi.site^
 ||turkiyenexus.com^
 ||turkiyepanoru.com^
+||turkiyeperspektif.com^
 ||turkiyepetrl.com^
 ||turkiyepetrolleri-system.com^
 ||turkiyepetrolleri-yatirim.com^
@@ -19640,8 +19657,11 @@
 ||upd-domain-goloro.com^
 ||updata.net.cn^
 ||update-all.tempurl.host^
+||update-crowdstrike.com^
 ||update-kaspersky.workers.dev^
+||update-sentinelone.com^
 ||update-teams.live^
+||update-trellix.com^
 ||update.kaspersky.icu^
 ||update.news7-days-info.org^
 ||update.update-fall.com^
@@ -19870,6 +19890,7 @@
 ||verolumi.pro^
 ||vertexlabd.info^
 ||vertexserp.info^
+||vertextrust-advisors.com^
 ||vertlym.com^
 ||vertualstreak.info^
 ||vetepez.top^
@@ -20036,6 +20057,7 @@
 ||web-182.cfd^
 ||web-182.sbs^
 ||web-182.xyz^
+||web-bas-vur.myonlineportal.de^
 ||web-basvurum-grntbbva.fixip.org^
 ||web-garanti-subesi-tr.ph^
 ||web-links-mobil-tr.click^
