@@ -8239,6 +8239,7 @@
 ||baykar-software.com^
 ||baykar-tr.news^
 ||baykar-tr.online^
+||baykar-turkish.com^
 ||baykar-yatirimprogrami-com.pages.dev^
 ||baykar.sbs^
 ||baykarai.nl^
@@ -8333,6 +8334,7 @@
 ||baykarmtal.cloudns.in^
 ||baykarmtal.cloudns.info^
 ||baykarmtal.codeberg.page^
+||baykarmtal.com.ph^
 ||baykarmtal.cyon.link^
 ||baykarmtal.ddns-ip.net^
 ||baykarmtal.definima.net^
@@ -9468,6 +9470,7 @@
 ||ceptesok.guncelfirsatiniz.com^
 ||ceptesok.hizlifirsatim.com^
 ||ceptesok.hizligiriss.com^
+||ceptesokfirsatlarim.com^
 ||ceptete.pzbsin.com^
 ||cepteteb.pzbsin.com^
 ||ceredefe-dereteyeuere.lol^
@@ -11759,6 +11762,7 @@
 ||haberler34341.sbs^
 ||haberler34432.sbs^
 ||haberler3465672.sbs^
+||haberler346623.sbs^
 ||haberler3538434.shop^
 ||haberler3552323.shop^
 ||haberler363234.shop^
@@ -13616,6 +13620,7 @@
 ||kmogretici-bilgilendiriciler.web.app^
 ||kmp-gfirsttlrr.xyz^
 ||kmpanya-katilim.cfd^
+||kmpnnnyaabsvrrsnnnfrsltar.info^
 ||kmpnyaaabsvrrrprmsynnn.info^
 ||kmpnyaaabsvrrrprmsynnn.live^
 ||kmpnyaaabsvrrrprmsynnn.pro^
@@ -17106,12 +17111,14 @@
 ||sahibinden-ilan.tr-get-servis.online^
 ||sahibinden-order.cfd^
 ||sahibinden-paramguvende.github.io^
+||sahibinden-police.ozel-hizmet-islemleri.com^
 ||sahibinden-satis-sozlesmesi.kurumsal-online-islem.com^
 ||sahibinden-sepet.guvendeticaretlerim.online^
 ||sahibinden-sepet.guvendeticaretlerim.shop^
 ||sahibinden-sepet.guvenliticaretlerim.shop^
 ||sahibinden-sepet.sepetimdeonay.shop^
 ||sahibinden-sepet.sepetimdeonline.click^
+||sahibinden-sepet.sepetimdeonline.shop^
 ||sahibinden-sepet.sepetimonay.click^
 ||sahibinden-sepet.sepetimonay.lat^
 ||sahibinden-sepet.sepetimonay.surf^
@@ -17190,8 +17197,10 @@
 ||sahibindenmuhasebeodemenoktasi.dedyn.io^
 ||sahibindenparamguvende.tr^
 ||sahibindenparamguvende.tr-s.online^
+||sahibindenparamguvendeonay.com^
 ||sahibindensatici.com^
 ||sahibindensaticionay.com^
+||sahibindensatis.org^
 ||sahibindensatisonay.com^
 ||sahibindensigorta.com^
 ||sahibindensigortaodeme.com^
