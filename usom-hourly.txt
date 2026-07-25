@@ -802,6 +802,7 @@
 ||124124121.sbs^
 ||1245115544166558998990.duckdns.org^
 ||1245115544166558998991.duckdns.org^
+||1245115544166558998992.duckdns.org^
 ||1245445898978979907990.duckdns.org^
 ||124566556565899091.duckdns.org^
 ||124566556565899093.duckdns.org^
@@ -14412,6 +14413,7 @@
 ||matchoraworldcup.world^
 ||matchworldcup.xyz^
 ||matdit.makeup^
+||matkapset84parca.myshopify.com^
 ||matodorbet1094.com^
 ||matterposter.pro^
 ||mavellora.cfd^
@@ -17905,6 +17907,7 @@
 ||sozlesmeniz-sahibinden.kurumsal-online-islem.com^
 ||sozlesmeotokoc.com^
 ||sozlesmepolice.com^
+||sozlesmepolice.net^
 ||sozlesmepolice.org^
 ||sozlesmepoliceniz.sbs^
 ||sozlesmepolicesi.org^
@@ -19710,6 +19713,7 @@
 ||tuvturk-rov.com^
 ||tuvturk-wir.com^
 ||tuvturk-xxk.com^
+||tuvturk23randevu.duckdns.org^
 ||tuvturkabim.com^
 ||tuvturkaracmuayenerandevuonlinealin.com^
 ||tuvturkels.com^
