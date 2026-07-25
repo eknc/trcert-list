@@ -800,6 +800,8 @@
 124.33.173.242
 124.56.42.75
 ||124124121.sbs^
+||1245115544166558998990.duckdns.org^
+||1245115544166558998991.duckdns.org^
 ||1245445898978979907990.duckdns.org^
 ||124566556565899091.duckdns.org^
 ||124566556565899093.duckdns.org^
@@ -14981,6 +14983,7 @@
 ||mxtestacionamentos.com^
 ||my-redirect-130.top^
 ||my-redirect-210.top^
+||my-securty-gr.ink^
 ||myacc-portal.myonlineportal.de^
 ||mygarantibva.com^
 ||myidsafety.com^
@@ -15392,6 +15395,7 @@
 ||okmegnsdc.info^
 ||okohholdingsltd.com^
 ||oksaocanesa.cfd^
+||okuyucum-son-web.ink^
 ||okysnb.click^
 ||ol55polis.online^
 ||olacak-entry-comment.myonlineportal.ch^
@@ -15709,6 +15713,7 @@
 ||oynat.click^
 ||oyrnassevry.net^
 ||oyunyagmuru.xyz^
+||ozel-hizmet-islemleri.com^
 ||ozel-magazadan.com^
 ||ozel-magazam.com^
 ||ozelkmpnyaprmsynnbsvruuuu.click^
@@ -17187,6 +17192,7 @@
 ||sahibindenparamguvende.tr-s.online^
 ||sahibindensatici.com^
 ||sahibindensaticionay.com^
+||sahibindensatisonay.com^
 ||sahibindensigorta.com^
 ||sahibindensigortaodeme.com^
 ||sahibindensigortaodemesi.com^
@@ -17371,6 +17377,8 @@
 ||selectumfamilyhotels.com^
 ||selectumhotelsandresorts.com^
 ||selectumluxuryresorts.com^
+||selgebeachresortside.com^
+||selgehotels.com^
 ||sellhub.sbs^
 ||sellmaxim.digital^
 ||sellnightcare.com^
@@ -19565,6 +19573,7 @@
 ||turkishairlineskampanya.olumedavet.sbs^
 ||turkishairlineskampanyalari.3tabakvar.sbs^
 ||turkishairlineskampanyalari.xzeez.cfd^
+||turkishairlineskampanyalari.zosssdalin.click^
 ||turkishairlinis.cyou^
 ||turkishairlinis.sbs^
 ||turkishbank.online^
