@@ -14657,6 +14657,7 @@
 ||mhrsportalvatandasgirisimizdiranlik.duckdns.org^
 ||mhrsrandevu.art^
 ||mhrsrandevu1182.site^
+||mhrsrandevu346.duckdns.org^
 ||mhrsrandevualsanala.duckdns.org^
 ||mhrsrandevuburada.duckdns.org^
 ||mhrsrandevuekraaan.duckdns.org^
@@ -17594,6 +17595,7 @@
 ||sinerg-kat-list.myonlineportal.ch^
 ||sinirlar-belirleme-durdur.myonlineportal.ch^
 ||sinirlikampanyalar.blogspot.com^
+||sinirsizkampanyalarinizkapida.xyz^
 ||sinodo.online^
 ||sinterfumesco.com^
 ||siparilersicinburdayiz.cloud^
@@ -19963,6 +19965,7 @@
 ||v6n4x9q2m7b1.cfd^
 ||vabelles.com^
 ||vagturk.com^
+||vakifbank-2--vakifbanktr.replit.app^
 ||vakifbanksistemi.click^
 ||vakifbankyatirim-click.pages.dev^
 ||vakifbankyatirim.click^
