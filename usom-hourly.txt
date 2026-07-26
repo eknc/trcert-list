@@ -8970,6 +8970,7 @@
 ||brempax.capital^
 ||brempo.org^
 ||brestonakilq.com^
+||brgninvesttr.com^
 ||brickcost.com^
 ||brickgrillsoup.com^
 ||brickmilo.com^
@@ -11884,6 +11885,7 @@
 ||halkgiris.duckdns.org^
 ||halkgirisiniz.duckdns.org^
 ||halkguncelhaber.com^
+||halkicanocan.co^
 ||halkilegiris.duckdns.org^
 ||halkimizilebaskaldiriyoruz.sbs^
 ||halkimizlabasbas.sbs^
