@@ -803,6 +803,7 @@
 ||124451545544554888787990.duckdns.org^
 ||124451545544554888787991.duckdns.org^
 ||124451545544554888787992.duckdns.org^
+||124451545544554888787993.duckdns.org^
 ||1245115544166558998990.duckdns.org^
 ||1245115544166558998991.duckdns.org^
 ||1245115544166558998992.duckdns.org^
@@ -8186,6 +8187,7 @@
 ||basvursenv.sbs^
 ||basvursenxm.sbs^
 ||basvursenz.sbs^
+||basvursmn.sbs^
 ||basvursmz.sbs^
 ||basvursnr.sbs^
 ||basvursnz.sbs^
@@ -8968,6 +8970,7 @@
 ||brdanlardankzdenlrden.com^
 ||brdansglkcnrdvnyalnyrz.shop^
 ||brdansonkzstnalyrmbn.shop^
+||brdnbrangtmtsneeee.com^
 ||brdnbrlrgcblrs.com^
 ||brdnsalsmndnmnsmdn.com^
 ||brdnsnkzclsyrzz.com^
@@ -11228,6 +11231,7 @@
 ||gecislerinizilebkaiye.web.app^
 ||gecissistemimiz.lat^
 ||gecisyukleynz.web.app^
+||gedewadgsqa.duckdns.org^
 ||geimbra.weebly.com^
 ||geldrstensldm.xyz^
 ||gelecekbasligi.com^
@@ -11667,6 +11671,7 @@
 ||guvennliodak.com^
 ||guvennlistruktur.com^
 ||guyoagsdgasgd89sadhahsd8.click^
+||guzelapp1-fd4eb5ee687a.herokuapp.com^
 ||guzelgunlerbizim.com^
 ||guzelgunlergeldi.com^
 ||guzelgunlerinizicinverin.sbs^
@@ -12340,6 +12345,7 @@
 ||hizligecisbakiyesistemi.firebaseapp.com^
 ||hizligecisbakiyesistemi.web.app^
 ||hizligecisbakiymerkezi.web.app^
+||hizligecisbakyeyuklme.web.app^
 ||hizligecisbakynsi.lat^
 ||hizligecisbakysi.lat^
 ||hizligecisbays.lat^
@@ -13020,6 +13026,7 @@
 ||istecep.site^
 ||istefirsatlarburda.com^
 ||istekuzerineistanbul.xyz^
+||istelmancankart.xyz^
 ||istemredo.xyz^
 ||istengelenler.shop^
 ||isthasnbllm.com^
@@ -17690,6 +17697,7 @@
 ||siteveb.xyz^
 ||sitewebi.site^
 ||siteyegelgel.cfd^
+||sivri.ezpizi.click^
 ||sixseven-krdili-taruzyuz.xyz^
 ||sizekampanya-tr.store^
 ||sizeozel.xyz^
@@ -17771,6 +17779,7 @@
 ||snipr.page^
 ||snipr.site^
 ||sniuntmdnhergnicpagdm.shop^
+||snksnctysnysnns.com^
 ||snkzlplrdansnnns.com^
 ||snrlsaydcakm.cfd^
 ||snrlsayocadaoneaca.cfd^
