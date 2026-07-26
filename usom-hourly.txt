@@ -13551,6 +13551,7 @@
 ||kirmizibasliklipose.duckdns.org^
 ||kirmizibasliklitirtil.duckdns.org^
 ||kisa-birseyler.cfd^
+||kisa-edinim.guru^
 ||kisa-links.site^
 ||kisa-links.xyz^
 ||kisaalink.xyz^
@@ -17362,6 +17363,7 @@
 ||sefer.obilet.nl^
 ||sefore.netlify.app^
 ||sega-ads-territories-appendix.trycloudflare.com^
+||sehaaredales.duckdns.org^
 ||sektorbizdensoruluyor.sbs^
 ||sektorukapatiyorumkimsereklamacamaztaklaciguvercin.com^
 ||selcukbayraktar.2ix.ch^
