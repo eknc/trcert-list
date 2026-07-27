@@ -350,6 +350,7 @@
 104.238.61.32
 104.239.66.86
 104.243.32.213
+104.243.35.63
 104.243.43.16
 104.244.72.123
 104.245.241.157
@@ -4015,6 +4016,7 @@
 216.144.226.214
 216.144.229.148
 216.152.148.54
+216.152.151.204
 216.158.232.43
 216.173.84.198
 216.180.127.201
@@ -7263,6 +7265,7 @@
 ||a101katalogguncel.duckdns.org^
 ||a101katologz.duckdns.org^
 ||a101market.org^
+||a101market.xyz^
 ||a101marketinizgeldi.ph^
 ||a101mayisfirsatlari.x10.mx^
 ||a101mayisfirsatlari.xo.je^
@@ -8040,6 +8043,7 @@
 ||avskiralama.rent^
 ||avskiralik.com^
 ||avskoc.com^
+||avskoc.org^
 ||avskocfilo.com^
 ||avskocfilo.net^
 ||avsoto.com^
@@ -9606,6 +9610,7 @@
 ||clo4shara.xyz^
 ||cloackajdvskkx131x231z2312.cfd^
 ||clocascdjk113c1231x31.cfd^
+||clockaskdjjkx1k32x4314.cfd^
 ||clorentaly.store^
 ||cloud-verification.com^
 ||cloud01y.cfd^
@@ -12130,6 +12135,7 @@
 ||hemenislemnal.net^
 ||hemenislemnktans.net^
 ||hemenislemnktasi.net^
+||hemenislemnktasna.net^
 ||hemenislemnktsi.net^
 ||hemenislemnoktasnin.net^
 ||hemenislmankta.net^
@@ -12877,6 +12883,7 @@
 ||islem-hizmet.com^
 ||islem-linkiniz.com^
 ||islembilgisistemi.abrdns.com^
+||islembilgitr.online^
 ||islemek-giris.casa^
 ||islemerkezler.sbs^
 ||islemkanali.com^
@@ -12892,6 +12899,7 @@
 ||islemnoktnasni.net^
 ||islemonlinegarantimobilguncel.online^
 ||islemonlne-isleminiz.sbs^
+||islemsonu-chemen.net^
 ||islemtakibi.com^
 ||isletimgarantinewdestekportal.duckdns.org^
 ||isletmedesteklerii.com^
@@ -13031,6 +13039,7 @@
 ||istancanbulkart.xyz^
 ||istancansancan.xyz^
 ||istancsnbulkart.xyz^
+||istankart.xyz^
 ||istascancan.xyz^
 ||istbabacan.xyz^
 ||istbabaco.xyz^
@@ -13062,6 +13071,7 @@
 ||istkart.xyz^
 ||istkartrtx.online^
 ||istkkartttbelggim.xyz^
+||istkkartttbelggimm.xyz^
 ||istkrtetasvgsa.online^
 ||istkrtttts.click^
 ||istkrttttttbsrvv.online^
@@ -13208,6 +13218,7 @@
 ||jomera.store^
 ||jorenia.com^
 ||jornavis.com^
+||josterlerkest.duckdns.org^
 ||journalcorex.com^
 ||journolinxfy.com^
 ||jovrineltan.com^
@@ -14898,6 +14909,7 @@
 ||mobil-deniz-com-promosyonum-cepte.loseyourip.com^
 ||mobil-deniz-promosyyon-bilgi-ekranim.theworkpc.com^
 ||mobil-erisim.my-homeip.de^
+||mobil-erisim.myonlineportal.de^
 ||mobil-firsatlarinumre.duckdns.org^
 ||mobil-guvenli-ve-basit.xyz^
 ||mobil-katlimfirsatim.duckdns.org^
@@ -15603,6 +15615,7 @@
 ||onlineilanlarimptt.com^
 ||onlineindirimkulubu4.sbs^
 ||onlineislemler-canliyardim.duckdns.org^
+||onlineislemmerkezleria101.pages.dev^
 ||onlinekgmyolgcsbrcodyn.com^
 ||onlinekirasozlesmesi.com^
 ||onlinekmm.com^
@@ -15960,6 +15973,7 @@
 ||paribuarabaruyasi.com^
 ||paribuarabasahibi.com^
 ||paribuarabasansi.com^
+||paribuarabasansin.com^
 ||paribuarabasepeti.com^
 ||paribuarabasevinci.com^
 ||paribuarabasevindirir.com^
@@ -16085,6 +16099,7 @@
 ||pelorso90la.com^
 ||pemex-payment.xyz^
 ||peowqlauoshau8.com^
+||pepecekilisim.com^
 ||pepepupuchek13.com^
 ||pepepx00x0xw23.duckdns.org^
 ||pepsico-jobs.com^
@@ -19162,6 +19177,7 @@
 ||tiryakifre.com^
 ||tisssbasfasjfagsax.sbs^
 ||tivento.shop^
+||tkg-edvtap-randv.org^
 ||tkg-tapkorandv.org^
 ||tkibasvru.sbs^
 ||tkibscvr.sbs^
@@ -20382,6 +20398,7 @@
 ||web-links-mobil-tr.sbs^
 ||web-meets.com^
 ||web-taprndvsunz.net^
+||web-tapsnrsandvun.net^
 ||web-telegram.ug^
 ||webassistia.gifts^
 ||webb-182.com^
@@ -20920,6 +20937,7 @@
 ||ynlendnrnyosun7z8120.duckdns.org^
 ||ynlendriyonuzknk23154.duckdns.org^
 ||ynlndirmdsnsormakdnk.duckdns.org^
+||yogabloom.icu^
 ||yogasoul.icu^
 ||yolcurentacar.net^
 ||yolgecisihlalbrcnodme.com^
