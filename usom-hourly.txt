@@ -1,3 +1,4 @@
+||000000044444.duckdns.org^
 ||000011021021420.gleeze.com^
 ||0000110720265.sbs^
 ||00004444444022.net^
@@ -807,6 +808,8 @@
 ||124451545544554888787993.duckdns.org^
 ||124451545544554888787994.duckdns.org^
 ||124451545544554888787995.duckdns.org^
+||124451545544554888787996.duckdns.org^
+||124451545544554888787997.duckdns.org^
 ||1245115544166558998990.duckdns.org^
 ||1245115544166558998991.duckdns.org^
 ||1245115544166558998992.duckdns.org^
@@ -7235,6 +7238,7 @@
 ||a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online^
 ||a-101-sadece-bugune-ozel-mobil.online-tr-shop-mobil.site^
 ||a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online^
+||a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online^
 ||a-101c0mtlc.shop^
 ||a-101indirim.com^
 ||a-1o1-c.duckdns.org^
@@ -9674,6 +9678,7 @@
 ||coingolfsummer.com^
 ||coinsec.co^
 ||coinsecimi.com^
+||col012f0232di.duckdns.org^
 ||colendiportfoy.com^
 ||collapse-lbs-laundry-rear.trycloudflare.com^
 ||colnsdital.com^
@@ -14655,6 +14660,7 @@
 ||merkezihekimkontrolmerkezi.digital^
 ||merkezihekimrandevusu.dyndns-at-home.com^
 ||merkeziiprmsynnfrstlarrbsvrr.live^
+||merkeziislemler.my-homeip.de^
 ||merkezikayit.abrdns.com^
 ||merkezikayitli.abrdns.com^
 ||merkezinceleme.com^
@@ -15156,6 +15162,7 @@
 ||n5q7b2x8m4v9.cfd^
 ||n5x9r3w7t2q8.click^
 ||n7q2x9m4v6k1.cfd^
+||n7q5m2y8v4k3.sbs^
 ||n8x2q7v4c1r8t.sbs^
 ||n8x2q7v4k1m5.lol^
 ||nabereebebegburdaherkes.pro^
@@ -15709,6 +15716,7 @@
 ||openview.company^
 ||openvireon.store^
 ||openvolume.site^
+||openxzhsldndu3dx3e.click^
 ||operaamznew.ezgateway.net^
 ||opi7.com^
 ||opmujykyumty.click^
@@ -16074,6 +16082,7 @@
 ||pazarama-hizli-onay.com^
 ||pazarama-hizli-onay.net^
 ||pazarama-kurban.duckdns.org^
+||pazarama.anindaodeme.com^
 ||pazarama.anlik-ilan-odemesi.com^
 ||pazarama.bireyselsatici.online^
 ||pazarama.duckdns.org^
@@ -16827,8 +16836,10 @@
 ||rafa2acsjcdskjxjakk13x12.cfd^
 ||rafa2askjcaskx123z123.cfd^
 ||rafa2halksckdjkx123x13.sbs^
+||rafa2vasdkasckl123jkx123.cfd^
 ||rafa3234sxdkajkjscadc123.cfd^
 ||rafa34312sascdx12311zsasd.shop^
+||rafa3ck123kjx1kj23x13123132.cfd^
 ||rafa3csdackllk1kl3x123.cfd^
 ||rafa9911klasdkajx123x123.sbs^
 ||rafaasjck1k2j31x2sadcas.cfd^
@@ -17273,6 +17284,7 @@
 ||sahibinden-hizmet.online^
 ||sahibinden-ilan.tr-get-servis.online^
 ||sahibinden-order.cfd^
+||sahibinden-param-guvende.siparisbilgitr.online^
 ||sahibinden-paramguvende.github.io^
 ||sahibinden-police.ozel-hizmet-islemleri.com^
 ||sahibinden-satis-sozlesmesi.kurumsal-online-islem.com^
@@ -17761,6 +17773,7 @@
 ||siparis-onay-tr.online^
 ||siparis-satinal.com^
 ||siparisaktif.online^
+||siparisbilgitr.online^
 ||siparishizli-ver.com^
 ||siparishizliolsut.cloud^
 ||siparisim-guvende.online^
@@ -18834,6 +18847,7 @@
 ||tbbmiletisimekrani.sbs^
 ||tbdefirsat.xyz^
 ||tbsaxashfdsasf.sbs^
+||tcadli.org^
 ||tcadliye.net^
 ||tcbmtrcumhurbaskanligiuygulama10.com.ph^
 ||tcdosyasorgu.org^
@@ -19444,6 +19458,7 @@
 ||tr-akbank.ph^
 ||tr-binance2026.duckdns.org^
 ||tr-binancecark.duckdns.org^
+||tr-binancemasak.duckdns.org^
 ||tr-binancetr.duckdns.org^
 ||tr-get-servis.online^
 ||tr-gikarca.shop^
@@ -20733,6 +20748,7 @@
 ||xrr30x8v8232s.duckdns.org^
 ||xsafxacasdasax.cyou^
 ||xsceig.buzz^
+||xswwwxswwsx.duckdns.org^
 ||xtrafftrck.net^
 ||xtskxasxasx-xa.cfd^
 ||xuastyrdqk.love^
