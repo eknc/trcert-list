@@ -1,3 +1,4 @@
+||0000000333.duckdns.org^
 ||000000044444.duckdns.org^
 ||000011021021420.gleeze.com^
 ||0000110720265.sbs^
@@ -810,6 +811,7 @@
 ||124451545544554888787995.duckdns.org^
 ||124451545544554888787996.duckdns.org^
 ||124451545544554888787997.duckdns.org^
+||124451545544554888787998.duckdns.org^
 ||1245115544166558998990.duckdns.org^
 ||1245115544166558998991.duckdns.org^
 ||1245115544166558998992.duckdns.org^
@@ -8676,6 +8678,7 @@
 ||bilgiplatformu.com^
 ||bilgipusulasi.co^
 ||bilgivegorus.com^
+||bilgiveislemsayfasi.abrdns.com^
 ||bilgiveislemsistemi.abrdns.com^
 ||bilgiveiyilik.sbs^
 ||bilgivizyonu.com^
@@ -9913,6 +9916,7 @@
 ||davamaliyetr.org^
 ||davamerkezi.org^
 ||davasorusturma.org^
+||davsanllargiyimvs.duckdns.org^
 ||db-l55polisi.online^
 ||db155polis.online^
 ||db155polisi.online^
@@ -11090,6 +11094,7 @@
 ||frstlrrkmpnylarribsvrr.live^
 ||frstlrrrprmsynnnbsvrrkmpnya.art^
 ||frstlrrrsnnnkmpnyaabsvrrkred.info^
+||frstlrrrsnnnkmpnyaabsvrrkred.pro^
 ||frsttlrrrkmpnyaabsvrrrrsonnnn.art^
 ||frsttlrrrkmpnyaabsvrrrrsonnnn.click^
 ||frsttlrrrkmpnyaabsvrrrrsonnnn.info^
@@ -11856,6 +11861,7 @@
 ||haberler48751.sbs^
 ||haberler54232.shop^
 ||haberler554.shop^
+||haberler562346.sbs^
 ||haberler56755712366.com^
 ||haberler6723236.sbs^
 ||haberler78912.sbs^
@@ -14081,6 +14087,7 @@
 ||landscapeuganda.com^
 ||lanfits.netlify.app^
 ||laptopdrivers.gifts^
+||larek.vu^
 ||larpers.fun^
 ||lastpass-login-help.com^
 ||laughhouse.lol^
@@ -16056,6 +16063,7 @@
 ||pass-kampanya.click^
 ||passbasvur.click^
 ||pastalita-cake.xyz^
+||patakuti-cartcurtede.lol^
 ||patent-harc-govtrr.site^
 ||patente-harrc-govtr.site^
 ||patentharc-resmigov-trr.site^
@@ -16919,6 +16927,7 @@
 ||raniva.click^
 ||ransadevuhastenn.info^
 ||ransokk.de^
+||rapid-maple-281.injaltransferwillgonabaid.workers.dev^
 ||rapidfilevault4.cyou^
 ||rapidfilevault4.sbs^
 ||rapidfilevault5.sbs^
@@ -17133,6 +17142,7 @@
 ||ruxvenda.gifts^
 ||ruxvendro.com^
 ||rvdownloads.com^
+||rweretee.nicepage.io^
 ||rwgerwgsdfgfg.duckdns.org^
 ||rwwkqrl.xyz^
 ||rydjfgyhrfrefddfs.sbs^
@@ -17428,6 +17438,7 @@
 ||satinal-siparis.com^
 ||satinalonlinesiparis.com^
 ||satinalsepetimodeme.com^
+||satir-web.ink^
 ||satiskapinda.com^
 ||satiskontrol.com^
 ||savcilikhukum.org^
@@ -18191,6 +18202,7 @@
 ||stockib.com^
 ||stockivs.com^
 ||stocksnt.com^
+||stokta-sayili-urun.sbs^
 ||stontra.shop^
 ||storban.capital^
 ||storban.surf^
@@ -18753,6 +18765,7 @@
 ||takla.click^
 ||taklasin.click^
 ||taklidimduzene.click^
+||taktik-operational.ink^
 ||talebekraniscebde.duckdns.org^
 ||talentnexhr.ink^
 ||talep-ziraatbank.vercel.app^
@@ -19146,6 +19159,7 @@
 ||thessa.trackgrid.net^
 ||thestreamforge.co^
 ||thickentributary.digital^
+||things-solve-medicines-premium.trycloudflare.com^
 ||thirdmetrics.com^
 ||thisisgiveeverytime.xyz^
 ||thlink.click^
@@ -20312,6 +20326,7 @@
 ||videox.gifts^
 ||vids.chatorizon.com^
 ||viewdocuemnt151y-dataqjqhg.emp01825.workers.dev^
+||viixzhsldndu3dx3e.click^
 ||viki-play.com^
 ||vimshopa.gifts^
 ||vionaarackiralama.com^
@@ -21076,6 +21091,7 @@
 ||yyzdfmrkt.xyz^
 ||yzbirmrket.cfd^
 ||yzdvrnmrket.cfd^
+||z1ffssa.cfd^
 ||z1p7k4m9v6x3.lol^
 ||z1q7x4v9k2n8.cfd^
 ||z1rayurcat.nicepage.io^
@@ -21303,6 +21319,7 @@
 ||zrtkmprnsyz.click^
 ||zsafdsaghfdassax.sbs^
 ||zsaxsadsadssax.sbs^
+||zt93mx87zr300cxa.cfd^
 ||ztakrim.cfd^
 ||ztarty.cfd^
 ||ztrrkt-katlim.cfd^
