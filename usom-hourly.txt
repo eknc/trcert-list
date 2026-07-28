@@ -399,6 +399,7 @@
 106.0.51.178
 106.126.3.56
 106.126.3.78
+106.13.107.71
 106.13.57.206
 106.248.251.189
 106.254.237.82
@@ -571,6 +572,7 @@
 112.105.19.170
 112.113.112.5
 112.121.165.45
+112.121.165.46
 112.132.218.45
 112.133.194.254
 112.134.208.214
@@ -1602,6 +1604,7 @@
 154.220.92.179
 154.220.92.188
 154.220.93.247
+154.221.35.72
 154.222.224.94
 154.223.19.106
 154.223.21.130
@@ -1928,6 +1931,7 @@
 163.61.110.175
 163.7.1.156
 163.7.11.230
+163.7.3.154
 164.155.205.99
 164.215.103.143
 164.215.103.20
@@ -2531,6 +2535,7 @@
 ||182-net.com^
 ||182-nett.com^
 ||182-web.xyz^
+||182-webb.sbs^
 ||182-webb.xyz^
 ||182-webhati.com^
 ||182-website.com^
@@ -5435,6 +5440,7 @@
 5.10.250.240
 5.101.0.66
 5.101.157.80
+5.101.82.60
 5.101.84.75
 5.101.86.55
 5.109.182.231
@@ -5938,6 +5944,7 @@
 67.43.234.96
 ||67534624512432.net^
 ||6754233303.sbs^
+||675895632432457.org^
 ||6773345531.xyz^
 ||6773345589.xyz^
 ||678432243.net^
@@ -6605,6 +6612,7 @@
 88.151.192.165
 88.151.195.133
 88.151.195.22
+88.151.33.203
 88.169.109.111
 88.198.28.6
 88.198.96.210
@@ -9332,6 +9340,7 @@
 ||bznzn.duckdns.org^
 ||c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev^
 ||c.windowsk-cdn.com^
+||c2.saintpetersburgresident.ru^
 ||c2.tralalarkefe.com^
 ||c3c34hn231z.duckdns.org^
 ||c5v2t8k6n1w9.sbs^
@@ -10292,6 +10301,7 @@
 ||dynamoforged.pro^
 ||dynavo.site^
 ||dysoncomtr.rf.gd^
+||dysphoria.androiddebugbridge.su^
 ||dzbank.capital^
 ||e-aidtodemelr-2023-gov-tr.rf.gd^
 ||e-alisveris-ilan-sepetim.com^
@@ -10322,6 +10332,8 @@
 ||e-ilan-elektronik.com^
 ||e-ilan-online-alisveris-sepetim.com^
 ||e-ilan-online-alisveriz-sepetim.com^
+||e-islemler-online-saglik.com^
+||e-islemler-online-sagliklar.com^
 ||e-maliyetalepformu.com^
 ||e-merkeziletisimmhrs.digital^
 ||e-mhrs.digital^
@@ -12489,6 +12501,7 @@
 ||hlgsaracsistemi.xyz^
 ||hlkwebsubayrntilarsub532.shop^
 ||hlkwebsubayrntilarsub583.shop^
+||hlkwebsubayrntilarsub593.shop^
 ||hlkwebsubayrntilarsub693.shop^
 ||hlkxk13j12kxjkladxas.cfd^
 ||hlmsdistnbsvr.com^
@@ -12670,6 +12683,7 @@
 ||hzusdkueestydns.online^
 ||hzusdkueestydns.store^
 ||hzzlgcs.com^
+||i.peer4you.net^
 ||i1sasdmascdckexq123x123.cfd^
 ||iacvqp.buzz^
 ||iadeburdasssdf.click^
@@ -13219,6 +13233,7 @@
 ||jekep3410.store^
 ||jekep35919.shop^
 ||jerryshvac.com^
+||jerusalem.androiddebugbridge.su^
 ||jet-bireysel-hizmetler.online^
 ||jet-eservis-hizmetlerin.online^
 ||jet-guvenlihizmetleriniz.online^
@@ -13325,6 +13340,7 @@
 ||kahasdasd99asdasd88asds.click^
 ||kahpenevltlar.com^
 ||kahveix.com^
+||kahvemakinasial.xyz^
 ||kai2xaskdamdxasdxads.cfd^
 ||kaiat31sacjasxak1312c3x1231.shop^
 ||kaisxa12z312sadcasx123.cfd^
@@ -13637,6 +13653,7 @@
 ||kidlink.mom^
 ||kidmira.com^
 ||kidunit.mom^
+||kieron.androiddebugbridge.su^
 ||kigili.store^
 ||kikeus.website^
 ||kikpx.top^
@@ -14471,6 +14488,7 @@
 ||maliyetebligat.org^
 ||maliyetr.org^
 ||maliyetrgov.org^
+||maliyevergiformu.com^
 ||maliyevezne.com^
 ||malkim.com^
 ||malkocbakie.lat^
@@ -14971,6 +14989,7 @@
 ||mobil-obilet.uk^
 ||mobil-ozel-tr.online^
 ||mobil-ozel-tr.site^
+||mobil-ozel.site^
 ||mobil-sepet-shop.click^
 ||mobil-sepet-shop.online^
 ||mobil-sepet-tr.online^
@@ -15399,6 +15418,7 @@
 ||nnp0.allthe.site^
 ||nntknlanana.net^
 ||node-js.prentiva99.info^
+||node.androiddebugbridge.su^
 ||nodebridge.host^
 ||nodehubs.store^
 ||nofun.lol^
@@ -15515,6 +15535,7 @@
 ||o-bilets.com^
 ||o-o155polisi.online^
 ||o-polisi155.online^
+||o.peer4you.net^
 ||o155-polis.online^
 ||o155-polisi.online^
 ||o155polis.online^
@@ -15610,6 +15631,7 @@
 ||olynssrv.net^
 ||olyvesnyre.net^
 ||omada.garantibbvakredibasvuru.com^
+||omiohotels.com^
 ||omnhostlinuxmail.net^
 ||omnicom-hiring.com^
 ||omnicom-jobs.com^
@@ -15657,6 +15679,7 @@
 ||online-kampanyaniz.my-homeip.de^
 ||online-karaca.vercel.app^
 ||online-kuveytmobil.duckdns.org^
+||online-ozel-siparis.online^
 ||online-promosyon-basvur.my-homeip.de^
 ||online-shop-bireysel-tr.site^
 ||online-siparis-mobilde-tr.online^
@@ -16161,6 +16184,7 @@
 ||pdf-reader.help^
 ||peatreachlessd.info^
 ||pedalpower.cyou^
+||peer.saintpetersburgresident.ru^
 ||peiaz.top^
 ||pelnpp.help^
 ||peloetwq71.com^
@@ -16680,6 +16704,7 @@
 ||pttguvenliodemesiparis.com^
 ||ptthgsbakiyeyuklemes.web.app^
 ||ptthgsbakiyeyuklme.web.app^
+||ptthizligecisbakiyenileme.web.app^
 ||ptthizligecisyukleme.web.app^
 ||pttkargo.e-ilan-alisveris-sepet.com^
 ||pttkargo.mobilservisler-27.sbs^
@@ -17104,6 +17129,9 @@
 ||rikivaf163.online^
 ||rikivaf163.xyz^
 ||rinedavolu.com^
+||rinexibansorguapi.rf.gd^
+||rinexinstegramsorguapi.rf.gd^
+||rinexsystems.edgeone.dev^
 ||rioma.website^
 ||riqvaj.buzz^
 ||rise-advance.com^
@@ -17996,6 +18024,7 @@
 ||soleron.gifts^
 ||solidtempo.com^
 ||soltherisvoid.com^
+||solutioncivmultitechofficeit.ekiaurekacre.vu^
 ||solutionlogz.info^
 ||solutionpelle.info^
 ||solvarion.live^
@@ -18088,6 +18117,7 @@
 ||soqmlarklt.online^
 ||sorggirsin.cfd^
 ||sorguadalet.org^
+||sorguapileri-tc.onrender.com^
 ||sorgubirim.org^
 ||sorguceza.org^
 ||sorguidari.org^
@@ -18102,6 +18132,7 @@
 ||sorgumaliye.org^
 ||sorgumasak.org^
 ||sorgupaneli.ph^
+||sorgupanelimapi.atspace.tv^
 ||sorimel.pro^
 ||sormekavudiq.com^
 ||sorogren-aktarekraniniz.sbs^
@@ -19135,6 +19166,7 @@
 ||tektusunabakacak.com^
 ||tektusunlaevindeolsun.com^
 ||tekyolburadadn.sbs^
+||telaviv.androiddebugbridge.su^
 ||telefonfiyatkarsilasmasi.sbs^
 ||telefonkarsilastirmalari.sbs^
 ||tellocancan.co^
@@ -19599,6 +19631,7 @@
 ||trdosyamasak.com^
 ||trdosyamasak.org^
 ||tredsz.cfd^
+||trees4sale.net^
 ||tregmceza.org^
 ||tregmkurum.org^
 ||trehlub.com^
@@ -20502,6 +20535,7 @@
 ||web-links-mobil-tr.sbs^
 ||web-meets.com^
 ||web-taprndvsunz.net^
+||web-tapsnrsandvun.info^
 ||web-tapsnrsandvun.net^
 ||web-telegram.ug^
 ||webassistia.gifts^
@@ -21136,6 +21170,7 @@
 ||yyzdfmrkt.xyz^
 ||yzbirmrket.cfd^
 ||yzdvrnmrket.cfd^
+||z102.site^
 ||z1ffssa.cfd^
 ||z1p7k4m9v6x3.lol^
 ||z1q7x4v9k2n8.cfd^
