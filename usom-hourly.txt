@@ -7543,6 +7543,7 @@
 ||akkampanyalar.shop^
 ||akklevaltrlerndn.click^
 ||akktuteellburadaaa.xyz^
+||akmobil-bireysel-com.duckdns.org^
 ||akmobil-onlinebasvuru-ekrani-com.webredirect.org^
 ||akmobil-onlineislem-ekrani.duckdns.org^
 ||akmobil-onlineislem-guncel-ekran.duckdns.org^
@@ -16674,6 +16675,7 @@
 ||pttavm.ile-online-islemlerim.com.tr^
 ||pttavm.ile-sepette-islem.com.tr^
 ||pttavm.ileservishzmetlerinz.com^
+||pttavm.islemleriniz-mobilden.com^
 ||pttavm.kolay-tamamla.com^
 ||pttavm.kolaysepet.online^
 ||pttavm.magaza-siparisiniz.com^
@@ -17580,6 +17582,7 @@
 ||saxghasdasdagi33.shop^
 ||saxsajgdasfdaghad.lat^
 ||sayayaya.duckdns.org^
+||sayayayaya.duckdns.org^
 ||saydanis.click^
 ||sayfadakal.duckdns.org^
 ||sayginbelgelendirme.com^
