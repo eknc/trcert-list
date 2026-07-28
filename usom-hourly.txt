@@ -6639,6 +6639,7 @@
 88.99.242.92
 ||888002121588808.gleeze.com^
 ||88854588740002sd20.gleeze.com^
+||888811111.duckdns.org^
 89.105.198.134
 89.105.198.190
 89.105.201.132
@@ -7223,6 +7224,7 @@
 ||Otokocfilom.net^
 ||a-101-bireysel-extra-indirimler.online-tr-shop.site^
 ||a-101-bugune-ozel-cepte-mobil-extra.indirim-mobil.site^
+||a-101-bugune-ozel-indirim-tr-sepette-mobil.online-ozel-siparis.online^
 ||a-101-de-extra-bugune-ozel-sepette-firsat-tr.shop^
 ||a-101-de-extra-sadece-bugune-ozel-mobilde-tr.bireysel-shop-tr.sbs^
 ||a-101-de-extra-sadece-bugune-ozel-sepette-tr.bireysel-shop-tr.online^
@@ -10817,6 +10819,7 @@
 ||fas3215fsapstor.click^
 ||fashioncore.digital^
 ||fasos.nicepage.io^
+||fast-ilan.com^
 ||fast-mob.com^
 ||fast-page.shop^
 ||fast.raidher.icu^
@@ -12188,6 +12191,7 @@
 ||hemenislemnktsi.net^
 ||hemenislemnoktasnin.net^
 ||hemenislmankta.net^
+||hemenislmkntokas.net^
 ||hemenislmnktnas.net^
 ||hemenismlantans.net^
 ||hemenismlnktasnati.net^
@@ -15042,6 +15046,7 @@
 ||mobilservisler-68.sbs^
 ||mobilservisler-83.sbs^
 ||mobilservisler-85.sbs^
+||mobilservisler-87.sbs^
 ||mobilservisleriniz-1.sbs^
 ||mobilservisleriniz-3.sbs^
 ||mobilservisleriniz-4.sbs^
@@ -15500,6 +15505,7 @@
 ||nudorleto.online^
 ||nufusehliyetsorgu6.ph^
 ||nuhugurtertese.xyz^
+||nunuhugu-gugufueu.lol^
 ||nurolportfoyum.com^
 ||nuvanta.cyou^
 ||nuvbazel.com^
@@ -16145,6 +16151,7 @@
 ||pazarama.anlik-ilan-odemesi.com^
 ||pazarama.bireyselsatici.online^
 ||pazarama.duckdns.org^
+||pazarama.fast-ilan.com^
 ||pazarama.guvenlihizmetler.online^
 ||pazarama.guvenliodemeonay.com^
 ||pazarama.guvenlionayodeme.com^
@@ -16545,6 +16552,7 @@
 ||ptt.mobilservisler-49.sbs^
 ||ptt.mobilservisler-65.sbs^
 ||ptt.mobilservisler-67.sbs^
+||ptt.mobilservisler-87.sbs^
 ||ptt.satinalonlinesiparis.com^
 ||ptt.sepetimhizlisatinal.com^
 ||pttaevm.com^
@@ -18268,6 +18276,7 @@
 ||stinarosen.com^
 ||stmarkhopeandpeace.org^
 ||stnblbsbbvr.lat^
+||stnlyyenikmp.com.tr^
 ||stock-arab-flame-hat.trycloudflare.com^
 ||stockib.com^
 ||stockivs.com^
