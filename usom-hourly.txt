@@ -917,6 +917,7 @@
 ||13222214544588989990891.duckdns.org^
 ||13222214544588989990892.duckdns.org^
 ||13222214544588989990893.duckdns.org^
+||13222214544588989990894.duckdns.org^
 133.18.225.36
 134.122.13.34
 134.122.136.119
@@ -7286,6 +7287,7 @@
 ||a101-com-tr-onlineozel.duckdns.org^
 ||a101-com.tr.webliosy.online^
 ||a101-ekstra.s3.eu-north-1.amazonaws.com^
+||a101-firsatlariniz-artik-burada.duckdns.org^
 ||a101-harca.duckdns.org^
 ||a101-kampanya-tum-haftasi-hafta-boyunca-indirim-firsat.site^
 ||a101-sadeceonline.my-homeip.net^
@@ -7987,6 +7989,7 @@
 ||auroraclair.com^
 ||aurorait.blog^
 ||authorized-logins.net^
+||authstep-booking8442.com^
 ||autodiscover.1254598989899893.duckdns.org^
 ||autodiscover.1254598989899894.duckdns.org^
 ||autodiscover.459671325743t527140.duckdns.org^
@@ -8271,6 +8274,7 @@
 ||basvursrs.sbs^
 ||basvursrz.sbs^
 ||basvursvm.sbs^
+||basvursvs.sbs^
 ||basvurszr.sbs^
 ||basvurtamamlana.cloud^
 ||basvuru-cekilis.online^
@@ -8603,6 +8607,7 @@
 ||bbvaonlinefirsatlar.duckdns.org^
 ||bbytyzirtar.cfd^
 ||bbzirbta.cfd^
+||bckdayimhbk.ice.lol^
 ||bcv-acces.lat^
 ||bcv-basvrm.lat^
 ||bcv-bsvrs.lat^
@@ -11408,6 +11413,7 @@
 ||gecisyukleynz.web.app^
 ||gedewadgsqa.duckdns.org^
 ||geimbra.weebly.com^
+||geldesgeahhsder.duckdns.org^
 ||geldrstensldm.xyz^
 ||gelecekbasligi.com^
 ||gelecekcephesi.com^
@@ -11531,6 +11537,7 @@
 ||gimkupiq.gifts^
 ||gir-yaz-tr.biz^
 ||gir101tkl.xn--tt-8ja.net^
+||giri-sfg.cfd^
 ||girilenler-de-gr.biz^
 ||giris-bns-latr.guru^
 ||giris-guvenli.xyz^
@@ -12232,6 +12239,7 @@
 ||hazineceza.org^
 ||hazinekurum.org^
 ||hazinemaliyebirimi.org^
+||hazinesicil.org^
 ||hazinesorgu.org^
 ||hazir-limit.click^
 ||hazir-lpydk-site.myonlineportal.ch^
@@ -13766,6 +13774,7 @@
 ||kentblack.cfd^
 ||kentfiresafe.com^
 ||kentjerk.info^
+||kentrav.forum^
 ||kep-adres-guncelleme.com^
 ||kep-bilgi-guncelleme.com^
 ||kepadresiguncel.com^
@@ -14905,6 +14914,7 @@
 ||meritsabit.online^
 ||merkantalolol.asia^
 ||merkeszahbereaknalbbsc251.click^
+||merkez.garden^
 ||merkezcicekcilik.site^
 ||merkezdekayit.abrdns.com^
 ||merkezekayit.abrdns.com^
@@ -15281,6 +15291,7 @@
 ||molecularpath.capital^
 ||molipy8trk.com^
 ||molokotarelka.com^
+||molvent.forum^
 ||monerix.capital^
 ||monevo.gifts^
 ||moneyportfoy.com^
@@ -17799,6 +17810,7 @@
 ||sdfbhygbertbqwer.click^
 ||sdfcsdfasdfasd.duckdns.org^
 ||sdfdsfggfd.duckdns.org^
+||sdffdsadsf.duckdns.org^
 ||sdfsdasdfsdfsd.duckdns.org^
 ||sdfsdfqweqwef.duckdns.org^
 ||sdklcflsd231xasc123x12.cfd^
@@ -18415,6 +18427,7 @@
 ||soulyoga.icu^
 ||sovaro.online^
 ||sovbuyli.gifts^
+||soxzr300xbsvruzrt0xf423sadvc.click^
 ||sozbir-eutamot.myonlineportal.ch^
 ||sozbir-launcher.myonlineportal.ch^
 ||sozcuturkey.com^
@@ -20391,6 +20404,7 @@
 ||ulusalpaydasi.com^
 ||ulusalpusula.com^
 ||ulusalyolculuk.com^
+||umarotosanayisitesiklima.duckdns.org^
 ||umghjmtrynwernwe.click^
 ||umr2xx12e31x2.duckdns.org^
 ||umre-kuveytorg.duckdns.org^
@@ -20511,6 +20525,7 @@
 ||uyaptebligat.org^
 ||uyapuzlastirma.org^
 ||uyapvatandas-sorgu.com^
+||uyari-detaylar-tr.ink^
 ||uyariweb.guru^
 ||uygnsaynindrmfirstlar.cfd^
 ||uygun-bireysel-ihtiyac.xyz^
@@ -20744,6 +20759,7 @@
 ||vividharbor.bond^
 ||vividtcabin.com^
 ||vizyonarackiralama.com^
+||vizyoncagrisi.com^
 ||vkfkredihesabimlogin.click^
 ||vkfsizlerle.duckdns.org^
 ||vlbaqg.cc^
