@@ -8264,6 +8264,7 @@
 ||basvursrc.sbs^
 ||basvursrd.sbs^
 ||basvursrf.sbs^
+||basvursrs.sbs^
 ||basvursrz.sbs^
 ||basvursvm.sbs^
 ||basvurszr.sbs^
@@ -8837,6 +8838,7 @@
 ||bireyselpttavm.com^
 ||bireyselsatici.com^
 ||bireyselsatici.online^
+||bireyselsubehalkbank.com.ph^
 ||birgulususebepolur.sbs^
 ||birgulususebepolur1.sbs^
 ||birikimkutusu.site^
@@ -10892,6 +10894,7 @@
 ||factlin.com^
 ||fadi.piratesbean.cfd^
 ||fafacanahmetcanfan.net^
+||fahrettindanizmansert.com^
 ||fairyhole.cfd^
 ||fairyspells.info^
 ||faizsiz-basvur.myonlineportal.eu^
@@ -10907,6 +10910,7 @@
 ||fanonlyatn.xyz^
 ||faq-whatsapp-center.com^
 ||fareluaceze.click^
+||fark-hazirdikkat.casa^
 ||farkedermi.lol^
 ||farketmez34cc.yyuyy.com^
 ||fas3215fsapstor.click^
@@ -11500,6 +11504,7 @@
 ||ghostbladed.info^
 ||ghwhdx.cyou^
 ||gibdijtial.com^
+||gibeportal.com^
 ||gidiptegelememekvar.sbs^
 ||gidisgelisekraniniz.sbs^
 ||giftavora.com^
@@ -12148,6 +12153,7 @@
 ||harcaharca-co.liveon.site^
 ||hardenedraisin.lasergrayscale.com^
 ||hardware-office.cc^
+||hargelerdenlerden.duckdns.org^
 ||harikayizbiz.com^
 ||harteprn.com^
 ||hasat5dsa.nicepage.io^
@@ -12502,6 +12508,7 @@
 ||highfleetenterprise.com^
 ||higoksbupwou.com^
 ||hiizgadc.cfd^
+||hiizgadc.cyou^
 ||hilisipairsler17temmuzda.cloud^
 ||hillisolutions.info^
 ||hillsidebeachhotels.com^
@@ -14929,6 +14936,7 @@
 ||mfzbyr.click^
 ||mglrsmayls.online^
 ||mgrosshzlrannn.online^
+||mh-r-al-randv-simdi-hemence.duckdns.org^
 ||mh-rs.182iletisim.click^
 ||mh-rsgiris.cyou^
 ||mh4rsnadevulariniz3.ydns.eu^
@@ -15452,6 +15460,7 @@
 ||nbuckley-cambek-com-s-account.workers.dev^
 ||ncduuyese.live^
 ||ncm-invest.com^
+||ncminvest-global.com^
 ||ncorex.media^
 ||ncubll.click^
 ||nebula.garantibbvakredibasvuru.com^
@@ -16095,6 +16104,7 @@
 ||otokocturkey.com^
 ||otokocturkiye.net^
 ||otokocturkiye.org^
+||otokocturkiyefilo.com^
 ||otomatkynlemekampayssendebasvur.info^
 ||otoplus-arac.com^
 ||otoplusaracim.com^
@@ -16258,6 +16268,7 @@
 ||paribuarabaruyasi.com^
 ||paribuarabasahibi.com^
 ||paribuarabasansi.com^
+||paribuarabasansim.com^
 ||paribuarabasansin.com^
 ||paribuarabasepeti.com^
 ||paribuarabasevinci.com^
@@ -16273,6 +16284,8 @@
 ||paribuaracfirsat.com^
 ||paribubonuscarki.com^
 ||paribubuyukcekilisi.com^
+||paribucark-cevir.com^
+||paribucark-kazan.com^
 ||paribucark.com^
 ||paribucarkicevir.com^
 ||paribucarkicevirkazan.com^
@@ -16894,6 +16907,7 @@
 ||pttavmsiparislerim.com^
 ||pttavmsiparisodeme.com^
 ||pttavmsiparisonline-sepet.com^
+||pttavmturkiye.shop^
 ||pttavn-islemler-hgs-sorgulama.firebaseapp.com^
 ||pttavn-islemler-hgs-sorgulama.web.app^
 ||pttavn-kilomtre-islem-sorgu.firebaseapp.com^
@@ -17453,6 +17467,7 @@
 ||s0kmarlket.shop^
 ||s0kmarlketlor.shop^
 ||s0kmlarkletlerden.shop^
+||s1z1raf.cfd^
 ||s3-updatehub.cc^
 ||s34fdgfd343.nicepage.io^
 ||s99999001.duckdns.org^
@@ -17596,6 +17611,7 @@
 ||sahibinden.elektronik-alisverisin.com^
 ||sahibinden.elektronik-magaza-sepetim.com^
 ||sahibinden.elektronik-urun-sepetim.com^
+||sahibinden.fast-ilan.com^
 ||sahibinden.get-paramguvende.my^
 ||sahibinden.guvenlialisveris.online^
 ||sahibinden.hemen-siparisver.com^
@@ -18474,6 +18490,7 @@
 ||stanleyindirim.duckdns.org^
 ||stanleykepler.xyz^
 ||star-layer.com^
+||starkampanya.com^
 ||starlinkprod.pro^
 ||starzoomel.info^
 ||stateom.com^
@@ -18546,6 +18563,7 @@
 ||subemiz-garanti.myonlineportal.eu^
 ||subeportalgiris.com^
 ||subesiz-basvur.myonlineportal.eu^
+||subleaqfjs.com^
 ||subterranews.pics^
 ||successfulpro.fit^
 ||suclamadava.org^
@@ -20969,6 +20987,7 @@
 ||www-qnbfinansbank-kampanya.ph^
 ||www-qnbfinansbank-yenilenen-subem.ph^
 ||www-toki-gov-tr-ev.vercel.app^
+||www.5mp.eu^
 ||www.drivelivelime.com^
 ||www.guidingstars.ae^
 ||www155-polisi.online^
@@ -21482,6 +21501,7 @@
 ||zarluna.gifts^
 ||zartzukurt.click^
 ||zarzurtiki-raprapsada.lol^
+||zasadasa-derederede.lol^
 ||zasede-zaderete.xyz^
 ||zaurevionyzhub.world^
 ||zauubslru-byyzaz-a1e01-rkatxe.lol^
