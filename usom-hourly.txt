@@ -916,6 +916,7 @@
 ||13222214544588989990890.duckdns.org^
 ||13222214544588989990891.duckdns.org^
 ||13222214544588989990892.duckdns.org^
+||13222214544588989990893.duckdns.org^
 133.18.225.36
 134.122.13.34
 134.122.136.119
@@ -4023,6 +4024,7 @@
 213.59.118.124
 213.6.203.226
 ||2134830028840.duckdns.org^
+||21461sndmsndsasd.com^
 216.107.139.197
 216.107.139.52
 216.120.201.112
@@ -5337,6 +5339,7 @@
 46.8.232.106
 46.8.236.61
 46.8.68.100
+||46164sdnsdsmsdnsds.com^
 ||46564234.net^
 47.100.65.182
 47.101.30.124
@@ -8066,6 +8069,7 @@
 ||avisfilotr.com^
 ||avisfilotr.net^
 ||aviskirala.com^
+||aviskirala.net^
 ||aviskiralama.duckdns.org^
 ||avisonline.net^
 ||avisotomobilkiralama.com^
@@ -9495,6 +9499,7 @@
 ||capitalldesk.com^
 ||capitalnavigator.site^
 ||capitalnuvo.com^
+||capitalzone.best^
 ||capitolom.com^
 ||caprino.gifts^
 ||capvero.gifts^
@@ -9728,6 +9733,7 @@
 ||clubprincess.click^
 ||clueindex.com^
 ||cmd.allthe.site^
+||cn-microsoft.com^
 ||cndanlardansandan.sbs^
 ||cndanlardansandan.shop^
 ||cntqsexvtasxmenuguncexzll.xyz^
@@ -10053,6 +10059,7 @@
 ||deeprace.info^
 ||deeptechminer.digital^
 ||deepwork.study^
+||degerlendirme-aninda.ink^
 ||degerodaklari.com^
 ||degerodasi.com^
 ||degerplatformu.com^
@@ -10073,6 +10080,7 @@
 ||demlervedemlikbizimisimiz.sbs^
 ||demyurt-qanupore.lol^
 ||dendendenburdakan47632830100.click^
+||denemebendes.duckdns.org^
 ||denemelergarismenuguncell.xyz^
 ||denionline.com^
 ||deniz-mobil-bireysel-com.duckdns.org^
@@ -10273,6 +10281,7 @@
 ||docs.bpfi.digital^
 ||docshub-01.info^
 ||docshub-secure.com^
+||docsmoonstudioclayworks.online^
 ||docstore-safe.info^
 ||doct0rsim.com^
 ||docudkjdkd.netlify.app^
@@ -10777,6 +10786,7 @@
 ||esbetgiris-hizli.com^
 ||esinin-anli.shop^
 ||eskitaglimrandevu.duckdns.org^
+||eslesme-edinim.guru^
 ||eslink.click^
 ||esnrbrdaskyrz.shop^
 ||esoayfo.finksbish.sbs^
@@ -11070,6 +11080,7 @@
 ||firsati-kacirma.duckdns.org^
 ||firsatisindeekran.duckdns.org^
 ||firsatlar-diyari.duckdns.org^
+||firsatlar-herzaman-burada.blogspot.com^
 ||firsatlar.myonlineportal.ch^
 ||firsatlar101.click^
 ||firsatlar101.duckdns.org^
@@ -11552,6 +11563,7 @@
 ||git.evsahibibasvuru.com^
 ||gitgidebildiginyerdeyim.sbs^
 ||gitgideduzeliyor.sbs^
+||gittigidiyor.com.ph^
 ||gjbdijittal.com^
 ||gjswxattkq.yoga^
 ||gkldkasxklkl13x12z123.sbs^
@@ -11634,12 +11646,14 @@
 ||govlens.net^
 ||govrom.com^
 ||govtop.one^
+||goxzr300xbsvruzrt0xf423sadvc.click^
 ||gozlemnoktasi.com^
 ||gozlerinmisyalanci.sbs^
 ||gps-establishing-maximize-jefferson.trycloudflare.com^
 ||gr1naskcaskjdxk123kjx12.cfd^
 ||graburban.com^
 ||gracefully-archie-963.rehost.page^
+||graconxonjal.empresaeficiente.sbs^
 ||grademeta.tr^
 ||gradixt.tr^
 ||gragelerdesasdas.duckdns.org^
@@ -12020,6 +12034,7 @@
 ||haberler554.shop^
 ||haberler562346.sbs^
 ||haberler56755712366.com^
+||haberler568794.sbs^
 ||haberler66242.sbs^
 ||haberler6723236.sbs^
 ||haberler78912.sbs^
@@ -12215,6 +12230,7 @@
 ||hayvdldlss.nicepage.io^
 ||hazinebirimi.org^
 ||hazineceza.org^
+||hazinekurum.org^
 ||hazinemaliyebirimi.org^
 ||hazinesorgu.org^
 ||hazir-limit.click^
@@ -12888,6 +12904,7 @@
 ||iiixzhsldndu3dx3e.lol^
 ||iistanbulbiz.sbs^
 ||iistmhknbcvn.com^
+||ikcjxlsjsq8n3x.cfd^
 ||ikjykmasdwebasdzxmvqwe.click^
 ||iknmusteri.online^
 ||iknportfoy.online^
@@ -13050,6 +13067,7 @@
 ||irm-loomer-kray.myonlineportal.ch^
 ||ironbrave.online^
 ||irony.lat^
+||irsatlargeldi.duckdns.org^
 ||is-01-ast.ols-img-12.workers.dev^
 ||is-mobilefirsatim.duckdns.org^
 ||is1c2kjkdsakjcskj13c213x1.shop^
@@ -13910,6 +13928,7 @@
 ||kmaraca.duckdns.org^
 ||kmbilgiogren.com^
 ||kmbilgisi-ogrenin.firebaseapp.com^
+||kmchc78xjosmlas.cfd^
 ||kmdurumanaliz.com^
 ||kmeksper.com^
 ||kmgecmisiniogren.com^
@@ -14677,6 +14696,7 @@
 ||mandeo.info^
 ||mango-cleopatrapg.com^
 ||manpowergroupjobs.com^
+||mantelterminalevyemekleris.duckdns.org^
 ||mantikayseriliapooox.duckdns.org^
 ||manyrei.live^
 ||maoysguzh.xyz^
@@ -15210,6 +15230,7 @@
 ||mobile-qnbfinansbank.ph^
 ||mobilekranlardakayitlar.duckdns.org^
 ||mobilentry.my-homeip.de^
+||mobilerism.myonlineportal.de^
 ||mobilfirsatbbvagar.duckdns.org^
 ||mobilfirsatimburada.xyz^
 ||mobilfirsatlarilims.duckdns.org^
@@ -16063,6 +16084,7 @@
 ||otokocelektroniksozlesme.com^
 ||otokocfilo.net^
 ||otokocfilo.org^
+||otokocfilokirala.com.tr^
 ||otokocfilokurumsal.com^
 ||otokocfilokurumsal.net^
 ||otokocfilom.net^
@@ -16232,6 +16254,7 @@
 ||paribuarabacekilis.com^
 ||paribuarabacekilisi.co^
 ||paribuarabacekilisi.com^
+||paribuarabacekilisikazan.com^
 ||paribuarabacekilisim.co^
 ||paribuarabacekilisim.com^
 ||paribuarabadunyasi.com^
@@ -16254,6 +16277,7 @@
 ||paribuarabakazan.com^
 ||paribuarabakazanc.com^
 ||paribuarabakazanci.com^
+||paribuarabakazanclari.com^
 ||paribuarabakazandiran.com^
 ||paribuarabakazandirir.com^
 ||paribuarabakazandiriyor.com^
@@ -16496,6 +16520,7 @@
 ||planetariumguide.com^
 ||planhesapla.com^
 ||planlanan-giris.xyz^
+||plansonval.impostosrapido.top^
 ||planti.best^
 ||planti.sbs^
 ||platfade.tr^
@@ -16830,6 +16855,7 @@
 ||pttavm.ile-online-islemlerim.com.tr^
 ||pttavm.ile-sepette-islem.com.tr^
 ||pttavm.ileservishzmetlerinz.com^
+||pttavm.islemlerin-mobilde.com^
 ||pttavm.islemleriniz-mobilden.com^
 ||pttavm.kolay-tamamla.com^
 ||pttavm.kolaysepet.online^
@@ -17334,6 +17360,7 @@
 ||reveal-expanded-messenger-brokers.trycloudflare.com^
 ||revola.life^
 ||rexulon.gifts^
+||rexzr300xbsvruzrt0.click^
 ||reynoldsjace5.workers.dev^
 ||reynus.live^
 ||rfalimobiliaria.com^
@@ -17771,6 +17798,7 @@
 ||sdcwww.oss-ap-southeast-1.aliyuncs.com^
 ||sdfbhygbertbqwer.click^
 ||sdfcsdfasdfasd.duckdns.org^
+||sdfdsfggfd.duckdns.org^
 ||sdfsdasdfsdfsd.duckdns.org^
 ||sdfsdfqweqwef.duckdns.org^
 ||sdklcflsd231xasc123x12.cfd^
@@ -17794,6 +17822,7 @@
 ||securesitem1.co^
 ||security-password.casa^
 ||security.bpfi.digital^
+||securityhelpmicrosoft.com^
 ||securityzirra4bnk4.duckdns.org^
 ||secutoki.site^
 ||sedennc4b1jelldc4.garden^
@@ -18466,6 +18495,8 @@
 ||srrsewqsgqdaqnismanlik.blogspot.com^
 ||srrsewqsgqrsaqnismanlik.blogspot.com^
 ||srrsewqsgqrsxaaqnismanlik.blogspot.com^
+||srsfxkqwr.sbs^
+||srttewqrsaqrwqnixsqmanlik.blogspot.com^
 ||srttewqrsnqrwqnixsqmanlik.blogspot.com^
 ||srttewqrsnsnismanlik.blogspot.com^
 ||srttewqvnqxqnismanlik.blogspot.com^
@@ -18545,6 +18576,7 @@
 ||streamcommun1ty.com^
 ||streamforgeonline.co^
 ||streamnf.live^
+||stretar7.contabilfacil.sbs^
 ||strip-mens.tilda.ws^
 ||stylecode.bond^
 ||stylevault.bond^
@@ -19444,6 +19476,7 @@
 ||tereyopli-gereyupi.lol^
 ||termosindirim.duckdns.org^
 ||termosindiriml.com^
+||terriblyxzr300xbsvruzrt0xf423sadvc.click^
 ||terstdidca.net^
 ||tertmryugmjkty.sbs^
 ||tesisler-rehbering-todays.myonlineportal.eu^
@@ -19554,6 +19587,7 @@
 ||tiryakifre.com^
 ||tisssbasfasjfagsax.sbs^
 ||tivento.shop^
+||tjskxlkhz8kaxa.cfd^
 ||tkg-edvtap-randv.org^
 ||tkg-edvtapkonrandv.org^
 ||tkg-tapkorandv.org^
@@ -20362,6 +20396,7 @@
 ||umre-kuveytorg.duckdns.org^
 ||umrecekilisi.duckdns.org^
 ||umrekuveyt.online^
+||umutototamironarimcilaa.duckdns.org^
 ||unableteotoc.com^
 ||unallarparca.online^
 ||undenv.click^
@@ -20762,6 +20797,7 @@
 ||vujuhugufueretesede.xyz^
 ||vulcarti.gifts^
 ||vusuydryt.love^
+||vuvugufere-dadada.lol^
 ||vuyhujuklederete.lat^
 ||vv0012145411201.duckdns.org^
 ||vv0v049392x.duckdns.org^
@@ -21123,6 +21159,7 @@
 ||xq.ezpizi.click^
 ||xq2m7r9.sbs^
 ||xqzeltopz.com^
+||xra300xax39xlsjxm4.cfd^
 ||xrdnet.click^
 ||xrr30x8v8232s.duckdns.org^
 ||xsafxacasdasax.cyou^
@@ -21152,6 +21189,8 @@
 ||xz21x513z123c321.shop^
 ||xz23x123dsdsas.duckdns.org^
 ||xzeez.cfd^
+||xzr300xbsvruzrt0.click^
+||xzr300xbsvruzrt0b.click^
 ||xzrt300zx300xrt.cfd^
 ||xzrt300zxdv300xrt.cfd^
 ||xzrt300zxnv300xrt.cfd^
@@ -21170,6 +21209,7 @@
 ||y0nl3ndiriliy0senuz.duckdns.org^
 ||y0nl3ndiriliyors0nuz24.duckdns.org^
 ||y0nl3ndiriliyors4nuz.duckdns.org^
+||y0nl3ndiriliyors4nz1453.duckdns.org^
 ||y0nl3ndirilyors3nzi.duckdns.org^
 ||y0nl3ndirliyo4s0nz.duckdns.org^
 ||y0nl3ndrilyirosun.duckdns.org^
@@ -21218,6 +21258,7 @@
 ||yapidijisube.xyz^
 ||yapikredi-world.com.ph^
 ||yapikredi-worldsubem.ph^
+||yapikredi.com.ph^
 ||yapikredimobil.netlify.app^
 ||yapikredisubesi.ph^
 ||yapikredisubesigirisg.com.ph^
@@ -21335,6 +21376,7 @@
 ||yesilin-garantisi.xyz^
 ||yesilin-ve-mavinin-binbir-tonu.org^
 ||yesin.bindeath99.cfd^
+||yetimotorsgalareyxx.duckdns.org^
 ||yeyoyesys.yyuyy.com^
 ||yfmd.online^
 ||yghsajfsjagfasax99.lat^
@@ -21695,6 +21737,7 @@
 ||zt93mx87zr300cxa.cfd^
 ||ztakrim.cfd^
 ||ztarty.cfd^
+||ztrattata.nicepage.io^
 ||ztrrkt-katlim.cfd^
 ||ztrtrtdsryl.cfd^
 ||ztrtrtryl.cfd^
