@@ -920,6 +920,7 @@
 ||13222214544588989990894.duckdns.org^
 ||13222214544588989990895.duckdns.org^
 ||13222214544588989990896.duckdns.org^
+||13222214544588989990897.duckdns.org^
 133.18.225.36
 134.122.13.34
 134.122.136.119
@@ -6982,6 +6983,7 @@
 92.66.72.172
 92.88.98.199
 ||92359302512.duckdns.org^
+||9273912dsasdasd.com^
 93.105.185.139
 93.113.25.114
 93.113.25.46
@@ -9623,6 +9625,7 @@
 ||cepteteb-merkeziislemler.my-homeip.de^
 ||cepteteb.pzbsin.com^
 ||ceredefe-dereteyeuere.lol^
+||ceretese-derersede.lol^
 ||ceronet.work^
 ||ceronetwork.org^
 ||certcheck.online^
@@ -11359,6 +11362,7 @@
 ||garantikampanyan.click^
 ||garantili2026.duckdns.org^
 ||garantilisin.duckdns.org^
+||garantillifk.cfd^
 ||garantillik.cfd^
 ||garantimenkuldegerler.com^
 ||garantimenkultrade.com^
@@ -15237,6 +15241,7 @@
 ||mobilbasvurularimozell.duckdns.org^
 ||mobilbet.my-homeip.net^
 ||mobilbireyselkatilimm.online^
+||mobilcep-erisim.my-homeip.de^
 ||mobilcepdenportal.myonlineportal.de^
 ||mobilcepte.my-homeip.net^
 ||mobildefirasthizmeti.duckdns.org^
@@ -17154,6 +17159,7 @@
 ||rafa123x1askdajkdjka123z12.cfd^
 ||rafa12xksdjkadkjcksjdk123x12.sbs^
 ||rafa1312xsac123x123123.cfd^
+||rafa1cadcjksakx13x12x3123x.cfd^
 ||rafa1cjadskjk12k3x123v123.shop^
 ||rafa1ckasdljcakx123x12.cfd^
 ||rafa1fkdlcaskdlx1231.shop^
@@ -19257,6 +19263,7 @@
 ||teb-info.info^
 ||teb-trade.site^
 ||tebcepte-sube-parola.myonlineportal.de^
+||tebdeburdabasvuru.my-homeip.de^
 ||tebdenpromosyon.my-homeip.de^
 ||tebdeyim-cepteyim.myonlineportal.de^
 ||tebefsykh.abrdns.com^
@@ -21474,6 +21481,7 @@
 ||yonlendirsiliyorsunu2a.duckdns.org^
 ||yonlendirsorionuz231.duckdns.org^
 ||yonlendiryorsesd2d.space^
+||yonlenim-securitytr.garden^
 ||yonleqndiriliyorsiniz.duckdns.org^
 ||youarases.lat^
 ||yoursfind.com^
