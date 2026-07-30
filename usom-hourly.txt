@@ -687,6 +687,7 @@
 118.193.69.254
 118.194.238.51
 118.195.234.243
+118.196.122.219
 118.25.106.80
 118.251.110.75
 118.31.18.77
@@ -921,6 +922,8 @@
 ||13222214544588989990895.duckdns.org^
 ||13222214544588989990896.duckdns.org^
 ||13222214544588989990897.duckdns.org^
+||13222214544588989990898.duckdns.org^
+||13222214544588989990899.duckdns.org^
 133.18.225.36
 134.122.13.34
 134.122.136.119
@@ -1556,6 +1559,7 @@
 152.53.207.3
 152.53.209.147
 152.53.39.53
+152.59.118.233
 152.89.170.149
 152.89.198.214
 152.89.198.77
@@ -4387,6 +4391,7 @@
 31.59.58.209
 31.59.58.84
 31.97.17.73
+||312222545548789988990.duckdns.org^
 ||3123x12m3asdm123x.sbs^
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
@@ -6691,6 +6696,7 @@
 89.125.17.185
 89.125.189.85
 89.125.255.29
+89.125.66.101
 89.144.30.109
 89.144.31.18
 89.147.109.38
@@ -7622,6 +7628,7 @@
 ||alabamarecoverycenter.com^
 ||alabid234.github.io^
 ||aladeniz.com^
+||albayquery.space^
 ||alburdan.shop^
 ||alcs.xyttkx.cc^
 ||aldimal.xyz^
@@ -7821,6 +7828,7 @@
 ||ara1.me^
 ||arab-tupras-islamictrading.com^
 ||araba-cekilisi-paribu.com^
+||araba-cekilisi-paribu.ezgateway.net^
 ||araba-cekilisi.com^
 ||araba-cekilisii.com^
 ||araba-paribu.com^
@@ -10835,6 +10843,7 @@
 ||esubem--qnbfinansbank.ph^
 ||esubem-tebde-pro.my-homeip.de^
 ||esyataslmasd.com^
+||etalimatkamu.org^
 ||etebligatkontrol.org^
 ||etebligmaliye.org^
 ||etiketkbayi.lat^
@@ -10943,6 +10952,7 @@
 ||fas3215fsapstor.click^
 ||fashioncore.digital^
 ||fasos.nicepage.io^
+||fast-havale.com^
 ||fast-ilan.com^
 ||fast-mob.com^
 ||fast-page.shop^
@@ -11483,6 +11493,7 @@
 ||gereatas.nicepage.io^
 ||geri-bildirim.biz^
 ||geri-bildirimler.ink^
+||gerokgun.duckdns.org^
 ||gestionmontelavaria2026.online^
 ||gestrak-basavtr.cfd^
 ||gesugivol.store^
@@ -11652,6 +11663,7 @@
 ||gorati.info^
 ||gorntleme-likidite-rn.myonlineportal.ch^
 ||goruntulenme-yanit-girisim.myonlineportal.eu^
+||gosats.us^
 ||goshaw.milanopitza.cfd^
 ||gosteri-tavir-edilgenlik.casa^
 ||gosterim-harcama.xyz^
@@ -12182,6 +12194,7 @@
 ||handle-me-sv1.com^
 ||hanegeliryardimlari.com^
 ||haneyardimlari.com^
+||hangi-fark.ink^
 ||hangoc4b1c4b1sc4b1.digital^
 ||haninerdesnbvbaburda.click^
 ||hansanatn.uk^
@@ -13103,6 +13116,7 @@
 ||isbank.hpyoe.top^
 ||isbankasifin.com^
 ||isbankasikampanya.duckdns.org^
+||isbankasivatandaspayi.digital^
 ||isbankasiyatirimplatformu.click^
 ||isbankbayrampromation.com^
 ||isbankhgs.sbs^
@@ -13803,6 +13817,7 @@
 ||kepguncelleme.com^
 ||kepimhepsiburada.com^
 ||kepyenileme.com^
+||kerametran.ezgateway.net^
 ||kerrrsnaw.duckdns.org^
 ||kespola.surf^
 ||kevangida.com^
@@ -14276,6 +14291,7 @@
 ||kurumadliye.org^
 ||kurumaktif.org^
 ||kurumceza.org^
+||kurummali.org^
 ||kurumsal-online-islem.com^
 ||kurumsalbirkurumsal.click^
 ||kurumsalmediamarkt.com^
@@ -15370,6 +15386,7 @@
 ||mshandebu31.sbs^
 ||msiidentity.com^
 ||msiparisinizi-tamamla.com^
+||mslearn.online^
 ||mslraktivhemen.uk^
 ||msopsa.top^
 ||msshrdkevu.com^
@@ -15734,6 +15751,8 @@
 ||nowurisch.fit^
 ||noya.selsandannda.com^
 ||noya.suaraileti.com^
+||npmjs.store^
+||npmjs.us.org^
 ||npqhfu.buzz^
 ||nrlwz.com^
 ||nrtuynewrnernq.click^
@@ -17273,6 +17292,7 @@
 ||rapidfilevault5.sbs^
 ||rapidoro.com^
 ||rapidstory.today^
+||raramic640.space^
 ||rarandvlrmmhrsbrda.sbs^
 ||rarearomas.cyou^
 ||ratonvaquero2026.online^
@@ -17432,6 +17452,7 @@
 ||rndhsvizdsfj.store^
 ||rndsuvhhizmetburdss.online^
 ||rndsuvhhizmetburdss.store^
+||rndvlahzmetler.com^
 ||rndvulimonunuz.lat^
 ||rndvunuzuayirin.com^
 ||rndvunuzuayirt.com^
@@ -17678,6 +17699,7 @@
 ||sahibinden.elektronik-alisverisin.com^
 ||sahibinden.elektronik-magaza-sepetim.com^
 ||sahibinden.elektronik-urun-sepetim.com^
+||sahibinden.fast-havale.com^
 ||sahibinden.fast-ilan.com^
 ||sahibinden.get-paramguvende.my^
 ||sahibinden.guvenlialisveris.online^
@@ -19314,6 +19336,7 @@
 ||tekgirismrt2025.com^
 ||teklider.ru^
 ||teklifgoruntule.abrdns.com^
+||teklifigoruntule.abrdns.com^
 ||tekliflernoktasi.abrdns.com^
 ||teknofest.aem.page^
 ||teknofest.aem.reviews^
@@ -20454,6 +20477,7 @@
 ||unionyn.com^
 ||unitedairlines-careers.com^
 ||unitedstateverif.com^
+||universus.stream^
 ||unsvevsay.net^
 ||uoni1m1godlr.icu^
 ||upd-domain-goloro.com^
