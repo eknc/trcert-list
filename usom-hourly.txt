@@ -7584,6 +7584,7 @@
 ||akklevaltrlerndn.click^
 ||akktuteellburadaaa.xyz^
 ||akmobil-bireysel-com.duckdns.org^
+||akmobil-ceptebasvuru-ekrani-com.webredirect.org^
 ||akmobil-onlinebasvuru-ekrani-com.webredirect.org^
 ||akmobil-onlineislem-ekrani.duckdns.org^
 ||akmobil-onlineislem-guncel-ekran.duckdns.org^
@@ -14315,6 +14316,7 @@
 ||kurumsal-online-islem.com^
 ||kurumsalbirkurumsal.click^
 ||kurumsalmediamarkt.com^
+||kurumsicil.org^
 ||kurumsorgu.org^
 ||kustanoma.ooguy.com^
 ||kusursuzarackiralama.com^
@@ -15085,6 +15087,7 @@
 ||mhrs-s.digital^
 ||mhrs.alllahnerdekiya.sbs^
 ||mhrs5nwdkm3.duckdns.org^
+||mhrsanlikodemehizli.icu^
 ||mhrsanlikolarakrandevuhak4nxd.duckdns.org^
 ||mhrsbasvurularinizburadan.duckdns.org^
 ||mhrsbasvuruportali.duckdns.org^
@@ -17325,6 +17328,7 @@
 ||rapidfilevault5.sbs^
 ||rapidoro.com^
 ||rapidstory.today^
+||raramic640.online^
 ||raramic640.space^
 ||rarandvlrmmhrsbrda.sbs^
 ||rarearomas.cyou^
@@ -19734,6 +19738,7 @@
 ||togg-onsiparis.com^
 ||togg-satisi.cfd^
 ||togg-trumore.com^
+||togg.best^
 ||togg.live^
 ||togg.lol^
 ||togg.website^
@@ -21512,6 +21517,7 @@
 ||yildora-venkupali.lol^
 ||yilmaz-ticaret-ile-siparis-tamamla.com^
 ||yilmaz-ticaret-ile-siparisi-tamamla.com^
+||yilmaz-ticaret-ile-siparisini-tamamla.com^
 ||yinveyang.sbs^
 ||yinveyang10.sbs^
 ||yinveyang2.sbs^
