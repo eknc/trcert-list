@@ -274,6 +274,7 @@
 103.73.66.37
 103.74.192.105
 103.75.117.209
+103.75.118.84
 103.75.190.73
 103.75.77.90
 103.77.215.62
@@ -795,6 +796,7 @@
 ||123213212112.duckdns.org^
 ||12321512633.lat^
 ||1232fafsas227fgsar24.cfd^
+||1234654psnylsyndns.com^
 ||1234garanti.duckdns.org^
 ||123jkjcsadklj12j3z1h2j3.sbs^
 124.14.219.205
@@ -5457,6 +5459,7 @@
 49.232.185.137
 49.232.93.226
 49.235.129.40
+49.235.140.168
 49.235.152.72
 49.51.230.175
 49.51.253.65
@@ -9435,6 +9438,7 @@
 ||bytezi.xyz^
 ||bytix.cyou^
 ||bytra.cyou^
+||byyrdrmdmdnsnttt.com^
 ||bznzn.duckdns.org^
 ||c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev^
 ||c.windowsk-cdn.com^
@@ -10850,7 +10854,9 @@
 ||esube.iknmusteri.online^
 ||esubem--qnbfinansbank.ph^
 ||esubem-tebde-pro.my-homeip.de^
+||esubeturkishkayit.com^
 ||esyataslmasd.com^
+||etalimatdosya.org^
 ||etalimatkamu.org^
 ||etebligatkontrol.org^
 ||etebligmaliye.org^
@@ -12396,6 +12402,7 @@
 ||hemenlanlsatnas.net^
 ||hemenmuz.lat^
 ||hemennalrtnlasna.net^
+||hemensielmnokta-islnakt.net^
 ||hemensmdkk.space^
 ||hemensonucislemnt.net^
 ||hemenyonlendir.shop^
@@ -12423,6 +12430,7 @@
 ||heranimsenledunyine.sbs^
 ||herbosfinx.com^
 ||heregelerdes.duckdns.org^
+||hergetxdeedxx.duckdns.org^
 ||herkesbeklyorkanao0osndas28285268956.click^
 ||herkesburdasendenerdesnbbvasda1455285.click^
 ||herkesburdesedegelart250.click^
@@ -13271,6 +13279,7 @@
 ||istanbuldurum.com^
 ||istanbulekonomix.com^
 ||istanbulflom.com^
+||istanbulfree.xyz^
 ||istanbulhebeler.shop^
 ||istanbulhemencan.xyz^
 ||istanbulhostuzh.xyz^
@@ -13327,6 +13336,7 @@
 ||istancanbulkart.xyz^
 ||istancansancan.xyz^
 ||istancsnbulkart.xyz^
+||istanfess.xyz^
 ||istanfreefess.xyz^
 ||istankart.xyz^
 ||istankarttt.xyz^
@@ -15544,6 +15554,7 @@
 ||ncduuyese.live^
 ||ncm-invest.com^
 ||ncminvest-global.com^
+||ncminvestmentmenkuldegerler.com^
 ||ncorex.media^
 ||ncubll.click^
 ||nebula.garantibbvakredibasvuru.com^
@@ -15650,6 +15661,7 @@
 ||nextravolkix.com^
 ||nextwave.business^
 ||nexulio.xyz^
+||nexumra.com^
 ||nexurafuture.info^
 ||nexusforged.pro^
 ||nexussapro.pro^
@@ -16143,7 +16155,11 @@
 ||otaviofritzen.online^
 ||otcast.pics^
 ||otokoc.rent^
+||otokocarabakirala.com.tr^
+||otokocarabakiralama.com.tr^
 ||otokocarackirala.com^
+||otokocarackirala.com.tr^
+||otokocarackirala.net.tr^
 ||otokocarackirala.org^
 ||otokocelektroniksozlesme.com^
 ||otokocfilo.net^
@@ -16162,6 +16178,7 @@
 ||otokocfilotr.net^
 ||otokocfiloturkiye.com^
 ||otokocfiloturkiye.net^
+||otokockirala.net.tr^
 ||otokockiralamatr.com^
 ||otokockurumsal.net^
 ||otokockurumsal.org^
@@ -16171,7 +16188,10 @@
 ||otokockurumsalkiralama.com^
 ||otokockurumsaltr.com^
 ||otokoclakirala.com^
+||otokoconline.com.tr^
 ||otokoconline.net^
+||otokoconline.net.tr^
+||otokoconlinekirala.com.tr^
 ||otokoconlinekirala.online^
 ||otokocrent.net^
 ||otokocrent.org^
@@ -16304,6 +16324,7 @@
 ||paribu-cekilisim.co^
 ||paribu-cekilisleri.com^
 ||paribu-hediyelicark.com^
+||paribu-pepe-cekilisi.giize.com^
 ||paribu-sansliaraba.com^
 ||paribu-technology.com^
 ||paribu-tr.click^
@@ -21156,6 +21177,7 @@
 ||xalvanto.com^
 ||xalvionex.com^
 ||xandiro.website^
+||xaratatata.duckdns.org^
 ||xasd235467.sbs^
 ||xasklj12k3lxjscdlasjkd.shop^
 ||xasx4wf34t34tg.shop^
@@ -21241,6 +21263,7 @@
 ||xn--param-gven-de-ile-siparis-lwc.com^
 ||xn--param-gvende-ile-siparisi-tamamla-trendyol-tme.com^
 ||xn--rektaru8-zkb.nicepage.io^
+||xn--sahibindenkargomilanmn-6ld.com^
 ||xn--temmuzfrsatlaragatbbvaslennmenuler-hcfhim.site^
 ||xn--temmuzfrsatlarbvagarantsslemmenulermn-nrfhjbalb.shop^
 ||xn--trendyol-ylmaz-ticaret-ile-siparisi-tamamla-2mg.com^
