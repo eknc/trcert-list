@@ -9,6 +9,7 @@
 ||008ogwe.icu^
 ||009987b555552.duckdns.org^
 ||010101023x235.duckdns.org^
+||012492352.duckdns.org^
 ||019d442a-endpoint.com^
 ||019d442e-endpoint.com^
 ||019d6860-endpoint.com^
@@ -4404,6 +4405,7 @@
 31.59.58.84
 31.97.17.73
 ||312222545548789988990.duckdns.org^
+||312222545548789988991.duckdns.org^
 ||3123x12m3asdm123x.sbs^
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
@@ -6690,6 +6692,7 @@
 88.80.27.166
 88.99.193.240
 88.99.242.92
+||887879ymnsdssdsas.com^
 ||888002121588808.gleeze.com^
 ||88854588740002sd20.gleeze.com^
 ||888811111.duckdns.org^
@@ -7891,6 +7894,7 @@
 ||aradan-cikan-donemez.xyz^
 ||arakampanyalardonem.cloud^
 ||araksdatoaslvanb.online^
+||arasaslfasofaslmsa.online^
 ||arastir.vip^
 ||aravisblog.com^
 ||araxxxccserbazmabahcexx.duckdns.org^
@@ -8996,6 +9000,7 @@
 ||blixtrader.com^
 ||blog.evsahibibasvuru.com^
 ||blogger.22web.org^
+||blogs-innovations-accessing-jackson.trycloudflare.com^
 ||blogs.evsahibibasvuru.com^
 ||blogsayfamiz.sbs^
 ||bloomaura.info^
@@ -10715,6 +10720,7 @@
 ||ekstraramrket.duckdns.org^
 ||ektalepbasvuruisde.duckdns.org^
 ||ekwlqrsgm.sbs^
+||elaexallance.com^
 ||elaexxellanceresorts.net^
 ||elaletlerigenel.com^
 ||elaletleriyapimar.com^
@@ -10865,6 +10871,7 @@
 ||eskitaglimrandevu.duckdns.org^
 ||eslesme-edinim.guru^
 ||eslink.click^
+||esnek-figur.ink^
 ||esnrbrdaskyrz.shop^
 ||esoayfo.finksbish.sbs^
 ||esorgu-onaylanansorgulariniz.sbs^
@@ -11504,6 +11511,7 @@
 ||gecisyukleynz.web.app^
 ||gedewadgsqa.duckdns.org^
 ||geimbra.weebly.com^
+||geldasdawcce.duckdns.org^
 ||geldesgeahhsder.duckdns.org^
 ||geldrstensldm.xyz^
 ||gelecekbasligi.com^
@@ -12451,6 +12459,7 @@
 ||hemenislmankta.net^
 ||hemenislmkntokas.net^
 ||hemenislmnktnas.net^
+||hemenislmokntai.net^
 ||hemenismlantans.net^
 ||hemenismlnktasnati.net^
 ||hemenl-40binpromo-buradan.sbs^
@@ -12884,6 +12893,7 @@
 ||honestkartes.duckdns.org^
 ||honestlerkesjer.duckdns.org^
 ||honestly.ink^
+||honestx.duckdns.org^
 ||honufon.com^
 ||hoparlor.click^
 ||hopbala.click^
@@ -14778,6 +14788,7 @@
 ||mail.nato-hq.com^
 ||mail.nato-otan.net^
 ||mail.nato69.org^
+||mail.otokocfilo.net^
 ||mail.pttavme.com^
 ||mail.tuvturkmuayene.duckdns.org^
 ||maildestektr.com^
@@ -14805,6 +14816,7 @@
 ||maliyeadalet.org^
 ||maliyebilgitr.org^
 ||maliyebordro.org^
+||maliyecezahukuk.org^
 ||maliyecezaportal.net^
 ||maliyeeavukat.org^
 ||maliyegib.org^
@@ -15497,6 +15509,7 @@
 ||muhugudue-redetesede.lol^
 ||muhugudueresede-afderese.lol^
 ||muhugudueretese-duguhuderede.lol^
+||muhugufe-redesede.lol^
 ||mujco.cn^
 ||mujuhubi-bililide.lol^
 ||mukemmelbirbaslangicicinharikagunlerde.xyz^
@@ -15575,6 +15588,7 @@
 ||n-nato333.com^
 ||n-xsorguapileri.onrender.com^
 ||n155polisi.online^
+||n4zyl8qwe2xrm7pkhv1cla.click^
 ||n5739330.click^
 ||n5p9t3w6r8m2.sbs^
 ||n5q7b2x8m4v9.cfd^
@@ -16394,6 +16408,7 @@
 ||paribu-arabacekilisi.com^
 ||paribu-arabahediye.com^
 ||paribu-arabakazan.com^
+||paribu-arabasansi.link^
 ||paribu-buyukcekilisi.com^
 ||paribu-cark-cekilisi.opik.net^
 ||paribu-carkcekilisi.com^
@@ -16403,6 +16418,8 @@
 ||paribu-cekilisleri.com^
 ||paribu-hediyelicark.com^
 ||paribu-pepe-cekilisi.giize.com^
+||paribu-pepe-cekilisi.link^
+||paribu-pepehediyem.link^
 ||paribu-sansliaraba.com^
 ||paribu-technology.com^
 ||paribu-tr.click^
@@ -16494,6 +16511,10 @@
 ||paribuotokampanya.com^
 ||paribupepe-cekilisim.com^
 ||paribupepe-cekilisin.com^
+||paribupepe-hediyem.com^
+||paribupepe-hediyem.link^
+||paribupepe-hediyen.com^
+||paribupepe-hediyen.link^
 ||paribusanscarki.com^
 ||paributechnology.com^
 ||parkfauna.com^
@@ -17789,6 +17810,7 @@
 ||sahibinden-ilan.tr-get-servis.online^
 ||sahibinden-order.cfd^
 ||sahibinden-param-guvende.siparisbilgitr.online^
+||sahibinden-param-guvende.urunodemetr.online^
 ||sahibinden-paramguvende.github.io^
 ||sahibinden-police.ozel-hizmet-islemleri.com^
 ||sahibinden-satis-sozlesmesi.kurumsal-online-islem.com^
@@ -20039,6 +20061,7 @@
 ||tr-aselsan.com^
 ||tr-binance2026.duckdns.org^
 ||tr-binancecark.duckdns.org^
+||tr-binancelogin.com^
 ||tr-binancemasak.duckdns.org^
 ||tr-binancetr.duckdns.org^
 ||tr-get-servis.online^
@@ -20661,6 +20684,7 @@
 ||urbanframework.digital^
 ||urbanheadline.site^
 ||urbanlenta.com^
+||urbanloria.gifts^
 ||urbanoo.gifts^
 ||urbanova.gifts^
 ||urbanview.site^
@@ -21403,6 +21427,7 @@
 ||xunmora.xyz^
 ||xupqnqz.one^
 ||xupqrnn.one^
+||xvla9qtmz8crk4pb.cfd^
 ||xwsjl-jjhs-t5dl.p-436szmjv.workers.dev^
 ||xwtw5222s-25252.xyz^
 ||xx2xa2rew2.duckdns.org^
@@ -21452,6 +21477,7 @@
 ||y0nlendiriliy0rsun0zpe.duckdns.org^
 ||y0nlendiriliy4rsynyz.duckdns.org^
 ||y3k7n5r9w2t6.sbs^
+||y44nlndird4st4maktifsen.duckdns.org^
 ||y4nsmsars.sbs^
 ||y6n2z8w5t1k7.sbs^
 ||y9dz8uka.icu^
@@ -21627,6 +21653,7 @@
 ||yildizlaradogrubakiye.lat^
 ||yildora-venkupali.lol^
 ||yilmaz-ticaret-ile-siparis-tamamla.com^
+||yilmaz-ticaret-ile-siparisi-hizla-onayla.com^
 ||yilmaz-ticaret-ile-siparisi-tamamla.com^
 ||yilmaz-ticaret-ile-siparisini-tamamla.com^
 ||yinveyang.sbs^
@@ -21758,6 +21785,7 @@
 ||z6e43e5886fe-endpoint.com^
 ||z7m2rpq4.sbs^
 ||z9p3t6k1r8w4.cfd^
+||zadeserede-sedepiloki.lol^
 ||zahium.live^
 ||zajema.top^
 ||zakan.22web.org^
