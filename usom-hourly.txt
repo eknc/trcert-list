@@ -12611,6 +12611,7 @@
 ||hizli-limit.xyz^
 ||hizli-siparis-baglanti.com^
 ||hizli-siparis-linki.com^
+||hizli-siparis-onaylama-baglantisi.com^
 ||hizli-siparis-sayfasi.com^
 ||hizlialisverisicinbr.com^
 ||hizliaracgecisilieriniz.sbs^
@@ -17295,6 +17296,7 @@
 ||randevularinizigorun.com^
 ||randevulu-kolay.com^
 ||randevuluguncere.com^
+||randevulugunlerburada.duckdns.org^
 ||randevulugunlere.com^
 ||randevuluzamanninicin.net^
 ||randevununkolay.com^
@@ -18630,6 +18632,7 @@
 ||sso-auth.com^
 ||ssss22232323.duckdns.org^
 ||sssseww23xx.duckdns.org^
+||sstbonlinebasvuru.com^
 ||sstrak-bsrvat.cfd^
 ||sstss.loseyourip.com^
 ||stabil-olgu-gelisim.myonlineportal.ch^
@@ -20582,6 +20585,7 @@
 ||urtcankaodansacaz.cfd^
 ||urun-dyson.duckdns.org^
 ||urunler-kampanyali.duckdns.org^
+||urunodemetr.online^
 ||urunssepetim.com^
 ||urush1bar4.online^
 ||urvely.com^
