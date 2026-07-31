@@ -698,6 +698,7 @@
 118.99.3.33
 119.147.213.48
 119.179.247.57
+119.185.240.251
 119.187.23.132
 119.2.126.2
 119.28.32.143
@@ -1210,6 +1211,7 @@
 144.172.112.136
 144.172.112.50
 144.172.112.84
+144.172.114.134
 144.172.114.220
 144.172.114.57
 144.172.115.212
@@ -1508,6 +1510,7 @@
 ||15-06-2026binancetr.duckdns.org^
 15.204.101.211
 15.235.138.155
+15.235.151.49
 15.235.155.8
 15.235.166.18
 15.235.172.166
@@ -2487,6 +2490,7 @@
 179.43.186.214
 179.60.149.194
 ||17bucuktemmuzsipairls.cloud^
+||18-2-rnvlrdanbrda.com^
 18.134.0.66
 18.135.29.139
 18.199.101.111
@@ -3963,6 +3967,7 @@
 212.32.237.92
 212.34.138.4
 212.34.155.18
+212.43.156.153
 212.46.12.182
 212.46.38.246
 212.47.230.36
@@ -4670,6 +4675,7 @@
 ||4124124124.duckdns.org^
 ||41242142142151512421.duckdns.org^
 ||412941234531.com^
+||41414155.duckdns.org^
 42.112.26.36
 42.112.26.45
 42.193.242.180
@@ -4889,6 +4895,7 @@
 45.140.17.23
 45.140.17.24
 45.140.17.40
+45.140.192.8
 45.141.119.45
 45.141.139.222
 45.141.157.105
@@ -5028,6 +5035,7 @@
 45.184.158.66
 45.186.249.3
 45.191.66.77
+45.192.213.11
 45.192.219.60
 45.194.22.139
 45.194.86.85
@@ -9654,6 +9662,7 @@
 ||cepteteb.pzbsin.com^
 ||ceredefe-dereteyeuere.lol^
 ||ceretese-derersede.lol^
+||ceretesedesede-agafadaesede.lol^
 ||ceronet.work^
 ||ceronetwork.org^
 ||certcheck.online^
@@ -10494,6 +10503,7 @@
 ||e-sube.hedefonmusteripanel.com^
 ||e-sube.infobireysel.online^
 ||e-sube.istanbul-portfoydanismanlik.com^
+||e-sube.tunafonyonetimi.com^
 ||e-tokiislemlerinebasla.digital^
 ||e1a10-hdakia-kmpnsyaa-xrteak.lol^
 ||e394932x232.duckdns.org^
@@ -12745,6 +12755,7 @@
 ||hmenlnkarsan.net^
 ||hmnasantasns.net^
 ||hmnbnlaraglsnde.com^
+||hmnilsmkntans.net^
 ||hmnilsmnktns.net^
 ||hmnislemknasn.net^
 ||hmnislemnktans.net^
@@ -13972,6 +13983,7 @@
 ||kkuvvve.duckdns.org^
 ||kkwxle.click^
 ||kkxqbh.top^
+||kkxxcsswxxx.duckdns.org^
 ||kl55polisi155.online^
 ||klasik6dsa.nicepage.io^
 ||klavli.site^
@@ -18606,6 +18618,7 @@
 ||sptlrdelndrmguncel.com^
 ||sptlrflrsatlrsizinlee.com^
 ||sptlrfrsltlrguncell.com^
+||srdansanrabigbrda.shop^
 ||srgumynerndvu.cfd^
 ||srnacxcdanismanlik.blogspot.com^
 ||srnafsrqsasdanismanlik.blogspot.com^
@@ -19728,6 +19741,7 @@
 ||tj.tajikistandip.com^
 ||tjskxlkhz8kaxa.cfd^
 ||tkg-edvtap-randv.org^
+||tkg-edvtap-randvv.org^
 ||tkg-edvtapkonrandv.org^
 ||tkg-tapkorandv.org^
 ||tkg-tapsurndvnuz.net^
@@ -19962,6 +19976,9 @@
 ||touropenlederfran.com^
 ||tovem.shop^
 ||tp-web1979.space^
+||tpaohisseleri.pro^
+||tpaokamuyatirim-platformu.com^
+||tpaokazanc.pro^
 ||tpetrolinvest.com^
 ||tpkpolus.ru^
 ||tplskerjsc.space^
@@ -20242,6 +20259,7 @@
 ||tumceteiddiali.click^
 ||tumictiklerinisay.sbs^
 ||tun6.fitnessresolvepro.run^
+||tunafonyonetimi.com^
 ||tunaportfoyonetim.com^
 ||tunaportfoyyatirim.com^
 ||tunaportfoyyonetim.com^
@@ -20705,6 +20723,7 @@
 ||vakifline.org^
 ||vakitline.com^
 ||valenspara-elre.it.com^
+||valenspara-fejoo.it.com^
 ||valerionpark.pro^
 ||valeurban.com^
 ||valnexoria.com^
