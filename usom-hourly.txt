@@ -4406,6 +4406,7 @@
 31.97.17.73
 ||312222545548789988990.duckdns.org^
 ||312222545548789988991.duckdns.org^
+||312222545548789988992.duckdns.org^
 ||3123x12m3asdm123x.sbs^
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
@@ -5705,6 +5706,7 @@
 ||5654886546413216.duckdns.org^
 ||56732423564357.org^
 ||5678766452222.net^
+||568563523523865568.org^
 ||56856856342352345754745.org^
 ||5696890049494000.net^
 ||56f6862b-7.b-cdn.net^
@@ -6182,6 +6184,7 @@
 ||77700051455705s0a.duckdns.org^
 ||777771112202102777.gleeze.com^
 ||7777778454546894654.duckdns.org^
+||7777sdsdsnsdsaym.com^
 ||77cxmai3zm.icu^
 78.108.216.20
 78.11.10.78
@@ -7992,6 +7995,7 @@
 ||aselsansystems.com^
 ||aselsanyatirimprogrami.click^
 ||asentislabs.shop^
+||asfsadfrwqarf.sbs^
 ||asfsadfvkmmnkfvkln.net^
 ||asfsdqwffsadlsafm.net^
 ||ashdhashdashdh899sadasdsa.click^
@@ -8700,6 +8704,7 @@
 ||beklemedengjkdsl.blogspot.com^
 ||beklemeyinsiler.blogspot.com^
 ||belgegirisi-netgsm.com^
+||belgegirisi-netgsm.online^
 ||belgimonay.click^
 ||belgimxcvxx.sbs^
 ||beliren-iliskigr-entry.myonlineportal.ch^
@@ -10736,6 +10741,7 @@
 ||eliaeni549.store^
 ||elinizdekilerelimizdekilerin.sbs^
 ||eliteregi.digital^
+||elitgsm.com^
 ||elixora.cyou^
 ||ellis-myself-very-born.trycloudflare.com^
 ||elllsrer.dns.navy^
@@ -14516,6 +14522,7 @@
 ||likeboop.com^
 ||likemojo.com^
 ||likid-write-logrnol.myonlineportal.ch^
+||likihigidese-derepiluyu.lol^
 ||lilacspire.com^
 ||lilhzvkpsmxn.icu^
 ||lilipoliposideferszede.xyz^
@@ -16417,7 +16424,9 @@
 ||paribu-cekilisim.co^
 ||paribu-cekilisleri.com^
 ||paribu-hediyelicark.com^
+||paribu-pepe-cekilisi.com^
 ||paribu-pepe-cekilisi.giize.com^
+||paribu-pepe-cekilisi.info^
 ||paribu-pepe-cekilisi.link^
 ||paribu-pepehediyem.link^
 ||paribu-sansliaraba.com^
@@ -17418,6 +17427,7 @@
 ||randnvdtv.space^
 ||randv-kontlr-etmek-m.web.app^
 ||randvlrmzbrdamhrsa.sbs^
+||randvuislmlerinizburadan.duckdns.org^
 ||randvuuuakekkeaa.com^
 ||randvykkkddllkkas.net^
 ||raniva.click^
@@ -17639,6 +17649,8 @@
 ||ruelomamuy.com^
 ||rueuk.cn^
 ||ruhsuzpanel.online^
+||ruhsuzpanel.site^
+||ruhsuzpanel1.site^
 ||ruxbuyra.gifts^
 ||ruxdevol.gifts^
 ||ruxmagaz.gifts^
@@ -18406,6 +18418,7 @@
 ||slkmalkretler.shop^
 ||slkmalrkelr.shop^
 ||slmgr.sh^
+||slow-green-tarccrgc.edgeone.dev^
 ||slrdandsbrdansgfgh.click^
 ||smaebagis.com^
 ||smartbasketplace.shop^
