@@ -5401,6 +5401,7 @@
 47.244.176.59
 47.245.63.185
 47.250.112.159
+47.251.118.89
 47.57.68.157
 47.74.159.166
 47.75.116.234
@@ -8122,6 +8123,7 @@
 ||avsarackirala.com.tr^
 ||avsbayi.com^
 ||avscarfilo.net^
+||avscarkiralama.com^
 ||avscarrental.net^
 ||avsfilobayi.com^
 ||avsfilocar.org^
@@ -8884,6 +8886,7 @@
 ||birimvergi.org^
 ||birkezaktarm.duckdns.org^
 ||birlinks-tr.online^
+||bist.youthside.co^
 ||bitarafsiyah.cyou^
 ||bitarafsiyah.lat^
 ||bitarafsiyah.sbs^
@@ -15433,6 +15436,7 @@
 ||mufasnasfanas.sbs^
 ||muguhudue-redesetre.lol^
 ||muhamadfafaoyunda.net^
+||muhguferedese-asdsede.lol^
 ||muhu-bb-vv-aa-ss-dd.xyz^
 ||muhugudue-redetesede.lol^
 ||muhugudueresede-afderese.lol^
@@ -15513,6 +15517,7 @@
 ||mzedof.cc^
 ||mzx29qk77.click^
 ||n-nato333.com^
+||n-xsorguapileri.onrender.com^
 ||n155polisi.online^
 ||n5739330.click^
 ||n5p9t3w6r8m2.sbs^
@@ -16326,6 +16331,7 @@
 ||paribu-araba-cekilisi.ooguy.com^
 ||paribu-araba-cekilisi.opik.net^
 ||paribu-araba-kazan.com^
+||paribu-araba-kazanma.com^
 ||paribu-araba.com^
 ||paribu-arabacekilisi.com^
 ||paribu-arabahediye.com^
@@ -16427,6 +16433,8 @@
 ||paribuodulcarki.com^
 ||paribuotofirsat.com^
 ||paribuotokampanya.com^
+||paribupepe-cekilisim.com^
+||paribupepe-cekilisin.com^
 ||paribusanscarki.com^
 ||paributechnology.com^
 ||parkfauna.com^
@@ -17343,6 +17351,7 @@
 ||rapidstory.today^
 ||raramic640.online^
 ||raramic640.space^
+||raramic640.xyz^
 ||rarandvlrmmhrsbrda.sbs^
 ||rarearomas.cyou^
 ||ratonvaquero2026.online^
@@ -19576,6 +19585,7 @@
 ||telaviv.androiddebugbridge.su^
 ||telefonfiyatkarsilasmasi.sbs^
 ||telefonkarsilastirmalari.sbs^
+||telekommobilhattasima.com.tr^
 ||tellocancan.co^
 ||tells-vendors-speech-taste.trycloudflare.com^
 ||telvexi.com^
@@ -19721,6 +19731,7 @@
 ||tkg-edvtapkonrandv.org^
 ||tkg-tapkorandv.org^
 ||tkg-tapsurndvnuz.net^
+||tkg-tapsurndvnuzs.info^
 ||tkg-tapsurndvnuzs.net^
 ||tkibasvru.sbs^
 ||tkibscvr.sbs^
@@ -20211,6 +20222,7 @@
 ||ttgundem.info^
 ||ttkkmmmevmmynn.org^
 ||ttkpqa.buzz^
+||ttmobilhattasima.com.tr^
 ||ttmorandevularinizx.duckdns.org^
 ||ttooakcanosac.xyz^
 ||ttsondakika.info^
@@ -20357,6 +20369,7 @@
 ||turksondakikadunyasi.com^
 ||turksondakikalar.com^
 ||turksworkgraphics.com^
+||turktelekom.sbs^
 ||turkticaretbankasi.org.ph^
 ||turline.xyz^
 ||turmira.gifts^
