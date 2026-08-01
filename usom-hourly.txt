@@ -6118,6 +6118,7 @@
 ||76535432.net^
 ||765453435243.net^
 ||765534324.net^
+||7658576324143645.org^
 77.105.132.70
 77.105.146.121
 77.105.147.243
@@ -8210,6 +8211,7 @@
 ||b85230d8.sibforms.com^
 ||b8r3z6p9w2t5.sbs^
 ||baasvur-yaap.cfd^
+||bababiziz.sbs^
 ||babalarbasladi01.duckdns.org^
 ||babasananolmusbaba.dns.navy^
 ||babulikinet.com^
@@ -10462,6 +10464,7 @@
 ||duckduckdcqc.duckdns.org^
 ||dugme-arac-kullanim.myonlineportal.eu^
 ||dugundenrandevual.com^
+||dumanigonderroterdam.sbs^
 ||dundegilbuguneozel.sbs^
 ||dunyacokguzel.netlify.app^
 ||dunyafinan-g.guru^
@@ -12474,6 +12477,7 @@
 ||hemenislemnktsi.net^
 ||hemenislemnoktasnin.net^
 ||hemenislmankta.net^
+||hemenislmatknas.net^
 ||hemenislmkntokas.net^
 ||hemenislmnktnas.net^
 ||hemenislmokntai.net^
@@ -12832,6 +12836,7 @@
 ||hmnislmnktans.net^
 ||hmnislmnktbas.net^
 ||hmnislmnktnas.net^
+||hmnislmnktnasnn.net^
 ||hmnislmnktnsi.net^
 ||hmnislmnkts.net^
 ||hmnislmnktsan.net^
@@ -13269,6 +13274,7 @@
 ||islemek-giris.casa^
 ||islemerkezler.sbs^
 ||islemkanali.com^
+||islemkhemennktasi.net^
 ||islemler-akbank.ph^
 ||islemler.duckdns.org^
 ||islemlerburasbs.art^
