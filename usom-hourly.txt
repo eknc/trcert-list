@@ -8790,6 +8790,7 @@
 ||bilgicheckerssystemm.lovestoblog.com^
 ||bilgidosyasi.com^
 ||bilgikayit.abrdns.com^
+||bilgilendirme-tr.online^
 ||bilgilendirmearayuzu.abrdns.com^
 ||bilgilendirmesayfasi.misecure.com^
 ||bilgilendirmeyeni.online^
@@ -10317,6 +10318,7 @@
 ||dijitalformgiris.sbs^
 ||dijitalgarantitalepyonetimsistemi.space^
 ||dijitalgib-tr.com^
+||dijitalislemfirsati.sbs^
 ||dijitalnet-bilgi.sbs^
 ||dijitalnetbilgi-giris.sbs^
 ||dijitalnetform.sbs^
@@ -10984,6 +10986,7 @@
 ||evrenyum.site^
 ||evsahibi.online^
 ||evsahibiturkiye.pages.dev^
+||evvlypyrbrsylrsdedr.com^
 ||ewrberveqwrbwerh.click^
 ||exaltra.shop^
 ||exaltra.site^
@@ -11545,6 +11548,7 @@
 ||geimbra.weebly.com^
 ||geldasdawcce.duckdns.org^
 ||geldesgeahhsder.duckdns.org^
+||geldesmmeasdwas.duckdns.org^
 ||geldrstensldm.xyz^
 ||gelecekbasligi.com^
 ||gelecekcephesi.com^
@@ -12445,6 +12449,7 @@
 ||hedefprtfoy.com^
 ||hediye50gb.space^
 ||heilbronner-fruehlingssymposium.de^
+||helfeguystr.duckdns.org^
 ||heliosup.info^
 ||hello-brothers777.com^
 ||helloistikbal.shop^
@@ -16367,6 +16372,7 @@
 ||otokocturkiyefilo.com^
 ||otomatkynlemekampayssendebasvur.info^
 ||otoplus-arac.com^
+||otoplusaracal.com^
 ||otoplusaracim.com^
 ||otorotaarackiralama.com^
 ||otosanrentacar.com^
@@ -21575,6 +21581,7 @@
 ||y0nlendiriliy4rsynyz.duckdns.org^
 ||y3k7n5r9w2t6.sbs^
 ||y44nlndird4st4maktifsen.duckdns.org^
+||y4nlndir4deincirl4yimknk.duckdns.org^
 ||y4nsmsars.sbs^
 ||y6n2z8w5t1k7.sbs^
 ||y9dz8uka.icu^
