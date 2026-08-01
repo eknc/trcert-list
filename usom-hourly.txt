@@ -11424,6 +11424,7 @@
 ||garabcanx.gleeze.com^
 ||garaburasibasvurusu.duckdns.org^
 ||garaktifmenusu.duckdns.org^
+||garandibasvru.cfd^
 ||garanti-acc.myonlineportal.ch^
 ||garanti-bank-bireysel.ph^
 ||garanti-bankasionline.ph^
@@ -11576,6 +11577,7 @@
 ||gercekrealistsa.remotewire.net^
 ||gercektencokozurdileriz.duckdns.org^
 ||gerdasreea.duckdns.org^
+||gerdelerdesess.duckdns.org^
 ||gereatas.nicepage.io^
 ||geri-bildirim.biz^
 ||geri-bildirimler.ink^
@@ -11771,6 +11773,7 @@
 ||gozlerinmisyalanci.sbs^
 ||gps-establishing-maximize-jefferson.trycloudflare.com^
 ||gr1naskcaskjdxk123kjx12.cfd^
+||grabrtttt.nicepage.io^
 ||graburban.com^
 ||gracefully-archie-963.rehost.page^
 ||graconxonjal.empresaeficiente.sbs^
