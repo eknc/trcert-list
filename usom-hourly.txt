@@ -2560,6 +2560,7 @@
 ||182-mherase.com^
 ||182-net.com^
 ||182-nett.com^
+||182-web.sbs^
 ||182-web.xyz^
 ||182-webb.sbs^
 ||182-webb.xyz^
@@ -7704,6 +7705,7 @@
 ||alinim-sure.ink^
 ||alinmuyneburdan.lat^
 ||aliozdemir.tr^
+||alipay-guvenli.ph^
 ||alisverisinizguvende.com^
 ||alisverislerikacirma1o1.ph^
 ||alisverisptt-avm.com.ph^
@@ -8053,6 +8055,7 @@
 ||autodiscover.619378724639012408150.duckdns.org^
 ||autodiscover.73214625721684432190.duckdns.org^
 ||autodiscover.7641713825499140.duckdns.org^
+||autodiscover.862413415907186110.duckdns.org^
 ||autodiscover.basvurumonayysizhesapsorugulama.duckdns.org^
 ||autodiscover.sokmarketekstrakampanya5.duckdns.org^
 ||autodovidka.vip^
@@ -8656,6 +8659,7 @@
 ||bb9933322c23442.shop^
 ||bbasvru-yyap.cfd^
 ||bbav.garantibbvakredibasvuru.com^
+||bbay0nl3ndiriliy0rs0n.duckdns.org^
 ||bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.duckdns.org^
 ||bbgaravadiburdagala81.info^
 ||bbva.garantibbvakredibasvuru.com^
@@ -8753,6 +8757,7 @@
 ||besiprogrami.nicepage.io^
 ||bestandboy.shop^
 ||besthalukhub.cyou^
+||beta.turkcellpasajsanalmagaza.com^
 ||betokaitakck123xk12k3lx132.cfd^
 ||betorafaj1c21lx32l1kz312.cfd^
 ||beuocancei.net^
@@ -9009,6 +9014,7 @@
 ||blissly.bond^
 ||blixtrader.com^
 ||blog.evsahibibasvuru.com^
+||blog.turkcellpasajsanalmagaza.com^
 ||blogger.22web.org^
 ||blogs-innovations-accessing-jackson.trycloudflare.com^
 ||blogs.evsahibibasvuru.com^
@@ -9094,6 +9100,7 @@
 ||boss.turkiyekalkinmabankasi.com^
 ||bosvia.org^
 ||botmaker.digital^
+||botonline.click^
 ||bovlhh.cc^
 ||bozdere-novepaki.lol^
 ||bozkiran-furezopa.lol^
@@ -9670,6 +9677,7 @@
 ||cepc4b1scepc4b1sburda84.live^
 ||cepde-tebden.myonlineportal.de^
 ||cepgarantisube.ph^
+||cepgarantisubeci.ph^
 ||cepsube-finansbank.ph^
 ||cepte-sok.shop^
 ||cepte-sokindirim.rf.gd^
@@ -9715,6 +9723,7 @@
 ||channelapp.site^
 ||channelhq.shop^
 ||chat.matchnewtoday.com^
+||chat.turkcellpasajsanalmagaza.com^
 ||chatgpt-codex-app.gitlab.io^
 ||chatgpt-codex-lm.gitlab.io^
 ||cheapsavedirt.com^
@@ -9935,6 +9944,7 @@
 ||cpanel.73214625721684432180.duckdns.org^
 ||cpanel.7641713825499150.duckdns.org^
 ||cpanel.7641713825499170.duckdns.org^
+||cpanel.862413415907186110.duckdns.org^
 ||cpanel.862413415907186150.duckdns.org^
 ||cpanel.basvurumonayysizhesapsorugulama.duckdns.org^
 ||cpanel.evsahibibasvuru.com^
@@ -9944,6 +9954,7 @@
 ||cpcalendars.7641713825499130.duckdns.org^
 ||cpcalendars.7641713825499160.duckdns.org^
 ||cpcalendars.7641713825499180.duckdns.org^
+||cpcalendars.862413415907186110.duckdns.org^
 ||cpcalendars.kisa-links-mobil.duckdns.org^
 ||cpcalendars.sokmarketekstrakampanya4.duckdns.org^
 ||cpcalendars.sokmarketekstrakampanya5.duckdns.org^
@@ -9984,6 +9995,7 @@
 ||criminalcloudflare.online^
 ||criopiochio.ru^
 ||critical-silver-yak.pages.dev^
+||crm.turkcellpasajsanalmagaza.com^
 ||cropsurname.com^
 ||crpsonlcen.cfd^
 ||crsastore.vercel.app^
@@ -10228,6 +10240,7 @@
 ||deteledussers020201030.yyuyy.com^
 ||deukargotakip.com^
 ||dev.evsahibibasvuru.com^
+||dev.turkcellpasajsanalmagaza.com^
 ||devamederiz.sonkaracafirsatinialalim.shop^
 ||devapp.digital^
 ||devdaynot.com^
@@ -10276,6 +10289,7 @@
 ||dijital-bireyselbasvurulari.sbs^
 ||dijital-bireyselbasvurularim.sbs^
 ||dijital-bireyselbasvurulariniz.sbs^
+||dijital-islembilgi.sbs^
 ||dijital-kampanya.com^
 ||dijital-kampanyalar.com^
 ||dijital-limit.com^
@@ -10681,6 +10695,7 @@
 ||egonova.vip^
 ||egori.cyou^
 ||egorino.gifts^
+||egov-e-cumhuriiyet.org.ph^
 ||egwrqgh.xyz^
 ||egyptivo.com^
 ||ehhgsyukleme.org^
@@ -10809,6 +10824,7 @@
 ||enhanceblabber.cc^
 ||enhizlikampanyayagir.com^
 ||eniyifirsatlareniyiurunler.com^
+||eniyisiyim.sbs^
 ||enlightgo.com^
 ||enonline.help^
 ||enonline.lat^
@@ -10872,6 +10888,7 @@
 ||ernexis.site^
 ||ernexishq.store^
 ||erp.kaspersky.icu^
+||erp.turkcellpasajsanalmagaza.com^
 ||ertasafs.nicepage.io^
 ||erthanguvenilir.site^
 ||ertnefgbertbwe.sbs^
@@ -12794,6 +12811,7 @@
 ||hizmetler-yonlendir.com^
 ||hizmetlerimsizisf.click^
 ||hizmetlermzokul.com^
+||hizmetvakfi-net.vercel.app^
 ||hizsservis.click^
 ||hizsservisleri.click^
 ||hjhejres.online^
@@ -12821,6 +12839,7 @@
 ||hmenlnkarsan.net^
 ||hmnasantasns.net^
 ||hmnbnlaraglsnde.com^
+||hmneislemnktasi.net^
 ||hmnilsmkntans.net^
 ||hmnilsmnktns.net^
 ||hmnislemknasn.net^
@@ -13031,6 +13050,7 @@
 ||ibnncexh.webredirect.org^
 ||ic-cep.com^
 ||icarrental.net^
+||icloudfind-my-iphone.ph^
 ||ictike.cc^
 ||idaricezamaliye.org^
 ||idarikurum.org^
@@ -14808,6 +14828,7 @@
 ||mail.76417138254991100.duckdns.org^
 ||mail.7641713825499130.duckdns.org^
 ||mail.7641713825499140.duckdns.org^
+||mail.862413415907186110.duckdns.org^
 ||mail.adayislem.com.tr^
 ||mail.avskocfilo.net^
 ||mail.blnance-basvuru.info^
@@ -14840,6 +14861,7 @@
 ||maliportal.net^
 ||malisorgu.org^
 ||maliturkiyen.cyou^
+||maliuyap.org^
 ||malivezne.com^
 ||malivezneformu.com^
 ||maliyeadalet.org^
@@ -15074,6 +15096,7 @@
 ||memory-protection-layer2.cc^
 ||memory-scanner.cc^
 ||menduzek.media^
+||menfaatiolanbulur.sbs^
 ||mentaorb.com^
 ||menuselgiriskayitlarim.sbs^
 ||meralina.icu^
@@ -15587,6 +15610,7 @@
 ||mvlsvlslvs100.sbs^
 ||mvlsvlslvs102.sbs^
 ||mvlsvlslvs103.sbs^
+||mvsdnyrsnds-tnysds.com^
 ||mwvqt9a1uv.lol^
 ||mxhxrxsgel.com^
 ||mxtestacionamentos.com^
@@ -15631,6 +15655,7 @@
 ||n7q5m2y8v4k3.sbs^
 ||n8x2q7v4c1r8t.sbs^
 ||n8x2q7v4k1m5.lol^
+||na-microsoft.com^
 ||nabereebebegburdaherkes.pro^
 ||nanofrontier.capital^
 ||narkozweb.online^
@@ -16113,6 +16138,7 @@
 ||online-shop-bireysel-tr.site^
 ||online-siparis-mobilde-tr.online^
 ||online-sorgulama.com^
+||online-sozlesme-islemleri.com^
 ||online-tr-shop-mobil.site^
 ||online-web-store.online^
 ||online.empordafibra.com^
@@ -16368,6 +16394,7 @@
 ||ozel-indirimler.online^
 ||ozel-magazadan.com^
 ||ozel-magazam.com^
+||ozelarackiralama.com^
 ||ozelkmpnyaprmsynnbsvruuuu.click^
 ||ozelkmpnyaprmsynnbsvruuuu.info^
 ||ozeltrack-lifonsi-statik.myonlineportal.ch^
@@ -18147,6 +18174,7 @@
 ||selectumluxuryresorts.com^
 ||selgebeachresortside.com^
 ||selgehotels.com^
+||selgeresortside.com^
 ||sellhub.sbs^
 ||sellmaxim.digital^
 ||sellnightcare.com^
@@ -18162,6 +18190,7 @@
 ||senalisiksinyyabitanepatlat.sbs^
 ||senatom.com^
 ||senatoria.sbs^
+||senbanaddosatbensanaclick.sbs^
 ||sende-gelal.duckdns.org^
 ||sendeburadahepkalbizle.com^
 ||sendegarantlolsendekazan80.click^
@@ -19738,6 +19767,7 @@
 ||tepki-stil.myonlineportal.ch^
 ||tera-home.com^
 ||terafolt.com^
+||teragrup.org^
 ||terepoligierese.sbs^
 ||tereyopli-gereyupi.lol^
 ||termosindirim.duckdns.org^
@@ -21076,6 +21106,7 @@
 ||votody.store^
 ||voxterra.xyz^
 ||vpn.garantibbvakredibasvuru.com^
+||vpn.turkcellpasajsanalmagaza.com^
 ||vpn01.eptt-pttavm.info^
 ||vpn01.epttavm-pttavm.online^
 ||vpolisi155.online^
@@ -21162,6 +21193,7 @@
 ||webdisk.6134728541296136547120.duckdns.org^
 ||webdisk.619378724639012408140.duckdns.org^
 ||webdisk.73214625721684432160.duckdns.org^
+||webdisk.862413415907186110.duckdns.org^
 ||webdisk.862413415907186120.duckdns.org^
 ||webdisk.sokmarketekstrakampanya3.duckdns.org^
 ||webdisk.sokmarketekstrakampanya5.duckdns.org^
@@ -21315,10 +21347,30 @@
 ||www-osym-gov-tr.nproxy.org^
 ||www-pirantech.com^
 ||www-polisi155.online^
+||www-qnb-finansbank-access.ph^
+||www-qnb-finansbank-banking.ph^
+||www-qnb-finansbank-contact.ph^
+||www-qnb-finansbank-help.ph^
+||www-qnb-finansbank-login.ph^
+||www-qnb-finansbank-online.ph^
+||www-qnb-finansbank-secure-login.ph^
+||www-qnb-finansbank-secure.ph^
+||www-qnb-finansbank-service.ph^
+||www-qnb-finansbank-transfer.ph^
 ||www-qnb-finansbank.ph^
+||www-qnbfinansbank-access.ph^
+||www-qnbfinansbank-banking.ph^
 ||www-qnbfinansbank-cekilis-firsat-com.ph^
 ||www-qnbfinansbank-cepsubesi-com.ph^
+||www-qnbfinansbank-contact.ph^
+||www-qnbfinansbank-help.ph^
 ||www-qnbfinansbank-kampanya.ph^
+||www-qnbfinansbank-login.ph^
+||www-qnbfinansbank-online.ph^
+||www-qnbfinansbank-secure-login.ph^
+||www-qnbfinansbank-secure.ph^
+||www-qnbfinansbank-service.ph^
+||www-qnbfinansbank-transfer.ph^
 ||www-qnbfinansbank-yenilenen-subem.ph^
 ||www-toki-gov-tr-ev.vercel.app^
 ||www.5mp.eu^
@@ -21654,6 +21706,7 @@
 ||yeniden.kampanyaboyunca.cloud^
 ||yeniden.kemanci322.cfd^
 ||yenidenbasladi.beer^
+||yenidengoruntule.abrdns.com^
 ||yenievimgov.vercel.app^
 ||yenifirsatlarimss.com^
 ||yenifirsatlarizle.com^
@@ -21701,6 +21754,7 @@
 ||yilmaz-ticaret-ile-siparisi-hizla-onayla.com^
 ||yilmaz-ticaret-ile-siparisi-tamamla.com^
 ||yilmaz-ticaret-ile-siparisini-tamamla.com^
+||yilmaz-ticaret-ile-siparisinizi-tamamlayiniz.com^
 ||yinveyang.sbs^
 ||yinveyang10.sbs^
 ||yinveyang2.sbs^
@@ -21874,6 +21928,7 @@
 ||zdraxenorilpro.world^
 ||zealpraxis.com^
 ||zebregts.com^
+||zederesede-sederesede.lol^
 ||zeftasarim.com^
 ||zelalver.gifts^
 ||zelbutro.com^
