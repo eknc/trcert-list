@@ -7559,6 +7559,7 @@
 ||ai-baykar.com^
 ||ai-baykar.nl^
 ||ai-garanti.lol^
+||aidatiademerkezi.my-homeip.de^
 ||ailebilgisi.com^
 ||ailedestekyardim.org^
 ||aileegitimi.cyou^
@@ -12012,6 +12013,8 @@
 ||guvendeticaretlerim.store^
 ||guvenilir-alisveris.com^
 ||guvenilirsaticisi.online^
+||guvenilirsorgupaneli.fun^
+||guvenilirsorgupaneli.xyz^
 ||guvenlealsepetim.mooo.com^
 ||guvenli-alisverislerin.shop^
 ||guvenli-odeme-yap.xyz^
