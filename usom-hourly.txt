@@ -4409,6 +4409,7 @@
 ||312222545548789988990.duckdns.org^
 ||312222545548789988991.duckdns.org^
 ||312222545548789988992.duckdns.org^
+||312222545548789988993.duckdns.org^
 ||3123x12m3asdm123x.sbs^
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
@@ -7308,6 +7309,7 @@
 ||a-101-extra-sadece-bugune-ozel-mobilde-tr.online-tr-shop-mobil.click^
 ||a-101-extra-sadece-bugune-ozel-online-siparis-tr.bireysel-mobil-shop-tr.com^
 ||a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online^
+||a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online^
 ||a-101-extra-sadece-online-mobile-ozel-tr.online-shop-bireysel-tr.online^
 ||a-101-extra-sadece-online-ozel-mobil-indirim-tr.online^
 ||a-101-extra-sadece-online-ozel-mobil-tr.bilgi-mobil-shop-ozel-tr.sbs^
@@ -7668,6 +7670,7 @@
 ||alabamarecoverycenter.com^
 ||alabid234.github.io^
 ||aladeniz.com^
+||alarm-taslagi.garden^
 ||albayquery.space^
 ||alburdan.shop^
 ||alcs.xyttkx.cc^
@@ -16207,6 +16210,7 @@
 ||onlinekmm.com^
 ||onlinemagaza-karaca.vercel.app^
 ||onlinemagazalar-karaca.vercel.app^
+||onlinemarketafisi.com^
 ||onlinemasak.org^
 ||onlinemenubasvurulari.sbs^
 ||onlinemobil.com.tr^
@@ -16913,6 +16917,7 @@
 ||portlabs.store^
 ||pory-logrenade-ky.myonlineportal.ch^
 ||poseflow.icu^
+||positive-amber-bpwtfu3p.edgeone.dev^
 ||post.garantibbvakredibasvuru.com^
 ||postaturk24.com^
 ||potatoshoveltrail.com^
@@ -17451,6 +17456,7 @@
 ||rafa2askjcaskx123z123.cfd^
 ||rafa2casdkkj13x123.cfd^
 ||rafa2halksckdjkx123x13.sbs^
+||rafa2lcdsajcjksakjx123x12.cfd^
 ||rafa2vasdkasckl123jkx123.cfd^
 ||rafa3234sxdkajkjscadc123.cfd^
 ||rafa34312sascdx12311zsasd.shop^
@@ -18479,6 +18485,7 @@
 ||siteyegelgel.cfd^
 ||sivri.ezpizi.click^
 ||sixseven-krdili-taruzyuz.xyz^
+||size-ozel.ink^
 ||sizekampanya-tr.store^
 ||sizeozel.xyz^
 ||sizeozelfirsatlar00001.duckdns.org^
@@ -21579,6 +21586,7 @@
 ||xq2m7r9.sbs^
 ||xqzeltopz.com^
 ||xra300xax39xlsjxm4.cfd^
+||xrd.domainclx.biz^
 ||xrd.domainclx.click^
 ||xrdnet.click^
 ||xrr30x8v8232s.duckdns.org^
@@ -22037,6 +22045,7 @@
 ||zenvira.vu^
 ||zenvoria.top^
 ||zephyrty.top^
+||zerdesa-turyederte.lol^
 ||zerekulope-dafere.xyz^
 ||zereolipso-certesede.xyz^
 ||zeriko.xyz^
