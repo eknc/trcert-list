@@ -4412,6 +4412,8 @@
 ||312222545548789988993.duckdns.org^
 ||312222545548789988994.duckdns.org^
 ||312222545548789988995.duckdns.org^
+||312222545548789988996.duckdns.org^
+||312222545548789988997.duckdns.org^
 ||3123x12m3asdm123x.sbs^
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
@@ -7280,6 +7282,7 @@
 99.119.166.50
 ||999000044444.duckdns.org^
 ||99903030x332zww1.duckdns.org^
+||99988888.duckdns.org^
 ||999991001002026.duckdns.org^
 ||9batcgshuer.thechidocas.cyou^
 ||9c743b80-b.b-cdn.net^
@@ -9678,6 +9681,7 @@
 ||cebinde-temmuz.biz.tr^
 ||cebinde-temmuz.com.tr^
 ||cebinizdekiglobalekran.duckdns.org^
+||cederese-deresedese.lol^
 ||cekilis--paribu.com^
 ||cekilis-kampanya.store^
 ||cekilis-kampanya.xyz^
@@ -10312,6 +10316,7 @@
 ||dijital-bireyselbasvurularim.sbs^
 ||dijital-bireyselbasvurulariniz.sbs^
 ||dijital-islembilgi.sbs^
+||dijital-islemler.sbs^
 ||dijital-islemlerbilgi.sbs^
 ||dijital-islemleriniz.sbs^
 ||dijital-kampanya.com^
@@ -12247,6 +12252,7 @@
 ||habertrendhaber.com^
 ||habertry1.shop^
 ||habertry1453.shop^
+||habertry364.shop^
 ||habertry4561.shop^
 ||haberturk1453.sbs^
 ||haberturkey1453.sbs^
@@ -13058,6 +13064,7 @@
 ||hyperdevpipline.org^
 ||hyperiondo.info^
 ||hyqenavo.media^
+||hyuzbrtemuzay.duckdns.org^
 ||hzegc.click^
 ||hzegcv.click^
 ||hzegcva.click^
@@ -13110,6 +13117,7 @@
 ||ihlalgecishgskarayoluborcodme.com^
 ||ihlalgecisodemesiweb.info^
 ||ihmal-web.click^
+||ihmalweb-trying.garden^
 ||ihtiyacbasvurularsim.duckdns.org^
 ||iifbtk.cc^
 ||iiixzhsldndu3dx3e.lol^
@@ -16356,6 +16364,7 @@
 ||orynt.sbs^
 ||oselt-lgrnlsaok.myonlineportal.ch^
 ||oselyaonline.com^
+||osmurmaomurga.click^
 ||osogransd.online^
 ||osvitahub.club^
 ||osvitaplus.gifts^
@@ -21756,6 +21765,7 @@
 ||yaz.sonu.firsatlari.dkolardenmslerd.click^
 ||yaz.sonu.firsatlari.hismetlerdsfak.click^
 ||yaz.sonu.firsatlari.hizmetlerimsizisf.click^
+||yaz.sonu.firsatlari.osmurmaomurga.click^
 ||yazbonusu.digital^
 ||yazgeldiarabatamirixx.duckdns.org^
 ||yazkampanyalari.com^
