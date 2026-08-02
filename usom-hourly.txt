@@ -4414,6 +4414,7 @@
 ||312222545548789988995.duckdns.org^
 ||312222545548789988996.duckdns.org^
 ||312222545548789988997.duckdns.org^
+||312222545548789988998.duckdns.org^
 ||3123x12m3asdm123x.sbs^
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
@@ -8157,6 +8158,7 @@
 ||avisrezervasyon.net^
 ||avisturkey.vercel.app^
 ||avisturkiye.net^
+||avm-satinal.com^
 ||avm-siparislerim.com^
 ||avmbireysel.com^
 ||avmbireyselislem.com^
@@ -9363,6 +9365,7 @@
 ||buhayatbenicokyordu6.click^
 ||buhayatbenicokyordu8.click^
 ||buhayatbenicokyordu9.click^
+||buhu-guhuludese.lol^
 ||buhugereteyesede.lat^
 ||buhugufure-desedese.lol^
 ||buhukulupolisede.lat^
@@ -11877,6 +11880,7 @@
 ||grisstlera.nicepage.io^
 ||grnsdcjkasjdcjhx12j3xksadas.cfd^
 ||grnti-firstlr.lol^
+||grntibba.duckdns.org^
 ||grntkrzsrz.com^
 ||grntprmsynnkmpnyamkrz.info^
 ||grntttpromsnynnnbsvrrr.info^
@@ -12350,6 +12354,7 @@
 ||hanegeliryardimlari.com^
 ||haneyardimlari.com^
 ||hangi-fark.ink^
+||hangikredin489874120.sbs^
 ||hangoc4b1c4b1sc4b1.digital^
 ||haninerdesnbvbaburda.click^
 ||hansanatn.uk^
@@ -12930,6 +12935,7 @@
 ||hobesletr.duckdns.org^
 ||hodeslerkest.duckdns.org^
 ||hodesterker.duckdns.org^
+||hofestlerkes.duckdns.org^
 ||hohomster.duckdns.org^
 ||hojemetstrer.duckdns.org^
 ||hojeterler.duckdns.org^
@@ -15668,6 +15674,7 @@
 ||muzeportal.biz^
 ||muzeportal.com^
 ||muzeportali.click^
+||muzesitesi.com^
 ||muzeziyaret.click^
 ||mvduatw221xe2.duckdns.org^
 ||mvlsvlslvs099.sbs^
@@ -17836,6 +17843,8 @@
 ||s0kmarklet.shop^
 ||s0kmarkletler.shop^
 ||s0kmarkletmer.shop^
+||s0kmarklkerler.com^
+||s0kmarkot.shop^
 ||s0kmarkteltler.xyz^
 ||s0kmarleletr.com^
 ||s0kmarlkeper.shop^
@@ -21558,6 +21567,7 @@
 ||xirqavo.com^
 ||xirshopu.com^
 ||xjeqebbcum.thechidocas.cyou^
+||xjlaksd4xcgx4ztbc.cfd^
 ||xjsdkx123xsadz1312x3123.xyz^
 ||xlabslover.lol^
 ||xleonalpos.icu^
@@ -21630,6 +21640,7 @@
 ||xxmhrsrandevuhizmetlerinde.com^
 ||xxtrdenemelerixismenuleriguncel.xyz^
 ||xxxgr40c0c02xx2.duckdns.org^
+||xxxswwwsxsxwxsxwxxxx.duckdns.org^
 ||xxxxsaastasfa-sa.sbs^
 ||xxy23ycx23y.sbs^
 ||xyz2025faizsizkredilerim.xyz^
@@ -21911,6 +21922,7 @@
 ||yonlendiryorsesd2d.space^
 ||yonlenim-securitytr.garden^
 ||yonleqndiriliyorsiniz.duckdns.org^
+||yorum-ithal-gr.garden^
 ||youarases.lat^
 ||yoursfind.com^
 ||yozatw.buzz^
@@ -22175,6 +22187,7 @@
 ||zlm11090100001.duckdns.org^
 ||zloapobikahy23.bond^
 ||zlorvantisahub.world^
+||zm8w2krx5qvph9tcn4ylb.click^
 ||zmvevj.cc^
 ||znews.neti^
 ||zodmerli.gifts^
