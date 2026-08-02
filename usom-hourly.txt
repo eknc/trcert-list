@@ -4410,6 +4410,8 @@
 ||312222545548789988991.duckdns.org^
 ||312222545548789988992.duckdns.org^
 ||312222545548789988993.duckdns.org^
+||312222545548789988994.duckdns.org^
+||312222545548789988995.duckdns.org^
 ||3123x12m3asdm123x.sbs^
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
@@ -5776,6 +5778,7 @@
 61.239.68.73
 61.242.118.164
 61.66.228.102
+||6161616161.duckdns.org^
 62.113.114.209
 62.113.97.250
 62.122.195.14
@@ -9549,6 +9552,7 @@
 ||camporaq.com^
 ||canavarndevusyfasi.duckdns.org^
 ||canine-vers.xyz^
+||caninelab.co^
 ||canlaradlarsbaotldnapackasn.site^
 ||cansagligivakfi.aem.page^
 ||cansagligivakfi.aem.reviews^
@@ -11671,6 +11675,7 @@
 ||gexmallo.digital^
 ||gextonapps.neocities.org^
 ||gfagfasdgaas.sbs^
+||gfbvr23ert.com^
 ||gfdgfdvbvb.nicepage.io^
 ||gfhnertwerbw.click^
 ||gfhnwerbtqwebq.click^
@@ -12474,6 +12479,7 @@
 ||hedefportfoykurumsal.com^
 ||hedefprtfoy.com^
 ||hediye50gb.space^
+||hefeelfeguystr.duckdns.org^
 ||hefelfeguystr.duckdns.org^
 ||heilbronner-fruehlingssymposium.de^
 ||heismebktaltara.net^
@@ -14434,6 +14440,7 @@
 ||krovazeli.media^
 ||krox020x12jj.duckdns.org^
 ||krsnadamhykanresrndvandevm.com^
+||krssxrglamalarinin.net^
 ||krusty-crabs.sbs^
 ||krvebrdasznrdsnz.com^
 ||krvlerlerklmacyrz.shop^
@@ -15244,6 +15251,7 @@
 ||mhr23k6m236njsdf.duckdns.org^
 ||mhr2srandv5larnzi.duckdns.org^
 ||mhrandelvbka.com^
+||mhrasd432734jnsdf.duckdns.org^
 ||mhrefshemenrndv.ice.lol^
 ||mhrk23km6747.duckdns.org^
 ||mhrldsrandevl.com^
