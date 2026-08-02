@@ -11839,6 +11839,7 @@
 ||gratis.craftyhour.com^
 ||gratis.cwbots.com^
 ||gratis.empordafibra.com^
+||gratis.globalscholarpress.com^
 ||gratis.lakeboundtech.com^
 ||gratis.optosupply.com^
 ||gravelio.sbs^
@@ -14560,6 +14561,7 @@
 ||learnivo.xyz^
 ||learnpath.gifts^
 ||lecoqspo.shop^
+||ledferesaxxaw.duckdns.org^
 ||lee.6686ty.vip^
 ||legi-mi-g-r-t.myonlineportal.ch^
 ||legio.name^
@@ -15598,6 +15600,7 @@
 ||muhamadfafaoyunda.net^
 ||muhguferedese-asdsede.lol^
 ||muhu-bb-vv-aa-ss-dd.xyz^
+||muhugudu-polililili.lol^
 ||muhugudue-redetesede.lol^
 ||muhugudueresede-afderese.lol^
 ||muhugudueretese-duguhuderede.lol^
@@ -20085,6 +20088,7 @@
 ||toplu-konut-projesi-toki-gov-tr.ph^
 ||toplu-konut.gravitycl.app^
 ||toplukonu5391282121.vercel.app^
+||toplukonut-toki.gravitycl.app^
 ||toplukonut0701455346.vercel.app^
 ||toplukonut122142151.vercel.app^
 ||toplukonut1251251.vercel.app^
