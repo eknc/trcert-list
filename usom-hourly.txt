@@ -7907,6 +7907,7 @@
 ||aradan-cikan-donemez.xyz^
 ||arakampanyalardonem.cloud^
 ||araksdatoaslvanb.online^
+||araofdalgaogfa.online^
 ||arasaslfasofaslmsa.online^
 ||arastir.vip^
 ||aravisblog.com^
@@ -7988,6 +7989,7 @@
 ||asdlfdsamfksdafmkl.net^
 ||asdsaf0sdvldmv.net^
 ||asdsaqffllfe00n.net^
+||asdsrversdersetrseser.com^
 ||asdxkwqkexjqwx123x1.cfd^
 ||aselite.xyz^
 ||aselsan-app.digital^
@@ -10304,6 +10306,7 @@
 ||dijital-bireyselbasvurulariniz.sbs^
 ||dijital-islembilgi.sbs^
 ||dijital-islemlerbilgi.sbs^
+||dijital-islemleriniz.sbs^
 ||dijital-kampanya.com^
 ||dijital-kampanyalar.com^
 ||dijital-limit.com^
@@ -12468,7 +12471,9 @@
 ||hedefportfoykurumsal.com^
 ||hedefprtfoy.com^
 ||hediye50gb.space^
+||hefelfeguystr.duckdns.org^
 ||heilbronner-fruehlingssymposium.de^
+||heismebktaltara.net^
 ||helfeguystr.duckdns.org^
 ||heliosup.info^
 ||hello-brothers777.com^
@@ -12530,6 +12535,7 @@
 ||hemenlanlsatnas.net^
 ||hemenmuz.lat^
 ||hemennalrtnlasna.net^
+||hemensielmkntasi.net^
 ||hemensielmnokta-islnakt.net^
 ||hemensmdkk.space^
 ||hemensonucislemnt.net^
@@ -16512,6 +16518,7 @@
 ||paribu-arabacekilisi.com^
 ||paribu-arabahediye.com^
 ||paribu-arabakazan.com^
+||paribu-arabasansi.com^
 ||paribu-arabasansi.info^
 ||paribu-arabasansi.link^
 ||paribu-buyukcekilisi.com^
@@ -18724,6 +18731,7 @@
 ||sorgula-borctahsil.com^
 ||sorgula-borctahsilat.com^
 ||sorgulama-ekrani.online^
+||sorgulama-tr.online^
 ||sorgumahkeme.org^
 ||sorgumali.org^
 ||sorgumaliye.org^
@@ -20089,6 +20097,7 @@
 ||toplu-konut.gravitycl.app^
 ||toplukonu5391282121.vercel.app^
 ||toplukonut-toki.gravitycl.app^
+||toplukonut.gravitycl.app^
 ||toplukonut0701455346.vercel.app^
 ||toplukonut122142151.vercel.app^
 ||toplukonut1251251.vercel.app^
@@ -22139,6 +22148,7 @@
 ||zmvevj.cc^
 ||znews.neti^
 ||zodmerli.gifts^
+||zolikhide-sedapilogife.lol^
 ||zolvica.shop^
 ||zolvica.site^
 ||zolvica.store^
