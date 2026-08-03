@@ -24,6 +24,7 @@
 ||095932kk3dasd9123.com^
 ||0a572599-0.b-cdn.net^
 ||0f2a2fa2scaca.com^
+||0faiz-kredim-garanti.replit.app^
 ||0faizkampanyadestek.giize.com^
 ||0fdba029e6a5-endpoint.com^
 ||0h1t1zuy1e9yrs8w1usc.jamescare.cfd^
@@ -2231,6 +2232,7 @@
 174.138.62.216
 174.75.211.198
 175.106.11.242
+175.107.205.205
 175.118.126.65
 175.178.166.216
 175.178.89.24
@@ -4744,6 +4746,7 @@
 43.156.109.74
 43.156.118.72
 43.156.183.223
+43.156.232.227
 43.156.47.209
 43.156.70.172
 43.157.118.169
@@ -5600,6 +5603,7 @@
 5.59.248.52
 5.59.248.92
 5.61.209.102
+5.61.209.44
 5.75.138.1
 5.75.139.35
 5.75.163.194
@@ -7677,6 +7681,7 @@
 ||al-rndev-smdi-hemen.duckdns.org^
 ||alabamarecoverycenter.com^
 ||alabid234.github.io^
+||alacatibeachsresort.com^
 ||aladeniz.com^
 ||alarm-taslagi.garden^
 ||albayquery.space^
@@ -7801,6 +7806,7 @@
 ||anatoliax.info^
 ||anavico.gifts^
 ||angry-toaster.com^
+||aninda-kredi-basvuru.cloud^
 ||aninda-lokal.ink^
 ||aninda-siparis-baglantisi.com^
 ||anindagarantiwebkaynak.xyz^
@@ -8800,6 +8806,7 @@
 ||bhndfgewrnwernwe.click^
 ||bianciaturkeys.top^
 ||biblegodlike.com^
+||biemdabulyusahibiyim.sbs^
 ||big-proinvest.info^
 ||bigbossbro777.com^
 ||bigdes.site^
@@ -9156,6 +9163,7 @@
 ||brdamhrsarandvlrmz.sbs^
 ||brdamhrsrandvlrmz.sbs^
 ||brdamhrsrarandvzhmzr.sbs^
+||brdan1-82rvdleralnr.com^
 ||brdanlardankzdenlrden.com^
 ||brdansglkcnrdvnyalnyrz.shop^
 ||brdansonkzstnalyrmbn.shop^
@@ -10264,6 +10272,7 @@
 ||destek-zamanifbffd.cfd^
 ||destekcimyardim.com^
 ||desteklem.nicepage.io^
+||destekmenkuldegerler.com^
 ||destekyardimlari.com^
 ||destekyardimlarim.com^
 ||detayli-blogu-g.myonlineportal.ch^
@@ -11496,6 +11505,7 @@
 ||garanti.bb.va-tr.com^
 ||garanti.vva8.com^
 ||garanti45465456465465.duckdns.org^
+||garantibbva-com-tr.replit.app^
 ||garantibbva.guvenlislem.com^
 ||garantibbvabankas.ph^
 ||garantibbvacepmobil.duckdns.org^
@@ -11640,6 +11650,7 @@
 ||gereatas.nicepage.io^
 ||geri-bildirim.biz^
 ||geri-bildirimler.ink^
+||geriislemmerkezi.site^
 ||gerokgun.duckdns.org^
 ||gestionmontelavaria2026.online^
 ||gestrak-basavtr.cfd^
@@ -12414,6 +12425,7 @@
 ||haulmaster.bond^
 ||havadabibulut.sbs^
 ||havale-ilan.com^
+||havalem-fast.com^
 ||havenaura.click^
 ||havennode.biz^
 ||haxvendi.gifts^
@@ -12902,6 +12914,7 @@
 ||hmnislemnktans.net^
 ||hmnislemnktbas.net^
 ||hmnislemnktsans.net^
+||hmnislemnoktnasn.net^
 ||hmnislmbkntans.net^
 ||hmnislmknat.net^
 ||hmnislmnkatnas.net^
@@ -13552,6 +13565,7 @@
 ||istkrtetasvgsa.online^
 ||istkrtttts.click^
 ||istkrttttttbsrvv.online^
+||istlbkrtlabsvrla.com^
 ||istline.gifts^
 ||istlnlmkas.com^
 ||istlnlnkrtld.com^
@@ -13572,6 +13586,7 @@
 ||isubeakbankdirekt.ph^
 ||isxbank-promo.redirectme.net^
 ||it.evsahibibasvuru.com^
+||ivdesube.com^
 ||ivdharcpulu.com^
 ||ivdmobil.com^
 ||ivorilla.cloud^
@@ -18796,6 +18811,7 @@
 ||sozbir-eutamot.myonlineportal.ch^
 ||sozbir-launcher.myonlineportal.ch^
 ||sozcuturkey.com^
+||sozlesme-imzala.com^
 ||sozlesme-police.com^
 ||sozlesme.islem-hizmet.com^
 ||sozlesme.online-hizmet-islem.com^
@@ -19493,6 +19509,7 @@
 ||takeoffistanbul.zone.id^
 ||takimaletleriyapimarket.com^
 ||takimimvampirgibi.click^
+||takip-mesafesi.ink^
 ||takip.shop^
 ||takirtukir.click^
 ||takla.click^
@@ -21977,6 +21994,7 @@
 ||yuzbir-firsatlari.shop^
 ||yuzdeyuzgarantideyiz.vip^
 ||yuzverdimyaralarimaabandi.sbs^
+||yxcpanel.online^
 ||yxcpanel.xyz^
 ||yy000011011.duckdns.org^
 ||yy44444000044444.duckdns.org^
@@ -22109,6 +22127,7 @@
 ||zifj.top^
 ||ziganaresortcesme.com^
 ||ziliyn.site^
+||zimbranotereminder.weebly.com^
 ||zinaatkampanyam.shop^
 ||zinavolabs.store^
 ||ziookkiid.cfd^
