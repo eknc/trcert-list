@@ -5716,6 +5716,7 @@
 ||5654886546413216.duckdns.org^
 ||56732423564357.org^
 ||5678766452222.net^
+||5685632523532.org^
 ||568563523523865568.org^
 ||56856856342352345754745.org^
 ||5696890049494000.net^
@@ -10377,6 +10378,7 @@
 ||dis-ak-kampaing.myonlineportal.ch^
 ||disciplinenahidwin.st^
 ||disclaud-password-security.myonlineportal.ch^
+||discountonline.click^
 ||discountstock.top^
 ||discountvoucher.cfd^
 ||dispatch-l-grenade.myonlineportal.ch^
