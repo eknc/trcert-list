@@ -11544,6 +11544,7 @@
 ||garanti-acc.myonlineportal.ch^
 ||garanti-bank-bireysel.ph^
 ||garanti-bankasionline.ph^
+||garanti-bireysel-basvurular-com.webredirect.org^
 ||garanti-bireysel-basvurunuz-com.webredirect.org^
 ||garanti-cepte-basvuruekrani-com.webredirect.org^
 ||garanti-kredi-basvuru.sbs^
@@ -14110,6 +14111,7 @@
 ||kepyenileme.com^
 ||kerametran.ezgateway.net^
 ||kerrrsnaw.duckdns.org^
+||keskn5brdaclsyrz.com^
 ||kespola.surf^
 ||kevangida.com^
 ||kexbazar.gifts^
@@ -18926,6 +18928,7 @@
 ||sorumlular-verilentr.garden^
 ||sorunsuzhepburdayizbiz.com^
 ||sosuwen.shop^
+||sosyalkonut-toplukonut.vercel.app^
 ||sosyalkonutbasvurular.cfd^
 ||sosyalxzmetleremeklicn.xyz^
 ||sosylbasvurugovtr.sbs^
@@ -19659,6 +19662,7 @@
 ||tamamla-sip.com^
 ||tamamla-sipars.com^
 ||tamamladim.click^
+||tamamlayan-dahafazla.ink^
 ||tamammarket.click^
 ||tamelix.vu^
 ||tamelora.com^
