@@ -36,6 +36,7 @@
 ||0x666.info^
 ||0xvona.duckdns.org^
 ||1-82-brdanrdval.com^
+||1-82rvdnlrdanbndansn.com^
 1.117.165.141
 1.12.37.113
 1.13.102.222
@@ -2623,6 +2624,7 @@
 185.10.68.213
 185.100.157.74
 185.103.255.38
+185.104.63.215
 185.105.1.243
 185.107.74.40
 185.109.21.157
@@ -2777,6 +2779,7 @@
 185.196.9.89
 185.196.9.98
 185.197.248.131
+185.198.58.131
 185.198.69.36
 185.201.8.176
 185.203.117.6
@@ -7329,9 +7332,12 @@
 ||a-101-extra-mobile-ozel-bugun-sepette-tr.online-bireysel-mobil-tr.site^
 ||a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click^
 ||a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online^
+||a-101-extra-sadece-bugune-ozel-indirimler-mobilde.ekstra-tr.online^
 ||a-101-extra-sadece-bugune-ozel-mobilde-tr.online-tr-shop-mobil.click^
 ||a-101-extra-sadece-bugune-ozel-online-siparis-tr.bireysel-mobil-shop-tr.com^
 ||a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online^
+||a-101-extra-sadece-bugune-ozel-sepette-tr.pay-tr.online^
+||a-101-extra-sadece-mobile-ozel-sepette-indirim-tr.sepette.online^
 ||a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store^
 ||a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online^
 ||a-101-extra-sadece-online-mobile-ozel-tr.online-shop-bireysel-tr.online^
@@ -7697,6 +7703,7 @@
 ||aktutelfirsatlarkapinda.xyz^
 ||akyaman-lodrefiku.lol^
 ||al-rndev-smdi-hemen.duckdns.org^
+||al1-82-rvdn.com^
 ||alabamarecoverycenter.com^
 ||alabid234.github.io^
 ||alacatibeachsresort.com^
@@ -9164,6 +9171,7 @@
 ||botmaker.digital^
 ||botonline.click^
 ||bovlhh.cc^
+||boyner.demrebicer.com^
 ||bozdere-novepaki.lol^
 ||bozkiran-furezopa.lol^
 ||bozmayinayari.dns.navy^
@@ -10078,6 +10086,7 @@
 ||crpsonlcen.cfd^
 ||crsastore.vercel.app^
 ||crtttsaaaonlakcan.xyz^
+||cryoturbine.net^
 ||cryptotoki.site^
 ||cryptotokimarket.store^
 ||crystaltoki.site^
@@ -10352,6 +10361,7 @@
 ||dhdsjsdjxc.duckdns.org^
 ||dhfsdhfhsdfjsdf.site^
 ||dialerformac.com^
+||diamond-cli-znsxphqell.cn-shanghai.fcapp.run^
 ||diarysafe.cyou^
 ||diger-ofansif-grenade.myonlineportal.ch^
 ||digi-tebim.my-homeip.de^
@@ -11822,6 +11832,7 @@
 ||glatas.nicepage.io^
 ||glimzo.click^
 ||glintryvo.com^
+||glitch-vibe.com^
 ||global-news7.com^
 ||globalbuyshop.top^
 ||globalfinancehub.world^
@@ -13229,6 +13240,7 @@
 ||ilan-paramguvende.online^
 ||ilan.hizmet-islememleri.com^
 ||ilanda-siparislerim.com^
+||ilandan-fast.com^
 ||ilandetay-jet.com^
 ||ilanim-fast.com^
 ||ilanim-onay-762211.com^
@@ -16452,6 +16464,7 @@
 ||optionlabs.site^
 ||optionlabs.store^
 ||optixauvex.us^
+||optryza.com^
 ||opzkklid.cfd^
 ||oralet.nicepage.io^
 ||oraletene.nicepage.io^
@@ -16703,6 +16716,7 @@
 ||paribu.hesap-guvenligi.com^
 ||paribuaraba-hediye.com^
 ||paribuaraba-sansi.com^
+||paribuaraba-sansi.info^
 ||paribuaraba.com^
 ||paribuaraba2026.com^
 ||paribuarabaavantaj.com^
@@ -16779,6 +16793,7 @@
 ||paribucekilisleri.com^
 ||paribucevirkazan.com^
 ||paribuhediyelicark.com^
+||paribuhediyelicekilisi.com^
 ||paribukazancarki.com^
 ||paribuodul.com^
 ||paribuodulcarki.com^
@@ -16855,6 +16870,7 @@
 ||pazarama.ilan-havale-odemem.com^
 ||pazarama.ilan-havale.com^
 ||pazarama.ilan-magaza.com^
+||pazarama.ilandan-fast.com^
 ||pazarama.indirimsepetinde.com^
 ||pazarama.islemcepte.com^
 ||pazarama.magazada-online.com^
@@ -19650,6 +19666,7 @@
 ||taklidimduzene.click^
 ||taktik-operational.ink^
 ||talebekraniscebde.duckdns.org^
+||talentedwhispering.com^
 ||talentnexhr.ink^
 ||talep-ziraatbank.vercel.app^
 ||talepalma.online^
@@ -19769,6 +19786,7 @@
 ||teapot-sale.xyz^
 ||teb-info.info^
 ||teb-trade.site^
+||tebbasvurusayfa.my-homeip.de^
 ||tebcepte-sube-parola.myonlineportal.de^
 ||tebdeburdabasvuru.my-homeip.de^
 ||tebdenpromosyon.my-homeip.de^
@@ -20581,6 +20599,7 @@
 ||trlandmark.pro^
 ||trmaliceza.org^
 ||trmaliyedosya.com^
+||trmaliyehazine.org^
 ||trmasakbinancedogrulama.duckdns.org^
 ||trmasakbirim.org^
 ||trmasakportal.com^
@@ -21261,6 +21280,7 @@
 ||verifyaccesspoint.com^
 ||verifysuper.com^
 ||veritonixmedia.com^
+||verityluxenova.com^
 ||verolumi.pro^
 ||vertexlabd.info^
 ||vertexserp.info^
@@ -21722,6 +21742,7 @@
 ||xelvuroq.tr^
 ||xemdorak.com^
 ||xemro.xyz^
+||xemzqli2vu.ai-app.pub^
 ||xenbazli.tr^
 ||xenbuyra.com^
 ||xendora.xyz^
