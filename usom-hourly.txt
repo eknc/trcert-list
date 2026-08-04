@@ -10811,6 +10811,7 @@
 ||efsanebayramfirsatlari.com.tr^
 ||efsanefirsatlartektikla.com^
 ||efsanefrstlarburdakpnda1o1.shop^
+||efsanefrstlarkapinizda1o1.shop^
 ||efsanehaziranlndrmi.com^
 ||efsaneleryeniden.beer^
 ||efsanelndldlrmlvaktlerl.com^
@@ -11624,6 +11625,7 @@
 ||garanti-bankasionline.ph^
 ||garanti-bireysel-basvurular-com.webredirect.org^
 ||garanti-bireysel-basvurunuz-com.webredirect.org^
+||garanti-bonus-cepte-com.duckdns.org^
 ||garanti-bonus-islemler-com.duckdns.org^
 ||garanti-cepte-basvuruekrani-com.webredirect.org^
 ||garanti-kredi-basvuru.sbs^
@@ -13765,12 +13767,14 @@
 ||izalkoofss.blogspot.com^
 ||izaltoqpdf.dns.navy^
 ||izaoroppqs.blogspot.com^
+||izeltoot.dnsup.net^
 ||izfocus.gifts^
 ||izgwna.click^
 ||izkaoodps.blogspot.com^
 ||izkooogoddd444.blogspot.com^
 ||izlakd.dnsup.net^
 ||izlakfoas.blogspot.com^
+||izlakosta.blogspot.com^
 ||izlaopqds.duckdns.org^
 ||izlaotsaas.blogspot.com^
 ||izlaowqooaa.blogspot.com^
@@ -18111,8 +18115,10 @@
 ||s0kmarkletmer.shop^
 ||s0kmarklkerler.com^
 ||s0kmarkot.shop^
+||s0kmarkretler.com^
 ||s0kmarkteltler.xyz^
 ||s0kmarleletr.com^
+||s0kmarletrey.com^
 ||s0kmarlkeper.shop^
 ||s0kmarlket.shop^
 ||s0kmarlketitim.com^
@@ -19251,6 +19257,7 @@
 ||sube-fiba.com^
 ||sube-garantl.shop^
 ||sube-infoyatirim.com^
+||sube-kuveyt-turk.duckdns.org^
 ||sube-matriksmenkulkiymetler.com^
 ||sube.sekermenkul.com^
 ||sube.sekerplatform.pro^
@@ -20646,6 +20653,8 @@
 ||trendyol-ile-baglanti-tamamla.com^
 ||trendyol-mall.biz^
 ||trendyol-mall.online^
+||trendyol-siparistamamla.com^
+||trendyol-siparistamamla.com.tr^
 ||trendyol.ilanservis-odemen.online^
 ||trendyol.mobilservisin-24.sbs^
 ||trendyol0-1029.l3v0.my^
@@ -22000,6 +22009,7 @@
 ||y0nlendiriliy4rsynyz.duckdns.org^
 ||y3k7n5r9w2t6.sbs^
 ||y44nlndird4st4maktifsen.duckdns.org^
+||y4nln4riy4su4n4uzprof.duckdns.org^
 ||y4nlndir4deincirl4yimknk.duckdns.org^
 ||y4nsmsars.sbs^
 ||y6n2z8w5t1k7.sbs^
@@ -22320,6 +22330,7 @@
 ||z1ttrhf.cfd^
 ||z23213x12321.duckdns.org^
 ||z2ratll.cfd^
+||z3ratvv.cfd^
 ||z4q7k1m8v3p9.lol^
 ||z4w7q2m9k6p1.cfd^
 ||z5q1v8k3m7x9.cfd^
@@ -22540,6 +22551,7 @@
 ||zotemari.site^
 ||zq4mvp72xr.cfd^
 ||zrat-ggeris.cfd^
+||zratatsatsa.cfd^
 ||zrkaat-griss.cfd^
 ||zrnxcnd34xak.cfd^
 ||zrplus300.cfd^
@@ -22553,6 +22565,7 @@
 ||zrt300zzrtt.sbs^
 ||zrtdijital.sbs^
 ||zrtkmprnsyz.click^
+||zrtytrak.nicepage.io^
 ||zsafdsaghfdassax.sbs^
 ||zsaxsadsadssax.sbs^
 ||zt93mx87zr300cxa.cfd^
