@@ -2394,6 +2394,7 @@
 176.9.4.26
 176.9.53.68
 176.9.63.166
+176.97.114.8
 176.97.124.44
 176.97.210.211
 177.136.225.135
@@ -6782,6 +6783,7 @@
 89.195.5.18
 89.203.140.246
 89.203.142.96
+89.213.118.63
 89.213.174.246
 89.213.193.98
 89.213.44.31
@@ -7281,6 +7283,7 @@
 95.85.252.196
 95.85.93.196
 95.92.242.30
+||95874632kmpnyaabsvrrprsmynn.pro^
 96.126.130.126
 96.126.176.130
 96.31.67.39
@@ -8283,6 +8286,7 @@
 ||b4b422zsed2q.duckdns.org^
 ||b5080e3d-6.b-cdn.net^
 ||b6w9m2z5x8q1v3k.top^
+||b709.site^
 ||b85230d8.sibforms.com^
 ||b8r3z6p9w2t5.sbs^
 ||baasvur-yaap.cfd^
@@ -8759,6 +8763,7 @@
 ||bd155polisi.online^
 ||bda-gerasn.lat^
 ||bdchjud.blogspot.com^
+||bddkdesktek.com^
 ||bdhekjs9.blogspot.com^
 ||bdhkpnyrsasnkzfdfs.sbs^
 ||bdv-bsvcmpgn.shop^
@@ -9779,6 +9784,7 @@
 ||cepgarantisube.ph^
 ||cepgarantisubeci.ph^
 ||cepsube-finansbank.ph^
+||cepte-shop.online^
 ||cepte-sok.shop^
 ||cepte-sokindirim.rf.gd^
 ||ceptehabaerglobalim.shop^
@@ -10633,6 +10639,7 @@
 ||e-devlet-pandemiyardimdestegi.ph^
 ||e-devlet-platform.vip^
 ||e-devlet-portal-giris.haksizfil.cfd^
+||e-devlet-tr.vip^
 ||e-devlet-turkiye-ssk-prim-sorgu.blogspot.com^
 ||e-devlet.gov3.site^
 ||e-devletana.com.ph^
@@ -11413,6 +11420,7 @@
 ||fnaostuz.com^
 ||focuzuh.cn^
 ||foela.live^
+||fokindenfo1.lol^
 ||fokushebatzz.com^
 ||folron.autos^
 ||fomdepiq.gifts^
@@ -11701,6 +11709,7 @@
 ||gelonaviku.com^
 ||gelsendehaydkatlkan250.click^
 ||gelseydmdunyayasendegelcan45.info^
+||gelsinkapina.co^
 ||gelsinkapinaclub.click^
 ||genafut.top^
 ||gencdeadlaser.cfd^
@@ -13057,6 +13066,7 @@
 ||hofestlerkes.duckdns.org^
 ||hohomster.duckdns.org^
 ||hojemetstrer.duckdns.org^
+||hojesfejterdafs.duckdns.org^
 ||hojeterler.duckdns.org^
 ||hokesya.xyz^
 ||holdeferete.hicam.net^
@@ -14366,6 +14376,7 @@
 ||kmpnyaaaprmsynnbsvrrrfrstlr.xyz^
 ||kmpnyaaaprmsynnncklssssss.click^
 ||kmpnyaaaprmsynnncklssssss.info^
+||kmpnyaabsvrr12531.pro^
 ||kmpnyaabsvrrfrstlarrrrbsvrr.art^
 ||kmpnyaabsvrrfrstlarrrrbsvrr.live^
 ||kmpnyaabsvrrprmsnynnsnfrstlarr.info^
@@ -14618,6 +14629,7 @@
 ||kuluhugudefere.xyz^
 ||kumbara.iyiliginmucitleri.com^
 ||kumuhuguduere-sederete.lol^
+||kunaz.xyz^
 ||kunnvffeyt.giize.com^
 ||kunveytgiris.duckdns.org^
 ||kunvufeytrk.duckdns.org^
@@ -15270,6 +15282,7 @@
 ||meetlintora.store^
 ||meetnovara.site^
 ||meetsmedias.com^
+||megadencer.top^
 ||megahirdavatciniz.com^
 ||megaindirimkampanyasi5.sbs^
 ||meganecco.work^
@@ -16057,6 +16070,7 @@
 ||nexvira.xyz^
 ||nexvixo.xyz^
 ||nfhvu87348348.click^
+||ngdance.fun^
 ||ngpmit.cc^
 ||nhgsafdashfdasax33.cfd^
 ||nhkjmtrybewrb.click^
@@ -16274,6 +16288,7 @@
 ||official-baykarplatform.com^
 ||official-news.blog^
 ||official-online.online^
+||official-ppsport.com^
 ||official-teams-storage.com^
 ||official-version.com^
 ||offservers.ru^
@@ -16722,6 +16737,7 @@
 ||paribu-arabacekilisi.com^
 ||paribu-arabahediye.com^
 ||paribu-arabakazan.com^
+||paribu-arabakazanma.link^
 ||paribu-arabasansi.com^
 ||paribu-arabasansi.info^
 ||paribu-arabasansi.link^
@@ -16746,6 +16762,7 @@
 ||paribu.coinsec.co^
 ||paribu.coinsecimi.co^
 ||paribu.hesap-guvenligi.com^
+||paribuaraba-burada.link^
 ||paribuaraba-hediye.com^
 ||paribuaraba-sansi.com^
 ||paribuaraba-sansi.info^
@@ -16812,8 +16829,10 @@
 ||paribubonuscarki.com^
 ||paribubuyukcekilisi.com^
 ||paribucark-burada.com^
+||paribucark-burada.link^
 ||paribucark-cevir.com^
 ||paribucark-kazan.com^
+||paribucark-kazanci.link^
 ||paribucark.com^
 ||paribucarkicevir.com^
 ||paribucarkicevirkazan.com^
@@ -16838,6 +16857,7 @@
 ||paribupepe-hediyem.link^
 ||paribupepe-hediyen.com^
 ||paribupepe-hediyen.link^
+||paribupepe-hediyesi.link^
 ||paribusanscarki.com^
 ||paributechnology.com^
 ||parkfauna.com^
@@ -18613,6 +18633,7 @@
 ||shop-ozel.online^
 ||shop-tr-online-mobil.click^
 ||shop-tr-online-mobil.sbs^
+||shop-tr-ozel.online^
 ||shoparo.info^
 ||shopcore.gifts^
 ||shopier.e-ilan-elektronik-siparisim.com^
@@ -19106,6 +19127,7 @@
 ||stanleyindirim.duckdns.org^
 ||stanleykepler.xyz^
 ||star-layer.com^
+||stardancer.fun^
 ||starkampanya.com^
 ||starlinkprod.pro^
 ||starzoomel.info^
@@ -20108,6 +20130,7 @@
 ||thatwascringe.com^
 ||thearvion.store^
 ||thebasvurews.cfd^
+||thebestscollato.top^
 ||thecocacola-company.com^
 ||thehizlionaygerekenislerde.com^
 ||thelintora.store^
@@ -21244,6 +21267,7 @@
 ||vatandasrandevuonlinez.duckdns.org^
 ||vatandasrandevuportall.duckdns.org^
 ||vatandsprrtalmrshz.duckdns.org^
+||vatiter.click^
 ||vault-sentinel.com^
 ||vaxbazel.gifts^
 ||vaxdori.tr^
@@ -21588,6 +21612,7 @@
 ||whats-zrs.vip^
 ||whats-zus.vip^
 ||whats-zwp.vip^
+||whatsappkundenservice.com^
 ||whitead.in^
 ||whiteads.ru^
 ||whitesalad.zzrak08526.workers.dev^
