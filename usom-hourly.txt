@@ -2576,6 +2576,7 @@
 ||182-webb.xyz^
 ||182-webhati.com^
 ||182-webs.online^
+||182-webs.sbs^
 ||182-website.com^
 ||182-weeb.net^
 182.113.198.87
@@ -2719,8 +2720,13 @@
 185.162.75.19
 185.163.204.137
 185.163.45.130
+185.163.45.16
 185.163.45.30
 185.163.45.41
+185.163.45.61
+185.163.45.73
+185.163.45.87
+185.163.45.97
 185.166.39.91
 185.167.63.42
 185.167.99.46
@@ -3393,6 +3399,12 @@
 194.169.175.220
 194.169.175.232
 194.169.175.235
+194.180.191.168
+194.180.191.17
+194.180.191.171
+194.180.191.189
+194.180.191.209
+194.180.191.51
 194.180.48.160
 194.187.180.20
 194.190.153.198
@@ -3850,9 +3862,11 @@
 207.148.78.36
 207.154.243.184
 207.154.255.215
+207.174.0.143
 207.174.0.44
 207.174.31.215
 207.180.226.72
+207.189.11.170
 207.199.188.53
 207.231.109.252
 207.231.111.146
@@ -5541,8 +5555,17 @@
 5.180.32.142
 5.180.41.35
 5.181.132.95
+5.181.156.234
+5.181.159.112
+5.181.159.139
+5.181.159.140
+5.181.159.142
+5.181.159.143
 5.181.159.16
 5.181.159.48
+5.181.159.60
+5.181.159.62
+5.181.159.9
 5.181.165.102
 5.181.171.133
 5.181.188.158
@@ -5568,9 +5591,13 @@
 5.252.155.99
 5.252.176.55
 5.252.177.111
+5.252.177.120
+5.252.177.15
 5.252.177.207
 5.252.177.213
 5.252.177.249
+5.252.178.123
+5.252.178.23
 5.252.178.92
 5.252.21.207
 5.252.21.236
@@ -6284,6 +6311,7 @@
 79.137.197.159
 79.137.199.216
 79.137.205.182
+79.141.162.187
 79.141.162.189
 79.141.163.179
 79.141.173.158
@@ -7190,6 +7218,8 @@
 94.158.245.131
 94.158.245.135
 94.158.245.137
+94.158.245.140
+94.158.245.170
 94.158.245.174
 94.158.245.56
 94.158.245.81
@@ -7339,6 +7369,7 @@
 ||a-101-extra-bugune-ozel-mobil.sepet-mobil-tr.site^
 ||a-101-extra-internete-ozel.indirim-online-mobil.site^
 ||a-101-extra-mobil-online-ozel-tr.mobil-bireysel-shop-web-tr.sbs^
+||a-101-extra-mobil-sadece-bugune-ozel-indirimli-sepet-tr.cepte-shop.online^
 ||a-101-extra-mobil-sadece-online-ozel-siparis-tr.online-mobil-shop-tr.com^
 ||a-101-extra-mobile-ozel-bugun-sepette-tr.online-bireysel-mobil-tr.site^
 ||a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click^
@@ -7804,6 +7835,7 @@
 ||alrzumcaymaknesi.shop^
 ||alsicane.net^
 ||alsversyaptmsendeartkyapmalsn.online^
+||alts6343.blogspot.com^
 ||altzserberin.info^
 ||aluminiostramuntana.com^
 ||alvenco.shop^
@@ -8865,6 +8897,7 @@
 ||bikelasagnaroof.com^
 ||biletigo.net.tr^
 ||bilgi-bilgi.nicepage.io^
+||bilgi-mobil-shop-ozel-tr.click^
 ||bilgi-tp.online^
 ||bilgicheckerssystemm.lovestoblog.com^
 ||bilgidosyasi.com^
@@ -10225,6 +10258,7 @@
 ||dava-dosya.click^
 ||davabirimi.org^
 ||davacezasorgu.org^
+||davadosyasorgu.com^
 ||davadurum.org^
 ||davaeavukat.org^
 ||davakontrol.org^
@@ -11344,6 +11378,7 @@
 ||firsatlar-diyari.duckdns.org^
 ||firsatlar-herzaman-burada.blogspot.com^
 ||firsatlar.myonlineportal.ch^
+||firsatlar.obilet-tr.uk^
 ||firsatlar101.click^
 ||firsatlar101.duckdns.org^
 ||firsatlaragit.online^
@@ -11589,6 +11624,7 @@
 ||garanti-bankasionline.ph^
 ||garanti-bireysel-basvurular-com.webredirect.org^
 ||garanti-bireysel-basvurunuz-com.webredirect.org^
+||garanti-bonus-islemler-com.duckdns.org^
 ||garanti-cepte-basvuruekrani-com.webredirect.org^
 ||garanti-kredi-basvuru.sbs^
 ||garanti-kredi-basvurusu.sbs^
@@ -12028,6 +12064,7 @@
 ||grupdk.com^
 ||gruta.com.mx^
 ||gryhnthtyuwer.click^
+||gsdhsdfhswa.sbs^
 ||gsrzirtf.cfd^
 ||gstaticnews.com^
 ||gstaticrenewed.com^
@@ -12879,6 +12916,7 @@
 ||hizlgecisbakiyeyukleme.web.app^
 ||hizlgecisonlnebakye.lat^
 ||hizli-infor-mation.casa^
+||hizli-islem-merkezi.com^
 ||hizli-islem.com^
 ||hizli-kredi-basvurusu.cloud^
 ||hizli-limit.xyz^
@@ -12907,6 +12945,7 @@
 ||hizlicasatinalhemensendebirlikteyiz.xyz^
 ||hizliccabasvurum.cloud^
 ||hizlidanogren.xyz^
+||hizlifilolar.com^
 ||hizligecinbakiyesi.firebaseapp.com^
 ||hizligecinbakiyesi.web.app^
 ||hizligecisbakiesi.web.app^
@@ -13957,6 +13996,7 @@
 ||kampanyafirsatlariniz.duckdns.org^
 ||kampanyafirsatlarinn.duckdns.org^
 ||kampanyagel101.duckdns.org^
+||kampanyagnu.dnsup.net^
 ||kampanyakapimizdayakalamaburada.xyz^
 ||kampanyalar-karaca.vercel.app^
 ||kampanyalarbur.duckdns.org^
@@ -14362,6 +14402,7 @@
 ||kmogretici-bilgilendiriciler.web.app^
 ||kmp-gfirsttlrr.xyz^
 ||kmpanya-katilim.cfd^
+||kmpanyasa.dnsup.net^
 ||kmpnnnyaabsvrrsnnnfrsltar.info^
 ||kmpnnnyaabsvrrsnnnfrsltar.pro^
 ||kmpnyaaabsvrrrprmsynnn.info^
@@ -14376,6 +14417,7 @@
 ||kmpnyaaaprmsynnbsvrrrfrstlr.xyz^
 ||kmpnyaaaprmsynnncklssssss.click^
 ||kmpnyaaaprmsynnncklssssss.info^
+||kmpnyaabsvrr12531.online^
 ||kmpnyaabsvrr12531.pro^
 ||kmpnyaabsvrrfrstlarrrrbsvrr.art^
 ||kmpnyaabsvrrfrstlarrrrbsvrr.live^
@@ -14450,8 +14492,10 @@
 ||kobihaberleri.com^
 ||kobiyardimerkezi.com^
 ||kocarackiralama.com^
+||kocavs.online^
 ||kocfiinance.com^
 ||kocfilokurumsal.net^
+||kocfiloo.com^
 ||kocfilosu.com^
 ||kocfinans-app.click^
 ||kocfinanssecimtestiozelsecimprogrami.click^
@@ -14857,6 +14901,7 @@
 ||lklink.click^
 ||lkrediler.cfd^
 ||llklfgkflkvvd.nicepage.io^
+||lllprdannndandan.com^
 ||lmrsrandevu-3a5060ee327b.herokuapp.com^
 ||lnatlanlatn.net^
 ||lnbnsnanrdenttldm.shop^
@@ -16110,6 +16155,7 @@
 ||nmtlanmla.net^
 ||nmtlmnltlntan.net^
 ||nmtlnmtlntmntlmltn.net^
+||nmwcspraseves.sbs^
 ||nn000120020.gleeze.com^
 ||nn11110201111.gleeze.com^
 ||nn44400202444.gleeze.com^
@@ -16734,6 +16780,7 @@
 ||paribu-araba-kazan.com^
 ||paribu-araba-kazanma.com^
 ||paribu-araba.com^
+||paribu-arababurada.com^
 ||paribu-arabacekilisi.com^
 ||paribu-arabahediye.com^
 ||paribu-arabakazan.com^
@@ -16762,10 +16809,12 @@
 ||paribu.coinsec.co^
 ||paribu.coinsecimi.co^
 ||paribu.hesap-guvenligi.com^
+||paribuaraba-burada.com^
 ||paribuaraba-burada.link^
 ||paribuaraba-hediye.com^
 ||paribuaraba-sansi.com^
 ||paribuaraba-sansi.info^
+||paribuaraba-sansi.link^
 ||paribuaraba.com^
 ||paribuaraba2026.com^
 ||paribuarabaavantaj.com^
@@ -16833,6 +16882,7 @@
 ||paribucark-cevir.com^
 ||paribucark-kazan.com^
 ||paribucark-kazanci.link^
+||paribucark-oyna.com^
 ||paribucark.com^
 ||paribucarkicevir.com^
 ||paribucarkicevirkazan.com^
@@ -16896,6 +16946,7 @@
 ||pawsmira.com^
 ||paxshopu.gifts^
 ||paxtonvirela.shop^
+||pay-mobil.online^
 ||paydevletai.com^
 ||payislemmerkezlerin.com^
 ||payloads.tralalarkefe.com^
@@ -17612,6 +17663,7 @@
 ||qnb-finansbankasi.ph^
 ||qnb-finansbankasionline.ph^
 ||qnb-finansbankr-enpara.ph^
+||qnbbank.site^
 ||qnbfinansbank---giris.ph^
 ||qnbfinansbank-inc.ph^
 ||qnbfinansbank-intsube.ph^
@@ -18108,6 +18160,7 @@
 ||sadsoslfrisatlarytha1o1111.blogspot.com^
 ||sadsoslfrisatlarytha1o1o.blogspot.com^
 ||sadsoslfrisatlarytha1o1o1.blogspot.com^
+||safasfgqqq.sbs^
 ||safe-picvault.info^
 ||safedoc-storage.info^
 ||safedoc-vault.info^
@@ -19793,6 +19846,7 @@
 ||targetlaneim.com^
 ||tarihi-entry-web.ink^
 ||tarihi-sayfa.click^
+||tarim667oyed.nicepage.io^
 ||tarimzr.cfd^
 ||tarlaaktif.digital^
 ||tarport.nicepage.io^
