@@ -4081,6 +4081,7 @@
 213.59.118.124
 213.6.203.226
 ||2134830028840.duckdns.org^
+||21455452222255899891.duckdns.org^
 ||21461sndmsndsasd.com^
 216.107.139.197
 216.107.139.52
@@ -7392,6 +7393,7 @@
 ||a-101-online-ozel-extra-mobil-tr.sepette-indirim.online^
 ||a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online^
 ||a-101-sadece-bugune-ozel-mobil.online-tr-shop-mobil.site^
+||a-101-sadece-bugune-ozel-sepette-indirim-online-mobil-cep-tr.360-plus.com^
 ||a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online^
 ||a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online^
 ||a-101c0mtlc.shop^
@@ -11627,6 +11629,7 @@
 ||garanti-bireysel-basvurunuz-com.webredirect.org^
 ||garanti-bonus-cepte-com.duckdns.org^
 ||garanti-bonus-islemler-com.duckdns.org^
+||garanti-bonus-islemler-com.duia.ro^
 ||garanti-cepte-basvuruekrani-com.webredirect.org^
 ||garanti-kredi-basvuru.sbs^
 ||garanti-kredi-basvurusu.sbs^
@@ -21756,6 +21759,7 @@
 ||wrvuga.buzz^
 ||wrwgwgs.xyz^
 ||ws.182iletisim.cyou^
+||wsb-tapsverndvun.net^
 ||wto.azl.one^
 ||wtw252s-wrw5tww.xyz^
 ||wtyqahsd.xyz^
