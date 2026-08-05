@@ -4101,6 +4101,7 @@
 ||21455452222255899891.duckdns.org^
 ||21455452222255899892.duckdns.org^
 ||21455452222255899893.duckdns.org^
+||21455452222255899894.duckdns.org^
 ||21461sndmsndsasd.com^
 216.107.139.197
 216.107.139.52
@@ -11416,6 +11417,7 @@
 ||finance99-dolor1.sbs^
 ||financialscope.world^
 ||finansai.org^
+||finansbankkrediparacepte.ph^
 ||finansendeksi.info^
 ||finansfactoring.com^
 ||finansgundemi.media^
@@ -11697,6 +11699,7 @@
 ||garanti-acc.myonlineportal.ch^
 ||garanti-bank-bireysel.ph^
 ||garanti-bankasionline.ph^
+||garanti-basvuru-bonus-islemlerim.mayddns.com^
 ||garanti-basvuru-bonus.mayddns.com^
 ||garanti-bireysel-basvurular-com.webredirect.org^
 ||garanti-bireysel-basvurunuz-com.webredirect.org^
@@ -16545,6 +16548,7 @@
 ||ondansonrasindabizdebiliriz.com^
 ||ondid.skin^
 ||ondofinance.tech^
+||one-cikar.casa^
 ||onedrive.cv^
 ||onedrivesupport.net^
 ||onehead.cfd^
@@ -18247,6 +18251,7 @@
 ||s0kmalrlet.shop^
 ||s0kmapretler.shop^
 ||s0kmarhet.lat^
+||s0kmarhketler.com^
 ||s0kmarjet.shop^
 ||s0kmarjklet.shop^
 ||s0kmarkatller.shop^
