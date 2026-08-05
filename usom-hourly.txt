@@ -4090,6 +4090,7 @@
 213.6.203.226
 ||2134830028840.duckdns.org^
 ||21455452222255899891.duckdns.org^
+||21455452222255899892.duckdns.org^
 ||21461sndmsndsasd.com^
 216.107.139.197
 216.107.139.52
@@ -7416,6 +7417,7 @@
 ||a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online^
 ||a-101c0mtlc.shop^
 ||a-101indirim.com^
+||a-101xaxakapinda.com^
 ||a-1o1-c.duckdns.org^
 ||a-alisveris-sepetim.com^
 ||a.101onlinesiparis.duckdns.org^
@@ -9875,6 +9877,9 @@
 ||cezakamu.org^
 ||cezakamuportal.org^
 ||cezakayit.com^
+||cezamahkeme.com^
+||cezamahkeme.org^
+||cezamahkemelerin.org^
 ||cezamerkezi.org^
 ||cezasorgu.info^
 ||cezasorgugov.com^
@@ -11739,6 +11744,7 @@
 ||gecisbakiycis.lat^
 ||gecisbakiyebayi.firebaseapp.com^
 ||gecisbakiyukleme.web.app^
+||gecisbakyeyukleme.web.app^
 ||gecisbayisi.web.app^
 ||geciscinizhizli.lat^
 ||gecisetketdolum.lat^
@@ -11912,6 +11918,7 @@
 ||girsgelsmesocnu.sbs^
 ||girsisonnlneslemleriniz.sbs^
 ||girsizsabit2026.com^
+||girsizsabits2026.com^
 ||girss-turrky.cfd^
 ||girssonnline-sorgusualekrani.sbs^
 ||git-basvuruyapv.cfd^
@@ -12979,6 +12986,7 @@
 ||hizliccabasvurum.cloud^
 ||hizlidanogren.xyz^
 ||hizlifilolar.com^
+||hizlifinansyeriniz.xyz^
 ||hizligecinbakiyesi.firebaseapp.com^
 ||hizligecinbakiyesi.web.app^
 ||hizligecisbakiesi.web.app^
@@ -13635,6 +13643,7 @@
 ||istanbulberzancan.xyz^
 ||istanbulbiz.click^
 ||istanbulbiz.sbs^
+||istanbulbizim.uk^
 ||istanbulbizim3434.xyz^
 ||istanbulbizimba.xyz^
 ||istanbulbizimcan.xyz^
@@ -14981,6 +14990,7 @@
 ||loloyagel.click^
 ||lolstreet.lol^
 ||lolukhuguferete-desededse.lol^
+||lomas-capital.com^
 ||lomirekadu.com^
 ||lonetraapp.store^
 ||lonetsoh.net^
@@ -15127,11 +15137,16 @@
 ||magenta-chough-241198.hostingersite.com^
 ||mahkemeasliye.org^
 ||mahkemebirim.org^
+||mahkemeceza.com^
+||mahkemeceza.org^
 ||mahkemecezasorgu.com^
 ||mahkemedosya.org^
 ||mahkemekurum.org^
 ||mahkemelerim.org^
 ||mahkemelik.help^
+||mahkemesicil.org^
+||mahkemesorgu.com^
+||mahkemesorgu.org^
 ||mahkemesorgula.org^
 ||maideloyaro.pro^
 ||mail.1254598989899893.duckdns.org^
@@ -15412,6 +15427,7 @@
 ||melvian.cyou^
 ||member.evsahibibasvuru.com^
 ||membercloudzone.com^
+||membercloudzone.net^
 ||memory-protection-layer1.cc^
 ||memory-protection-layer2.cc^
 ||memory-scanner.cc^
@@ -15974,6 +15990,7 @@
 ||mystarlink.org^
 ||myvixo.xyz^
 ||mzedof.cc^
+||mzhrrndvlrnzgovptt.duckdns.org^
 ||mzx29qk77.click^
 ||n-nato333.com^
 ||n-xsorguapileri.onrender.com^
@@ -16342,6 +16359,7 @@
 ||oakwusya.love^
 ||oaob.top^
 ||oasisva.vu^
+||obilet-mobil.uk^
 ||obilet-tr.uk^
 ||obilet-www.nl^
 ||obilet-www.online^
@@ -16496,6 +16514,7 @@
 ||onlineapp.ooraikaoo.info^
 ||onlinebbvaonizlemenutrapp.space^
 ||onlineburda.duckdns.org^
+||onlinedinamik.com^
 ||onlinedogrulama.com^
 ||onlineekonomikdestekmobilapptr.xyz^
 ||onlinegarantimobile.myftp.org^
@@ -18066,6 +18085,8 @@
 ||robotic-toys.com^
 ||robutay.digital^
 ||rockvault.shop^
+||roddddybdrydln.shop^
+||roddddybdrydlnnn.shop^
 ||rofusadhasdhashdh0093sadsad.click^
 ||roger99699.xyz^
 ||roimora.com^
@@ -18396,6 +18417,7 @@
 ||sahibiyiz.sbs^
 ||sahlbinden.cfd^
 ||sahlbindeni.com.tr^
+||sahtediplomam.com^
 ||sahusuzuki.in^
 ||saidozdemir.com^
 ||sailnexa.com^
@@ -19206,6 +19228,7 @@
 ||srrsewqsgqrsaqnismanlik.blogspot.com^
 ||srrsewqsgqrsxaaqnismanlik.blogspot.com^
 ||srsfxkqwr.sbs^
+||srt.kizlarburada.click^
 ||srttewqrsaqrwqnixsqmanlik.blogspot.com^
 ||srttewqrsnqrwqnixsqmanlik.blogspot.com^
 ||srttewqrsnsnismanlik.blogspot.com^
@@ -21586,6 +21609,7 @@
 ||vrmynartkbktkblfdr.sbs^
 ||vrpckcamsnkzbrdy.xyz^
 ||vtururk.com^
+||vuhgude-redesedere.lol^
 ||vuhklideretese.lat^
 ||vuhugesadesde.lat^
 ||vuhugufutueurese.xyz^
