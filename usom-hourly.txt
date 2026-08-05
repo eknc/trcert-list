@@ -234,6 +234,7 @@
 103.248.61.36
 103.250.160.76
 103.251.112.11
+103.252.127.6
 103.252.89.75
 103.255.177.55
 103.27.108.152
@@ -483,6 +484,7 @@
 107.191.58.76
 107.191.99.221
 107.191.99.95
+107.211.37.253
 108.165.100.134
 108.165.100.183
 108.171.108.248
@@ -693,6 +695,7 @@
 118.145.151.135
 118.174.98.182
 118.193.240.214
+118.193.40.61
 118.193.44.112
 118.193.69.254
 118.194.238.51
@@ -2494,6 +2497,7 @@
 179.0.179.179
 179.124.129.242
 179.179.197.196
+179.228.181.231
 179.43.146.227
 179.43.150.26
 179.43.163.26
@@ -2530,6 +2534,7 @@
 180.232.162.18
 180.242.203.249
 180.253.161.150
+180.76.146.178
 180.76.185.72
 181.10.144.116
 181.167.144.229
@@ -3029,6 +3034,7 @@
 186.121.195.22
 186.169.48.87
 186.189.103.21
+186.241.68.124
 186.57.1.241
 186.68.83.104
 ||186randevuburadan.duckdns.org^
@@ -3516,6 +3522,7 @@
 195.154.185.134
 195.164.49.70
 195.170.172.204
+195.177.94.169
 195.177.94.6
 195.178.110.217
 195.178.110.36
@@ -3749,6 +3756,7 @@
 202.161.50.59
 202.162.108.48
 202.162.33.243
+202.165.26.42
 202.169.234.5
 202.181.177.177
 202.181.27.115
@@ -4091,6 +4099,7 @@
 ||2134830028840.duckdns.org^
 ||21455452222255899891.duckdns.org^
 ||21455452222255899892.duckdns.org^
+||21455452222255899893.duckdns.org^
 ||21461sndmsndsasd.com^
 216.107.139.197
 216.107.139.52
@@ -4160,6 +4169,7 @@
 217.60.195.132
 217.60.195.160
 217.60.195.176
+217.60.195.193
 217.60.195.56
 217.60.195.58
 217.60.245.90
@@ -4426,6 +4436,7 @@
 31.44.4.40
 31.47.78.80
 31.56.204.74
+31.56.206.108
 31.56.209.8
 31.56.209.85
 31.56.229.221
@@ -4681,6 +4692,7 @@
 38.60.214.5
 38.60.220.133
 38.60.224.25
+38.60.227.104
 38.60.227.172
 38.60.245.37
 38.60.252.66
@@ -4797,6 +4809,7 @@
 43.157.148.168
 43.157.151.131
 43.157.158.108
+43.157.163.155
 43.157.174.200
 43.157.191.20
 43.159.177.40
@@ -5893,6 +5906,7 @@
 62.72.191.203
 62.72.22.91
 62.76.228.164
+62.76.230.160
 ||62354234.net^
 ||6262111.lat^
 ||62ce61f5-9.b-cdn.net^
@@ -6215,6 +6229,7 @@
 77.238.245.11
 77.239.120.249
 77.239.121.3
+77.239.124.247
 77.246.101.135
 77.246.158.48
 77.247.126.200
@@ -6414,6 +6429,7 @@
 80.68.159.15
 80.75.212.10
 80.76.49.114
+80.76.49.38
 80.76.51.196
 80.77.23.48
 80.78.24.30
@@ -6425,6 +6441,7 @@
 80.85.156.237
 80.85.157.117
 80.94.93.119
+80.96.109.107
 80.96.109.229
 80.96.109.241
 ||808checker.space^
@@ -7330,6 +7347,7 @@
 95.85.252.196
 95.85.93.196
 95.92.242.30
+||95874632kmpnyaabsvrrprsmynn.info^
 ||95874632kmpnyaabsvrrprsmynn.pro^
 96.126.130.126
 96.126.176.130
@@ -8094,10 +8112,12 @@
 ||asdasdhsahd89sadh89sad.click^
 ||asdasede-sedeadsada.lol^
 ||asdasfamansaqwezayras.net^
+||asdaswqkwqfwqfk.shop^
 ||asdcakxqwelqkcjk12k3x132.cfd^
 ||asdcgfdscax123xsada.cfd^
 ||asdcsldcksajxk123kjxsadas.shop^
 ||asdcvbnm.sbs^
+||asderede-sederetere.lol^
 ||asdfsdfsdgdf.duckdns.org^
 ||asdfsdfwsdf.duckdns.org^
 ||asdhashdh99000ashdhasdasd.click^
@@ -8322,6 +8342,7 @@
 ||ayaxum.click^
 ||aydogukani.info^
 ||aygozumdedunya.sbs^
+||ayhadsalosadl.online^
 ||ayni-discluasing-gr.myonlineportal.ch^
 ||ayurvediccancer.com^
 ||ayurvediceducation.com^
@@ -10525,6 +10546,7 @@
 ||dipixcanax.lol^
 ||dipixcanax.sbs^
 ||dipixcanax.xyz^
+||diplomasatisi.online^
 ||direktsube-akbank.ph^
 ||dis-ak-kampaing.myonlineportal.ch^
 ||disciplinenahidwin.st^
@@ -11053,6 +11075,7 @@
 ||enuygunkirala.net^
 ||env-check.daemontools.cc^
 ||envercicek.com^
+||enviirandevu.org^
 ||eolvaru.com^
 ||eonllinemobiledijitalimit.xyz^
 ||eorgke09054909j.com^
@@ -12630,6 +12653,7 @@
 ||hazinebirimi.org^
 ||hazineceza.org^
 ||hazinekurum.org^
+||hazineleri.com^
 ||hazinemaliyebirimi.org^
 ||hazinesicil.org^
 ||hazinesorgu.org^
@@ -12960,6 +12984,7 @@
 ||hizli-islem.com^
 ||hizli-kredi-basvurusu.cloud^
 ||hizli-limit.xyz^
+||hizli-odemem.com^
 ||hizli-online-islemler.com^
 ||hizli-siparis-baglanti.com^
 ||hizli-siparis-linki.com^
@@ -13142,6 +13167,7 @@
 ||hnaolangnleremynym.shop^
 ||hnezkh.help^
 ||hngfbgfbfb.cyou^
+||hobbejstlerkester.duckdns.org^
 ||hobesletr.duckdns.org^
 ||hodeslerkest.duckdns.org^
 ||hodesterker.duckdns.org^
@@ -13242,6 +13268,7 @@
 ||hugifidier-redsedese.lol^
 ||hugufudere-redesede.lol^
 ||huhgu-fuyur-desede.xyz^
+||huhugufue-redesepolise.lol^
 ||huhukitakip.org^
 ||hukligefertuyise.xyz^
 ||hukugufuerete.lol^
@@ -15227,6 +15254,7 @@
 ||mandatumo.com^
 ||mandeo.info^
 ||mango-cleopatrapg.com^
+||mangorbit.com^
 ||manpowergroupjobs.com^
 ||mantelterminalevyemekleris.duckdns.org^
 ||mantikayseriliapooox.duckdns.org^
@@ -15308,6 +15336,7 @@
 ||masakpro.app^
 ||masaksorgulama.com^
 ||masaksorgutc.org^
+||masaktakibi.org^
 ||masaktakip.org^
 ||masaktr2026giris12.duckdns.org^
 ||masaktrmobilbinance1.duckdns.org^
@@ -15322,6 +15351,7 @@
 ||matkapset84parca.myshopify.com^
 ||matodorbet1094.com^
 ||matterposter.pro^
+||mavbuylo.com^
 ||mavellora.cfd^
 ||maventradigital.com^
 ||maventrasphere.com^
@@ -18279,6 +18309,7 @@
 ||sahibinden-get.ilanservis-odemehizmetin.online^
 ||sahibinden-get.ilanservisnhizmet.com^
 ||sahibinden-get.islem-alisveris-hizmet.com.tr^
+||sahibinden-get.islem-guvende.online^
 ||sahibinden-get.jet-servis-hizmetlerim.online^
 ||sahibinden-get.jetservishizmetleriniz.online^
 ||sahibinden-get.jetservisleriniz.com^
@@ -18512,6 +18543,7 @@
 ||sdfsdasdfsdfsd.duckdns.org^
 ||sdfsdfggfd.duckdns.org^
 ||sdfsdfqweqwef.duckdns.org^
+||sdfvksdfvksdvfk.shop^
 ||sdklcflsd231xasc123x12.cfd^
 ||sdklcflsd231xasc123x12.lol^
 ||sdkmob.org^
@@ -19980,6 +20012,7 @@
 ||teachbite.co.uk^
 ||teampulsynk.team^
 ||teapot-sale.xyz^
+||teb-bank.com^
 ||teb-info.info^
 ||teb-trade.site^
 ||tebbasvurusayfa.my-homeip.de^
@@ -22561,6 +22594,7 @@
 ||ziraatoffshore.online^
 ||ziraatsbank.xyz^
 ||ziraatselseyler.fun^
+||ziraatssbank.xyz^
 ||ziraatyenilenensubemiz.com.ph^
 ||zirahot-basvur.vercel.app^
 ||zirailillf.cfd^
