@@ -868,6 +868,7 @@
 126.209.16.237
 128.0.118.12
 128.0.118.14
+128.0.118.39
 128.0.55.110
 128.14.225.164
 128.140.115.231
@@ -7192,6 +7193,7 @@
 94.142.138.4
 94.142.138.94
 94.143.7.29
+94.154.1.243
 94.154.113.167
 94.154.172.195
 94.154.172.210
@@ -7200,6 +7202,7 @@
 94.154.35.208
 94.154.35.99
 94.154.37.213
+94.154.43.12
 94.154.43.158
 94.154.43.51
 94.156.10.164
@@ -7774,6 +7777,7 @@
 ||aktuelfirsatlarii.blogspot.com^
 ||aktuelfirsatlarn.shop^
 ||aktuelortisc.com^
+||aktuelseninle.com^
 ||aktuelsepetim.com^
 ||aktuelurunleraldin.blogspot.com^
 ||aktuelurunlerburadalar.blogspot.com^
@@ -7914,6 +7918,7 @@
 ||anadolutrend.com^
 ||anadoluvector.com^
 ||anadoluyasamim.com^
+||anaforlarindanam.sbs^
 ||analytics-reports.com^
 ||anasfa.duckdns.org^
 ||anatoliatravel.pro^
@@ -8181,6 +8186,7 @@
 ||atayatirim.online^
 ||atladimtumsekten.click^
 ||atomprofitplatform.com^
+||atrendy.vip^
 ||atsheisdomestic.org^
 ||attendance-marilyn-move-during.trycloudflare.com^
 ||atto-seal.com^
@@ -8269,6 +8275,7 @@
 ||avirox.gifts^
 ||avis-filo.kurumsal-online-islem.com^
 ||avis-online-kiralama00.duckdns.org^
+||avis.arackiralamaislem.com^
 ||avisfilo.rent^
 ||avisfiloarackirala.sbs^
 ||avisfilokurumsal.com^
@@ -9392,6 +9399,8 @@
 ||bsvr-bbva.my-homeip.net^
 ||bsvr.rnvdmhsrsrndnvgncsl.com^
 ||bsvrdyek32x23.duckdns.org^
+||bsvrkmpnyyprmsynnkrdi214785930.info^
+||bsvrkmpnyyprmsynnkrdi214785930.pro^
 ||bsvrrfrstlarrmerkziiprmsynn.live^
 ||bsvrrfrstlarrrrkmpnyaabsvrr.art^
 ||bsvrrfrstlarrrrkmpnyaabsvrr.live^
@@ -9473,6 +9482,7 @@
 ||bucket-aws-s2.com^
 ||budgetbuddyhub.com^
 ||budgetyn.com^
+||buf2.com^
 ||buffalosolpe.top^
 ||bufirsatlarkacmaz.com^
 ||bufirsatyuzbirde.site^
@@ -10442,6 +10452,7 @@
 ||dev.evsahibibasvuru.com^
 ||dev.turkcellpasajsanalmagaza.com^
 ||devamederiz.sonkaracafirsatinialalim.shop^
+||devamediyoruzbasvurla.sbs^
 ||devapp.digital^
 ||devdaynot.com^
 ||devflowtech.digital^
@@ -10546,6 +10557,7 @@
 ||dipixcanax.lol^
 ||dipixcanax.sbs^
 ||dipixcanax.xyz^
+||diplomaal.online^
 ||diplomasatisi.online^
 ||direktsube-akbank.ph^
 ||dis-ak-kampaing.myonlineportal.ch^
@@ -11470,6 +11482,7 @@
 ||fiyuukurye.com^
 ||fjellstottfinans.com^
 ||fl55polisi.online^
+||flakecheck.online^
 ||flannelwing.com^
 ||flas-smart-umut.org^
 ||flashforward.longviews.ai^
@@ -12992,6 +13005,7 @@
 ||hizli-siparis-sayfasi.com^
 ||hizlialisverisicinbr.com^
 ||hizliaracgecisilieriniz.sbs^
+||hizlibasvurmalisina.sbs^
 ||hizlibasvurtamamlan.cloud^
 ||hizlibasvuruekranim.sbs^
 ||hizlibasvurularim.sbs^
@@ -13727,7 +13741,9 @@
 ||istanbulkolaysop.xyz^
 ||istanbulkolaysopa.xyz^
 ||istanbullardans.shop^
+||istanbullbiizmlaa.xyz^
 ||istanbullcokoolay.xyz^
+||istanbulllcannkarrtt.xyz^
 ||istanbullsucanminzc.shop^
 ||istanbulmarmaramonda.shop^
 ||istanbulmefbizim.xyz^
@@ -13880,6 +13896,7 @@
 ||izmra.com^
 ||izooooffss.blogspot.com^
 ||izskaoqeq.blogspot.com^
+||iztoaofsa.blogspot.com^
 ||izvera.live^
 ||j155polisi.online^
 ||j4jobspk.com^
@@ -14589,6 +14606,7 @@
 ||kofteciyusuf.online^
 ||kohlhoff-edelstahlverarbeitung.de^
 ||kolay-kredi-basvuru.cloud^
+||kolaydiploma.com^
 ||kolayfis.netlify.app^
 ||kolayfiz.netlify.app^
 ||kolaylankampnayanoktsherseyburda258741.click^
@@ -14672,6 +14690,7 @@
 ||kredi-basvuru-online.sbs^
 ||kredi-basvuru-portal.sbs^
 ||kredi-basvuru-portali.sbs^
+||kredi-basvurum-online.cloud^
 ||kredi-basvurusu-online.sbs^
 ||kredi-merkezison.com^
 ||kredi-online-basvuru-platform.sbs^
@@ -15351,6 +15370,7 @@
 ||matkapset84parca.myshopify.com^
 ||matodorbet1094.com^
 ||matterposter.pro^
+||mauicreativos.com^
 ||mavbuylo.com^
 ||mavellora.cfd^
 ||maventradigital.com^
@@ -16903,6 +16923,7 @@
 ||paribu-tr.site^
 ||paribu.coinsec.co^
 ||paribu.coinsecimi.co^
+||paribu.com.co^
 ||paribu.hesap-guvenligi.com^
 ||paribuaraba-burada.com^
 ||paribuaraba-burada.link^
@@ -17065,6 +17086,7 @@
 ||pazarama.guvenlionline.com^
 ||pazarama.guvenlisaticisi.online^
 ||pazarama.hemenislemler.com^
+||pazarama.hizli-odemem.com^
 ||pazarama.hizlionline.com^
 ||pazarama.ilan-havale-odemem.com^
 ||pazarama.ilan-havale.com^
@@ -17300,6 +17322,7 @@
 ||potime.top^
 ||power-sync-services.com^
 ||powwowski.com^
+||poyuturyew-esederese.lol^
 ||pp55550005555.duckdns.org^
 ||pp77770007777.duckdns.org^
 ||pp88880008888.duckdns.org^
@@ -17665,6 +17688,7 @@
 ||pulsewire.company^
 ||pulseyn.com^
 ||pulsynk.org^
+||pulturturizm.com^
 ||punchbowl.cyou^
 ||pureheadline.com^
 ||purelogicbox.org^
@@ -18124,6 +18148,7 @@
 ||roldco.com^
 ||rollededpack.info^
 ||romnesst.com^
+||romuai-web.pages.dev^
 ||roomlinee.com^
 ||roomnest.gifts^
 ||roomvend.homes^
@@ -18172,6 +18197,7 @@
 ||rynqewvqwebyutn.click^
 ||s-guvendesigortaodeme.duckdns.org^
 ||s-guvenlimuhasebeodemenoktasi.duckdns.org^
+||s-guvenlisigortaodemenoktasi.duckdns.org^
 ||s-param-guvende.servis-hizmetleri.online^
 ||s-paramguvende.islembilgitr.online^
 ||s-paramguvende.onaybilgi.online^
@@ -18240,6 +18266,7 @@
 ||sabitgirsisz2026.com^
 ||sabitgirsiz2026.com^
 ||sabitgirsizi2026.com^
+||sabitlgirzsi2026.com^
 ||sacdascdacadcasdadcasds.cfd^
 ||sacmasapan.click^
 ||sacxasfafasfdasfarafs.sbs^
@@ -18544,6 +18571,7 @@
 ||sdfsdfggfd.duckdns.org^
 ||sdfsdfqweqwef.duckdns.org^
 ||sdfvksdfvksdvfk.shop^
+||sdfvksdfvksdvfkddd.shop^
 ||sdklcflsd231xasc123x12.cfd^
 ||sdklcflsd231xasc123x12.lol^
 ||sdkmob.org^
@@ -18817,6 +18845,7 @@
 ||sicak-mavi-yazi-bva.xyz^
 ||sicex.lol^
 ||sicilegm.org^
+||sicilmahkeme.org^
 ||sicilmali.org^
 ||sicilmaliye.org^
 ||sidisncis.com^
@@ -18854,6 +18883,7 @@
 ||siparilersicinburdayiz.cloud^
 ||siparilserdevamediyor.cloud^
 ||siparis-baglantisi-kisa-link.com^
+||siparis-cekme.pages.dev^
 ||siparis-guvenliodeme.com^
 ||siparis-hizliodeme.com^
 ||siparis-iade.com^
@@ -19360,6 +19390,7 @@
 ||sube-fiba.com^
 ||sube-garantl.shop^
 ||sube-infoyatirim.com^
+||sube-kuveyt-mobilturk.duckdns.org^
 ||sube-kuveyt-turk.duckdns.org^
 ||sube-matriksmenkulkiymetler.com^
 ||sube.sekermenkul.com^
@@ -20292,6 +20323,7 @@
 ||tevmui.shop^
 ||textplot.top^
 ||tfgistanbulmenkuldegerler.com^
+||thamosdanismans.com^
 ||thatwascringe.com^
 ||thearvion.store^
 ||thebasvurews.cfd^
@@ -20329,6 +20361,7 @@
 ||tiklagir101.xyz^
 ||tiklakapinda.duckdns.org^
 ||tiklaoyna.click^
+||tiktok-officialcenter.com^
 ||tiktokforbadge.com^
 ||time.evsahibibasvuru.com^
 ||timefocus.watch^
@@ -21061,6 +21094,7 @@
 ||tursab.acentasorgu.com^
 ||tursabacentasorgula.com^
 ||tursabacentesorgula.org^
+||tursabdogrulama.com^
 ||tursabonlinesorgu.com^
 ||tursabsorgu.org^
 ||tursil-cepte.biz.tr^
