@@ -8464,6 +8464,7 @@
 ||basvurularbaslasdir.cloud^
 ||basvurulardevamediyo.cloud^
 ||basvurularimiz.myonlineportal.de^
+||basvurularinitamamlar.sbs^
 ||basvurulariniz.myonlineportal.de^
 ||basvurulariniz.sbs^
 ||basvurumbbvada.duckdns.org^
@@ -8907,6 +8908,7 @@
 ||bilgicheckerssystemm.lovestoblog.com^
 ||bilgidosyasi.com^
 ||bilgikayit.abrdns.com^
+||bilgilendirme-merkezi.sbs^
 ||bilgilendirme-tr.online^
 ||bilgilendirmearayuzu.abrdns.com^
 ||bilgilendirmesayfasi.misecure.com^
@@ -10896,6 +10898,7 @@
 ||ekonomigelecegi.cc^
 ||ekonomigelecek.com^
 ||ekonomihatti.site^
+||ekonomik-tcdd.biletal.uk^
 ||ekonomikmarketler.click^
 ||ekonomimersin.net^
 ||ekonomirehberi.capital^
@@ -11733,6 +11736,7 @@
 ||gedewadgsqa.duckdns.org^
 ||geimbra.weebly.com^
 ||geldasdawcce.duckdns.org^
+||geldelerdensgeasw.duckdns.org^
 ||geldesgeahhsder.duckdns.org^
 ||geldesmmeasdwas.duckdns.org^
 ||geldrstensldm.xyz^
@@ -12465,6 +12469,7 @@
 ||hakanrettoilekeyfinebak.duckdns.org^
 ||hakeiwjs727wj.com^
 ||hakkc4b1enb1yemenedneb.life^
+||hakkinda-uyum.ink^
 ||haksizfil.cfd^
 ||halhalican.co^
 ||halk-bireysel-basvur-com.duckdns.org^
@@ -13025,6 +13030,7 @@
 ||hizlisdbakieyr.online^
 ||hizlisdbakieyr.store^
 ||hizlisiparis-ver.com^
+||hizlitaoplabasvurlar.sbs^
 ||hizlivekolaysorgulamam.shop^
 ||hizliyonlen.lol^
 ||hizlsidiebusejsd.online^
@@ -14114,6 +14120,7 @@
 ||karikatur-line.click^
 ||karisik.click^
 ||karmab.nicepage.io^
+||karmavotogalerist.duckdns.org^
 ||karnpanyalarirn.xyz^
 ||karostmufz.com^
 ||karovexim.com^
@@ -15775,6 +15782,7 @@
 ||mobilservisorg.com^
 ||mobilseyehatisleml.duckdns.org^
 ||mobilsubem.myonlineportal.de^
+||mobilsubemiz.myonlineportal.de^
 ||mobiltalepfirsati.duckdns.org^
 ||mobiltebce.my-homeip.net^
 ||mobilweb-hat-grn.casa^
@@ -17233,6 +17241,7 @@
 ||ppvagirisgoniz1ernenutrapp.space^
 ||ppvagirisgonizlemenuapptr.space^
 ||pqvagirisonizlemenugapptr.space^
+||pratik-portal.shop^
 ||praxena.shop^
 ||praxena.site^
 ||praxena.store^
@@ -22449,6 +22458,7 @@
 ||zfwalfjcadcswlfjwsdfw.sbs^
 ||zg5mkr7q.apexharvestor.digital^
 ||zgj1tam9.space^
+||zhelerdsnlerd.duckdns.org^
 ||zhghggffghsax6.lol^
 ||zhqsbjc.com^
 ||zi2gr.cfd^
