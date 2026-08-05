@@ -10844,6 +10844,7 @@
 ||edevletonaylionlineegitimler.com^
 ||edevletuyapgiris.com^
 ||edevletuzlasma.org^
+||edgeone.dev^
 ||edictoria.sbs^
 ||edilgen-kapigr-entry.myonlineportal.ch^
 ||edilim-entry-kapisi.myonlineportal.ch^
@@ -11109,6 +11110,7 @@
 ||era7capone5.sbs^
 ||era7capone6.sbs^
 ||erd4power.sbs^
+||erde-rederesedere.lol^
 ||erdsecsoakemecsa.shop^
 ||eredesaweresede.xyz^
 ||erenaslankraldisr.site^
@@ -11573,6 +11575,7 @@
 ||frostgiantd.info^
 ||frrrstllrrrkmpppnnnyaaaabsvrrr.info^
 ||frrrstllrrrkmpppnnnyaaaabsvrrr.pro^
+||frrstlrrkmnyaabsvrrr25479123.info^
 ||frsatlarbyramaozel.shop^
 ||frsattayzbir.com^
 ||frsattsonnnbsvrrkmpnyyaaa.art^
@@ -13539,6 +13542,7 @@
 ||internetbasvurukatilimi.xyz^
 ||internetduyurularisiz.duckdns.org^
 ||internetislemleri-akmobil-bireysel-com.duckdns.org^
+||internetsube-qnbfinansbankasi.ph^
 ||internetsubesi.online^
 ||internews.tr^
 ||intranet.evsahibibasvuru.com^
@@ -13816,6 +13820,7 @@
 ||isthemenbasvur.uk^
 ||istkart.xyz^
 ||istkartrtx.online^
+||istkartsamabggy.icu^
 ||istkkartttbelggim.xyz^
 ||istkkartttbelggimm.xyz^
 ||istkrdabadss.duckdns.org^
@@ -13840,6 +13845,7 @@
 ||istpalenkova.xyz^
 ||istsenben.xyz^
 ||isube-kuveyttt.duckdns.org^
+||isube-mobilll.duckdns.org^
 ||isube-qnbfinansbankasi.ph^
 ||isubeakbankdirekt.ph^
 ||isxbank-promo.redirectme.net^
@@ -18248,6 +18254,7 @@
 ||s0kmarklkerler.com^
 ||s0kmarkot.shop^
 ||s0kmarkretler.com^
+||s0kmarkretlero.com^
 ||s0kmarkteltler.xyz^
 ||s0kmarleletr.com^
 ||s0kmarletrey.com^
@@ -19208,6 +19215,8 @@
 ||sorumlular-verilentr.garden^
 ||sorunsuzhepburdayizbiz.com^
 ||sosuwen.shop^
+||sosyal-media.garden^
+||sosyalhizmetbasvuru.site^
 ||sosyalkonut-toplukonut.vercel.app^
 ||sosyalkonutbasvurular.cfd^
 ||sosyalxzmetleremeklicn.xyz^
@@ -22081,6 +22090,7 @@
 ||xn--otokootomotiv-mgb.com^
 ||xn--param-gven-de-ile-siparis-lwc.com^
 ||xn--param-gvende-ile-siparisi-tamamla-trendyol-tme.com^
+||xn--pttavmilanlarm-sepet-ubd.com^
 ||xn--qnbfinansbank-x3d.ph^
 ||xn--rektaru8-zkb.nicepage.io^
 ||xn--sahibindenkargomilanmn-6ld.com^
@@ -22289,6 +22299,8 @@
 ||yengunyenheyecanherseyburdaesenedersn.click^
 ||yengzlis2026.com^
 ||yeni-bm-yenifirsatlarim.vercel.app^
+||yeni-parti-bagis.com^
+||yeni-parti.uk^
 ||yeni-safha.guru^
 ||yeni500dsa.nicepage.io^
 ||yeni5d7h6cc.nicepage.io^
