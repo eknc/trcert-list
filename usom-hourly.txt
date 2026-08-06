@@ -265,6 +265,7 @@
 103.45.229.40
 103.51.147.183
 103.53.80.103
+103.53.80.201
 103.56.17.192
 103.6.235.26
 103.6.235.78
@@ -4169,6 +4170,7 @@
 217.217.97.106
 217.25.91.61
 217.26.60.46
+217.60.195.118
 217.60.195.132
 217.60.195.160
 217.60.195.176
@@ -4445,6 +4447,7 @@
 31.56.229.221
 31.56.27.76
 31.56.27.97
+31.56.53.172
 31.57.105.47
 31.57.106.233
 31.57.184.154
@@ -5029,6 +5032,7 @@
 45.148.10.230
 45.148.10.242
 45.148.120.244
+45.148.18.38
 45.148.244.5
 45.148.9.200
 45.149.145.160
@@ -5966,6 +5970,7 @@
 64.71.166.50
 64.72.205.32
 64.89.160.73
+64.89.160.76
 64.89.161.130
 64.89.161.81
 64.89.162.21
@@ -6749,6 +6754,7 @@
 87.156.185.61
 87.230.98.74
 87.236.176.116
+87.236.176.208
 87.236.177.9
 87.237.202.67
 87.239.129.78
@@ -7745,7 +7751,9 @@
 ||akklevaltrlerndn.click^
 ||akktuteellburadaaa.xyz^
 ||akmobil-bireysel-com.duckdns.org^
+||akmobil-ceptebasvuru-ekrani-com.duckdns.org^
 ||akmobil-ceptebasvuru-ekrani-com.webredirect.org^
+||akmobil-cepteislemler-ekrani-com.webredirect.org^
 ||akmobil-onlinebasvuru-ekrani-com.webredirect.org^
 ||akmobil-onlineislem-ekrani.duckdns.org^
 ||akmobil-onlineislem-guncel-ekran.duckdns.org^
@@ -7999,6 +8007,7 @@
 ||apple.driver-store.com^
 ||appledisk.ru^
 ||appledns.ru^
+||applefilevault.com^
 ||applehosts.ru^
 ||appleid-customertelemetry.gl^
 ||appletime.in^
@@ -8009,6 +8018,7 @@
 ||apps.docu-sign.net^
 ||appsy.vu^
 ||appvo.cyou^
+||apricotfilepoint.com^
 ||aprocore.tr^
 ||aprograde.tr^
 ||aptitucrantix.digital^
@@ -8406,6 +8416,7 @@
 ||bambaska.casa^
 ||bambuicin.sbs^
 ||banabakarifdabi.sbs^
+||bananafastfile.com^
 ||bancaporinternetbbmx.online^
 ||bandshipstool.com^
 ||bandspongewatch.com^
@@ -8459,6 +8470,7 @@
 ||basvurevtkixz.sbs^
 ||basvurhemenkapinda.cfd^
 ||basvurlarabasladi.cloud^
+||basvurlerdaevamda.sbs^
 ||basvurrvn.sbs^
 ||basvursenc.sbs^
 ||basvursend.sbs^
@@ -8916,6 +8928,7 @@
 ||benimadimkenankamberseninlegoruscez.com^
 ||bensanahemengelddm.shop^
 ||benyenbasladmszdegelhabd87.info^
+||benz2.turkey-benz.com^
 ||benzin-pro.com^
 ||bepviews.com^
 ||beralisvc.info^
@@ -10017,6 +10030,7 @@
 ||cloudanalitics.net^
 ||cloudauth-gateway.com^
 ||cloudcoderz.digital^
+||cloudfilebridge.com^
 ||cloudfront-021.s3.us-west-2.amazonaws.com^
 ||cloudguide.in^
 ||cloudlanecdn.com^
@@ -10079,6 +10093,7 @@
 ||com-qnbfinansbank.ph^
 ||comauseal.click^
 ||comedyworld.lol^
+||comeonbbyalbrdan.shop^
 ||comicstar.lat^
 ||commonfocus.net^
 ||commonstory.org^
@@ -10531,12 +10546,15 @@
 ||dijitalbasvurukatilimi.sbs^
 ||dijitalbilgi-giris.sbs^
 ||dijitalbilgi-giriskampanya.sbs^
+||dijitalbilgi-girisnetkampanya.sbs^
 ||dijitalbilgi-sorgu.sbs^
+||dijitalbilgi-sorguislem.sbs^
 ||dijitalbilgiform.sbs^
 ||dijitalbilgilendirme.sbs^
 ||dijitalbilgilendirmeler.xyz^
 ||dijitalbilgilendirmelerrim.duckdns.org^
 ||dijitalbilginet-giris.sbs^
+||dijitalbilginet-giriskampanya.sbs^
 ||dijitaleis.space^
 ||dijitaleiscep.sytes.net^
 ||dijitalekonomikdestekmobil.xyz^
@@ -10545,11 +10563,14 @@
 ||dijitalformgiris.sbs^
 ||dijitalgarantitalepyonetimsistemi.space^
 ||dijitalgib-tr.com^
+||dijitalgiris-bilginet.sbs^
+||dijitalgiris-netbilgi.sbs^
 ||dijitalhizzlihizmet.duckdns.org^
 ||dijitalislemfirsati.sbs^
 ||dijitalnet-bilgi.sbs^
 ||dijitalnetbilgi-giris.sbs^
 ||dijitalnetform.sbs^
+||dijitalneybilgi-giris.sbs^
 ||dijitalportalgiris.com^
 ||dijitalsbasvurukanal.duckdns.org^
 ||dijitalsorgu.sbs^
@@ -10779,17 +10800,21 @@
 ||e-merkeziletisimmhrs.digital^
 ||e-mhrs.digital^
 ||e-mhrsdijitalmerkezl.digital^
+||e-mhrsilesagligakavuskos.digital^
 ||e-mhrsilesagligakos.digital^
 ||e-mhrsilesagliikliia.digital^
 ||e-mhrsilesagliklibakislar.digital^
 ||e-mhrsilesaglikliyasamm.digital^
 ||e-mhrsrandevulariylayasams.digital^
 ||e-mhrssrandevumerkezii.digital^
+||e-nvirandevu.com^
+||e-nvirandevu.org^
 ||e-odeme.duckdns.org^
 ||e-odemeler.duckdns.org^
 ||e-online-ilan-sepet.com^
 ||e-online-ilan-sepetim.com^
 ||e-onlineislemlerim.rf.gd^
+||e-sagligahemenkavussss.digital^
 ||e-sozlesme.kurumsal-online-islem.com^
 ||e-sube-isbank.ph^
 ||e-sube.hdfportfoy.com^
@@ -11399,14 +11424,21 @@
 ||fifty-leaves-fighting-technician.trycloudflare.com^
 ||figmanets.in^
 ||filebulldogs.com^
+||filecedarwallet.online^
+||filecopperbasket.sbs^
+||filecrimsonsignal.online^
 ||filedwnld.top^
 ||filefastdata.com^
 ||fileless-storage-s3.cc^
 ||filelocker.locker^
+||filemarblegarden.sbs^
+||fileoceanhammer.sbs^
+||filerubyfolder.sbs^
 ||filesdwnl.top^
 ||filesdwnld.top^
 ||filesdwnload.top^
 ||filev2.getsession.org^
+||filevelvettractor.sbs^
 ||filldowl.online^
 ||filmfunny.lol^
 ||filmgrain.pics^
@@ -11444,6 +11476,7 @@
 ||finger.cldvrfd.click^
 ||fingersnaapp.lat^
 ||finlora.blog^
+||finpath.world^
 ||finryn.com^
 ||fintrova.fund^
 ||finventurex.com^
@@ -11592,6 +11625,7 @@
 ||frrrstllrrrkmpppnnnyaaaabsvrrr.info^
 ||frrrstllrrrkmpppnnnyaaaabsvrrr.pro^
 ||frrstlrrkmnyaabsvrrr25479123.info^
+||frrstlrrkmnyaabsvrrr25479123.pro^
 ||frsatlarbyramaozel.shop^
 ||frsattayzbir.com^
 ||frsattsonnnbsvrrkmpnyyaaa.art^
@@ -11719,7 +11753,9 @@
 ||garanti-bonus-islemler-com.duckdns.org^
 ||garanti-bonus-islemler-com.duia.ro^
 ||garanti-bonus-islemler-com.mayddns.com^
+||garanti-cepte-basvuru-com.webredirect.org^
 ||garanti-cepte-basvuruekrani-com.webredirect.org^
+||garanti-cepte-islemler-com.webredirect.org^
 ||garanti-kredi-basvuru.sbs^
 ||garanti-kredi-basvurusu.sbs^
 ||garanti-krediye-basvur.sbs^
@@ -12644,6 +12680,7 @@
 ||hasntahizmar.cfd^
 ||hasolanalsa.co^
 ||hastanaentente.uk^
+||hastane-mhrs.digital^
 ||hastanegunlerim.cfd^
 ||hastaneisleriiogreen.uk^
 ||hastaneisleriogren.cfd^
@@ -13702,6 +13739,7 @@
 ||istanbulbeelgimcan.xyz^
 ||istanbulbelggim.xyz^
 ||istanbulbelgiimmmcann.xyz^
+||istanbulbelgim.uk^
 ||istanbulbelgim.xyz^
 ||istanbulbelgimcann.xyz^
 ||istanbulbelgimkart.xyz^
@@ -13777,6 +13815,7 @@
 ||istanbullardans.shop^
 ||istanbullbiizmlaa.xyz^
 ||istanbullcokoolay.xyz^
+||istanbulllbelgimmkart.com^
 ||istanbulllcannkarrtt.xyz^
 ||istanbullsucanminzc.shop^
 ||istanbulmarmaramonda.shop^
@@ -14720,12 +14759,14 @@
 ||kredgunas6d.nicepage.io^
 ||kredi-basvur-online.sbs^
 ||kredi-basvur-portal.sbs^
+||kredi-basvuru-merkezi.click^
 ||kredi-basvuru-merkezi.ooguy.com^
 ||kredi-basvuru-online-portal.sbs^
 ||kredi-basvuru-online.cfd^
 ||kredi-basvuru-online.click^
 ||kredi-basvuru-online.club^
 ||kredi-basvuru-online.lat^
+||kredi-basvuru-online.lol^
 ||kredi-basvuru-online.rest^
 ||kredi-basvuru-online.sbs^
 ||kredi-basvuru-portal.sbs^
@@ -14733,6 +14774,7 @@
 ||kredi-basvurum-online.cloud^
 ||kredi-basvurusu-online.sbs^
 ||kredi-basvurusu-yap.cloud^
+||kredi-destek-online.cloud^
 ||kredi-merkezison.com^
 ||kredi-online-basvuru-platform.sbs^
 ||kredi-online-islem.lat^
@@ -14744,6 +14786,7 @@
 ||kredibasvurulari.lat^
 ||kredibasvuruonayla.com^
 ||kredibasvuruonline.click^
+||kredibasvuruonline.lat^
 ||kredibasvuruonline.sbs^
 ||kredibasvuruportal.club^
 ||kredibasvuruportali.lat^
@@ -14936,6 +14979,7 @@
 ||legitimate-kinda-cut-annotation.trycloudflare.com^
 ||legs-krc.vip^
 ||lekimo.info^
+||lemonfilewave.com^
 ||leniencyskirttray.com^
 ||leofstbrdaclsyrz.com^
 ||lestresot.info^
@@ -14971,6 +15015,7 @@
 ||lilipoliposideferszede.xyz^
 ||lilokokobilmem.click^
 ||lilolopilkedefersede.xyz^
+||limefilescope.com^
 ||limit-var-kredin.biz^
 ||limoncubakie.lat^
 ||limuzindamat.lol^
@@ -15315,6 +15360,7 @@
 ||mandatumo.com^
 ||mandeo.info^
 ||mango-cleopatrapg.com^
+||mangocloudfile.com^
 ||mangorbit.com^
 ||manpowergroupjobs.com^
 ||mantelterminalevyemekleris.duckdns.org^
@@ -15914,6 +15960,7 @@
 ||mobilsubem.myonlineportal.de^
 ||mobilsubemiz.myonlineportal.de^
 ||mobilsubeniz.my-homeip.de^
+||mobilsubesi.my-homeip.de^
 ||mobiltalepfirsati.duckdns.org^
 ||mobiltebce.my-homeip.net^
 ||mobilweb-hat-grn.casa^
@@ -16010,6 +16057,7 @@
 ||muhugufe-redesede.lol^
 ||mujco.cn^
 ||mujuhubi-bililide.lol^
+||mukemmelbirbaslangicicinharikagunlerde.lat^
 ||mukemmelbirbaslangicicinharikagunlerde.xyz^
 ||mukemmelds6f.nicepage.io^
 ||mukulupolisede.lat^
@@ -16495,6 +16543,7 @@
 ||official-teams-storage.com^
 ||official-version.com^
 ||offservers.ru^
+||ogodkekflkks.click^
 ||ogreninrandevunuzu.com^
 ||ogrenmeaile.com^
 ||ogrenmeasamasiekranlariniz.sbs^
@@ -16591,6 +16640,7 @@
 ||online-islemnktansa.net^
 ||online-kampanyaniz.my-homeip.de^
 ||online-karaca.vercel.app^
+||online-kredi-merkezi.cloud^
 ||online-kredi-onay.cloud^
 ||online-kuveytmobil.duckdns.org^
 ||online-ozel-siparis.online^
@@ -16600,6 +16650,7 @@
 ||online-sorgulama.com^
 ||online-sozlesme-islemleri.com^
 ||online-tr-shop-mobil.site^
+||online-tuv.com^
 ||online-web-store.online^
 ||online.empordafibra.com^
 ||online.evsahibibasvuru.com^
@@ -16723,6 +16774,7 @@
 ||oraletene.nicepage.io^
 ||orange-cell-1353.hellohiall.workers.dev^
 ||orangechimpanzee.info^
+||orangesmartfile.com^
 ||oratoriax.vu^
 ||orbexi.vu^
 ||orbitalynd.pro^
@@ -18566,6 +18618,7 @@
 ||saotykaso.xyz^
 ||saouk.top^
 ||sapaos.shop^
+||sapdfsaodfsadl.online^
 ||sarisincitirikacirmamabi.click^
 ||sasadg.b-cdn.net^
 ||sastoro.com^
@@ -19454,6 +19507,7 @@
 ||sube-kuveyt-ttr.duckdns.org^
 ||sube-kuveyt-turk.duckdns.org^
 ||sube-matriksmenkulkiymetler.com^
+||sube-mobilkvyt.duckdns.org^
 ||sube.sekermenkul.com^
 ||sube.sekerplatform.pro^
 ||subeinf.com^
@@ -19503,6 +19557,7 @@
 ||svscnrsondanismanlik.blogspot.com^
 ||svscrsondanismanlik.blogspot.com^
 ||svuatwea.love^
+||sw.sayatatata.cyou^
 ||swapy-lim-gir.myonlineportal.ch^
 ||sweeffg.online^
 ||sweepquest.info^
@@ -19516,6 +19571,7 @@
 ||sylverixstrategy.com^
 ||syn.domainclx.biz^
 ||syn.ezpizi.click^
+||syncdatavault.com^
 ||syncdock.click^
 ||syncheaven.online^
 ||synchro-service.com^
@@ -20092,6 +20148,7 @@
 ||tckalkinmabankasi.com^
 ||tckalkinmayatirimbankasi.com^
 ||tckamusorgu.org^
+||tcksorgu.org^
 ||tcmahkeme.net^
 ||tcmasakdosya.com^
 ||tcmasakportal.com^
@@ -20487,6 +20544,7 @@
 ||tkg-edvtap-randv.org^
 ||tkg-edvtap-randvv.org^
 ||tkg-edvtapkonrandv.org^
+||tkg-edvtepkonv.org^
 ||tkg-tapkorandv.org^
 ||tkg-tapsurndvnuz.net^
 ||tkg-tapsurndvnuzs.info^
@@ -21035,6 +21093,7 @@
 ||turkcellduyuru.com^
 ||turkdailyhub.world^
 ||turkekonomik.com^
+||turkey-benz.com^
 ||turkeybyte.live^
 ||turkeyeconomyinsights.com^
 ||turkeyfinancetoday.com^
@@ -21095,6 +21154,7 @@
 ||turkiyapostatr.com^
 ||turkiye-petrolleri-platform.com^
 ||turkiye-petrolleri.pro^
+||turkiye.gov.1pgw.com^
 ||turkiye.gov.clskl.com^
 ||turkiye.gov.tr-resmigazete.77-83-201-134.plesk.page^
 ||turkiyeaktifhaber.com^
