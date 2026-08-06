@@ -4104,6 +4104,8 @@
 ||21455452222255899892.duckdns.org^
 ||21455452222255899893.duckdns.org^
 ||21455452222255899894.duckdns.org^
+||21455452222255899896.duckdns.org^
+||21455452222255899897.duckdns.org^
 ||21461sndmsndsasd.com^
 216.107.139.197
 216.107.139.52
@@ -8292,6 +8294,7 @@
 ||avirox.gifts^
 ||avis-filo.kurumsal-online-islem.com^
 ||avis-online-kiralama00.duckdns.org^
+||avis-sozlesme.hizli-islemler-merkezi.com^
 ||avis.arackiralamaislem.com^
 ||avisfilo.rent^
 ||avisfiloarackirala.sbs^
@@ -10502,6 +10505,7 @@
 ||dfgdfge4gfdgfd.nicepage.io^
 ||dfgdfgerht.duckdns.org^
 ||dfgdfssdfffgs.duckdns.org^
+||dfsopsdkopkfdbsdfsbbbb.shop^
 ||dfter.netlify.app^
 ||dgmbiq.buzz^
 ||dhamoyush.com^
@@ -10519,6 +10523,7 @@
 ||digitalscrappingworld.com^
 ||digitalwinter.vip^
 ||digpoint.icu^
+||diji-bilgikampanya.sbs^
 ||diji-tebim.my-homeip.de^
 ||dijital-basvuruadres.sbs^
 ||dijital-basvuruadresim.sbs^
@@ -11758,6 +11763,7 @@
 ||garanti-cepte-islemler-com.webredirect.org^
 ||garanti-kredi-basvuru.sbs^
 ||garanti-kredi-basvurusu.sbs^
+||garanti-kredili-bonus-com.mayddns.com^
 ||garanti-krediye-basvur.sbs^
 ||garanti-subesi-giris.ph^
 ||garanti-yesil-kredili-garanti.xyz^
@@ -12795,6 +12801,7 @@
 ||hefelfeguystr.duckdns.org^
 ||heilbronner-fruehlingssymposium.de^
 ||heismebktaltara.net^
+||helboystr.duckdns.org^
 ||helfeguystr.duckdns.org^
 ||heliosup.info^
 ||hello-brothers777.com^
@@ -13061,6 +13068,7 @@
 ||hizli-infor-mation.casa^
 ||hizli-islem-merkezi.com^
 ||hizli-islem.com^
+||hizli-islemler-merkezi.com^
 ||hizli-kredi-basvurusu.cloud^
 ||hizli-limit.xyz^
 ||hizli-odemem.com^
@@ -13071,6 +13079,7 @@
 ||hizli-siparis-sayfasi.com^
 ||hizlialisverisicinbr.com^
 ||hizliaracgecisilieriniz.sbs^
+||hizlibakiyuklemehgss.web.app^
 ||hizlibasvurmalisina.sbs^
 ||hizlibasvurtamamlan.cloud^
 ||hizlibasvuruekranim.sbs^
@@ -13824,6 +13833,7 @@
 ||istanbulmefe.xyz^
 ||istanbulmefecan.xyz^
 ||istanbulmruzgar.xyz^
+||istanbulonline.uk^
 ||istanbulportfoydanismanlik.com^
 ||istanbulpropertyfund.com^
 ||istanbulrandevutek.xyz^
@@ -13846,6 +13856,7 @@
 ||istanbulyorum.info^
 ||istanbulzen.shop^
 ||istanbulzirvebaba.xyz^
+||istanbuulonlinebelgem.uk^
 ||istancan.xyz^
 ||istancanbulkart.xyz^
 ||istancansancan.xyz^
@@ -14759,7 +14770,9 @@
 ||kredgunas6d.nicepage.io^
 ||kredi-basvur-online.sbs^
 ||kredi-basvur-portal.sbs^
+||kredi-basvuru-merkezi.cfd^
 ||kredi-basvuru-merkezi.click^
+||kredi-basvuru-merkezi.lat^
 ||kredi-basvuru-merkezi.ooguy.com^
 ||kredi-basvuru-online-portal.sbs^
 ||kredi-basvuru-online.cfd^
@@ -16272,6 +16285,7 @@
 ||newsflash.today^
 ||newsfolio.info^
 ||newsgardensnde.duckdns.org^
+||newsgradelerdsew.duckdns.org^
 ||newsiora.pro^
 ||newsolutionsxsenterprise.icu^
 ||newsonburduartc4b1kpromosyonkrebu.online^
@@ -20448,6 +20462,7 @@
 ||thebestscollato.top^
 ||thecocacola-company.com^
 ||thehizlionaygerekenislerde.com^
+||theistannbulllbelgimcan.com^
 ||thelintora.store^
 ||themeltoxa.site^
 ||thenovara.site^
@@ -21259,6 +21274,7 @@
 ||tuvturk-rov.com^
 ||tuvturk-wir.com^
 ||tuvturk-xxk.com^
+||tuvturk.rauzmiklimlendirme.com^
 ||tuvturk23randevu.duckdns.org^
 ||tuvturkabim.com^
 ||tuvturkaracmuayenerandevuonlinealin.com^
@@ -22147,6 +22163,7 @@
 ||xenbazli.tr^
 ||xenbuyra.com^
 ||xendora.xyz^
+||xenlatis.com^
 ||xenpolki.gifts^
 ||xenstorlo.shop^
 ||xenzari.tr^
