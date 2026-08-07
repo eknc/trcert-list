@@ -6821,6 +6821,7 @@
 ||888002121588808.gleeze.com^
 ||88854588740002sd20.gleeze.com^
 ||888811111.duckdns.org^
+||8888188.duckdns.org^
 89.105.198.134
 89.105.198.190
 89.105.201.132
@@ -12579,6 +12580,7 @@
 ||haberler6723236.sbs^
 ||haberler73421.shop^
 ||haberler78912.sbs^
+||haberler8834232.shop^
 ||haberler911.sbs^
 ||haberlercihazlar.com^
 ||haberlerdiyarirtrv.sludgy.cfd^
@@ -13619,6 +13621,7 @@
 ||indirimmarketleri.click^
 ||indirimsepetinde.com^
 ||indirimsonfrstt.dnsup.net^
+||indirimsonfrsttxx.duckdns.org^
 ||indirimucak.o-bilets.com^
 ||indirmsznle.com^
 ||indrmli-149luk-gunler.sbs^
@@ -17124,6 +17127,7 @@
 ||paribu-cevirkazan.com^
 ||paribu-hediyelicark.com^
 ||paribu-hediyelicekilisi.com^
+||paribu-pepe-cekilis.com^
 ||paribu-pepe-cekilisi.com^
 ||paribu-pepe-cekilisi.giize.com^
 ||paribu-pepe-cekilisi.info^
@@ -18570,6 +18574,7 @@
 ||safety-languag-gr-web.myonlineportal.ch^
 ||safevault-hub.info^
 ||safsadfslal230sladsa.net^
+||safsaqwrcs.sbs^
 ||sagligakavusmakicinbiradim.digital^
 ||saglik-182.com^
 ||saglik-gov.sbs^
@@ -18625,6 +18630,7 @@
 ||sahibinden-get.mobilservisler-84.sbs^
 ||sahibinden-get.mobilservisler-89.sbs^
 ||sahibinden-get.mobilservisleriniz-14.sbs^
+||sahibinden-get.mobilservisleriniz-16.sbs^
 ||sahibinden-get.mobilservisleriniz-2.sbs^
 ||sahibinden-get.mobilservisleriniz-5.sbs^
 ||sahibinden-get.servislerjethizmetler.online^
@@ -18686,6 +18692,7 @@
 ||sahibinden.magaza-mobil.com^
 ||sahibinden.magazada-online.com^
 ||sahibinden.magazadan-odeme.com^
+||sahibinden.mobilservislerim-2.sbs^
 ||sahibinden.mobilservisleriniz-6.sbs^
 ||sahibinden.odeme-ilanim-48773.com^
 ||sahibinden.offer192391.rest^
@@ -19570,6 +19577,7 @@
 ||srntrsqtnsdanismanlik.blogspot.com^
 ||srntrsrsesdanismanlik.blogspot.com^
 ||srntrstnsdanismanlik.blogspot.com^
+||srnykrndlasrabkle.com^
 ||srrsewqsgqdaqnismanlik.blogspot.com^
 ||srrsewqsgqrsaqnismanlik.blogspot.com^
 ||srrsewqsgqrsxaaqnismanlik.blogspot.com^
@@ -19686,6 +19694,7 @@
 ||subeislemlerim-akbank.ph^
 ||subemiz-garanti.myonlineportal.eu^
 ||subeportalgiris.com^
+||subesimobil.my-homeip.de^
 ||subesiz-basvur.myonlineportal.eu^
 ||subleaqfjs.com^
 ||submit-customer.shop^
@@ -20854,6 +20863,7 @@
 ||tokraftokasfasax.xyz^
 ||tol-liber-oreal.myonlineportal.ch^
 ||tom-basvraidt.duckdns.org^
+||tombankhadi.com^
 ||tombnkbsvr.duckdns.org^
 ||tomerudakil.gifts^
 ||tomhadibankampanyasi.duckdns.org^
