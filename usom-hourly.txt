@@ -3708,6 +3708,7 @@
 2.237.57.70
 2.26.50.151
 2.26.75.16
+2.27.160.29
 2.56.126.230
 2.56.190.139
 2.57.149.22
@@ -4470,7 +4471,9 @@
 31.59.139.111
 31.59.58.209
 31.59.58.84
+31.77.195.32
 31.97.17.73
+||312221222145558999891.duckdns.org^
 ||312222545548789988990.duckdns.org^
 ||312222545548789988991.duckdns.org^
 ||312222545548789988992.duckdns.org^
@@ -5681,6 +5684,7 @@
 5.42.78.100
 5.42.92.51
 5.45.70.178
+5.56.25.151
 5.59.248.169
 5.59.248.52
 5.59.248.92
@@ -6291,6 +6295,7 @@
 ||774f0eueuht.thechidocas.cyou^
 ||77700051455705s0a.duckdns.org^
 ||777771112202102777.gleeze.com^
+||777777777.duckdns.org^
 ||7777778454546894654.duckdns.org^
 ||7777sdsdsnsdsaym.com^
 ||77cxmai3zm.icu^
@@ -6821,6 +6826,7 @@
 89.105.201.132
 89.105.201.183
 89.106.65.100
+89.106.83.205
 89.110.88.155
 89.110.98.26
 89.111.170.100
@@ -7001,6 +7007,8 @@
 91.206.178.120
 91.206.178.125
 91.206.178.133
+91.206.178.155
+91.208.162.129
 91.208.162.96
 91.208.197.167
 91.208.206.118
@@ -10431,6 +10439,8 @@
 ||denemebendes.duckdns.org^
 ||denemelergarismenuguncell.xyz^
 ||denionline.com^
+||deniz-mobb.duckdns.org^
+||deniz-mobbll.duckdns.org^
 ||deniz-mobil-bireysel-com.duckdns.org^
 ||deniz-mobil-com-cepte-basvuru-ekrani.duckdns.org^
 ||deniz-mobil-com-promosyonn-cebimde.duckdns.org^
@@ -10835,6 +10845,7 @@
 ||e-mhrsilesaglikliyasamm.digital^
 ||e-mhrsrandevulariylayasams.digital^
 ||e-mhrssrandevumerkezii.digital^
+||e-mobilde-garantibbva.com^
 ||e-nviirandevu.com^
 ||e-nvirandevu.com^
 ||e-nvirandevu.org^
@@ -12989,6 +13000,7 @@
 ||hgsbaciyetkisi.art^
 ||hgsbakieduragi.web.app^
 ||hgsbakielersmc.lat^
+||hgsbakiye-yuklemeciburda.firebaseapp.com^
 ||hgsbakiyebayisi.web.app^
 ||hgsbakiyeciboss.firebaseapp.com^
 ||hgsbakiyeciboss.web.app^
@@ -13270,6 +13282,7 @@
 ||hmnislmnknts.net^
 ||hmnislmnkta.net^
 ||hmnislmnktans.net^
+||hmnislmnktasni.net^
 ||hmnislmnktbas.net^
 ||hmnislmnktnas.net^
 ||hmnislmnktnasnn.net^
@@ -13665,6 +13678,7 @@
 ||intranet.garantibbvakredibasvuru.com^
 ||intrawld.com^
 ||intreflex-grentde-ok.myonlineportal.ch^
+||intsube-enpara.ph^
 ||inves-rapor-ent.myonlineportal.ch^
 ||investika-club.com^
 ||investmentpulsehub.com^
@@ -14521,6 +14535,7 @@
 ||kilometrekusu.xyz^
 ||kilometresorgulamapttavm.com^
 ||kilometresorgupttavm.com^
+||kilometrogrenin.web.app^
 ||kimbilirziya.click^
 ||kimseyitutmuyorum.sbs^
 ||kindbranch.click^
@@ -14770,6 +14785,7 @@
 ||konuriskalmaksa.click^
 ||konveyt-giris.duckdns.org^
 ||kopru-bagla-t.myonlineportal.ch^
+||kopyaciceksepeti.ph^
 ||koralansakadar.co^
 ||koravelo.sbs^
 ||korlinnnimmir.com^
@@ -15996,6 +16012,7 @@
 ||mobilfirsatimburada.xyz^
 ||mobilfirsatlarilims.duckdns.org^
 ||mobilhalkta.duckdns.org^
+||mobilhimztlerimlerde.duckdns.org^
 ||mobilhizmetcuma.duckdns.org^
 ||mobilitebasvurus.sbs^
 ||mobilnet.my-homeip.net^
@@ -16121,6 +16138,7 @@
 ||mudofashion.shop^
 ||mueleer.com^
 ||mufasnasfanas.sbs^
+||mufgfinance.net^
 ||muguhudue-redesetre.lol^
 ||muhamadfafaoyunda.net^
 ||muhguferedese-asdsede.lol^
@@ -16453,6 +16471,7 @@
 ||nonoestlerkest.duckdns.org^
 ||nop.lat^
 ||nopanel-363563.top^
+||nopanel-36672.top^
 ||nopanel-564732.top^
 ||nopanel-815625.top^
 ||nopanel-85434.top^
@@ -17081,6 +17100,10 @@
 ||paribu-arababurada.link^
 ||paribu-arabacekilisi.com^
 ||paribu-arabahediye.com^
+||paribu-arabahediyem.com^
+||paribu-arabahediyem.info^
+||paribu-arabahediyen.com^
+||paribu-arabahediyen.info^
 ||paribu-arabakazan.com^
 ||paribu-arabakazanma.com^
 ||paribu-arabakazanma.info^
@@ -17088,6 +17111,8 @@
 ||paribu-arabasansi.com^
 ||paribu-arabasansi.info^
 ||paribu-arabasansi.link^
+||paribu-arabayakala.com^
+||paribu-arabayakala.info^
 ||paribu-buyukcekilisi.com^
 ||paribu-cark-cekilisi.opik.net^
 ||paribu-cark-hediye.com^
@@ -17136,6 +17161,8 @@
 ||paribuaraba-sansi.com^
 ||paribuaraba-sansi.info^
 ||paribuaraba-sansi.link^
+||paribuaraba-yakala.com^
+||paribuaraba-yakala.info^
 ||paribuaraba.com^
 ||paribuaraba2026.com^
 ||paribuarabaavantaj.com^
@@ -17198,9 +17225,12 @@
 ||paribuaracfirsat.com^
 ||paribubonuscarki.com^
 ||paribubuyukcekilisi.com^
+||paribucark-alhediye.info^
 ||paribucark-burada.com^
 ||paribucark-burada.link^
 ||paribucark-cevir.com^
+||paribucark-hediye.info^
+||paribucark-hediye.link^
 ||paribucark-hediyesi.com^
 ||paribucark-kazan.com^
 ||paribucark-kazanci.com^
@@ -17465,6 +17495,7 @@
 ||plomvex.xyz^
 ||plorvix.vu^
 ||plovis.sbs^
+||plrdanbrdansnnn.com^
 ||plsk2jjk123xjk123x123z132.cfd^
 ||plskcjsajkdasx123x123.cfd^
 ||plsxkkj123k1z3123z12.cfd^
@@ -19648,6 +19679,7 @@
 ||sube-kuveyt-turk.duckdns.org^
 ||sube-matriksmenkulkiymetler.com^
 ||sube-mobilkvyt.duckdns.org^
+||sube.mufgfinance.net^
 ||sube.sekermenkul.com^
 ||sube.sekerplatform.pro^
 ||subeinf.com^
@@ -20305,6 +20337,7 @@
 ||teb-bank.com^
 ||teb-info.info^
 ||teb-trade.site^
+||tebbasvuruonay.my-homeip.de^
 ||tebbasvurusayfa.my-homeip.de^
 ||tebcepte-sube-parola.myonlineportal.de^
 ||tebdeburdabasvuru.my-homeip.de^
@@ -20508,6 +20541,7 @@
 ||teknofestmagaza.wixstudio.com^
 ||teknofestmagaza.zone.id^
 ||teknolojikampanya.com^
+||teknosakz.com^
 ||tekoas.com^
 ||tekraradnpromosyon.cloud^
 ||tekrardan.arakampanyalardonem.cloud^
@@ -21650,6 +21684,7 @@
 ||uyapgibgiris.org^
 ||uyapgiris.com^
 ||uyapgov.org^
+||uyapgovtr.nl^
 ||uyapportalin.vercel.app^
 ||uyaptakip.org^
 ||uyaptalimat.org^
@@ -22553,6 +22588,7 @@
 ||yelkent-luparefi.lol^
 ||yelkora-zondupika.lol^
 ||yelvanto.com^
+||yemeknlerin.click^
 ||yemys.nicepage.io^
 ||yendenburadasdsddenz360.click^
 ||yendomburdagelsendeabura87.click^
@@ -22642,6 +22678,7 @@
 ||yklehgsbkyeykle.cfd^
 ||yklehgsonlne.cfd^
 ||yklehgsyklepra.cfd^
+||yklemesrguu.cfd^
 ||yklmehgszmnpra.cfd^
 ||yllrdnsnlrdansdasds.click^
 ||ymdreferans.online^
