@@ -10835,6 +10835,7 @@
 ||e-mhrsilesaglikliyasamm.digital^
 ||e-mhrsrandevulariylayasams.digital^
 ||e-mhrssrandevumerkezii.digital^
+||e-nviirandevu.com^
 ||e-nvirandevu.com^
 ||e-nvirandevu.org^
 ||e-odeme.duckdns.org^
@@ -20537,6 +20538,7 @@
 ||tells-vendors-speech-taste.trycloudflare.com^
 ||telvexi.com^
 ||telvoro.onl^
+||temizlikyapiyoruz.click^
 ||temizlikyapiyoruz.cyou^
 ||temmuz-cepte.net.tr^
 ||temmuz-cepte.org.tr^
