@@ -7946,6 +7946,7 @@
 ||anatoliatravel.pro^
 ||anatoliax.info^
 ||anavico.gifts^
+||andansiparisa.sbs^
 ||angry-toaster.com^
 ||aninda-kredi-basvuru.cloud^
 ||aninda-lokal.ink^
@@ -13091,6 +13092,7 @@
 ||hizlgecisbakiyedoldurma.web.app^
 ||hizlgecisbakiyeyukleme.web.app^
 ||hizlgecisonlnebakye.lat^
+||hizli-havale.com^
 ||hizli-ilan-fast.com^
 ||hizli-infor-mation.casa^
 ||hizli-islem-merkezi.com^
@@ -14415,6 +14417,7 @@
 ||kep-bilgi-guncelleme.com^
 ||kepadresiguncel.com^
 ||kepguncelleme.com^
+||kephepsiburada.com^
 ||kepimhepsiburada.com^
 ||kepyenileme.com^
 ||kerametran.ezgateway.net^
@@ -14658,6 +14661,7 @@
 ||kmpnyaprmsynnnncklss.live^
 ||kmpnylrrbsvrrsnfrstlrrr.info^
 ||kmpnylrrbsvrrsnfrstlrrr.live^
+||kmpnylrrsnffrsttbsvrrr.click^
 ||kmpnylrrsnffrsttbsvrrr.info^
 ||kmpnylrrsnffrsttbsvrrr.live^
 ||kmpnylrrsnffrsttbsvrrr.pro^
@@ -17250,6 +17254,7 @@
 ||pazarama.guvenlionline.com^
 ||pazarama.guvenlisaticisi.online^
 ||pazarama.hemenislemler.com^
+||pazarama.hizli-havale.com^
 ||pazarama.hizli-ilan-fast.com^
 ||pazarama.hizli-odemem.com^
 ||pazarama.hizlionline.com^
@@ -17270,6 +17275,7 @@
 ||pazarama.onlinesiparislerim.com^
 ||pazarama.onlinetemmuzfirsatlari.com^
 ||pazarama.ozel-magazadan.com^
+||pazarama.satiskapida.com^
 ||pazarama.satiskontrol.com^
 ||pazarama.sorunsuzodeme.com^
 ||pazaramabireyselsatis.online^
@@ -18014,6 +18020,8 @@
 ||rafa0102xadskjx2h3jx12312.cfd^
 ||rafa09lasdck123x123.cfd^
 ||rafa09lasdck123x123.shop^
+||rafa10jkascdkaskx13x123123x.cfd^
+||rafa11adkaxdkjxk12x213x13.cfd^
 ||rafa123x1askdajkdjka123z12.cfd^
 ||rafa12xksdjkadkjcksjdk123x12.sbs^
 ||rafa1312xsac123x123123.cfd^
@@ -18701,6 +18709,7 @@
 ||satinalonlinesiparis.com^
 ||satinalsepetimodeme.com^
 ||satir-web.ink^
+||satiskapida.com^
 ||satiskapinda.com^
 ||satiskontrol.com^
 ||savcilikhukum.org^
