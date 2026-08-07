@@ -11566,6 +11566,7 @@
 ||firsatlaragit.online^
 ||firsatlarbizden.myonlineportal.ch^
 ||firsatlarburdans.duckdns.org^
+||firsatlardanfaydalanmalar.duckdns.org^
 ||firsatlardunyasi.ddnsfree.com^
 ||firsatlarfiro.duckdns.org^
 ||firsatlarim101.click^
@@ -11809,6 +11810,7 @@
 ||garanti-acc.myonlineportal.ch^
 ||garanti-bank-bireysel.ph^
 ||garanti-bankasionline.ph^
+||garanti-basvuru-bireysel-com.webredirect.org^
 ||garanti-basvuru-bonus-islemlerim.mayddns.com^
 ||garanti-basvuru-bonus.mayddns.com^
 ||garanti-bireysel-basvurular-com.webredirect.org^
@@ -11854,6 +11856,7 @@
 ||garantigaranti.pzbsin.com^
 ||garantiimenkuldegerler.com^
 ||garantikampanyan.click^
+||garantili-islemlerim-bireysel-com.mayddns.com^
 ||garantili-islemlerim-bireysel-com.webredirect.org^
 ||garantili2026.duckdns.org^
 ||garantilisin.duckdns.org^
@@ -15382,6 +15385,7 @@
 ||magazadan-odeme.com^
 ||magazadan-odemem.com^
 ||magazadan-siparis.com^
+||magazaindirimi.com^
 ||magazamda-ilanim.com^
 ||magazanizagelenfirsat.click^
 ||magelan-nato.net^
@@ -16468,6 +16472,7 @@
 ||nimetistanbul.net^
 ||nineki.online^
 ||ninjatech.io^
+||nitelik-vasif.ink^
 ||nitlebuf.com^
 ||niturkcart.xyz^
 ||nivrandevu.com^
@@ -17318,6 +17323,7 @@
 ||parkfauna.com^
 ||parolas.click^
 ||parram-guvende.com^
+||parti-kampanya.fun^
 ||participation-subcommittee-marriage-miles.trycloudflare.com^
 ||partishoptr.com^
 ||partner.evsahibibasvuru.com^
@@ -18151,6 +18157,7 @@
 ||rafa12xksdjkadkjcksjdk123x12.sbs^
 ||rafa1312xsac123x123123.cfd^
 ||rafa13ajckdsjkkjasx123x123.cfd^
+||rafa14dcsjkadjkskjx123x12312.cfd^
 ||rafa1cadcjksakx13x12x3123x.cfd^
 ||rafa1cjadskjk12k3x123v123.shop^
 ||rafa1ckasdljcakx123x12.cfd^
@@ -18182,7 +18189,9 @@
 ||rafadantayfa13x123x1312.sbs^
 ||rafaekkcjsakax123.cfd^
 ||rafael13jxk12kjxkaskdas.cfd^
+||rafaelcimxd.duckdns.org^
 ||rafaeldyidenqz.duckdns.org^
+||rafaeldyixb.duckdns.org^
 ||rafaeldykisn.duckdns.org^
 ||rafasdkasdxj1kj3x123x12.shop^
 ||rafasgxasxsafa.cfd^
@@ -20284,6 +20293,7 @@
 ||tamamla-sip.com^
 ||tamamla-sipars.com^
 ||tamamladim.click^
+||tamamlanan-beklenim.ink^
 ||tamamlayan-dahafazla.ink^
 ||tamammarket.click^
 ||tamelix.vu^
@@ -21265,6 +21275,7 @@
 ||trueupdate.info^
 ||trumore.org^
 ||trumoredesign.com^
+||trumoresiparis.com^
 ||trumoretasarla.com^
 ||trunovixa.xyz^
 ||trusted-pros24.com^
