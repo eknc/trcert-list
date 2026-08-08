@@ -11359,6 +11359,7 @@
 ||factfa.com^
 ||factgrove.news^
 ||factlin.com^
+||faderdasdleer.duckdns.org^
 ||fadi.piratesbean.cfd^
 ||fafacanahmetcanfan.net^
 ||fahrettindanizmansert.com^
@@ -16829,6 +16830,7 @@
 ||onlinesiparispttavm.com^
 ||onlinesorgutursab.org.tr^
 ||onlinesozlesmeler.org^
+||onlinetebmobil.sbs^
 ||onlinetemmuzfirsatlari.com^
 ||onlineucuzlukfirsati.com^
 ||onlineyeozelgunler.sbs^
