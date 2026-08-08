@@ -11388,6 +11388,7 @@
 ||fas3215fsapstor.click^
 ||fashioncore.digital^
 ||fasos.nicepage.io^
+||fast-guvenli-hizmet.com^
 ||fast-havale.com^
 ||fast-ilan.com^
 ||fast-ilanlar.com^
@@ -11881,6 +11882,7 @@
 ||garantisizlerlerkredii.sbs^
 ||garantisizlerlerkredii.xyz^
 ||garantisube-gir-passwordentrypersonal.myonlineportal.de^
+||garantivbbvaefmkasa.duckdns.org^
 ||garantiww22.duckdns.org^
 ||garantmobiil-3736622.duckdns.org^
 ||garbosaloggelmesin.duckdns.org^
@@ -16032,6 +16034,7 @@
 ||mobil-sepet-tr.online^
 ||mobil-yazda-yakinini-davet.xyz^
 ||mobil-ziraatbasvurulariszie.duckdns.org^
+||mobil.obilet-tr.uk^
 ||mobil.uyap-gov.com^
 ||mobilbasvuru.my-homeip.de^
 ||mobilbasvurularimozell.duckdns.org^
@@ -21612,6 +21615,7 @@
 ||ucurumsunbana9.uk^
 ||ucuz-obilet.online^
 ||ucuz.obilet-mobil.uk^
+||ucuz.obilet-tr.uk^
 ||uetsteblig.org^
 ||ugl-y-lisan-g-rn.myonlineportal.ch^
 ||ugsdghfsdfsax3.shop^
@@ -22784,7 +22788,9 @@
 ||yogabloom.icu^
 ||yogasoul.icu^
 ||yolcu.obilet-mobil.uk^
+||yolcu.obilet-tr.uk^
 ||yolculuk.obilet-mobil.uk^
+||yolculuk.obilet-tr.uk^
 ||yolcurentacar.net^
 ||yolgecisihlalbrcnodme.com^
 ||yolgoarackiralama.com^
