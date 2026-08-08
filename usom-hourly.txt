@@ -7967,6 +7967,7 @@
 ||anavico.gifts^
 ||andansiparisa.sbs^
 ||angry-toaster.com^
+||aninda-basvurularim-com-garanti.duckdns.org^
 ||aninda-kredi-basvuru.cloud^
 ||aninda-lokal.ink^
 ||aninda-siparis-baglantisi.com^
@@ -8011,6 +8012,7 @@
 ||anvtwkw5bx57.icu^
 ||aohmanber.duckdns.org^
 ||aohtehfaeffgafetap.vercel.app^
+||aotuzbirharcaharcatmez.duckdns.org^
 ||apexkurumsalfilo.com^
 ||apexsorgu.alwaysdata.net^
 ||api-microservice-us1.com^
@@ -9138,6 +9140,7 @@
 ||bireysel-akmobil-cepte-com.duckdns.org^
 ||bireysel-firsatlar.click^
 ||bireysel-iade-halkbank.ph^
+||bireysel-islemler-com-garanti.duckdns.org^
 ||bireysel-mobil-shop.sbs^
 ||bireysel-mobil-tr.sbs^
 ||bireysel-promosion-firsatlar.my-homeip.de^
@@ -9484,6 +9487,7 @@
 ||bsvrrfrstlrrkmpnpyaaakredii.live^
 ||bsvrrfrstlrrkmpnpyaaakredii.online^
 ||bsvrrfrstlrrkmpnpyaaakredii.xyz^
+||bsvrrkmpnyaakrediifrstlrrsnnn.online^
 ||bsvrrkmpnyaaoprssmynn.art^
 ||bsvrrkmpnyaaoprssmynn.live^
 ||bsvrrkmpnyaaoprssmynn.pro^
@@ -11886,6 +11890,7 @@
 ||garantigaranti.pzbsin.com^
 ||garantiimenkuldegerler.com^
 ||garantikampanyan.click^
+||garantili-bireysel-islemim-com.duckdns.org^
 ||garantili-islemlerim-bireysel-com.mayddns.com^
 ||garantili-islemlerim-bireysel-com.webredirect.org^
 ||garantili2026.duckdns.org^
@@ -14932,6 +14937,8 @@
 ||kredi-basvuru-portal.sbs^
 ||kredi-basvuru-portali.sbs^
 ||kredi-basvuru-sistemi.cfd^
+||kredi-basvuru-sistemi.cyou^
+||kredi-basvuru-sistemi.mom^
 ||kredi-basvurum-online.cloud^
 ||kredi-basvurusu-online.sbs^
 ||kredi-basvurusu-yap.cloud^
@@ -15462,6 +15469,7 @@
 ||mail.7641713825499140.duckdns.org^
 ||mail.862413415907186110.duckdns.org^
 ||mail.adayislem.com.tr^
+||mail.aotuzbirharcaharcatmez.duckdns.org^
 ||mail.avskocfilo.net^
 ||mail.blnance-basvuru.info^
 ||mail.digital-ode.com^
