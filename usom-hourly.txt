@@ -8190,6 +8190,7 @@
 ||aselsan-app.digital^
 ||aselsan-healthcare.com^
 ||aselsan-soft.com^
+||aselsan-system.com^
 ||aselsan-tr.net^
 ||aselsanai.digital^
 ||aselsanai.net^
@@ -8580,6 +8581,7 @@
 ||basvurun-cepten.myonlineportal.de^
 ||basvurusalislemlerims.duckdns.org^
 ||basvurusirasi.online^
+||basvurusitesi-production.up.railway.app^
 ||basvurziyytar.cfd^
 ||basvurznr.sbs^
 ||bathzz.shop^
@@ -15733,6 +15735,7 @@
 ||merkeziteknikgarantimenucozumleri.space^
 ||merkeziyetkayit.abrdns.com^
 ||merkeziyetsizbasvuru.abrdns.com^
+||merkeziyetsizbasvuru.com^
 ||merkezkayitarayuzu.abrdns.com^
 ||merkezkayiti.abrdns.com^
 ||merkezlekayit.abrdns.com^
