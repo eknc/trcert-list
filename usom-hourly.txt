@@ -17211,6 +17211,7 @@
 ||paribuaraba-kazanci.com^
 ||paribuaraba-kazanci.info^
 ||paribuaraba-kazanci.link^
+||paribuaraba-kazandim.info^
 ||paribuaraba-kazanma.com^
 ||paribuaraba-kazanma.info^
 ||paribuaraba-kazanma.link^
@@ -19755,9 +19756,11 @@
 ||sube-kuveyt-turk.duckdns.org^
 ||sube-matriksmenkulkiymetler.com^
 ||sube-mobilkvyt.duckdns.org^
+||sube.garanti.fun^
 ||sube.mufgfinance.net^
 ||sube.sekermenkul.com^
 ||sube.sekerplatform.pro^
+||subedenmobiliz.myonlineportal.de^
 ||subeinf.com^
 ||subeislemlerim-akbank.ph^
 ||subemiz-garanti.myonlineportal.eu^
