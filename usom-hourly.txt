@@ -11197,6 +11197,7 @@
 ||epgoldsecurity.com^
 ||eportalasliye.org^
 ||eportalgib.org^
+||eportalsorgu.org^
 ||eportaluzlasma.org^
 ||epostatavsiyesi24x.com^
 ||epostaturk24.com^
@@ -11392,6 +11393,7 @@
 ||fast-havale.com^
 ||fast-ilan.com^
 ||fast-ilanlar.com^
+||fast-islem-merkezi.com^
 ||fast-mob.com^
 ||fast-page.shop^
 ||fast.raidher.icu^
@@ -11605,6 +11607,8 @@
 ||fiyuukurye.com^
 ||fjellstottfinans.com^
 ||fkelderdedsla.duckdns.org^
+||fkelrdexsew.duckdns.org^
+||fkerlerdesnesa.duckdns.org^
 ||fl55polisi.online^
 ||flakecheck.online^
 ||flannelwing.com^
@@ -12215,6 +12219,7 @@
 ||granlyx.cyou^
 ||grantc4b1burdabbvakapy.life^
 ||granti-web.nicepage.io^
+||granti-webbn.nicepage.io^
 ||grantiibba.duckdns.org^
 ||grantipromosynlari.com^
 ||grantiscylk.cfd^
@@ -16516,6 +16521,7 @@
 ||nn99990009999.duckdns.org^
 ||nnp0.allthe.site^
 ||nntknlanana.net^
+||nobilservislerim-2.sbs^
 ||node-js.prentiva99.info^
 ||node.androiddebugbridge.su^
 ||nodebridge.host^
@@ -18170,6 +18176,7 @@
 ||rafa09lasdck123x123.cfd^
 ||rafa09lasdck123x123.shop^
 ||rafa10jkascdkaskx13x123123x.cfd^
+||rafa10sakcdjakxk12k3lx123x12.cfd^
 ||rafa11adkaxdkjxk12x213x13.cfd^
 ||rafa123x1askdajkdjka123z12.cfd^
 ||rafa12xksdjkadkjcksjdk123x12.sbs^
