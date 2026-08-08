@@ -11678,6 +11678,7 @@
 ||freeworldcup.xyz^
 ||freeworldcupstream.xyz^
 ||freeworldcupstreaming.xyz^
+||frelerdeansew.duckdns.org^
 ||frenksv.sbs^
 ||freshdirection.online^
 ||freshlanez.com^
@@ -19779,6 +19780,7 @@
 ||suclular.gt.tc^
 ||sudarhanimport.com^
 ||sudehzndrogl.workers.dev^
+||sugarantidenalalimartik.sbs^
 ||suitlab.bond^
 ||suitroom.bond^
 ||sukarcas.shop^
