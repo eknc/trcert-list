@@ -9975,6 +9975,7 @@
 ||ceptehizlimenulerss.store^
 ||ceptelinks-tr-mobil-tr.online^
 ||ceptemobili.my-homeip.de^
+||ceptemobilim.my-homeip.de^
 ||ceptep-basvurularonline.myonlineportal.de^
 ||ceptepromosyon.my-homeip.de^
 ||ceptesok.guncelfirsatiniz.com^
