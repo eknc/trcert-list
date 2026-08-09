@@ -7831,6 +7831,7 @@
 ||aktutelfirsatlarkapinda.xyz^
 ||akyaman-lodrefiku.lol^
 ||al-rndev-smdi-hemen.duckdns.org^
+||al-tr.online^
 ||al1-82-rvdn.com^
 ||alabamarecoverycenter.com^
 ||alabid234.github.io^
@@ -9977,6 +9978,7 @@
 ||ceptehaber45.shop^
 ||ceptehizlimenulerss.store^
 ||ceptelinks-tr-mobil-tr.online^
+||ceptemobildeyiz.my-homeip.de^
 ||ceptemobili.my-homeip.de^
 ||ceptemobilim.my-homeip.de^
 ||ceptep-basvurularonline.myonlineportal.de^
@@ -15303,6 +15305,7 @@
 ||logikcraft.pro^
 ||login-binancetr.net^
 ||login-hubspot.com^
+||login-microsoft-virtualpe.com^
 ||login-netsuite.com^
 ||login-odoo.com^
 ||login-salesforce.com^
@@ -22747,6 +22750,7 @@
 ||yavshopi.digital^
 ||yayin-web.casa^
 ||yayinlanan-detay.guru^
+||yaytrartkrpatmyn.shop^
 ||yaz-ayi-express-bonus.sbs^
 ||yaz-ppromosyonlariburada.com^
 ||yaz-promosyonu-teb.my-homeip.de^
