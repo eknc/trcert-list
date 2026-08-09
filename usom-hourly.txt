@@ -5394,6 +5394,7 @@
 45.95.19.50
 45.95.55.157
 45.95.67.41
+||452145632563256255.duckdns.org^
 ||452172.sbs^
 ||45364395843085.net^
 ||453645765.net^
@@ -7502,6 +7503,7 @@
 ||a101kampanyanizburada.com^
 ||a101katalogguncel.duckdns.org^
 ||a101katologz.duckdns.org^
+||a101magazafislerionline.net^
 ||a101market.org^
 ||a101market.xyz^
 ||a101marketinizgeldi.ph^
@@ -12688,6 +12690,7 @@
 ||haberler5632494.sbs^
 ||haberler56755712366.com^
 ||haberler568794.sbs^
+||haberler64348.shop^
 ||haberler66242.sbs^
 ||haberler6723236.sbs^
 ||haberler73421.shop^
@@ -13491,6 +13494,7 @@
 ||honejsterheyr.duckdns.org^
 ||honejsterkestler.click^
 ||honeshadrteker.duckdns.org^
+||honesjerkteryers.duckdns.org^
 ||honesjterlarser.duckdns.org^
 ||honestkartes.duckdns.org^
 ||honestlerkesjer.duckdns.org^
@@ -13695,6 +13699,7 @@
 ||ilgenelitoplubasvuru.online^
 ||ilgileniyoruz.com^
 ||ilgili-disp-asist.ink^
+||ilginc-detay-web.ink^
 ||ililtrakds.nicepage.io^
 ||ililtraks23.nicepage.io^
 ||ilk-evimbasvurulari.com^
@@ -13899,6 +13904,7 @@
 ||islemnoktnasni.net^
 ||islemonay-tr.online^
 ||islemonayla-tr.online^
+||islemonayla.online^
 ||islemonaytr.online^
 ||islemonlinegarantimobilguncel.online^
 ||islemonlne-isleminiz.sbs^
@@ -20439,6 +20445,7 @@
 ||talvo-zenix.pro^
 ||talvona.store^
 ||talvoro.store^
+||tam-mutabakat.garden^
 ||tamambankara.net^
 ||tamamhadherseebakgotur.info^
 ||tamamistanbulo.co^
@@ -22228,6 +22235,7 @@
 ||vuhukulupolisede.lat^
 ||vujuhugufueretesede.xyz^
 ||vulcarti.gifts^
+||vulihipolse-sedere.lol^
 ||vulipilongo-katore.lol^
 ||vusuydryt.love^
 ||vuvugufere-dadada.lol^
