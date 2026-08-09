@@ -11190,6 +11190,7 @@
 ||endpoint-api-v1.com^
 ||eneaktarim.com^
 ||englishhome-sinirlistok.lat^
+||engzlera-82brdayz.org^
 ||enhanceblabber.cc^
 ||enhizlikampanyayagir.com^
 ||eniyifirsatlareniyiurunler.com^
@@ -16142,6 +16143,7 @@
 ||mobilitebasvurus.sbs^
 ||mobilnet.my-homeip.net^
 ||mobilpkampanyam.duckdns.org^
+||mobils-tr.online^
 ||mobilservis-43.sbs^
 ||mobilservis-83.sbs^
 ||mobilservis-84.sbs^
@@ -19267,6 +19269,7 @@
 ||shopkingall.top^
 ||shoplume.xyz^
 ||shoplunaq.digital^
+||shopmobil.online^
 ||shopnova.digital^
 ||shoppeak.shop^
 ||shopsites.shop^
@@ -21927,6 +21930,7 @@
 ||vakifkatili.pzbsin.com^
 ||vakifline.org^
 ||vakitline.com^
+||valenspara-elemond.it.com^
 ||valenspara-elre.it.com^
 ||valenspara-fejoo.it.com^
 ||valerionpark.pro^
