@@ -8360,6 +8360,7 @@
 ||avisrezervasyon.net^
 ||avisturkey.vercel.app^
 ||avisturkiye.net^
+||avisverification.fr^
 ||avm-satinal.com^
 ||avm-siparislerim.com^
 ||avmbireysel.com^
@@ -13613,6 +13614,7 @@
 ||ibnncexh.webredirect.org^
 ||ic-cep.com^
 ||icarrental.net^
+||icerik-onemli.garden^
 ||icloudfind-my-iphone.ph^
 ||icloudsnet.ru^
 ||ictike.cc^
@@ -13671,6 +13673,7 @@
 ||ilanservisn1hizmet.com^
 ||ilanservisnzhizmet.com^
 ||ile-alisverislerini-tamamlama.com^
+||ile-e-islemler.com.tr^
 ||ile-islemlerim.com.tr^
 ||ile-saitin-al.online^
 ||ile-sepetlerim.com.tr^
@@ -14311,6 +14314,7 @@
 ||kacsklx1jkl23kxklsadcas13x12.sbs^
 ||kadfmnenre.cfd^
 ||kadikoy-vitrini.shop^
+||kadlkburdaartknapcagzburda37.art^
 ||kafamaskacagim.sbs^
 ||kafamaskarimlan.sbs^
 ||kafamaskarimlan1.sbs^
@@ -14911,6 +14915,7 @@
 ||kolaysepet.online^
 ||kolektif-ajans-yaz.biz^
 ||kolektifweb.digital^
+||kolirapolse-vadore.lol^
 ||kolmlolla-ukler-ciklsosto.xyz^
 ||komelerdesneler.duckdns.org^
 ||kommando.live^
@@ -19049,6 +19054,7 @@
 ||sec-safe-dc.info^
 ||secondturkiye.shop^
 ||secure-imagehub.info^
+||secure-tr.online^
 ||secure.evsahibibasvuru.com^
 ||secure.login-socialsecurity.com^
 ||secure.ssa-documentsync.com^
@@ -20354,6 +20360,7 @@
 ||tabkherkersegeleceksennerdesn85.info^
 ||tablemint.biz^
 ||tablo-edilgen-deger.myonlineportal.ch^
+||tabocer-t.co^
 ||tadsago4210.online^
 ||tadsago4210.site^
 ||tahtahde-deretesede.lol^
@@ -21311,6 +21318,7 @@
 ||trendyol-siparistamamla.online^
 ||trendyol.ilanservis-odemen.online^
 ||trendyol.mobilservisin-24.sbs^
+||trendyol.servsjethizmet.online^
 ||trendyol0-1029.l3v0.my^
 ||trendyol0-4124.2t24.my^
 ||trendyol0-54a2.2t24.my^
@@ -21733,6 +21741,7 @@
 ||u1xm0ctj7nxa5eo1.passau-kleinanzeigen.de^
 ||u2p6e8r4t9a3.cfd^
 ||u648984.softaculous.dev^
+||u649198.softaculous.dev^
 ||u8404944.click^
 ||u9p2x6m1z8q4.cfd^
 ||uardeqo.digital^
@@ -22440,6 +22449,7 @@
 ||wusetail.com^
 ||wututuututu.nicepage.io^
 ||wwdx23b3.duckdns.org^
+||wwvhalkbankcekilis.org.ph^
 ||www-155polisi.online^
 ||www-enpara-qnbfinans-com-tr.ph^
 ||www-fifa.com^
@@ -22476,6 +22486,7 @@
 ||www-qnbfinansbank-transfer.ph^
 ||www-qnbfinansbank-yenilenen-subem.ph^
 ||www-toki-gov-tr-ev.vercel.app^
+||www-tr-binance.com^
 ||www.5mp.eu^
 ||www.drivelivelime.com^
 ||www.guidingstars.ae^
@@ -22671,6 +22682,7 @@
 ||xzrt300zxrxrt.cfd^
 ||y-uygun-l-g.myonlineportal.ch^
 ||y0nl3ndiri0liyors0n3z.duckdns.org^
+||y0nl3ndiril0rsiniz.duckdns.org^
 ||y0nl3ndiriliiyo0es.duckdns.org^
 ||y0nl3ndiriliiyo0esu.duckdns.org^
 ||y0nl3ndiriliiyo0esunu.duckdns.org^
