@@ -56,6 +56,7 @@
 ||10000000001.opik.net^
 ||100101099999900001.duckdns.org^
 ||1001harcabitmez.click^
+||101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online^
 ||101-kstra.s3.eu-north-1.amazonaws.com^
 101.126.141.180
 101.201.213.210
@@ -6140,6 +6141,7 @@
 ||6dedb6bd-3.b-cdn.net^
 ||6f53mfdd3f45g.cfd^
 ||6pvc38y5izw3.icu^
+||6yil-enpara.ph^
 70.184.13.47
 70.34.194.185
 70.34.195.221
@@ -9038,6 +9040,7 @@
 ||bilgidosyasi.com^
 ||bilgikayit.abrdns.com^
 ||bilgilendirme-merkezi.sbs^
+||bilgilendirme-shop.online^
 ||bilgilendirme-tr.online^
 ||bilgilendirmearayuzu.abrdns.com^
 ||bilgilendirmesayfasi.misecure.com^
@@ -11396,9 +11399,26 @@
 ||face-book-login-extra.ph^
 ||face-kampnyalari.xyz^
 ||facebook--login-security.ph^
+||facebook-confirm-login.com.ph^
+||facebook-login-guide.com.ph^
 ||facebook-login-login-extra.ph^
 ||facebook.evsahibibasvuru.com^
 ||facebookloginapponline.ph^
+||facebookloginlabd.com.ph^
+||facebookloginlabe.com.ph^
+||facebookloginlabe.net.ph^
+||facebookloginlabg.com.ph^
+||facebookloginlabg.net.ph^
+||facebookloginlal.com.ph^
+||facebookloginlal.net.ph^
+||facebookloginlam.com.ph^
+||facebookloginlan.com.ph^
+||facebookloginlan.net.ph^
+||facebookloginlawyer.com.ph^
+||facebookloginonlinelegal.com.ph^
+||facebookloginparty.com.ph^
+||facebookloginstable.com.ph^
+||facebookloginuser.com.ph^
 ||faceit-clubs-verify.com^
 ||faceit-discord.com^
 ||faceit-verification-clubs.com^
@@ -13674,6 +13694,7 @@
 ||ilkbasvurum.my-homeip.net^
 ||ilkbasvurunuz.click^
 ||ilkbasvurunuz.com^
+||ilkev-basvurulari-1.sbs^
 ||ilkevim.basvurun-1.sbs^
 ||ilkevimbasvurumuz.com^
 ||ilkisaret.info^
@@ -14666,6 +14687,7 @@
 ||kisaltbunu.dpdns.org^
 ||kisaltlnks-mobil.sbs^
 ||kisaltmalar.site^
+||kisitkaldirmalinkibasvuru.duckdns.org^
 ||kitaprota.com^
 ||kitemailpocket.com^
 ||kittyfreespace.com^
