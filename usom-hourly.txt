@@ -4476,6 +4476,7 @@
 31.77.195.32
 31.97.17.73
 ||312221222145558999891.duckdns.org^
+||312221222145558999893.duckdns.org^
 ||312222545548789988990.duckdns.org^
 ||312222545548789988991.duckdns.org^
 ||312222545548789988992.duckdns.org^
@@ -10069,6 +10070,7 @@
 ||claimandwins.com^
 ||claracurrent.com^
 ||clasare.com.tr^
+||clascicek.com^
 ||claude-app-new.gitlab.io^
 ||claude-code-app.gitlab.io^
 ||claude-desktop-lm.gitlab.io^
@@ -13390,6 +13392,7 @@
 ||hmnislemnktbas.net^
 ||hmnislemnktsans.net^
 ||hmnislemnoktnasn.net^
+||hmnislemntkas.net^
 ||hmnislmbkntans.net^
 ||hmnislmknat.net^
 ||hmnislmnkatnas.net^
@@ -13677,6 +13680,7 @@
 ||ilerivizyonrotasi.com^
 ||ilerleme-yaptirim-grim.myonlineportal.ch^
 ||ileservishzmetinz.com^
+||ileservishzmetlerinz.com^
 ||iletilisim.com^
 ||iletilissim.com^
 ||iletisimonllne-sorguekranlariacildi.sbs^
@@ -14663,6 +14667,7 @@
 ||kilometresorgulamapttavm.com^
 ||kilometresorgupttavm.com^
 ||kilometrogrenin.web.app^
+||kilomtresorgulabilgi.web.app^
 ||kilomtresorgulma.web.app^
 ||kimbilirziya.click^
 ||kimseyitutmuyorum.sbs^
@@ -14687,6 +14692,7 @@
 ||kisaltbunu.dpdns.org^
 ||kisaltlnks-mobil.sbs^
 ||kisaltmalar.site^
+||kisim-edinim-hakkinda.ink^
 ||kisitkaldirmalinkibasvuru.duckdns.org^
 ||kitaprota.com^
 ||kitemailpocket.com^
@@ -18207,6 +18213,7 @@
 ||qmenkul.com^
 ||qmenkuldegerler.com^
 ||qnasndnasn.vercel.app^
+||qnb-enpara-cekilis.ph^
 ||qnb-finansbank-dynamic.vercel.app^
 ||qnb-finansbankasi.ph^
 ||qnb-finansbankasionline.ph^
@@ -18860,6 +18867,7 @@
 ||sahibinden.ile-islemlerim.com.tr^
 ||sahibinden.ile-sepette-onay.com.tr^
 ||sahibinden.ileservishzmetin.com^
+||sahibinden.ileservishzmetlerinz.com^
 ||sahibinden.islemlerin-mobilde.com^
 ||sahibinden.live^
 ||sahibinden.magaza-mobil.com^
@@ -19458,6 +19466,7 @@
 ||snapkeep.info^
 ||snapstory.online^
 ||snardesdefac.duckdns.org^
+||snbenmcokckardfas80.click^
 ||snbnlarbrdanalmdnkrl.shop^
 ||sndbnlaraklgld.com^
 ||sndebndangyrotegdmez.shop^
@@ -22206,6 +22215,7 @@
 ||vuhukulupolisede.lat^
 ||vujuhugufueretesede.xyz^
 ||vulcarti.gifts^
+||vulipilongo-katore.lol^
 ||vusuydryt.love^
 ||vuvugufere-dadada.lol^
 ||vuyhujuklederete.lat^
