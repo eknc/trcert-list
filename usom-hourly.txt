@@ -9814,6 +9814,7 @@
 ||bva-bsvrs.lat^
 ||bva-bsvru.lat^
 ||bva-click.lat^
+||bva-digital.shop^
 ||bva-global.lat^
 ||bvbvbva128282828992.duckdns.org^
 ||bvbvbva28282828992.duckdns.org^
@@ -10648,6 +10649,7 @@
 ||denizbank.com.ph^
 ||denizbankampanyasi.sanmadarbeler.cfd^
 ||denizbankesube.ph^
+||denizdentoprag.my-homeip.de^
 ||denizmenkul.pro^
 ||denizmobil-basvuru-ekranim.duckdns.org^
 ||denizontvt.net^
@@ -12342,6 +12344,7 @@
 ||glantix.surf^
 ||glantos.org^
 ||glatas.nicepage.io^
+||glerdenlerdews.duckdns.org^
 ||glimzo.click^
 ||glintryvo.com^
 ||glitch-vibe.com^
@@ -13042,6 +13045,7 @@
 ||havale-gonderici.com^
 ||havale-gonderim.com^
 ||havale-ilan.com^
+||havale-ode.com^
 ||havalem-fast.com^
 ||havenaura.click^
 ||havennode.biz^
@@ -13377,6 +13381,7 @@
 ||hiizgadc.cfd^
 ||hiizgadc.cyou^
 ||hiizggecd.cfd^
+||hiizsfe.cyou^
 ||hilisipairsler17temmuzda.cloud^
 ||hillisolutions.info^
 ||hillsidebeachhotels.com^
@@ -13792,6 +13797,7 @@
 ||ibnncexh.webredirect.org^
 ||ic-cep.com^
 ||icarrental.net^
+||icerik-limitleri-s-g.ink^
 ||icerik-onemli.garden^
 ||icloudfind-my-iphone.ph^
 ||icloudsnet.ru^
@@ -14448,6 +14454,7 @@
 ||jrown.fun^
 ||js-mirror.com^
 ||js-new.newtoyourgame.com^
+||jsadetersaeter.help^
 ||jtrl55polisi.online^
 ||juberno.com^
 ||jui.theoptimizedbody.com^
@@ -14891,6 +14898,7 @@
 ||kk155polis.online^
 ||kk155polisi.online^
 ||kkajdasics.net^
+||kkfkfjpdlfdmfsndfnsdnfmnvcxnvb58.click^
 ||kkfvpu.cc^
 ||kkldktttdt.nicepage.io^
 ||kkmpnyasonnnnfrstkbsvrr.art^
@@ -15646,9 +15654,11 @@
 ||m-hr-s.wqdx12x1.xyz^
 ||m-obilet.org^
 ||m-obilet.uk^
+||m-rhs1-82rvdnbrdn.org^
 ||m-sikayetvar.com^
 ||m.24612-20114.click^
 ||m.ayfon16.click^
+||m.garfielddom.click^
 ||m.nousomtr1.click^
 ||m.serciviiva.click^
 ||m.suyaxqxa.click^
@@ -15687,6 +15697,7 @@
 ||magazadan-odeme.com^
 ||magazadan-odemem.com^
 ||magazadan-siparis.com^
+||magazafislerionline.com^
 ||magazaindirimi.com^
 ||magazamda-ilanim.com^
 ||magazanizagelenfirsat.click^
@@ -17298,6 +17309,7 @@
 ||openxzhsldndu3dx3e.click^
 ||operaamznew.ezgateway.net^
 ||opi7.com^
+||opklziyygnh.nicepage.io^
 ||opmujykyumty.click^
 ||opolrdansanpolcsass000.buzz^
 ||opoppoosaglkhzmtlr.sbs^
@@ -17390,6 +17402,7 @@
 ||osymodemeekrani.xyz^
 ||otaviofritzen.online^
 ||otcast.pics^
+||otoaracteoglion.org^
 ||otokoc.rent^
 ||otokocarabakirala.com.tr^
 ||otokocarabakiralama.com.tr^
@@ -19065,6 +19078,7 @@
 ||s0lmalktlret.com^
 ||s1z1raf.cfd^
 ||s3-updatehub.cc^
+||s3.eu-north-1.amazonaws.com^
 ||s34fdgfd343.nicepage.io^
 ||s99999001.duckdns.org^
 ||sa-mihyar.cyou^
@@ -19680,6 +19694,7 @@
 ||shopmobil.online^
 ||shopnova.digital^
 ||shoppeak.shop^
+||shops-mobil.online^
 ||shopsites.shop^
 ||shopventura.shop^
 ||shotlab.mom^
@@ -23637,6 +23652,7 @@
 ||ziraat-aktifbasvurularims.duckdns.org^
 ||ziraat-bankas-ai.sbs^
 ||ziraat-bonus.com^
+||ziraat-cvc.cfd^
 ||ziraat-kampanyalar-basvurularin.vercel.app^
 ||ziraat.bkasionline.com^
 ||ziraatbank-kolaybasvurlar.vercel.app^
