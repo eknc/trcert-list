@@ -421,6 +421,7 @@
 106.52.36.173
 106.53.108.81
 106.75.237.200
+107.128.45.122
 107.148.27.117
 107.148.50.112
 107.148.50.113
@@ -3338,6 +3339,7 @@
 193.29.104.83
 193.29.13.167
 193.29.13.60
+193.29.224.151
 193.29.224.83
 193.29.225.11
 193.29.59.171
@@ -3354,6 +3356,7 @@
 193.33.153.62
 193.34.166.176
 193.34.166.206
+193.34.212.132
 193.34.213.150
 193.34.214.123
 193.36.119.61
@@ -4283,6 +4286,7 @@
 23.234.200.42
 23.234.62.103
 23.234.69.167
+23.234.75.84
 23.234.85.20
 23.235.188.3
 23.236.143.214
@@ -4474,6 +4478,8 @@
 31.59.139.111
 31.59.58.209
 31.59.58.84
+31.7.56.52
+31.7.56.61
 31.77.195.32
 31.97.17.73
 ||312221222145558999891.duckdns.org^
@@ -4664,6 +4670,7 @@
 38.244.158.56
 38.247.144.15
 38.32.68.195
+38.42.59.171
 38.45.122.162
 38.45.126.242
 38.45.200.163
@@ -5485,6 +5492,7 @@
 47.121.185.1
 47.134.26.200
 47.207.9.89
+47.218.103.146
 47.236.124.158
 47.236.177.123
 47.236.179.229
@@ -6220,6 +6228,7 @@
 ||756675765.net^
 ||7568567232354236.org^
 ||75853489.xyz^
+76.103.148.180
 76.164.203.171
 76.165.13.247
 76.64.54.159
@@ -6246,6 +6255,7 @@
 77.221.149.67
 77.221.151.54
 77.221.151.82
+77.221.152.34
 77.221.158.154
 77.222.105.193
 77.223.124.212
@@ -6690,6 +6700,7 @@
 85.209.87.207
 85.214.80.4
 85.215.220.246
+85.217.140.34
 85.217.247.109
 85.234.91.247
 85.238.66.242
@@ -7429,6 +7440,7 @@
 ||Abuguncografya.com^
 ||BilgiCheckersSystem.lovestoblog.com^
 ||Fifa.house^
+||Igsx.closedfistllc.com^
 ||Otokocfilom.net^
 ||a-101-bireysel-extra-indirimler.online-tr-shop.site^
 ||a-101-bugune-ozel-cepte-mobil-extra.indirim-mobil.site^
@@ -7643,8 +7655,12 @@
 ||acmfilo.com^
 ||acsdaskkckl1l2k3xlkasdas.cfd^
 ||acsdaskkckl1l2k3xlkasdas.cyou^
+||activatemypasskey.com^
+||activatepasskey.com^
+||activatepasskeyportal.com^
 ||actoriax.info^
 ||actualtr.blog^
+||acunmedia.digital^
 ||acvigilioplifacada.xyz^
 ||ada322e232.pzbsin.com^
 ||adaai.neocities.org^
@@ -7659,6 +7675,12 @@
 ||adceonlaylardaa1o1.duckdns.org^
 ||adcjklcjjqexqwexqwi123x12.cfd^
 ||adcjobengage.com^
+||add-passkey.com^
+||addmypasskey.com^
+||addoktapasskey.com^
+||addpasskey2fa.com^
+||addssopasskey.com^
+||addyourpasskey.com^
 ||adelincloacker2.com^
 ||adflowza.sbs^
 ||adhsahdsahdhasd8as8sa8as9as.click^
@@ -8236,6 +8258,7 @@
 ||aspenglideupd.info^
 ||assadsasddscsddsasacas.uk^
 ||assetib.com^
+||assignpasskey.com^
 ||assistenza-sim.it^
 ||ast.ols-img-12.workers.dev^
 ||asteara.org^
@@ -8260,6 +8283,7 @@
 ||atto-seal.com^
 ||audit.checkmarx.cx^
 ||audita101.fecrux.com^
+||auditva.cyou^
 ||audshop.top^
 ||auramatrixa.com^
 ||aurekh.com^
@@ -10029,6 +10053,7 @@
 ||cfasaxasfa-sa.sbs^
 ||cflkasdkladskl123x132.cfd^
 ||cfonetflow.world^
+||cglp.cleantruckchecksac.com^
 ||cgrdyzbrdanlardasn.click^
 ||channelapp.site^
 ||channelhq.shop^
@@ -10040,6 +10065,7 @@
 ||check.git-service.com^
 ||check.office365-update.com^
 ||checkle.live^
+||checkpasskey.com^
 ||checkpointviewzen.com^
 ||checksound.cfd^
 ||cherrydadfog.com^
@@ -10131,6 +10157,7 @@
 ||cloudpulseonline.co^
 ||cloudpulseshop.co^
 ||cloudscraft.com^
+||cloudsendhub.com^
 ||cloudservbr.com^
 ||cloudvera.digital^
 ||clubprincess.click^
@@ -10189,6 +10216,8 @@
 ||comicstar.lat^
 ||commonfocus.net^
 ||commonstory.org^
+||company.addssopasskey.com^
+||company.createssopasskey.com^
 ||companyfeel.cfd^
 ||compassionfanghole.com^
 ||compiler-taorde.com^
@@ -10297,6 +10326,10 @@
 ||cravira.site^
 ||cravira.store^
 ||createmal.digital^
+||createmfa.com^
+||createmypasskey.com^
+||createpasskey.com^
+||createssopasskey.com^
 ||creativecommunityinfo.art^
 ||creativestudio.cyou^
 ||creatornewsnow.com^
@@ -10546,6 +10579,7 @@
 ||denmktve.net^
 ||denonlineservice.com^
 ||denzburadagazede.click^
+||deploypasskey.com^
 ||depremzeminsorgulama.com^
 ||derbyoni.info^
 ||dertrakds.nicepage.io^
@@ -10604,6 +10638,7 @@
 ||dfgdfssdfffgs.duckdns.org^
 ||dfsopsdkopkfdbsdfsbbbb.shop^
 ||dfter.netlify.app^
+||dgctf.concretewestgj.com^
 ||dgmbiq.buzz^
 ||dhamoyush.com^
 ||dhdsjsdjxc.duckdns.org^
@@ -10625,6 +10660,7 @@
 ||diji-internetsiparis.sbs^
 ||diji-siparis.sbs^
 ||diji-tebim.my-homeip.de^
+||dijionline-kampanya.sbs^
 ||dijisiparis-internet.sbs^
 ||dijital-basvuruadres.sbs^
 ||dijital-basvuruadresim.sbs^
@@ -10721,6 +10757,7 @@
 ||dltruek.com^
 ||dltucra.com^
 ||dm.garantibbvakredibasvuru.com^
+||dmca-chrome-extensions.click^
 ||dnsapple.ru^
 ||dnsrelays.ru^
 ||dnzbnkpsmnbsvrlrhmnyararlan.site^
@@ -11191,6 +11228,8 @@
 ||empreasas.garantibbvakredibasvuru.com^
 ||empresas.garantibbvakredibasvuru.com^
 ||empresasbbavnet.garantibbvakredibasvuru.com^
+||enablepasskey.com^
+||enablepasskey2fa.com^
 ||enbuyukindirimdunyasi2.sbs^
 ||endergo.link^
 ||endigital.help^
@@ -11222,6 +11261,7 @@
 ||enparaonline.online^
 ||enprkrkstz.com^
 ||enptraprmsynnss.xyz^
+||enrollpasskey.com^
 ||enslaveculprit.digital^
 ||ente-gr-l-n-l.myonlineportal.ch^
 ||entegr-liy-gir.myonlineportal.ch^
@@ -11235,6 +11275,7 @@
 ||enuygun.rent^
 ||enuygunarabakirala.com.tr^
 ||enuygunarabakiralama.com^
+||enuygunarabakiralama.com.tr^
 ||enuygunarackirala.com.tr^
 ||enuygunarackiralamalar.com^
 ||enuygunfilo.com^
@@ -11351,6 +11392,7 @@
 ||euzlasmateblig.org^
 ||ev-olimgren-ade.myonlineportal.ch^
 ||evatandas.org^
+||evatandasbilgi.org^
 ||evdeis-cagrimerkezi.online^
 ||evdisaridandahzrlu.sbs^
 ||evdnmkcnevdecktk.co^
@@ -11505,6 +11547,7 @@
 ||fenmalloq.gifts^
 ||fenmallu.com^
 ||fenmercu.gifts^
+||fennelspire.info^
 ||fenorahubs.site^
 ||fenoralabs.site^
 ||fenqero.club^
@@ -12754,6 +12797,7 @@
 ||hafksoawi925ds.com^
 ||hafta-yeni-yaz-guzel.lol^
 ||haftalikmagaza.com^
+||haftalikmarketafisi.com^
 ||haftanin-firsatlari-kampanya-zamani.opik.net^
 ||haftanin-noktasi.com.tr^
 ||haftanin-noktasi.name.tr^
@@ -12886,6 +12930,7 @@
 ||haulmaster.bond^
 ||havadabibulut.sbs^
 ||havale-gonderici.com^
+||havale-gonderim.com^
 ||havale-ilan.com^
 ||havalem-fast.com^
 ||havenaura.click^
@@ -13433,6 +13478,7 @@
 ||hmnsanmashsnmshasnmasmhasnms.fwh.is^
 ||hmntknlasntam.net^
 ||hmujqf.buzz^
+||hmvc.ridgerenovation.com^
 ||hnaolangnleremynym.shop^
 ||hnezkh.help^
 ||hngfbgfbfb.cyou^
@@ -13541,6 +13587,7 @@
 ||html-replica-controller-perceived.trycloudflare.com^
 ||httpsistmknvcnbvcx.com^
 ||hub.ssa-userstatus.com^
+||hubpasskey.com^
 ||hugifidier-redsedese.lol^
 ||hugufudere-redesede.lol^
 ||huhgu-fuyur-desede.xyz^
@@ -13577,6 +13624,7 @@
 ||hunyapisxdkx1j2k3xasda.shop^
 ||hurgadatour.shop^
 ||hurriiyet.com^
+||hvao.jbgroup21.com^
 ||hwekresburdasendegelartkbevcdansz10.click^
 ||hwol683028.fixip.org^
 ||hwsrv-1327786.hostwindsdns.com^
@@ -13632,6 +13680,7 @@
 ||idascsaj1j23123z123.shop^
 ||iddanamesorgu.org^
 ||ideal-yonlendirme-security.ink^
+||idokta.com^
 ||idoxf8b.sufydely.com^
 ||ifadeceliskilisfsa.duckdns.org^
 ||igmc.duckdns.org^
@@ -13806,6 +13855,7 @@
 ||interland-ofise-g.myonlineportal.ch^
 ||intern-gr-lenade.myonlineportal.ch^
 ||internet-koveyttork.duckdns.org^
+||internet-teb-entry.myonlineportal.de^
 ||internetal.xyz^
 ||internetbasvukanallari.duckdns.org^
 ||internetbasvurukatilimi.xyz^
@@ -14597,7 +14647,9 @@
 ||kespola.surf^
 ||kevangida.com^
 ||kexbazar.gifts^
+||keyokta.com^
 ||keypmenu.info^
+||keysyncos.com^
 ||kfontseaforge.world^
 ||kfvgjz.buzz^
 ||kgkkgkgskk.nicepage.io^
@@ -15358,6 +15410,7 @@
 ||login.trees4sale.net^
 ||logisticabiomedica.com^
 ||logiswebmail.top^
+||logmabx.click^
 ||loii.top^
 ||lokumera.com^
 ||lolihigi-logederese.lol^
@@ -15564,6 +15617,7 @@
 ||maintaining-drawings-rand-porter.trycloudflare.com^
 ||makeitupguide.com^
 ||makemedigi.com^
+||makepasskey.com^
 ||makerolleds.info^
 ||makoslzuyt.com^
 ||maleoz.website^
@@ -16301,6 +16355,7 @@
 ||mslearn.online^
 ||mslraktivhemen.uk^
 ||msopsa.top^
+||mspasskey.com^
 ||msshrdkevu.com^
 ||msshrrdkevu.com^
 ||mswoqh.click^
@@ -16375,6 +16430,8 @@
 ||my-redirect-210.top^
 ||my-securty-gr.ink^
 ||myacc-portal.myonlineportal.de^
+||myaccountsecurity.com^
+||myconnectkey.com^
 ||myenesrgu.cfd^
 ||myfacebook-login-extra.ph^
 ||mygarantibva.com^
@@ -16386,17 +16443,23 @@
 ||mylocker.locker^
 ||mylzarek.buzz^
 ||mynerndvu.cfd^
+||mynewpasskey.com^
 ||mynvesry.net^
+||myoktasso.com^
+||mypasskeyid.com^
+||mypasskeysso.com^
 ||mypivotloop.co^
 ||mypushstack.co^
 ||myqafua.info^
 ||myrionix.shop^
 ||myrionix.site^
 ||myrionix.store^
+||myroayy.cyou^
 ||myrs-rndv-syfsi.duckdns.org^
 ||mysayiaktuel.blogspot.com^
 ||mysayiaktuelsel.blogspot.com^
 ||mysayiazerolg.blogspot.com^
+||myssopasskey.com^
 ||mystarlink.org^
 ||myvixo.xyz^
 ||mzedof.cc^
@@ -16531,6 +16594,7 @@
 ||newfashio.online^
 ||newguncelgarantislemleri.duckdns.org^
 ||newhmarkare.cfd^
+||newpasskey.com^
 ||newremupdate.duckdns.org^
 ||newrentalsenterprise.com^
 ||news243.shop^
@@ -16837,6 +16901,8 @@
 ||okmegnsdc.info^
 ||okohholdingsltd.com^
 ||oksaocanesa.cfd^
+||oktaenroll.com^
+||oktaportalsso.com^
 ||okuyucum-son-web.ink^
 ||okysnb.click^
 ||ol55polis.online^
@@ -16870,6 +16936,7 @@
 ||olyuuflgjd.nicepage.io^
 ||olyvesnyre.net^
 ||omada.garantibbvakredibasvuru.com^
+||omio-trips.com^
 ||omiohotels.com^
 ||omnhostlinuxmail.net^
 ||omnicom-hiring.com^
@@ -17060,6 +17127,7 @@
 ||orbexi.vu^
 ||orbitalynd.pro^
 ||orbitareport.digital^
+||orbitnuvo.com^
 ||orbitpeakd.top^
 ||oresasny.com^
 ||orhanceylan.art^
@@ -17098,6 +17166,8 @@
 ||orynt.sbs^
 ||oselt-lgrnlsaok.myonlineportal.ch^
 ||oselyaonline.com^
+||oskeyconnect.com^
+||oskeysync.com^
 ||osmurmaomurga.click^
 ||osogransd.online^
 ||osvitahub.club^
@@ -17313,6 +17383,7 @@
 ||paribu-pepe-cekilisi.info^
 ||paribu-pepe-cekilisi.link^
 ||paribu-pepe-cekilisi.remotewire.net^
+||paribu-pepecekilisim.com^
 ||paribu-pepehediyem.com^
 ||paribu-pepehediyem.info^
 ||paribu-pepehediyem.link^
@@ -17339,6 +17410,7 @@
 ||paribuaraba-kazanci.com^
 ||paribuaraba-kazanci.info^
 ||paribuaraba-kazanci.link^
+||paribuaraba-kazandim.com^
 ||paribuaraba-kazandim.info^
 ||paribuaraba-kazanma.com^
 ||paribuaraba-kazanma.info^
@@ -17480,6 +17552,31 @@
 ||paslanmazbizimekip.sbs^
 ||pass-kampanya.click^
 ||passbasvur.click^
+||passkey-check.com^
+||passkey-connect.com^
+||passkey-enable.com^
+||passkey-portal.com^
+||passkey-setup.com^
+||passkeyactivation.com^
+||passkeyadd.com^
+||passkeycenter.com^
+||passkeycreate.com^
+||passkeycreator.com^
+||passkeydeploy.com^
+||passkeyenable.com^
+||passkeyenroll.com^
+||passkeyhelpdesk.com^
+||passkeymfa.com^
+||passkeyokta.com^
+||passkeyportal.com^
+||passkeyportalsetup.com^
+||passkeyregister.com^
+||passkeyregistration.com^
+||passkeyrollout.com^
+||passkeyset.com^
+||passkeystatus.com^
+||passkeysupport.com^
+||passkeyuser.com^
 ||pastalita-cake.xyz^
 ||patakuti-cartcurtede.lol^
 ||patent-harc-govtrr.site^
@@ -17522,6 +17619,7 @@
 ||pazarama.guvenlionline.com^
 ||pazarama.guvenlisaticisi.online^
 ||pazarama.havale-gonderici.com^
+||pazarama.havale-gonderim.com^
 ||pazarama.hemenislemler.com^
 ||pazarama.hizli-havale.com^
 ||pazarama.hizli-ilan-fast.com^
@@ -17748,7 +17846,9 @@
 ||portalgirisim.sbs^
 ||portalkamu.org^
 ||portalm1hrs.xyz^
+||portalpasskey.com^
 ||portalrandevuwsynxhak4n.duckdns.org^
+||portalsetuphub.com^
 ||portalsorgulama.org^
 ||portalvatandasmhrsonlinegirisekranimiz.duckdns.org^
 ||portalvatandasmhrsz.duckdns.org^
@@ -17875,6 +17975,7 @@
 ||profdrhizmet.xyz^
 ||profitew.com^
 ||profitib.com^
+||profitnow.io^
 ||profitzs.com^
 ||profosyonelccoklusupurge.click^
 ||progetto-finanziario24.org^
@@ -18492,6 +18593,7 @@
 ||reggysolution.info^
 ||reggyupdated.info^
 ||reggzx.help^
+||registerpasskey.com^
 ||rehber-dusunce-lik.myonlineportal.eu^
 ||rehber-olusumu-rgnt.myonlineportal.ch^
 ||rehber.randevubilgi.it.com^
@@ -19065,10 +19167,12 @@
 ||sec-safe-dc.info^
 ||secondturkiye.shop^
 ||secure-imagehub.info^
+||secure-passkey.com^
 ||secure-tr.online^
 ||secure.evsahibibasvuru.com^
 ||secure.login-socialsecurity.com^
 ||secure.ssa-documentsync.com^
+||secureauthpasskey.com^
 ||securesepetim.com^
 ||securesitem1.co^
 ||security-password.casa^
@@ -19273,8 +19377,11 @@
 ||servupdate.net^
 ||seryotocargaleryx.duckdns.org^
 ||serzjkow.cfd^
+||setpasskey.com^
 ||setpot-forward.vip^
 ||sett.basitdom.biz^
+||setupsso.com^
+||setupssopasskey.com^
 ||sevdlyrklerdebyyzsrgnlr.com^
 ||sevenlerpastaci.shop^
 ||sevgielimyardimlari.com^
@@ -19742,6 +19849,7 @@
 ||spnsoredreklam.com^
 ||sponlorlusok.online^
 ||sponlorluyonlledirme.online^
+||sponsorgaranti.page.gd^
 ||sponsorlu-11.duckdns.org^
 ||sponsorlu-12.duckdns.org^
 ||sponsorlu-14.duckdns.org^
@@ -19769,6 +19877,7 @@
 ||sptlrdelndrmguncel.com^
 ||sptlrflrsatlrsizinlee.com^
 ||sptlrfrsltlrguncell.com^
+||sqfepjvmrd.xyz^
 ||srabklmhrndval.com^
 ||srdansanrabigbrda.shop^
 ||srgumynerndvu.cfd^
@@ -19807,6 +19916,7 @@
 ||ssl.blsouqs.com^
 ||sslzeromail.run.place^
 ||sso-auth.com^
+||ssopasskey.com^
 ||ssss22232323.duckdns.org^
 ||sssseww23xx.duckdns.org^
 ||sstbonlinebasvuru.com^
@@ -19824,6 +19934,8 @@
 ||starffdshsvsdd.com^
 ||starkampanya.com^
 ||starlinkprod.pro^
+||startpasskey.com^
+||startpasskeysetup.com^
 ||starzoomel.info^
 ||stateom.com^
 ||static-file.digital^
@@ -19939,6 +20051,7 @@
 ||sureklihissettiren.click^
 ||suruyorumarabayihodilen.click^
 ||survivorville.com^
+||sutf.kafekarachi.com^
 ||suwen.shop^
 ||suwens.top^
 ||suyaxqxa.click^
@@ -21652,6 +21765,7 @@
 ||tuv-turkk.com^
 ||tuv-turkl.digital^
 ||tuv.12855w652.forum^
+||tuvislem.site^
 ||tuvkdkaksaksaas.com.tr^
 ||tuvmhr-ss.com^
 ||tuvmuayeneturkrandevu.online^
@@ -21940,6 +22054,7 @@
 ||uyguna101.duckdns.org^
 ||uygunarabakirala.com.tr^
 ||uygunarabakirala.net^
+||uygunarabakiralama.com.tr^
 ||uygunarackiralama.org^
 ||uygunfiyatliurun.duckdns.org^
 ||uygunindirimlerr.duckdns.org^
@@ -22048,6 +22163,7 @@
 ||vdigitalemobileonllinelimit.xyz^
 ||vds54gf4r4r3th5.nicepage.io^
 ||vebdenal.shop^
+||vectorplatform.cc^
 ||vegarlerimenuguncel.xyz^
 ||velbayoq.tr^
 ||velbazar.gifts^
@@ -22107,6 +22223,7 @@
 ||veritonixmedia.com^
 ||verityluxenova.com^
 ||verolumi.pro^
+||vertexengine.cc^
 ||vertexlabd.info^
 ||vertexserp.info^
 ||vertextrust-advisors.com^
@@ -22946,6 +23063,10 @@
 ||yogasoul.icu^
 ||yolcu.obilet-mobil.uk^
 ||yolcu.obilet-tr.uk^
+||yolcuarabakirala.com.tr^
+||yolcuarabakiralama.com.tr^
+||yolcuarackirala.com.tr^
+||yolcuarackiralama.com.tr^
 ||yolculuk.obilet-mobil.uk^
 ||yolculuk.obilet-tr.uk^
 ||yolcurentacar.net^
