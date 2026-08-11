@@ -7530,6 +7530,7 @@
 ||a101-ekstra.s3.eu-north-1.amazonaws.com^
 ||a101-firsatlariniz-artik-burada.duckdns.org^
 ||a101-firsatlariniza-gelin.duckdns.org^
+||a101-girisfacebook.click^
 ||a101-harca.duckdns.org^
 ||a101-kampanya-tum-haftasi-hafta-boyunca-indirim-firsat.site^
 ||a101-sadeceonline.my-homeip.net^
@@ -7729,6 +7730,7 @@
 ||adliyeegm.org^
 ||adliyekurum.net^
 ||adliyekurum.org^
+||adliyekurum.ph^
 ||adliyemasak.org^
 ||adliyesorgu.net^
 ||admbooked.pro^
@@ -8126,6 +8128,7 @@
 ||apigrokcloud.icu^
 ||apiluma.bond^
 ||apl-gc.pages.dev^
+||app-3-ai.liyalabs.com^
 ||app-bbva.garantibbvakredibasvuru.com^
 ||app-distribution.net^
 ||app.garantibbvayayatinemom.com^
@@ -8182,6 +8185,7 @@
 ||araccmuayene-tuvturk-randvu.web.app^
 ||aracdetaykontrol.cfd^
 ||aracimindetaylari.cfd^
+||aracimmuayenen.com^
 ||aracingelsin.net^
 ||aracinizhakkinda.com^
 ||aracinizhakkinda.xyz^
@@ -8205,6 +8209,7 @@
 ||aradan-cikan-donemez.xyz^
 ||arakampanyalardonem.cloud^
 ||araksdatoaslvanb.online^
+||aralikfirsatlari2019-finansbank.ph^
 ||araofdalgaogfa.online^
 ||arasaslfasofaslmsa.online^
 ||araskrgosorgmlama.gleeze.com^
@@ -8456,6 +8461,7 @@
 ||avis-sozlesme.hizli-islemler-merkezi.com^
 ||avis.arackiralamaislem.com^
 ||avis.hizmet-merkezi-online.com^
+||avis.sozlesme-islemleri-online.com^
 ||avisfilo.rent^
 ||avisfiloarackirala.sbs^
 ||avisfilokurumsal.com^
@@ -10011,6 +10017,7 @@
 ||cargozent.com^
 ||caribb.ru^
 ||cariwebsiteku.com^
+||cark-cekilisim.com^
 ||cark-cekilisim.info^
 ||carkcekiliisi-hemenbasvur1.duckdns.org^
 ||carreffouersa.vercel.app^
@@ -10526,6 +10533,7 @@
 ||cylupikare-zudefese.lol^
 ||cyuyyco.yyuyy.com^
 ||d155polisi.online^
+||d1ds1je4mxnvyl.amplifyapp.com^
 ||d28c4902-a.b-cdn.net^
 ||d4ug.site^
 ||d6q9v2m8x4p1.cfd^
@@ -11543,6 +11551,7 @@
 ||etebligmaliye.org^
 ||etiketkbayi.lat^
 ||etiketyuklmeburdan.lat^
+||etikkurulbasvurusistemi.onrender.com^
 ||etkiliuzlasma.org^
 ||etoftheappyrince.org^
 ||etrmenugarlerimguncel.xyz^
@@ -11629,6 +11638,7 @@
 ||face-kampnyalari.xyz^
 ||facebook--login-security.ph^
 ||facebook-confirm-login.com.ph^
+||facebook-login-facebook-access-secure.ph^
 ||facebook-login-guide.com.ph^
 ||facebook-login-login-extra.ph^
 ||facebook.evsahibibasvuru.com^
@@ -11646,6 +11656,7 @@
 ||facebookloginlawyer.com.ph^
 ||facebookloginonlinelegal.com.ph^
 ||facebookloginparty.com.ph^
+||facebookloginretail.com.ph^
 ||facebookloginstable.com.ph^
 ||facebookloginuser.com.ph^
 ||faceit-clubs-verify.com^
@@ -12437,6 +12448,7 @@
 ||glitch-vibe.com^
 ||global-news7.com^
 ||globalbuyshop.top^
+||globalcleaningservice.nl^
 ||globalfinancehub.world^
 ||globalfiscaldaily.com^
 ||globalheadlinehub.online^
@@ -13317,6 +13329,7 @@
 ||hepsibenimle.xyz^
 ||hepsikredi-tr.com^
 ||hepsinden1o1.shop^
+||hepsivurada.ph^
 ||her-eve-lazim-caydanlik.sbs^
 ||herald-quiz-drunk-joke.trycloudflare.com^
 ||heranimsenledunyine.sbs^
@@ -14078,6 +14091,8 @@
 ||insight-sweet-drainage-appreciated.trycloudflare.com^
 ||insightbasehq.com^
 ||instagram-meta.top^
+||instagram-secured-assistance.ph^
+||instagram-secured-login.ph^
 ||instatraksf.nicepage.io^
 ||instatraksfa.nicepage.io^
 ||insuarenc-liberty.myonlineportal.ch^
@@ -14842,6 +14857,7 @@
 ||kefalukahotelakyarlar.com^
 ||kefalukaresorts.net^
 ||kefalukaresortspa.com^
+||kefalukasresort.com^
 ||kefalukka.com^
 ||kefmsegkw.sbs^
 ||kefrayornix.com^
@@ -15223,6 +15239,7 @@
 ||kolaysepet.online^
 ||kolektif-ajans-yaz.biz^
 ||kolektifweb.digital^
+||kolibofilna-lucere.lol^
 ||kolirapolse-vadore.lol^
 ||kolmlolla-ukler-ciklsosto.xyz^
 ||komelerdesneler.duckdns.org^
@@ -15967,6 +15984,7 @@
 ||markettrendinsight.online^
 ||marketwarehouse.shop^
 ||marksandspencer-login.ph^
+||marksandspencer1.online^
 ||markunabaras.click^
 ||marline.gifts^
 ||marmaracicekcim.com.tr^
@@ -19442,6 +19460,7 @@
 ||sahibinden.siparissatin-al.com^
 ||sahibinden.siparisver-hemen.com^
 ||sahibinden.siparisverhemen.com^
+||sahibinden.sozlesme-islemleri-online.com^
 ||sahibinden.trguvenli-siparis.online^
 ||sahibinden.trguvenlisiparisler.online^
 ||sahibinden.trhizmetservis.online^
@@ -19617,6 +19636,7 @@
 ||sefore.netlify.app^
 ||sega-ads-territories-appendix.trycloudflare.com^
 ||sehaaredales.duckdns.org^
+||sekermenkulglobal.com^
 ||sektorbizdensoruluyor.sbs^
 ||sektorukapatiyorumkimsereklamacamaztaklaciguvercin.com^
 ||selcukbayraktar.2ix.ch^
@@ -20073,6 +20093,7 @@
 ||softmilo.digital^
 ||softpilotx.digital^
 ||softquiver.com^
+||sok-marketler-kampanyasi-stoklarla52052052.sbs^
 ||sokagirdim.xyz^
 ||sokaklaroldubasimabela.duckdns.org^
 ||sokaraca.shop^
@@ -21059,6 +21080,7 @@
 ||tapu-randevum-e-devlet.vercel.app^
 ||tapu.live^
 ||tapubasvuru.click^
+||tapuhrsdhizebrusd.store^
 ||tapurandevugncel.web.app^
 ||tapurandevunkontrolu.cfd^
 ||tapuuhizlirndvulaninhmennnn.lat^
@@ -21606,6 +21628,7 @@
 ||toggodeme.online^
 ||toggotomobil.com^
 ||toggotomobil.net^
+||toggotoyedek.com^
 ||toggsiparis.com^
 ||toggsiparis2026.com^
 ||toggsiparisi.com^
@@ -22210,6 +22233,7 @@
 ||turkiyerotasi.com^
 ||turkiyesesi.com^
 ||turkiyesignal.com^
+||turkiyesigorta.com.ph^
 ||turkiyevisioner.com^
 ||turkiyeworks.com^
 ||turkiyeyatirimpro.com^
@@ -23118,6 +23142,7 @@
 ||www-fifa.me^
 ||www-fifaworldcup.com^
 ||www-ing-com-tr.nproxy.org^
+||www-internetbankacilik-qnbfinansbank.ph^
 ||www-l55polisi.online^
 ||www-osym-gov-tr.nproxy.org^
 ||www-pirantech.com^
@@ -23762,6 +23787,7 @@
 ||zealpraxis.com^
 ||zebregts.com^
 ||zederesede-sederesede.lol^
+||zedsere-luluyopi.lol^
 ||zeftasarim.com^
 ||zelalver.gifts^
 ||zelbutro.com^
@@ -23869,6 +23895,7 @@
 ||ziraatmobil.wqedasda.cfd^
 ||ziraatmobil.wqedasdqa.cfd^
 ||ziraatmobil.wqedasdwqa.cfd^
+||ziraatmobilin.mobilsubeden.sbs^
 ||ziraatoffshore.online^
 ||ziraatsbank.cftcrecovry.com^
 ||ziraatsbank.xyz^
