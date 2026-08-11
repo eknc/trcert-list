@@ -4571,6 +4571,7 @@
 36.94.136.161
 36.95.130.197
 36.99.136.128
+||360otokiralama.com^
 ||3673722.sbs^
 37.1.196.35
 37.1.206.174
@@ -6170,6 +6171,7 @@
 69.67.172.210
 69.67.173.30
 69.73.144.225
+||6acsdjasdcaksxkl12k3lx123.cfd^
 ||6b238205-7.b-cdn.net^
 ||6dd5fd945b34-endpoint.com^
 ||6dedb6bd-3.b-cdn.net^
@@ -6664,6 +6666,7 @@
 ||8455630456652.click^
 ||8488xx8323.duckdns.org^
 ||84parcamatkap.myshopify.com^
+||84parcamatkapseti.shop^
 85.106.203.106
 85.11.167.101
 85.11.167.121
@@ -7424,6 +7427,7 @@
 95.92.242.30
 ||95874632kmpnyaabsvrrprsmynn.info^
 ||95874632kmpnyaabsvrrprsmynn.pro^
+||95874bsvrsuukrediikmpnyssi.online^
 ||95874bsvrsuukrediikmpnyssi.pro^
 96.126.130.126
 96.126.176.130
@@ -7516,6 +7520,7 @@
 ||a-101xaxakapinda.com^
 ||a-1o1-c.duckdns.org^
 ||a-alisveris-sepetim.com^
+||a-g-r.my-homeip.de^
 ||a.101onlinesiparis.duckdns.org^
 ||a.cacacax.click^
 ||a.dev-tunnels.com^
@@ -7927,6 +7932,7 @@
 ||alacatibeachsresort.com^
 ||aladeniz.com^
 ||alarm-taslagi.garden^
+||albarakaaiprojects.com^
 ||albayquery.space^
 ||alburdan.shop^
 ||alcs.xyttkx.cc^
@@ -8705,6 +8711,7 @@
 ||basvuru-kampanya.myonlineportal.de^
 ||basvuru.avrupagundem.uk^
 ||basvuru.myonlineportal.de^
+||basvuru23152.sbs^
 ||basvuruadresima.cloud^
 ||basvuruasdagarantili.shop^
 ||basvuruherzamandevamsiparis.sbs^
@@ -9083,6 +9090,7 @@
 ||bekdepol.gifts^
 ||beklemedengjkdsl.blogspot.com^
 ||beklemeyinsiler.blogspot.com^
+||belgedogrulamaedevletverif.com^
 ||belgegirisi-netgsm.com^
 ||belgegirisi-netgsm.online^
 ||belgimonay.click^
@@ -11120,6 +11128,7 @@
 ||e-imza-sozlesme.com^
 ||e-islemler-online-saglik.com^
 ||e-islemler-online-sagliklar.com^
+||e-islemtuv.site^
 ||e-maliyetalepformu.com^
 ||e-merkeziletisimmhrs.digital^
 ||e-mhrs.digital^
@@ -13262,6 +13271,7 @@
 ||hembasvrkyt.hicam.net^
 ||hemeleterfesa.duckdns.org^
 ||hememislemnkta.net^
+||hemen-aninda.cards^
 ||hemen-birkacdakika.guru^
 ||hemen-satinal.com^
 ||hemen-siparisver.com^
@@ -14357,6 +14367,7 @@
 ||istanbulsizlernedesizznsor.shop^
 ||istanbultamamco.online^
 ||istanbulturum.shop^
+||istanbululasim.duckdns.org^
 ||istanbululasimyolu.web.app^
 ||istanbulunbayramdanocnes.shop^
 ||istanbulunhementaris.shop^
@@ -14529,6 +14540,7 @@
 ||jet-guvenlihizmetleriniz.online^
 ||jet-hizmetlerim.online^
 ||jetbrains-apps-group.gitlab.io^
+||jetcepte.info^
 ||jetcicek.org^
 ||jetotofilo.com^
 ||jetross.com^
@@ -17281,6 +17293,7 @@
 ||oleogr-veri-analiz.myonlineportal.ch^
 ||olesa5fws.nicepage.io^
 ||olimpik-patch-priv.myonlineportal.eu^
+||olivarentcar.org^
 ||olive-monkey-951412.hostingersite.com^
 ||olnysvy.net^
 ||olrurdumamdszgds.com^
@@ -17298,6 +17311,7 @@
 ||olynssrv.net^
 ||olyuuflgjd.nicepage.io^
 ||olyvesnyre.net^
+||om8w2krx5qvph9tcn4ylb.sbs^
 ||omada.garantibbvakredibasvuru.com^
 ||omio-trips.com^
 ||omiohotels.com^
@@ -17393,6 +17407,7 @@
 ||onlinekirasozlesmesi.com^
 ||onlinekmm.com^
 ||onlinemagaza-karaca.vercel.app^
+||onlinemagazafisleri.com^
 ||onlinemagazalar-karaca.vercel.app^
 ||onlinemarketafisi.com^
 ||onlinemasak.org^
@@ -20018,6 +20033,7 @@
 ||skltncerelas.lat^
 ||skmalkkteretler.shop^
 ||skmarlktlr.com^
+||skmlrketler.com^
 ||skokcepuygulamasi.lat^
 ||skososko.duckdns.org^
 ||skotanlanto.lat^
@@ -22576,6 +22592,7 @@
 ||uygunarabakirala.com.tr^
 ||uygunarabakirala.net^
 ||uygunarabakiralama.com.tr^
+||uygunarackirala.com.tr^
 ||uygunarackiralama.org^
 ||uygunfiyatliurun.duckdns.org^
 ||uygunindirimlerr.duckdns.org^
