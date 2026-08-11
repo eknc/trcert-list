@@ -4772,6 +4772,7 @@
 41.231.37.153
 41.63.63.134
 41.63.96.128
+||412221222145558999892.duckdns.org^
 ||4124124124.duckdns.org^
 ||41242142142151512421.duckdns.org^
 ||412941234531.com^
@@ -10015,6 +10016,7 @@
 ||caymakineleri.com^
 ||caymakinesi-aktuel.lat^
 ||caytarifleri.sbs^
+||cbnmbzbnzxbvzbetytyruuee81.info^
 ||cc0c0c302as23.duckdns.org^
 ||ccc232131x213.duckdns.org^
 ||cccad9f0-3.b-cdn.net^
@@ -10907,6 +10909,7 @@
 ||dolmaq.shop^
 ||domatisc.ink^
 ||domremont.gifts^
+||dondurmakraliduck.duckdns.org^
 ||donmezappointment.netlify.app^
 ||donum-transfer.click^
 ||donustur-baglan.ink^
@@ -13550,6 +13553,7 @@
 ||hjhejres.online^
 ||hjkmrtynertbw.click^
 ||hjnertnqwnq.click^
+||hjsdfgffgdasgjvvzxvbte83.live^
 ||hksbcturkey.com^
 ||hkxiu.com^
 ||hl55polisi.online^
@@ -14770,6 +14774,7 @@
 ||kelvra.club^
 ||kemanci322.cfd^
 ||kemanci322.xyz^
+||kemandersidenemeleri.duckdns.org^
 ||kemolarinizburda.xyz^
 ||kemopscuklar.xyz^
 ||kemopscularburda.xyz^
@@ -18024,6 +18029,7 @@
 ||pkg.dl.wel1.ru^
 ||pksaonracalara.xyz^
 ||pla7ina.cfd^
+||place-goruntu.garden^
 ||plainraw.com^
 ||plakodirenu.com^
 ||plambe.xyz^
@@ -23312,6 +23318,7 @@
 ||yaz-promosyonu-teb.my-homeip.de^
 ||yaz-promosyonu-tebden.my-homeip.de^
 ||yaz.firsatlari.kacirma.oprpesfkfpoogslkdalkasflk.click^
+||yaz.firsatlari.kacirma.varparlakahmtkslwlf.click^
 ||yaz.sonu.firsatlari.dkolardenmslerd.click^
 ||yaz.sonu.firsatlari.hismetlerdsfak.click^
 ||yaz.sonu.firsatlari.hizmetlerimsizisf.click^
