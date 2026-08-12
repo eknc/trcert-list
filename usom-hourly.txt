@@ -1725,6 +1725,7 @@
 ||155upolisi155.online^
 156.146.62.139
 156.208.240.185
+156.225.1.109
 156.226.174.212
 156.227.0.187
 156.234.114.122
@@ -1882,6 +1883,7 @@
 16.171.197.182
 160.119.64.3
 160.119.76.33
+160.119.76.64
 160.187.246.111
 160.187.246.125
 160.187.246.150
@@ -5895,6 +5897,7 @@
 ||5d14vnfb.space^
 ||5e0c6139-1.b-cdn.net^
 ||5kbm66kdabg.icu^
+||5mp.eu^
 ||5onaylskd.nicepage.io^
 ||5s78cyfu9gii.icu^
 ||5x5web.com^
@@ -7734,6 +7737,7 @@
 ||adidas-hiring.com^
 ||adinbeachshotels.com^
 ||adlancex.com^
+||adlikayit.org^
 ||adlikurum.org^
 ||adliyebilgi.org^
 ||adliyebirim.org^
@@ -11154,6 +11158,7 @@
 ||e-mobilde-garantibbva.xyz^
 ||e-nviirandevu.com^
 ||e-nvirandevu.com^
+||e-nvirandevu.net^
 ||e-nvirandevu.org^
 ||e-odeme.duckdns.org^
 ||e-odemeler.duckdns.org^
@@ -11565,6 +11570,7 @@
 ||esube.hdfportfoy.com^
 ||esube.hedeffon.com^
 ||esube.hedefonmusteripanel.com^
+||esube.hedefonportfoyum.com^
 ||esube.iknmusteri.online^
 ||esubem--qnbfinansbank.ph^
 ||esubem-tebde-pro.my-homeip.de^
@@ -12716,6 +12722,7 @@
 ||guncelsistemhaber.com^
 ||gunceltrsikayetler-253.sbs^
 ||gunceltrsikayetler-255.sbs^
+||gunceltrsikayetler-258.sbs^
 ||gunceltrsikayetler-263.sbs^
 ||gunceltrsikayetler-264.sbs^
 ||gunceltrsikayetler-272.sbs^
@@ -13258,8 +13265,10 @@
 ||hedefon.hdfportfoy.com^
 ||hedefon.hedeffon.com^
 ||hedefon.hedefonmusteripanel.com^
+||hedefon.hedefonportfoyum.com^
 ||hedefonmusteripanel.com^
 ||hedefonmusteripaneli.com^
+||hedefonportfoyum.com^
 ||hedefportfoykurumsal.com^
 ||hedefprtfoy.com^
 ||hediye50gb.space^
@@ -15716,6 +15725,7 @@
 ||logmabx.click^
 ||loii.top^
 ||lokumera.com^
+||loli32.vip^
 ||lolihigi-logederese.lol^
 ||lolkral56490.sbs^
 ||lolohugufre-redesede.lol^
@@ -16180,6 +16190,7 @@
 ||meltoxahq.site^
 ||meltoxahubs.site^
 ||meltoxalabs.store^
+||meltraviona.com^
 ||melvexa.gifts^
 ||melvian.cyou^
 ||member.evsahibibasvuru.com^
@@ -16273,6 +16284,7 @@
 ||mh4rsnadevulariniz3.ydns.eu^
 ||mhcese.netlify.app^
 ||mhddyy.click^
+||mhgfshsfdhds.art^
 ||mhherkesrs.com^
 ||mhhmmhrs.app^
 ||mhhres.dns.navy^
@@ -17535,6 +17547,7 @@
 ||optionlabs.site^
 ||optionlabs.store^
 ||optixauvex.us^
+||optryvo.com^
 ||optryza.com^
 ||opzkklid.cfd^
 ||oralet.nicepage.io^
@@ -17756,6 +17769,7 @@
 ||panel.hdfportfoy.com^
 ||panel.hedeffon.com^
 ||panel.hedefonmusteripanel.com^
+||panel.hedefonportfoyum.com^
 ||panel.qsewjn.icu^
 ||pantolonunnerdendiyor.click^
 ||panzozerrot.com^
@@ -18839,6 +18853,7 @@
 ||quarrix.sbs^
 ||quarryminerals.com^
 ||qubistora.vu^
+||quelvozy.com^
 ||quenbi.duckdns.org^
 ||quentorixsystems.com^
 ||quicklimetsouic.pro^
@@ -19098,6 +19113,7 @@
 ||rentirent.com^
 ||rentiva.net^
 ||reporthive.company^
+||reportifynu.com^
 ||repqoow77wiqi.com^
 ||res2erch-sl2ut.com^
 ||resakupen.pro^
@@ -19583,6 +19599,7 @@
 ||saouk.top^
 ||sapaos.shop^
 ||sapdfsaodfsadl.online^
+||sarah199012344.workers.dev^
 ||sarisincitirikacirmamabi.click^
 ||sasadg.b-cdn.net^
 ||sastoro.com^
@@ -20350,6 +20367,7 @@
 ||spenlova.cyou^
 ||spetimdearzusan.xyz^
 ||sphere-api.dialectosphere.in.net^
+||spicehotelbelek.net^
 ||spider-service.vip^
 ||spidermarket.xyz^
 ||spinuni.com^
@@ -23051,6 +23069,7 @@
 ||webmail.7641713825499140.duckdns.org^
 ||webmail.evsahibibasvuru.com^
 ||webmail.mobilkuveytturkk.duckdns.org^
+||webmaxly.com^
 ||webnexus360.com^
 ||webnox.xyz^
 ||webora.cfd^
@@ -23067,6 +23086,7 @@
 ||website6666977.nicepage.io^
 ||website6667577.nicepage.io^
 ||website6667589.nicepage.io^
+||website666758999.nicepage.io^
 ||websitegit.lol^
 ||websitetasarimlarim.sbs^
 ||webtapcs.store^
@@ -23241,6 +23261,7 @@
 ||www155-polisi.online^
 ||www221x23241.duckdns.org^
 ||wwwbilgilendirmeniz.revise.sbs^
+||wwwdhl-parcel.dffbeauty.com.au^
 ||wwwl55-polisi.online^
 ||wwwwwxxxxxxssw.duckdns.org^
 ||wxswwxxxxw.duckdns.org^
