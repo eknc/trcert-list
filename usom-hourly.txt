@@ -95,6 +95,7 @@
 ||101indirimfirsati.site^
 ||101kapindakampanyasi.duckdns.org^
 ||101kereonline.shop^
+||101kralsfe.duckdns.org^
 ||101onlinemerkezlersistem.pages.dev^
 ||101satislar.click^
 ||101sepetindirimleri.xyz^
@@ -7695,6 +7696,7 @@
 ||accessing-gregory-mhz-commitments.trycloudflare.com^
 ||acctune.com^
 ||accuratef.icu^
+||aceleetme.sbs^
 ||acentabayitursab.top^
 ||acentalarbirligi.org^
 ||acentamerkezi.com^
@@ -8433,6 +8435,7 @@
 ||avantajliindirimfirsati7.sbs^
 ||avantajlimarketler.click^
 ||avantajnoktasi24.sbs^
+||avaraj.my-homeip.de^
 ||aventrahq.site^
 ||aventrahubs.store^
 ||avenza.cfd^
@@ -12885,6 +12888,7 @@
 ||haber142512.sbs^
 ||haber1452.sbs^
 ||haber1452.shop^
+||haber145216562.sbs^
 ||haber1453.sbs^
 ||haber1453.shop^
 ||haber25-assf.shop^
@@ -16850,6 +16854,7 @@
 ||myrionix.store^
 ||myroayy.cyou^
 ||myrs-rndv-syfsi.duckdns.org^
+||myrsrndvuualinnn.duckdns.org^
 ||mysayiaktuel.blogspot.com^
 ||mysayiaktuelsel.blogspot.com^
 ||mysayiazerolg.blogspot.com^
@@ -17170,6 +17175,7 @@
 ||nopanel-564732.top^
 ||nopanel-815625.top^
 ||nopanel-85434.top^
+||nopanel2026.online^
 ||nopoked.top^
 ||noreplaydestekbinance.com^
 ||normalmesafe.live^
@@ -19499,6 +19505,7 @@
 ||sahibinden-param-guvende.urunodeme-tr.online^
 ||sahibinden-param-guvende.urunodemetr.online^
 ||sahibinden-paramguvende.github.io^
+||sahibinden-paramguvende.islemonaylatr.online^
 ||sahibinden-police.ozel-hizmet-islemleri.com^
 ||sahibinden-satis-sozlesmesi.kurumsal-online-islem.com^
 ||sahibinden-sepet.guvendeticaretlerim.online^
