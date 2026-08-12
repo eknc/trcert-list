@@ -10848,6 +10848,7 @@
 ||dijionline-siparis.sbs^
 ||dijionline-siparisim.sbs^
 ||dijionline-sipariskampanya.sbs^
+||dijionline-siparismarkt.sbs^
 ||dijionline-siparisver.sbs^
 ||dijisiparis-internet.sbs^
 ||dijital-basvuruadres.sbs^
@@ -11861,6 +11862,7 @@
 ||finance95-ratione25.sbs^
 ||finance96-perspiciatis7.sbs^
 ||finance99-dolor1.sbs^
+||financeavira.com^
 ||financialscope.world^
 ||finansai.org^
 ||finansbankkrediparacepte.ph^
@@ -14979,9 +14981,13 @@
 ||kgmgov.info^
 ||kgmgov.sbs^
 ||kgmgovtrtr.cfd^
+||kgmhelps.click^
 ||kgmigo.top^
+||kgmigov.qpon^
+||kgmipfngmsypp.online^
 ||kgmn.qpon^
 ||kgmngov.cfd^
+||kgmnmubeyb.xyz^
 ||kgmostrgov.sbs^
 ||kgmostrgov.top^
 ||kgmtr.sbs^
@@ -19950,6 +19956,7 @@
 ||silent-orbit.cc^
 ||silentharbor.top^
 ||silikonfiyat.shop^
+||silva.rest^
 ||silverharvest.info^
 ||simclipquartz.cfd^
 ||simdi-40binpromsyonmo-burdan.cfd^
@@ -21613,6 +21620,7 @@
 ||tkg-tapsurndvnuz.net^
 ||tkg-tapsurndvnuzs.info^
 ||tkg-tapsurndvnuzs.net^
+||tkg-tapvrdvsunuz.info^
 ||tkg-tapvrdvsunuz.net^
 ||tkg-tapvrdvsunuz.org^
 ||tkgg-edvtap-randvv.org^
@@ -22168,6 +22176,7 @@
 ||tunexia.gifts^
 ||tupras-islamictradings.com^
 ||turansorgupanel.xyz^
+||turirapolra-fidere.lol^
 ||turixarackiralama.com^
 ||turk.googlai.net^
 ||turkanadoluixtur.cyou^
