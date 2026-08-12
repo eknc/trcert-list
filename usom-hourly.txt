@@ -972,8 +972,10 @@
 135.181.123.177
 135.181.148.230
 135.181.171.40
+135.181.185.158
 135.181.47.22
 135.181.49.38
+135.181.67.203
 136.0.141.112
 136.0.141.138
 136.0.141.41
@@ -2954,6 +2956,7 @@
 185.39.207.152
 185.40.4.51
 185.41.153.188
+185.42.163.55
 185.43.220.45
 185.43.222.242
 185.44.68.128
@@ -3274,6 +3277,7 @@
 193.168.143.184
 193.168.143.185
 193.168.143.199
+193.169.240.81
 193.17.183.233
 193.176.190.41
 193.178.210.226
@@ -7194,6 +7198,7 @@
 92.38.170.6
 92.38.176.252
 92.38.186.110
+92.5.66.49
 92.53.96.4
 92.62.251.17
 92.63.197.133
@@ -7618,6 +7623,7 @@
 ||a1o1karcafirsabaatrp.blogspot.com^
 ||a1o1korkmazfirsatlari.blogspot.com^
 ||a1o1korkmazkampanya.blogspot.com^
+||a1o1marketafisleri.com^
 ||a1o1maysdortsonan.blogspot.com^
 ||a1o1onfskaracandirm.blogdns.com^
 ||a1o1onfskaracandirmpl.blogdns.com^
@@ -8176,6 +8182,7 @@
 ||araba-cekilisim.com^
 ||araba-cekilisim.info^
 ||araba-paribu.com^
+||arabacekilis.com^
 ||arabacekilis.info^
 ||arabacekilisi.click^
 ||arabacekilisim.com^
@@ -10080,6 +10087,7 @@
 ||cccad9f0-3.b-cdn.net^
 ||ccddrjgnmarkt.shop^
 ||ccistiom.xyz^
+||ccleanerwind.top^
 ||ccnsksndnsndnsadasa.com^
 ||cdn.erpsaz.com^
 ||cdn.saholerp.com^
@@ -11475,6 +11483,8 @@
 ||enuygunfilo.com^
 ||enuygunkirala.net^
 ||env-check.daemontools.cc^
+||enveil.online^
+||envell.xyz^
 ||envercicek.com^
 ||enviirandevu.org^
 ||eolvaru.com^
@@ -13992,6 +14002,7 @@
 ||ile-alisverislerini-tamamlama.com^
 ||ile-e-islem.com.tr^
 ||ile-e-islemler.com.tr^
+||ile-e-sepetler.com.tr^
 ||ile-islemlerim.com.tr^
 ||ile-saitin-al.online^
 ||ile-sepetlerim.com.tr^
@@ -15578,6 +15589,7 @@
 ||license.claude-pro.com^
 ||lichenwispupd.info^
 ||lifebalghance.pro^
+||lifereal.digital^
 ||lifescapehub.com^
 ||lightblue-dove-868441.hostingersite.com^
 ||lightblue-giraffe-327092.hostingersite.com^
@@ -18050,6 +18062,7 @@
 ||pazarama.ilan-havale.com^
 ||pazarama.ilan-magaza.com^
 ||pazarama.ilandan-fast.com^
+||pazarama.ile-e-sepetler.com.tr^
 ||pazarama.indirimsepetinde.com^
 ||pazarama.islemcepte.com^
 ||pazarama.magazada-online.com^
@@ -18936,6 +18949,7 @@
 ||randevulugunlerburada.duckdns.org^
 ||randevulugunlere.com^
 ||randevuluzamanninicin.net^
+||randevunoktasi.duckdns.org^
 ||randevununkolay.com^
 ||randevunuzolusturun.com^
 ||randevunuzu-goruntuleyin.com^
@@ -19595,6 +19609,7 @@
 ||sayginbelgelendirme.com^
 ||sbendekealsldjnsnkanprnauso23r9248353984985.click^
 ||sbkoefskrafe.bounceme.net^
+||sbmrsbsvr.com^
 ||sbnesfxko.bounceme.net^
 ||sbnk-promosyn.duckdns.org^
 ||sbnkefxis.duckdns.org^
@@ -19885,6 +19900,7 @@
 ||sharemax.best^
 ||sharing-weblooks-394039902939console-39940030broker.mos.ap-southeast-2.sufybkt.com^
 ||sharpbrief.world^
+||shb-guvenlimuhasebeodemesi.duckdns.org^
 ||sheraton-otel.cfd^
 ||sheredwe.shop^
 ||shield-sky.com^
@@ -21585,6 +21601,7 @@
 ||tiryakicaylar.com^
 ||tiryakifre.com^
 ||tisssbasfasjfagsax.sbs^
+||titanixo.com^
 ||tivento.shop^
 ||tj.tajikistandip.com^
 ||tjskxlkhz8kaxa.cfd^
@@ -21597,6 +21614,7 @@
 ||tkg-tapsurndvnuzs.info^
 ||tkg-tapsurndvnuzs.net^
 ||tkg-tapvrdvsunuz.net^
+||tkg-tapvrdvsunuz.org^
 ||tkgg-edvtap-randvv.org^
 ||tkgms.com.tr^
 ||tkibasvru.sbs^
@@ -22569,6 +22587,7 @@
 ||uvensenvsy.net^
 ||ux.strainedeasily.icu^
 ||uxgbyieldwscz.com^
+||uxtramine.org^
 ||uy347384.click^
 ||uyap-sorgu.online^
 ||uyapdava.com^
@@ -23097,6 +23116,7 @@
 ||wjueor.buzz^
 ||wmanyrei.icu^
 ||woauka446vb.icu^
+||woltexi.com^
 ||woodwok.asia^
 ||worbint.surf^
 ||workandtrash.cfd^
