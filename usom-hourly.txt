@@ -21987,6 +21987,9 @@
 ||trendyol0.click^
 ||trendyol0.lat^
 ||trendyol0.xyz^
+||trendyol016.k9d9c.my^
+||trendyol088.p17l23.my^
+||trendyol0e8.p17l23.my^
 ||trendyol1.baby^
 ||trendyol1.cfd^
 ||trendyol1.click^
@@ -23665,6 +23668,7 @@
 ||yonlen.duckdns.org^
 ||yonlendeiiyonuz7290012.duckdns.org^
 ||yonlendiliyorsudi2sa.duckdns.org^
+||yonlendir-g.my-homeip.de^
 ||yonlendiren-stafy.ink^
 ||yonlendirilidisyorsun231.duckdns.org^
 ||yonlendirilidordisuzsw21.duckdns.org^
