@@ -8422,6 +8422,7 @@
 ||asxadl12kl3c12jkx1l23x1.lat^
 ||ata-news.com^
 ||atakan.22web.org^
+||atakanaylar.com^
 ||atakarackiralama.duckdns.org^
 ||atamam-net.ink^
 ||atayatirim.online^
@@ -17937,6 +17938,7 @@
 ||paribu--cekilisi.com^
 ||paribu--technology.com^
 ||paribu--tekloloji.com^
+||paribu-araba-cekilis.live^
 ||paribu-araba-cekilisi.com^
 ||paribu-araba-cekilisi.live^
 ||paribu-araba-cekilisi.online^
