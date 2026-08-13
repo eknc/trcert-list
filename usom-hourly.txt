@@ -192,6 +192,7 @@
 103.172.79.74
 103.173.154.45
 103.174.73.190
+103.174.80.40
 103.176.20.59
 103.179.189.198
 103.180.149.137
@@ -781,6 +782,7 @@
 122.117.142.237
 122.146.90.121
 122.152.231.146
+122.155.174.20
 122.155.28.155
 122.166.253.226
 122.175.54.67
@@ -1183,6 +1185,7 @@
 142.248.80.31
 142.4.205.155
 142.44.240.132
+142.67.249.79
 142.91.105.172
 142.91.98.77
 142.93.115.5
@@ -1892,6 +1895,7 @@
 160.191.86.209
 160.20.147.67
 160.202.245.232
+160.22.106.87
 160.25.232.62
 160.250.134.51
 160.250.180.208
@@ -2391,6 +2395,7 @@
 176.65.144.232
 176.65.144.253
 176.65.148.120
+176.65.148.153
 176.65.148.160
 176.65.148.173
 176.65.148.177
@@ -4157,6 +4162,7 @@
 216.189.159.34
 216.203.20.95
 216.218.135.114
+216.236.33.82
 216.238.106.150
 216.238.112.222
 216.238.123.242
@@ -4356,6 +4362,7 @@
 23.94.40.119
 23.95.123.5
 23.95.182.59
+23.95.191.213
 23.95.206.162
 23.95.235.22
 ||2312545545554899690.duckdns.org^
@@ -4801,6 +4808,7 @@
 ||412221222145558999892.duckdns.org^
 ||412221222145558999893.duckdns.org^
 ||412221222145558999894.duckdns.org^
+||412221222145558999896.duckdns.org^
 ||4124124124.duckdns.org^
 ||41242142142151512421.duckdns.org^
 ||412941234531.com^
@@ -4923,6 +4931,7 @@
 ||43576884830900.net^
 ||43643s6437rhtgkj4235.click^
 ||43875438141.net^
+44.192.255.189
 44.215.108.109
 ||442.44de22ew.click^
 ||44411140002144.gleeze.com^
@@ -6702,6 +6711,7 @@
 85.158.108.135
 85.158.108.62
 85.17.120.200
+85.17.162.64
 85.17.192.152
 85.17.9.21
 85.17.9.73
@@ -7057,6 +7067,7 @@
 91.194.229.214
 91.195.240.123
 91.196.152.180
+91.196.231.247
 91.196.32.55
 91.198.77.161
 91.199.160.218
@@ -8201,6 +8212,7 @@
 ||araba-cekilisi-paribu.ezgateway.net^
 ||araba-cekilisi-paribu.mywire.org^
 ||araba-cekilisi.com^
+||araba-cekilisi.live^
 ||araba-cekilisii.com^
 ||araba-cekilisim.com^
 ||araba-cekilisim.info^
@@ -9657,6 +9669,7 @@
 ||bronzelocker.bond^
 ||brovixa.cyou^
 ||brovixan.com^
+||broxent.com^
 ||brrrdyzzzzzsnlllll.shop^
 ||brule.live^
 ||brunestavok.gifts^
@@ -12615,6 +12628,7 @@
 ||gradixt.tr^
 ||gragelerdesasdas.duckdns.org^
 ||granadabelekluxury.com^
+||granadaluxuries.com^
 ||granadaluxuriesbelek.com^
 ||granadaluxuryspa.com^
 ||grande-luna.top^
@@ -12804,6 +12818,7 @@
 ||gununbakisi.com^
 ||gununbakisi.cyou^
 ||gunundosyasi.com^
+||gununfirsatiburada.com^
 ||gununflrsatiburada.com^
 ||gununpusulasi.gifts^
 ||gununubilsende.com^
@@ -18211,6 +18226,7 @@
 ||pending-verification.com^
 ||peowqlauoshau8.com^
 ||pepe-cekilis.com^
+||pepe-cekilisim.com^
 ||pepecekilisim.com^
 ||pepepupuchek13.com^
 ||pepepx00x0xw23.duckdns.org^
@@ -19335,6 +19351,7 @@
 ||ruhsuzpanel.site^
 ||ruhsuzpanel1.site^
 ||ruhsuzpanel5.site^
+||ruhsuzpanel6.site^
 ||ruxbuyra.gifts^
 ||ruxdevol.gifts^
 ||ruxmagaz.gifts^
@@ -20185,6 +20202,7 @@
 ||sky-borders.com^
 ||sky-head.cfd^
 ||skyhanni.cloud^
+||skylinvo.com^
 ||skylytika.site^
 ||skythelight.co^
 ||skyverge.cfd^
@@ -21228,6 +21246,7 @@
 ||tapgncweb.web.app^
 ||taphzmet.store^
 ||taphzmett.shop^
+||taphzmts.shop^
 ||tapp-wweeb.com^
 ||taprnbdbvdhgzimet.online^
 ||taprnbdbvdhgzimet.store^
@@ -21541,6 +21560,7 @@
 ||tekrardevametmelin3.cloud^
 ||tekrarsa.dnsup.net^
 ||tekrartekrarbasvurdana.sbs^
+||teksenbilisimn.com^
 ||teksicse.net^
 ||teksoksiparisi.cloud^
 ||tektikileelindee.me^
@@ -21733,6 +21753,7 @@
 ||tivento.shop^
 ||tj.tajikistandip.com^
 ||tjskxlkhz8kaxa.cfd^
+||tk-tapursevrandvun.net^
 ||tkg-edvtap-randv.org^
 ||tkg-edvtap-randvv.org^
 ||tkg-edvtapkonrandv.org^
@@ -22452,6 +22473,7 @@
 ||tuv-turkk.com^
 ||tuv-turkl.digital^
 ||tuv.12855w652.forum^
+||tuvhizlihizmetmobil.site^
 ||tuvislem.site^
 ||tuvkdkaksaksaas.com.tr^
 ||tuvmhr-ss.com^
@@ -22887,6 +22909,7 @@
 ||vectorquantnexus7.lol^
 ||vectorquantnexus8.lol^
 ||vectorquantnexus9.lol^
+||veganhost.top^
 ||vegarlerimenuguncel.xyz^
 ||velbayoq.tr^
 ||velbazar.gifts^
