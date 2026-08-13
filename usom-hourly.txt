@@ -2597,6 +2597,7 @@
 ||182-net.com^
 ||182-nett.com^
 ||182-onlines.biz^
+||182-onlines.help^
 ||182-web.sbs^
 ||182-web.xyz^
 ||182-webb.sbs^
@@ -7695,6 +7696,7 @@
 ||acc.hedefonportfoyum.com^
 ||accapple.ru^
 ||acceptable-use-policy-calendly.de^
+||access-account-web.online^
 ||accessing-gregory-mhz-commitments.trycloudflare.com^
 ||acctune.com^
 ||accuratef.icu^
@@ -9540,6 +9542,7 @@
 ||bosporusfund.com^
 ||boss.turkiyekalkinmabankasi.com^
 ||bosvia.org^
+||bot.evsahibibasvuru.com^
 ||botaniccicekcim.com^
 ||botanikplatinumotel.com^
 ||botasinternational.com.tr^
@@ -10535,6 +10538,7 @@
 ||csaxasdsafa-ee.cfd^
 ||csgb-gov-tr.app^
 ||csgb-gov-tr.com^
+||csgbgovtr.me^
 ||cspryenignce.duckdns.org^
 ||css-cameras-strongly-jaguar.trycloudflare.com^
 ||ctfsai.cc^
@@ -10891,6 +10895,7 @@
 ||dijital-bireyselbasvurulari.sbs^
 ||dijital-bireyselbasvurularim.sbs^
 ||dijital-bireyselbasvurulariniz.sbs^
+||dijital-indirimler.sbs^
 ||dijital-islembilgi.sbs^
 ||dijital-islemler.sbs^
 ||dijital-islemlerbilgi.sbs^
@@ -17874,6 +17879,7 @@
 ||paribu-araba-kazanma.com^
 ||paribu-araba.com^
 ||paribu-araba.live^
+||paribu-araba.online^
 ||paribu-arababurada.com^
 ||paribu-arababurada.link^
 ||paribu-arabacekilisi.com^
@@ -18337,6 +18343,7 @@
 ||police-disks-bull-given.trycloudflare.com^
 ||police-sahibinden.kurumsal-online-islem.com^
 ||police-sozlesmesi.com^
+||policesozlesmesi.com^
 ||policyyn.com^
 ||polifera.vu^
 ||poligideretesede.cfd^
@@ -18766,6 +18773,7 @@
 ||publicanum.com^
 ||publicib.com^
 ||publiclumen.sbs^
+||publicpost.garantibbvakredibasvuru.com^
 ||publicspeakingtip.org^
 ||publicyn.com^
 ||pueedusstaff.unaux.com^
@@ -22565,6 +22573,7 @@
 ||ukrbezpeka.online^
 ||ukrguard.org^
 ||ukzisrgh.cfd^
+||ulandunya.sbs^
 ||ulkebakisi.com^
 ||ulkeincelemesi.com^
 ||ulkeizleme.com^
@@ -22828,6 +22837,7 @@
 ||vaxorilqemu.xyz^
 ||vaxunor.gifts^
 ||vaybetekbasina.lat^
+||vaydunyavay.sbs^
 ||vaylele.cfd^
 ||vaylele.click^
 ||vaylele.lat^
