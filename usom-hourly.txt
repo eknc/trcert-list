@@ -7575,6 +7575,7 @@
 ||a101.bdyoutube.com^
 ||a101.empordafibra.com^
 ||a101a101.shop^
+||a101aktuelfiyatlari.com^
 ||a101aldn.duckdns.org^
 ||a101extrakatalog.site^
 ||a101harca.shop^
@@ -17992,6 +17993,8 @@
 ||paribu-cekilis.co^
 ||paribu-cekilisi.com^
 ||paribu-cekilisim.co^
+||paribu-cekilisim.live^
+||paribu-cekilisim.online^
 ||paribu-cekilisleri.com^
 ||paribu-cekilislerim.live^
 ||paribu-cekilislerim.online^
@@ -19956,6 +19959,7 @@
 ||selectumluxuryresorts.com^
 ||selgebeachmanavgat.com^
 ||selgebeachresortside.com^
+||selgebeachs.com^
 ||selgebeachsresorts.com^
 ||selgehotels.com^
 ||selgeotelside.com^
