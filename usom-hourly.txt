@@ -60,6 +60,7 @@
 ||101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online^
 ||101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online^
 ||101-kstra.s3.eu-north-1.amazonaws.com^
+||101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online^
 ||101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online^
 101.126.141.180
 101.201.213.210
@@ -10170,6 +10171,7 @@
 ||caycial.online^
 ||caydan-lik-indirimleri.net.tr^
 ||caydanlikburada.vercel.app^
+||caydanlikburda.vercel.app^
 ||caykaraca-11d70fd257ba.herokuapp.com^
 ||caylclicimakinlere.com^
 ||caymakineleri.com^
@@ -11017,6 +11019,7 @@
 ||dijitalneybilgi-giris.sbs^
 ||dijitalportalgiris.com^
 ||dijitalsbasvurukanal.duckdns.org^
+||dijitalsiparis-kampanyalar.sbs^
 ||dijitalsorgu.sbs^
 ||dijitalweb-kampanya.com^
 ||dijitalweb-kampanyalarimiz.com^
@@ -11760,6 +11763,7 @@
 ||euyaptakip.org^
 ||euyapteblig.org^
 ||euyapuzlasma.org^
+||euyapvatandas.org^
 ||euzlasmabilgi.org^
 ||euzlasmagib.org^
 ||euzlasmasorgu.org^
@@ -13431,6 +13435,7 @@
 ||hastaneminrandevusu.cfd^
 ||hastaneninonunde.cyou^
 ||hastanentente.uk^
+||hastanerandevu.uk^
 ||hastanerlere.men^
 ||hastanerndvkntrl.cfd^
 ||hastaneserere.uk^
@@ -14662,6 +14667,7 @@
 ||istanbulkolaysopa.xyz^
 ||istanbullardans.shop^
 ||istanbullbelggimkart.xyz^
+||istanbullbelggimkartu.xyz^
 ||istanbullbelggimm.xyz^
 ||istanbullbiizmlaa.xyz^
 ||istanbullcokoolay.xyz^
@@ -15497,6 +15503,7 @@
 ||kmpnyaasnnnfrsattlrrrbsvrr.live^
 ||kmpnyaasonfirsaattbsvrr.art^
 ||kmpnyaasonfirsaattbsvrr.online^
+||kmpnyabsvbrrprmsynn147852.online^
 ||kmpnyacpttbgrs.com^
 ||kmpnyafrstlrrrprmsynnnbsvrr.pro^
 ||kmpnyamrkzbsvrnktasi.info^
@@ -20091,6 +20098,7 @@
 ||sadeosolsprisatlaybftrk112111.blogspot.com^
 ||sadesconfsirsatlartr1od.blogdns.com^
 ||sadfsafsda230203mk.net^
+||sadimuralme-venere.lol^
 ||sadkjhsdakjhsadkjh.com^
 ||sadmsakfdmskqfdfflflfl.net^
 ||sadsahfdagf1.click^
@@ -24053,6 +24061,7 @@
 ||website666758999.nicepage.io^
 ||website6667589999.nicepage.io^
 ||website6667809.nicepage.io^
+||website6668123.nicepage.io^
 ||websitegit.lol^
 ||websitetasarimlarim.sbs^
 ||webtapcs.store^
