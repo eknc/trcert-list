@@ -8575,6 +8575,8 @@
 ||avsfilosu.com^
 ||avskirala.net^
 ||avskiralama.rent^
+||avskiralamafilo.com^
+||avskiralamafilo.online^
 ||avskiralik.com^
 ||avskoc.com^
 ||avskoc.org^
@@ -12276,6 +12278,7 @@
 ||garanti.vva8.com^
 ||garanti45465456465465.duckdns.org^
 ||garantibbva-com-tr.replit.app^
+||garantibbva-isbank.com.ph^
 ||garantibbva.guvenlislem.com^
 ||garantibbvabankas.ph^
 ||garantibbvacepmobil.duckdns.org^
