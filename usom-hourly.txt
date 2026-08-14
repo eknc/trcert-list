@@ -1117,6 +1117,7 @@
 14.225.210.97
 14.225.210.98
 14.46.136.77
+14.49.163.100
 140.206.81.178
 140.227.39.147
 140.233.190.47
@@ -3063,6 +3064,7 @@
 186.48.134.59
 186.57.1.241
 186.68.83.104
+186.96.158.180
 ||186randevuburadan.duckdns.org^
 187.0.128.86
 187.108.1.130
@@ -6696,6 +6698,7 @@
 ||84parcamatkapseti.shop^
 85.106.203.106
 85.11.167.101
+85.11.167.109
 85.11.167.121
 85.11.167.19
 85.11.167.201
@@ -8086,6 +8089,7 @@
 ||amerikastaj.com^
 ||amidolstarny.cfd^
 ||amironlabs.site^
+||amplifyko.com^
 ||amzndev.in^
 ||amzndev.ru^
 ||amznprod.in^
@@ -8563,6 +8567,7 @@
 ||avmkampanyasi.com^
 ||avmsiparislerim.com^
 ||avorilla.com^
+||avrupadiyalog.net^
 ||avsarackirala.com.tr^
 ||avsbayi.com^
 ||avscarfilo.net^
@@ -10944,6 +10949,7 @@
 ||dijital-kampanya.com^
 ||dijital-kampanyaindirimler.sbs^
 ||dijital-kampanyalar.com^
+||dijital-kampanyalarindirim.sbs^
 ||dijital-limit.com^
 ||dijital-mobilgiris.com^
 ||dijital-mobilkampanya.com^
@@ -11448,6 +11454,7 @@
 ||ektalepbasvuruisde.duckdns.org^
 ||ekwlqrsgm.sbs^
 ||elaexallance.com^
+||elaexxalence.com^
 ||elaexxellanceresorts.net^
 ||elaletlerigenel.com^
 ||elaletleriyapimar.com^
@@ -12239,6 +12246,7 @@
 ||galderenderlerdens.duckdns.org^
 ||gallerybox.pics^
 ||gallerymission.com^
+||gamaforge.com^
 ||gameguy.neocities.org^
 ||gameingarea.com^
 ||gamepinxjzr.com^
@@ -14124,6 +14132,7 @@
 ||ile-e-islem.com.tr^
 ||ile-e-islemler.com.tr^
 ||ile-e-sepetler.com.tr^
+||ile-guvende-islemini-yap.com^
 ||ile-islemlerim.com.tr^
 ||ile-saitin-al.online^
 ||ile-sepetlerim.com.tr^
@@ -15384,6 +15393,7 @@
 ||kocfilosu.com^
 ||kocfinans-app.click^
 ||kocfinanssecimtestiozelsecimprogrami.click^
+||kochold.eu^
 ||kockurumsal.com^
 ||kockurumsal.rent^
 ||kocotofilo.net^
@@ -16322,6 +16332,7 @@
 ||melorinu.top^
 ||meloviraworld.com^
 ||melqo.xyz^
+||melrtaviona.com^
 ||meltoxa.site^
 ||meltoxaapp.site^
 ||meltoxahq.site^
@@ -16779,6 +16790,7 @@
 ||modaesra.com^
 ||modernharbor.xyz^
 ||modernjourney.net^
+||modernki.com^
 ||modernperspective.net^
 ||modernsorgulamam.shop^
 ||modernsupplyhub.shop^
@@ -17228,6 +17240,7 @@
 ||nileora.sbs^
 ||nilohipolna-katore.lol^
 ||nilokalisra-solere.lol^
+||nimbosity.world^
 ||nimbusshield.space^
 ||nimetistanbul.net^
 ||nineki.online^
@@ -18002,11 +18015,13 @@
 ||paribu-hediyelicark.com^
 ||paribu-hediyelicekilisi.com^
 ||paribu-pepe-cekilis.com^
+||paribu-pepe-cekilis.link^
 ||paribu-pepe-cekilisi.com^
 ||paribu-pepe-cekilisi.giize.com^
 ||paribu-pepe-cekilisi.info^
 ||paribu-pepe-cekilisi.link^
 ||paribu-pepe-cekilisi.remotewire.net^
+||paribu-pepecekilis.com^
 ||paribu-pepecekilisim.com^
 ||paribu-pepehediyem.com^
 ||paribu-pepehediyem.info^
@@ -18106,10 +18121,13 @@
 ||paribuaracfirsat.com^
 ||paribubonuscarki.com^
 ||paribubuyukcekilisi.com^
+||paribucark-alhediye.com^
 ||paribucark-alhediye.info^
 ||paribucark-burada.com^
+||paribucark-burada.info^
 ||paribucark-burada.link^
 ||paribucark-cevir.com^
+||paribucark-hediye.com^
 ||paribucark-hediye.info^
 ||paribucark-hediye.link^
 ||paribucark-hediyesi.com^
@@ -18120,6 +18138,7 @@
 ||paribucark-oyna.com^
 ||paribucark-oyna.info^
 ||paribucark-oyna.link^
+||paribucark-surada.com^
 ||paribucark.com^
 ||paribucarkhediye.com^
 ||paribucarkicevir.com^
@@ -19600,6 +19619,7 @@
 ||sahibinden-get.mobilservis-84.sbs^
 ||sahibinden-get.mobilservisin-10.sbs^
 ||sahibinden-get.mobilservisin-25.sbs^
+||sahibinden-get.mobilservisin-33.sbs^
 ||sahibinden-get.mobilservisin-37.sbs^
 ||sahibinden-get.mobilservisiniz-15.sbs^
 ||sahibinden-get.mobilservisler-27.sbs^
@@ -19893,6 +19913,7 @@
 ||sefore.netlify.app^
 ||sega-ads-territories-appendix.trycloudflare.com^
 ||sehaaredales.duckdns.org^
+||sehhatdeniz.duckdns.org^
 ||sekermenkulglobal.com^
 ||sektorbizdensoruluyor.sbs^
 ||sektorukapatiyorumkimsereklamacamaztaklaciguvercin.com^
@@ -23952,6 +23973,9 @@
 ||ynlndr-gr-t.my-homeip.de^
 ||yogabloom.icu^
 ||yogasoul.icu^
+||yolarabakirala.com.tr^
+||yolaracfilo.com.tr^
+||yolarackirala.com.tr^
 ||yolarackiralama.com.tr^
 ||yolcu.obilet-mobil.uk^
 ||yolcu.obilet-tr.uk^
@@ -23963,6 +23987,7 @@
 ||yolculuk.obilet-tr.uk^
 ||yolcuotokirala.com.tr^
 ||yolcurentacar.net^
+||yolfilokirala.com.tr^
 ||yolgecisihlalbrcnodme.com^
 ||yolgoarackiralama.com^
 ||yolixarackiralama.com^
