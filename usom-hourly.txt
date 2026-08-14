@@ -12206,6 +12206,7 @@
 ||freeworldcupstream.xyz^
 ||freeworldcupstreaming.xyz^
 ||frelerdeansew.duckdns.org^
+||frenchbuldogg.duckdns.org^
 ||frenksv.sbs^
 ||freshdirection.online^
 ||freshlanez.com^
@@ -14474,6 +14475,7 @@
 ||is-01-ast.ols-img-12.workers.dev^
 ||is-mobilefirsatim.duckdns.org^
 ||is1c2kjkdsakjcskj13c213x1.shop^
+||isacsakldcjkcjk123x12321.shop^
 ||isbak.online^
 ||isbank-basvuruonayiniz.duckdns.org^
 ||isbank.hpyoe.top^
@@ -14515,6 +14517,7 @@
 ||iskampanyasub3.sbs^
 ||iskampanyasum4.xyz^
 ||iskampanyaweb.xyz^
+||isko-web.ink^
 ||iskurbasvur.ph^
 ||islakkurusupurgee.click^
 ||islebaglanhayta.sbs^
@@ -15099,6 +15102,7 @@
 ||kapsamsekil-acil.biz^
 ||kapsmuh.com^
 ||karac.shop^
+||karaca-a5q5-git-main-redmi1.vercel.app^
 ||karaca-burada.vercel.app^
 ||karaca-ev.shop^
 ||karaca-haziran.vercel.app^
@@ -21282,6 +21286,7 @@
 ||spaseburs.art^
 ||spasopro.at^
 ||spbnews.net^
+||speak-g.garden^
 ||specification-submissions-needle-markers.trycloudflare.com^
 ||speedyrac.icu^
 ||spenlo.org^
