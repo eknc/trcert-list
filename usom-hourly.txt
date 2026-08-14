@@ -550,6 +550,7 @@
 109.71.247.168
 109.95.151.207
 109.95.211.121
+||10sadcdajdskjakjkx123kx12312.sbs^
 110.172.28.116
 110.185.104.180
 110.35.80.116
@@ -9157,6 +9158,7 @@
 ||bedavapanel.net^
 ||bedavapanelimizyeniden.gt.tc^
 ||bedavasorgu.org^
+||bedavasorgu.site^
 ||bedavasorgu2026.site^
 ||bedavasorgupaneli.xyz^
 ||beefminuteshark.com^
@@ -9557,6 +9559,7 @@
 ||bonkorrafael.space^
 ||bonus-btcreferans.com^
 ||bonus-garantkredideyiz.myonlineportal.ch^
+||bonus-paribureferans.com^
 ||bonus20-referans.com^
 ||bonusfirsat.digital^
 ||bonusveren512siteler.click^
@@ -10463,6 +10466,7 @@
 ||cooknest.cyou^
 ||cool-horizon.com^
 ||coralveiltyd.pro^
+||cordinely.com^
 ||cordinex.io^
 ||coreaspro.com^
 ||corefluxd.pro^
@@ -11599,6 +11603,7 @@
 ||equinoxpanda.com^
 ||equityva.capital^
 ||equityycraft.com^
+||equuyl.com^
 ||era7capone.sbs^
 ||era7capone2.sbs^
 ||era7capone3.sbs^
@@ -13424,6 +13429,7 @@
 ||hemendahemen.click^
 ||hemengelenekranlarburada.duckdns.org^
 ||hemengir.lol^
+||hemengor.abrdns.com^
 ||hemenguvendeileal.com^
 ||hemenhizliislemn.net^
 ||hemenhizlisnoclsm.net^
@@ -13701,6 +13707,7 @@
 ||hizliccabasvurum.cloud^
 ||hizlidanogren.xyz^
 ||hizlifilolar.com^
+||hizlifilom.com^
 ||hizlifinansyeriniz.xyz^
 ||hizligecinbakiyesi.firebaseapp.com^
 ||hizligecinbakiyesi.web.app^
@@ -14271,6 +14278,7 @@
 ||internetbasvurukatilimi.xyz^
 ||internetduyurularisiz.duckdns.org^
 ||internetislemleri-akmobil-bireysel-com.duckdns.org^
+||internetkobi.duckdns.org^
 ||internetonline.click^
 ||internetprvpn.ru^
 ||internetsube-qnbfinansbankasi.ph^
@@ -14496,6 +14504,7 @@
 ||istanbulkolaysop.xyz^
 ||istanbulkolaysopa.xyz^
 ||istanbullardans.shop^
+||istanbullbelggimkart.xyz^
 ||istanbullbiizmlaa.xyz^
 ||istanbullcokoolay.xyz^
 ||istanbulllbelgimmkart.com^
@@ -15385,6 +15394,7 @@
 ||knowib.com^
 ||knowledgetree.courses^
 ||knowvin.com^
+||kobi-sube.duckdns.org^
 ||kobibilgi.click^
 ||kobihaberleri.click^
 ||kobihaberleri.com^
@@ -17260,6 +17270,7 @@
 ||nktklanklanklaa.net^
 ||nl-baykar.com^
 ||nlatlantlanlta.net^
+||nlhmrsrabklmdn.com^
 ||nltalntalnal.net^
 ||nltanalhemenl.net^
 ||nltanayalhluu.xyz^
@@ -17974,6 +17985,7 @@
 ||paribu--arabacekilisi.com^
 ||paribu--arabam.com^
 ||paribu--cekilis.com^
+||paribu--cekilis.live^
 ||paribu--cekilisi.com^
 ||paribu--technology.com^
 ||paribu--tekloloji.com^
@@ -17995,8 +18007,10 @@
 ||paribu-arabahediye.com^
 ||paribu-arabahediyem.com^
 ||paribu-arabahediyem.info^
+||paribu-arabahediyem.link^
 ||paribu-arabahediyen.com^
 ||paribu-arabahediyen.info^
+||paribu-arabahediyen.link^
 ||paribu-arabakazan.com^
 ||paribu-arabakazanma.com^
 ||paribu-arabakazanma.info^
@@ -18006,12 +18020,14 @@
 ||paribu-arabasansi.link^
 ||paribu-arabayakala.com^
 ||paribu-arabayakala.info^
+||paribu-arabayakala.link^
 ||paribu-buyukcekilisi.com^
 ||paribu-cark-cekilisi.opik.net^
 ||paribu-cark-hediye.com^
 ||paribu-carkcekilisi.com^
 ||paribu-cekilis.co^
 ||paribu-cekilisi.com^
+||paribu-cekilisi.online^
 ||paribu-cekilisim.co^
 ||paribu-cekilisim.live^
 ||paribu-cekilisim.online^
@@ -18022,6 +18038,7 @@
 ||paribu-hediyelicark.com^
 ||paribu-hediyelicekilisi.com^
 ||paribu-pepe-cekilis.com^
+||paribu-pepe-cekilis.info^
 ||paribu-pepe-cekilis.link^
 ||paribu-pepe-cekilisi.com^
 ||paribu-pepe-cekilisi.giize.com^
@@ -18029,7 +18046,13 @@
 ||paribu-pepe-cekilisi.link^
 ||paribu-pepe-cekilisi.remotewire.net^
 ||paribu-pepecekilis.com^
+||paribu-pepecekilis.info^
+||paribu-pepecekilis.link^
 ||paribu-pepecekilisim.com^
+||paribu-pepecekilisim.info^
+||paribu-pepecekilisim.link^
+||paribu-pepecekilisin.info^
+||paribu-pepecekilisin.link^
 ||paribu-pepehediyem.com^
 ||paribu-pepehediyem.info^
 ||paribu-pepehediyem.link^
@@ -18058,6 +18081,7 @@
 ||paribuaraba-kazanci.link^
 ||paribuaraba-kazandim.com^
 ||paribuaraba-kazandim.info^
+||paribuaraba-kazandim.link^
 ||paribuaraba-kazanma.com^
 ||paribuaraba-kazanma.info^
 ||paribuaraba-kazanma.link^
@@ -18134,6 +18158,7 @@
 ||paribucark-burada.info^
 ||paribucark-burada.link^
 ||paribucark-cevir.com^
+||paribucark-geldi.info^
 ||paribucark-hediye.com^
 ||paribucark-hediye.info^
 ||paribucark-hediye.link^
@@ -18146,6 +18171,7 @@
 ||paribucark-oyna.info^
 ||paribucark-oyna.link^
 ||paribucark-surada.com^
+||paribucark-surada.info^
 ||paribucark.com^
 ||paribucarkhediye.com^
 ||paribucarkicevir.com^
@@ -19363,6 +19389,7 @@
 ||rhymbil.com^
 ||rhymedream.com^
 ||rhythmora.com^
+||rhythmza.com^
 ||richonlinestore.com^
 ||rideory.com^
 ||ridermission.com^
@@ -19471,6 +19498,7 @@
 ||s-guvenlisigortaodemenoktasi.duckdns.org^
 ||s-param-guvende.servis-hizmetleri.online^
 ||s-paramguvende.islembilgitr.online^
+||s-paramguvende.islemonaylatr.online^
 ||s-paramguvende.onaybilgi.online^
 ||s-paramguvende.servis-hizmetleri.online^
 ||s-paramguvende.servisbilgi-tr.online^
@@ -21449,6 +21477,7 @@
 ||tcmasakdosya.com^
 ||tcmasakportal.com^
 ||tcmasaktr.org^
+||tcportal.org^
 ||tcsicil.org^
 ||te-teb-cep.myonlineportal.de^
 ||teaandcake-how.info^
@@ -22425,6 +22454,7 @@
 ||tubitak4005stefam.blogspot.com^
 ||tucanslacaneca.cfd^
 ||tucsonanimalallergy.com^
+||tuerq1.carrd.co^
 ||tuhugferetesede.lat^
 ||tuhwu.buzz^
 ||tukendiamanabizatiyo.sbs^
@@ -23456,6 +23486,7 @@
 ||worpax.org^
 ||worpaxti.surf^
 ||worpist.rest^
+||woscarfilo.com^
 ||wosuqyy.xyz^
 ||wotpoc.shop^
 ||woupp.com^
