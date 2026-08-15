@@ -15,6 +15,7 @@
 ||019d6860-endpoint.com^
 ||01firsatlarkacirmayin0102.com^
 ||01sa20203dsas.com^
+||020201337.sbs^
 ||05vj15ec77sw.thechidocas.cyou^
 ||070707.sbs^
 ||070709.sbs^
@@ -19384,6 +19385,7 @@
 ||pttavmkmraporlama.com^
 ||pttavmkmsorguladim.web.app^
 ||pttavmkmsorgulama.com^
+||pttavmkmsorgum.com^
 ||pttavmkmsorgumerkezi.web.app^
 ||pttavmonlineislemlerim.com^
 ||pttavmonlinesepethemenal.com^
@@ -23579,6 +23581,7 @@
 ||usps.xupqnqz.one^
 ||ust-kurulusweby.myonlineportal.ch^
 ||ustkoanicaken.xyz^
+||ustumuzeyokbualemdeeee.digital^
 ||utilitygoods.shop^
 ||utkjvyhcgfdscyvtufc.lat^
 ||utotoskan.duckdns.org^
@@ -24974,6 +24977,7 @@
 ||zira-a-t-bireysel-basvuru-ekran.my-homeip.de^
 ||zira-a-t-login-page.my-homeip.de^
 ||zira-at-basvuru-sureci.my-homeip.de^
+||zira-trade.icu^
 ||ziraa-t-bireysel-giris-yap-internet.my-homeip.de^
 ||ziraa-t-giris-yap-mobil-bank.my-homeip.de^
 ||ziraabasvu.nicepage.io^
