@@ -10227,6 +10227,7 @@
 ||cekilisparibu.co^
 ||cekilisparibu.com^
 ||cekilissonucqnbfinans.com.ph^
+||cekilissonucuqnbfinans.com.ph^
 ||celebwise.info^
 ||celte-sok.shop^
 ||cemostvsan.net^
@@ -12380,6 +12381,7 @@
 ||garantibbva-bell.com.ph^
 ||garantibbva-com-tr.replit.app^
 ||garantibbva-isbank.com.ph^
+||garantibbva-vero.ph^
 ||garantibbva.guvenlislem.com^
 ||garantibbvabankas.ph^
 ||garantibbvacepmobil.duckdns.org^
