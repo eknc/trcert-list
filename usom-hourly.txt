@@ -2620,6 +2620,7 @@
 ||182-webb.xyz^
 ||182-webhati.com^
 ||182-webs.biz^
+||182-webs.help^
 ||182-webs.online^
 ||182-webs.sbs^
 ||182-website.com^
@@ -5868,6 +5869,7 @@
 54.39.83.187
 54.92.11.182
 54.93.245.249
+||541221125565556559992.duckdns.org^
 ||5423423.net^
 ||54354982138943214000.net^
 ||54375432423342645.org^
@@ -11635,6 +11637,7 @@
 ||empreasas.garantibbvakredibasvuru.com^
 ||empresas.garantibbvakredibasvuru.com^
 ||empresasbbavnet.garantibbvakredibasvuru.com^
+||emvo.shop^
 ||enablepasskey.com^
 ||enablepasskey2fa.com^
 ||enbuyukindirimdunyasi2.sbs^
@@ -11725,6 +11728,7 @@
 ||erisim.casa^
 ||erken-randevuhizmetleri.com^
 ||erkendenalma.duckdns.org^
+||erkengulen.biz^
 ||erkenmobilhizli.site^
 ||erkenrandevuler.com^
 ||erkerandevular.com^
@@ -13013,6 +13017,7 @@
 ||guncelizlenimler.com^
 ||guncelkaynaklar.com^
 ||guncelmercekler.com^
+||guncelmerkez.abrdns.com^
 ||guncelmerkezigarantiislemcozum.online^
 ||guncelnotlar.company^
 ||guncelnotlistesi.com^
@@ -13049,6 +13054,7 @@
 ||gunceltrsikayetler-272.sbs^
 ||guncelverimerkezi.com^
 ||guncelyorumlar.com^
+||gundelikhaberlerr.sbs^
 ||gundemcizgisi.gifts^
 ||gundemdunyasi.company^
 ||gundemdunyasi.world^
@@ -15192,6 +15198,7 @@
 ||karacaa.co^
 ||karacaa.xyz^
 ||karacabutik.com.tr^
+||karacaclub.shop^
 ||karacaevim.vercel.app^
 ||karacaevs.store^
 ||karacaevtr.store^
@@ -16789,6 +16796,7 @@
 ||mcelerndeslesw.duckdns.org^
 ||mckinsey-careers.com^
 ||mczwdx.click^
+||mdsfhfgsr.com^
 ||meaametbaba.cfd^
 ||meadowlyn.cfd^
 ||meadowsantiques.com^
@@ -17923,6 +17931,7 @@
 ||ns-wwwhaber7com.almach.shop^
 ||ns-wwwhaber7com.descarga-mg.co^
 ||ns-wwwhaber7com.kerbed.cfd^
+||ns-wwwhaber7com.rojadirecta-com.co^
 ||ns-wwwntvcomtr.sludgy.cfd^
 ||ns-wwwpostacomtr.fakingguango.cfd^
 ||nsacasbvsaasa.sbs^
@@ -19160,6 +19169,7 @@
 ||portfoyislem.online^
 ||portfoynurol.com^
 ||portlabs.store^
+||porty-lyb.myonlineportal.ch^
 ||pory-logrenade-ky.myonlineportal.ch^
 ||poseflow.icu^
 ||positive-amber-bpwtfu3p.edgeone.dev^
@@ -20588,6 +20598,7 @@
 ||sekermenkulglobal.com^
 ||sektorbizdensoruluyor.sbs^
 ||sektorukapatiyorumkimsereklamacamaztaklaciguvercin.com^
+||selammmmmbrdann.com^
 ||selcukbayraktar.2ix.ch^
 ||selcukbayraktar.4lima.ch^
 ||selcukbayraktar.aem.page^
@@ -22996,6 +23007,7 @@
 ||tr-kacsub.shop^
 ||tr-kara.cfd^
 ||tr-karaca.shop^
+||tr-karaca.store^
 ||tr-karacas.shop^
 ||tr-karacatr.shop^
 ||tr-karastore.com^
@@ -23155,6 +23167,7 @@
 ||trguvenlisiparis.online^
 ||trguvenlisiparisler.online^
 ||trhazinemasak.org^
+||trible-shot.myonlineportal.ch^
 ||trilogicworld.com^
 ||trimnt.com^
 ||tripadvisor-photo-view.com^
@@ -23172,6 +23185,7 @@
 ||trizratfrfs.cfd^
 ||trkamusorgu.org^
 ||trkara.nicepage.io^
+||trkaraca.homes^
 ||trkaraca.shop^
 ||trkaracas.shop^
 ||trkasaldcc.nicepage.io^
@@ -23884,6 +23898,7 @@
 ||vectorquantnexus9.lol^
 ||veganhost.top^
 ||vegarlerimenuguncel.xyz^
+||vekso-lym.myonlineportal.ch^
 ||velbayoq.tr^
 ||velbazar.gifts^
 ||velbazix.com^
@@ -24125,6 +24140,7 @@
 ||warwarawra.my.canva.site^
 ||wasaredoor.shop^
 ||washquarry.bond^
+||wastingtime.co^
 ||watchworldcup.watch^
 ||watchworldcup.world^
 ||watchworldcup2026.xyz^
