@@ -2623,6 +2623,7 @@
 ||182-webs.help^
 ||182-webs.online^
 ||182-webs.sbs^
+||182-webs.store^
 ||182-website.com^
 ||182-weeb.net^
 182.113.198.87
@@ -9834,8 +9835,10 @@
 ||bsvurum-kvveyt.xyz^
 ||bsvvrrrrkrediiiprmsynnnkmpnyaa.info^
 ||bsvvrrrrkrediiiprmsynnnkmpnyaa.pro^
+||bsvvvurrrsnfrstlrrrkmpyasii.click^
 ||bsvvvurrrsnfrstlrrrkmpyasii.info^
 ||bsvvvurrrsnfrstlrrrkmpyasii.live^
+||bsvvvurrrsnfrstlrrrkmpyasii.pro^
 ||bsykartech.com^
 ||btcturk-cekilis.com^
 ||btcturk-kripto.zendesk.com^
@@ -17011,6 +17014,7 @@
 ||mhltkfardn.com^
 ||mhmrmsnesnmzsnds.org^
 ||mhns.randevu-bilgi.it.com^
+||mhpubrsle.digital^
 ||mhr-al-hadisende.duckdns.org^
 ||mhr.serceparmak.cyou^
 ||mhr.serceparmak.xyz^
@@ -19581,6 +19585,7 @@
 ||publicpost.garantibbvakredibasvuru.com^
 ||publicspeakingtip.org^
 ||publicyn.com^
+||pubmhsl.digital^
 ||pueedusstaff.unaux.com^
 ||pulse-vol.com^
 ||pulsebasap.pro^
@@ -20746,6 +20751,7 @@
 ||sepetimdeindirimleriyakala.com^
 ||sepetimdeonline.click^
 ||sepetimdeonline.online^
+||sepetimdeonline.site^
 ||sepetimdeonline.store^
 ||sepetimonay.click^
 ||sepetimonay.online^
@@ -23570,6 +23576,7 @@
 ||tvtrkjhzmetlrebsd.store^
 ||tvtrkkdshhzimetburds.online^
 ||tvtrkkdshhzimetburds.store^
+||tvtrksnrhzsdme.store^
 ||tvtur-k.net^
 ||tvturk-ei.digital^
 ||tvutkyns.net^
