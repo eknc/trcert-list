@@ -99,6 +99,7 @@
 ||101firsatlars.click^
 ||101indirimfirsati.site^
 ||101kapindakampanyasi.duckdns.org^
+||101kariyer.com^
 ||101kereonline.shop^
 ||101kralsfe.duckdns.org^
 ||101onlinemerkezlersistem.pages.dev^
@@ -6369,6 +6370,7 @@
 77.83.39.195
 77.83.39.247
 77.83.39.75
+77.87.98.174
 77.90.153.225
 77.90.153.30
 77.90.153.62
@@ -11896,6 +11898,7 @@
 ||ezblrclme.shop^
 ||ezpizi.biz^
 ||f08a9acc-9.b-cdn.net^
+||f12c38259e.nxcli.io^
 ||f13682ae-e.b-cdn.net^
 ||f36c2774f013-endpoint.com^
 ||f41ea047-f.b-cdn.net^
@@ -13142,6 +13145,7 @@
 ||guvenli-odemler.online^
 ||guvenli-online-e-ticaret.com^
 ||guvenli-pos.com^
+||guvenli-tamamla.com^
 ||guvenlialisveris-odeme.com^
 ||guvenlialisveris.online^
 ||guvenlialisverisin.online^
@@ -16677,6 +16681,7 @@
 ||maliyetrgov.org^
 ||maliyevergiformu.com^
 ||maliyevezne.com^
+||maliyeveznedartalepformu.com^
 ||malkim.com^
 ||malkocbakie.lat^
 ||mallora.shop^
@@ -20347,6 +20352,7 @@
 ||sahibinden-get.jetservishizmetleriniz.online^
 ||sahibinden-get.jetservisleriniz.com^
 ||sahibinden-get.mobil-eservisin.com^
+||sahibinden-get.mobilsepetlerimservis.online^
 ||sahibinden-get.mobilservis-84.sbs^
 ||sahibinden-get.mobilservisin-10.sbs^
 ||sahibinden-get.mobilservisin-25.sbs^
@@ -20371,6 +20377,7 @@
 ||sahibinden-get.servsjethizmet.online^
 ||sahibinden-get.vercel.app^
 ||sahibinden-getilan.ile-guvenle-islem-web.com^
+||sahibinden-guvenli.siparisonayim.online^
 ||sahibinden-hizmet.online^
 ||sahibinden-ilan.tr-get-servis.online^
 ||sahibinden-order.cfd^
@@ -20378,6 +20385,7 @@
 ||sahibinden-param-guvende.islemonaylatr.online^
 ||sahibinden-param-guvende.islemonaytr.online^
 ||sahibinden-param-guvende.siparisbilgitr.online^
+||sahibinden-param-guvende.siparisonayi.online^
 ||sahibinden-param-guvende.urunodeme-tr.online^
 ||sahibinden-param-guvende.urunodemetr.online^
 ||sahibinden-paramguvende.github.io^
@@ -20416,6 +20424,7 @@
 ||sahibinden.fast-ilan.com^
 ||sahibinden.get-paramguvende.my^
 ||sahibinden.guvendealimlarimiz.com^
+||sahibinden.guvenli-tamamla.com^
 ||sahibinden.guvenlialisveris.online^
 ||sahibinden.hemen-siparisver.com^
 ||sahibinden.hemenguvendeileal.com^
@@ -21287,6 +21296,7 @@
 ||sokfirsatlarburada.com^
 ||sokfrstlaslsad.s0k.workers.dev^
 ||sokindirim-market.com^
+||sokisokkapidafirsattilari.duckdns.org^
 ||sokkampanyaindirimleri.duckdns.org^
 ||sokkampanyalarbayrami.click^
 ||sokmakket.shop^
@@ -22345,6 +22355,7 @@
 ||tcbmtrcumhurbaskanligiuygulama10.com.ph^
 ||tcdosyasorgu.org^
 ||tcegm.net^
+||tchazinemasak.org^
 ||tckalkinmabankasi.com^
 ||tckalkinmayatirimbankasi.com^
 ||tckamusorgu.org^
@@ -23196,6 +23207,7 @@
 ||trendyol0.xyz^
 ||trendyol016.k9d9c.my^
 ||trendyol088.p17l23.my^
+||trendyol0b5.pcfridkc33.com^
 ||trendyol0b7.k9d9c.my^
 ||trendyol0e8.p17l23.my^
 ||trendyol0ef.p17l23.my^
