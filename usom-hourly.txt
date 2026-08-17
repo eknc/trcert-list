@@ -5878,6 +5878,7 @@
 54.93.245.249
 ||541221125565556559992.duckdns.org^
 ||541221125565556559993.duckdns.org^
+||541221125565556559994.duckdns.org^
 ||5423423.net^
 ||54354982138943214000.net^
 ||54375432423342645.org^
@@ -8614,6 +8615,7 @@
 ||avmhemenal.com^
 ||avmkampanyasi.com^
 ||avmsiparislerim.com^
+||avonnitur.com^
 ||avorilla.com^
 ||avrupadiyalog.net^
 ||avsarackirala.com.tr^
@@ -8848,6 +8850,7 @@
 ||basvurukuvytpromosyon.duckdns.org^
 ||basvurularbaslasdir.cloud^
 ||basvurulardevamediyo.cloud^
+||basvurulari-1.sbs^
 ||basvurularimiz.myonlineportal.de^
 ||basvurulariniaslasman.sbs^
 ||basvurularinitamamlar.sbs^
@@ -10388,6 +10391,7 @@
 ||civento.vu^
 ||civicyn.com^
 ||civitasium.com^
+||cix132jxk123z123z123.shop^
 ||ciziyoruzsolsag.click^
 ||cj06y9v4xab.com^
 ||cjghnb555.duckdns.org^
@@ -11794,6 +11798,7 @@
 ||eslesme-edinim.guru^
 ||eslink.click^
 ||esnek-figur.ink^
+||esnekkosullar.abrdns.com^
 ||esnrbrdaskyrz.shop^
 ||esoayfo.finksbish.sbs^
 ||esorgu-onaylanansorgulariniz.sbs^
@@ -12275,6 +12280,7 @@
 ||for8service.net^
 ||fordkurumsalkiralama.com^
 ||forestsignal.com^
+||forever-daily.ink^
 ||forex-inside.com^
 ||forgejadei.pro^
 ||formbasvurum.com^
@@ -12756,6 +12762,7 @@
 ||gittigidiyor.com.ph^
 ||gjbdijittal.com^
 ||gjswxattkq.yoga^
+||gkkcl123klx12k3lz1312.shop^
 ||gkldkasxklkl13x12z123.sbs^
 ||glamtex.surf^
 ||glantix.capital^
@@ -13756,6 +13763,7 @@
 ||hemsaksdertedas.duckdns.org^
 ||henjarlake.com^
 ||hepberabereleleburaya.sbs^
+||hepberaberiz.sbs^
 ||hepbirliktecokgucluyuz.vip^
 ||hepbirliktemucadeleye.sbs^
 ||hepbirlitkeyyizz.com^
@@ -13800,6 +13808,7 @@
 ||hesapdumantvn.net^
 ||hesapdumantvrk.net^
 ||hesapguvenlik.com^
+||hesaphareket.com^
 ||hesapli.o-bilet.eu^
 ||hesapteknik-lutgr-ekon.myonlineportal.ch^
 ||hesobtiy1650.site^
@@ -17354,6 +17363,7 @@
 ||mobilnet.my-homeip.net^
 ||mobilpkampanyam.duckdns.org^
 ||mobils-tr.online^
+||mobilsepetlerimservis.online^
 ||mobilservis-43.sbs^
 ||mobilservis-44.sbs^
 ||mobilservis-83.sbs^
@@ -18515,6 +18525,7 @@
 ||otokocarackirala.com.tr^
 ||otokocarackirala.net.tr^
 ||otokocarackirala.org^
+||otokocaviskiralama.net^
 ||otokocelektroniksozlesme.com^
 ||otokocfilo.net^
 ||otokocfilo.org^
@@ -19468,6 +19479,7 @@
 ||pttavm-araciniz-hakkinda.firebaseapp.com^
 ||pttavm-araciniz-hakkinda.web.app^
 ||pttavm-arackilometresorgulama.web.app^
+||pttavm-arackmsorgulayiniz.web.app^
 ||pttavm-bireysel.com^
 ||pttavm-bireyselonline.com^
 ||pttavm-com.ph^
@@ -19502,6 +19514,7 @@
 ||pttavm-kmsorgulama-hizmeti.web.app^
 ||pttavm-kmsorgulama.firebaseapp.com^
 ||pttavm-kmsorgulama.web.app^
+||pttavm-kmsorgulamakkicn.web.app^
 ||pttavm-odemenizguvende.com^
 ||pttavm-onlinesatis.com^
 ||pttavm-onlinesepetim.com^
@@ -21085,6 +21098,7 @@
 ||shoppeak.shop^
 ||shops-mobil.online^
 ||shopsites.shop^
+||shopstore-tr.online^
 ||shopventura.shop^
 ||shotlab.mom^
 ||showera.bond^
@@ -23905,6 +23919,7 @@
 ||v2k7mxr.sbs^
 ||v2xmq7r9k.cfd^
 ||v34c21312.duckdns.org^
+||v34v3249813x9123x123.shop^
 ||v434gyh66.nicepage.io^
 ||v4n8z2k7x6p9.cfd^
 ||v5n8x3b6r2w9.sbs^
