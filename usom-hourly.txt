@@ -9699,6 +9699,7 @@
 ||botaniccicekcim.com^
 ||botanikplatinumotel.com^
 ||botasinternational.com.tr^
+||botibofilgo-solere.lol^
 ||botitilanme-katore.lol^
 ||botivedonse-katore.lol^
 ||botmaker.digital^
@@ -17474,6 +17475,7 @@
 ||mobil-deniz-promosyyon-bilgi-ekranim.theworkpc.com^
 ||mobil-deniz-promosyyon-cepte.webredirect.org^
 ||mobil-deniz-promosyyon-ekrani.theworkpc.com^
+||mobil-dijital-firsatlar.sbs^
 ||mobil-erisim.my-homeip.de^
 ||mobil-erisim.myonlineportal.de^
 ||mobil-firsatlarinumre.duckdns.org^
