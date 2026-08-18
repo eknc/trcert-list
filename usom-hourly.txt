@@ -5882,6 +5882,7 @@
 ||541221125565556559994.duckdns.org^
 ||541221125565556559995.duckdns.org^
 ||541221125565556559996.duckdns.org^
+||541221125565556559997.duckdns.org^
 ||5423423.net^
 ||54354982138943214000.net^
 ||54375432423342645.org^
@@ -9873,6 +9874,7 @@
 ||btcturk-platform.com^
 ||btcturk.site^
 ||btcturkcekilisi.online^
+||btf-adalet-bakanligi.pages.dev^
 ||btjzcg.click^
 ||btksikayet-btk-sikayet.up.railway.app^
 ||btkurumsal.ph^
@@ -10278,6 +10280,7 @@
 ||cebinde-temmuz.tv.tr^
 ||cebinizdekiglobalekran.duckdns.org^
 ||cebteteb.my-homeip.de^
+||cebteteb.myonlineportal.de^
 ||cederese-deresedese.lol^
 ||cekilis--araba.live^
 ||cekilis--binance.com^
@@ -10343,6 +10346,7 @@
 ||cevirkazanbntr.duckdns.org^
 ||ceza-kgm.cc^
 ||cezabirimi.net^
+||cezadavasorgu.org^
 ||cezadosya.org^
 ||cezadosyasorgu.org^
 ||cezakamu.org^
@@ -11383,6 +11387,7 @@
 ||e-sube.istanbul-portfoydanismanlik.com^
 ||e-sube.tunafonyonetimi.com^
 ||e-tokiislemlerinebasla.digital^
+||e-tuvtr.site^
 ||e1a10-hdakia-kmpnsyaa-xrteak.lol^
 ||e394932x232.duckdns.org^
 ||e3c9bbef-4.b-cdn.net^
@@ -12209,6 +12214,7 @@
 ||first-onayweb.ink^
 ||firstdrivehill.com^
 ||firstlartukenmkuzere1o1.shop^
+||firstlrkapndatukenyr1o1.info^
 ||fiscalapi.ro^
 ||fitcore.gifts^
 ||fitlevel.sbs^
@@ -13817,6 +13823,7 @@
 ||herseymaziden.sbs^
 ||herseysznlegzzel.sbs^
 ||herseyyeneartkboyleoldusendegel.info^
+||hertkestyer.duckdns.org^
 ||hervurdugumuzgol.click^
 ||herzaman-buralardayiz.vercel.app^
 ||herzamandevamsiparis.sbs^
@@ -13835,6 +13842,7 @@
 ||hewvex.click^
 ||hfcrbt.buzz^
 ||hfhsdhsdfssax3.lol^
+||hg.xxxxxxxxx111111.click^
 ||hg73983943.click^
 ||hgceyklm.click^
 ||hgceyklme.click^
@@ -15220,6 +15228,7 @@
 ||kampanyaliurunsayfasi.click^
 ||kampanyapusulasi.sbs^
 ||kampanyarehberi7x.sbs^
+||kampanyasoksokkampnyalarimizzer.duckdns.org^
 ||kampanyfalanssasa.com^
 ||kampanyya-saati.duckdns.org^
 ||kampanyyafirsatllarikvueyts.sbs^
@@ -15304,6 +15313,7 @@
 ||karacaonline.store^
 ||karacaonlinetr.shop^
 ||karacasell.shop^
+||karacashop.homes^
 ||karacasofrac.homes^
 ||karacasofras.homes^
 ||karacastore.club^
@@ -15841,6 +15851,7 @@
 ||koylu-bot.neocities.org^
 ||koyunn.nicepage.io^
 ||kozlrmszbrdpylsyrz.xyz^
+||kozmoyenigirisadresi.com^
 ||kq7x2pvm4r.cfd^
 ||kraca-tr.shop^
 ||kracadanda.duckdns.org^
@@ -17028,6 +17039,7 @@
 ||merkezrandevu-hi.com^
 ||merkeztakibi.com^
 ||merkezyasam.com^
+||merkezzinciri.abrdns.com^
 ||merlrdenslesw.duckdns.org^
 ||merona.click^
 ||merovikaglobal.com^
@@ -17428,6 +17440,7 @@
 ||mobiltalepfirsati.duckdns.org^
 ||mobiltebce.my-homeip.net^
 ||mobilweb-hat-grn.casa^
+||mobilyamerkezitr.shop^
 ||mobim-liter-y.myonlineportal.ch^
 ||modabelle.store^
 ||modaesra.com^
@@ -18795,7 +18808,9 @@
 ||paribu-pepehediyesi.link^
 ||paribu-sansliaraba.com^
 ||paribu-sorgulama.co^
+||paribu-sponsorcekilisi.live^
 ||paribu-sponsorlu-cekilis.live^
+||paribu-sponsorlu-cekilisi.live^
 ||paribu-sponsorlu-cekilisler.live^
 ||paribu-sponsorlucekilis.live^
 ||paribu-technology.com^
@@ -20256,6 +20271,7 @@
 ||ruxstoro.com^
 ||ruxvenda.gifts^
 ||ruxvendro.com^
+||rvdal182brdn.org^
 ||rvdownloads.com^
 ||rweretee.nicepage.io^
 ||rwgerwgsdfgfg.duckdns.org^
@@ -21462,6 +21478,7 @@
 ||sonhaberleri255.shop^
 ||sonhaberlermerit.shop^
 ||sonhaberonline.com^
+||soniz.top^
 ||sonkezcalbenimicin.sbs^
 ||sonkmpnyalartukenyr1o1.shop^
 ||sonnbsvrrprmsynnnkmpnyaaa.art^
@@ -21594,6 +21611,8 @@
 ||sponsorlu-12.duckdns.org^
 ||sponsorlu-14.duckdns.org^
 ||sponsorlu-cekilisler-paribu.live^
+||sponsorlu-cekilisler.live^
+||sponsorlu-cekilisparibu.live^
 ||sponsorlu-paribu-cekilisleri.live^
 ||sponsorlu-paribu.live^
 ||sponsorlu2394239413.click^
@@ -24562,6 +24581,7 @@
 ||www-qnbfinansbank-service.ph^
 ||www-qnbfinansbank-transfer.ph^
 ||www-qnbfinansbank-yenilenen-subem.ph^
+||www-teb-com-tr-basvuru-aidat-iade.my-homeip.de^
 ||www-teb-com-tr-emekli-promosyon.my-homeip.de^
 ||www-teb-com-tr-emekli.my-homeip.de^
 ||www-toki-gov-tr-ev.vercel.app^
@@ -24746,6 +24766,7 @@
 ||xxxgr40c0c02xx2.duckdns.org^
 ||xxxswwwsxsxwxsxwxxxx.duckdns.org^
 ||xxxxsaastasfa-sa.sbs^
+||xxxxxxxxx111111.click^
 ||xxxxxxxxx111111.sbs^
 ||xxy23ycx23y.sbs^
 ||xyz2025faizsizkredilerim.xyz^
