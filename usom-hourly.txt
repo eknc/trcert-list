@@ -8313,6 +8313,7 @@
 ||arac-gerec.cards^
 ||aracbakimhizmeti.blogspot.com^
 ||aracbakimhizmetin.blogspot.com^
+||aracccimmuayyenee.com^
 ||araccimmuayenen.xyz^
 ||araccimmuayeyen.com^
 ||araccmuayene-tuvturk-randvu.web.app^
@@ -9616,6 +9617,7 @@
 ||blrs-gasnbr.lat^
 ||blrs-tenas.lat^
 ||blsouqs.com^
+||blue-harbor.ink^
 ||bluelagoonaenterprise.com^
 ||bluescry.com^
 ||blueviolet-bison-787584.hostingersite.com^
@@ -9696,6 +9698,7 @@
 ||botaniccicekcim.com^
 ||botanikplatinumotel.com^
 ||botasinternational.com.tr^
+||botitilanme-katore.lol^
 ||botivedonse-katore.lol^
 ||botmaker.digital^
 ||botonline.click^
@@ -10313,6 +10316,7 @@
 ||cebinizdekiglobalekran.duckdns.org^
 ||cebteteb.my-homeip.de^
 ||cebteteb.myonlineportal.de^
+||cebtetebi.myonlineportal.ch^
 ||cederese-deresedese.lol^
 ||cekilis--araba.live^
 ||cekilis--binance.com^
@@ -12230,6 +12234,7 @@
 ||firsat-urununuz-sondemler.sbs^
 ||firsatarackiralama.online^
 ||firsatbonus.digital^
+||firsatgunlugu.sbs^
 ||firsati-kacirma.duckdns.org^
 ||firsatisindeekran.duckdns.org^
 ||firsatlar-diyari.duckdns.org^
@@ -12648,6 +12653,7 @@
 ||gecissistemimiz.lat^
 ||gecisyuklemebayisi.web.app^
 ||gecisyukleynz.web.app^
+||gecisyuklmesihizli.web.app^
 ||gederselerdensler.duckdns.org^
 ||gedewadgsqa.duckdns.org^
 ||geimbra.weebly.com^
@@ -13858,6 +13864,8 @@
 ||hepinizeilkyerlerdengeldik.com^
 ||hepsenal.sbs^
 ||hepsibenimle.xyz^
+||hepsiburada-garantibbva.ph^
+||hepsiburadagarantibbva.ph^
 ||hepsikredi-tr.com^
 ||hepsinden1o1.shop^
 ||hepsivurada.ph^
@@ -14135,6 +14143,7 @@
 ||hizligecisyuklemenzz.web.app^
 ||hizligecisyuklemeyeriniz.firebaseapp.com^
 ||hizligecisyuklme.web.app^
+||hizligectimoldu.shop^
 ||hizliguvenlionay.com^
 ||hizlihaber.shop^
 ||hizlihizmett6.sbs^
@@ -14838,6 +14847,7 @@
 ||istanbulbegimkart.xyz^
 ||istanbulbegimsel.xyz^
 ||istanbulbelggim.xyz^
+||istanbulbelgiim.xyz^
 ||istanbulbelgiimkart.xyz^
 ||istanbulbelgiimmmcann.xyz^
 ||istanbulbelgim.uk^
@@ -14872,6 +14882,8 @@
 ||istanbulbizimmm.xyz^
 ||istanbulbizimmmefe.xyz^
 ||istanbulcan.xyz^
+||istanbulcanbelggim.xyz^
+||istanbulcanbelggimla.xyz^
 ||istanbulcancabab.xyz^
 ||istanbulcancan.com^
 ||istanbulcancan.xyz^
@@ -14920,6 +14932,7 @@
 ||istanbullbelggimm.xyz^
 ||istanbullbiizmlaa.xyz^
 ||istanbullcokoolay.xyz^
+||istanbullkaartttcan.xyz^
 ||istanbulllbelgimcan.xyz^
 ||istanbulllbelgimm.xyz^
 ||istanbulllbelgimmkart.com^
@@ -15376,6 +15389,7 @@
 ||karacaevim.vercel.app^
 ||karacaevs.store^
 ||karacaevtr.store^
+||karacagood.shop^
 ||karacahaziran.com^
 ||karacahome.vercel.app^
 ||karacahomes.shop^
@@ -15524,6 +15538,7 @@
 ||kep-bilgi-guncelleme.com^
 ||kep-hepsiburada.com^
 ||kepadresiguncel.com^
+||kepadresimhepsiburada.com^
 ||kepguncelleme.com^
 ||kephepsiburada.com^
 ||kepimhepsiburada.com^
@@ -16060,6 +16075,7 @@
 ||krybra.site^
 ||krylo.sbs^
 ||ksiyt3wmdupp.icu^
+||ksr-racingparts.com^
 ||ksuueue211.duckdns.org^
 ||kt-bank-ag.com^
 ||ktalakltlkatla.net^
@@ -16170,6 +16186,7 @@
 ||landerlerdesnes.duckdns.org^
 ||landscapeuganda.com^
 ||lanfits.netlify.app^
+||lapellelaser.pl^
 ||laptopdrivers.gifts^
 ||larek.vu^
 ||larpers.fun^
@@ -18913,9 +18930,12 @@
 ||paribu-sorgulama.co^
 ||paribu-sponsorcekilisi.live^
 ||paribu-sponsorlu-cekilis.live^
+||paribu-sponsorlu-cekilis.online^
 ||paribu-sponsorlu-cekilisi.live^
+||paribu-sponsorlu-cekilisi.online^
 ||paribu-sponsorlu-cekilisler.live^
 ||paribu-sponsorlucekilis.live^
+||paribu-sponsorlucekilis.online^
 ||paribu-sponsorlugunda-cekilis.live^
 ||paribu-technology.com^
 ||paribu-tr.click^
@@ -19063,6 +19083,9 @@
 ||paribupepehediyem.info^
 ||paribupepehediyem.link^
 ||paribusanscarki.com^
+||paribusponsorlu-cekilis.online^
+||paribusponsorlucekilis.online^
+||paribusponsorlucekilisi.online^
 ||paribustock.org^
 ||paributechnology.com^
 ||parkfauna.com^
@@ -19072,6 +19095,7 @@
 ||parloparla.click^
 ||parolas.click^
 ||parram-guvende.com^
+||parsrulman.com^
 ||parti-kampanya.fun^
 ||parti-kampanyasi.online^
 ||participation-subcommittee-marriage-miles.trycloudflare.com^
@@ -19186,6 +19210,7 @@
 ||pazarama.ozel-magazadan.com^
 ||pazarama.satiskapida.com^
 ||pazarama.satiskontrol.com^
+||pazarama.siparislerimguvende.com^
 ||pazarama.sorunsuzodeme.com^
 ||pazaramabireyselsatis.online^
 ||pazaramahizlionay.com^
@@ -19683,6 +19708,7 @@
 ||pttavm.guvenlihizmet.online^
 ||pttavm.guvenliteslimat.online^
 ||pttavm.hizliveguvenli.sbs^
+||pttavm.ilan-mobilde.com^
 ||pttavm.ilan-sepetimde.com^
 ||pttavm.ilanda-siparislerim.com^
 ||pttavm.ilanlarim-sepetin.pro^
@@ -19937,6 +19963,7 @@
 ||qnbfinansbnak.ph^
 ||qnbfinasnbankenpara.ph^
 ||qnbsfinansbank-basvuru.ph^
+||qnbstart.com^
 ||qomzarek.site^
 ||qonllinekonomigarantimobileapptr.xyz^
 ||qoravemix.capital^
@@ -21288,6 +21315,7 @@
 ||signinacessint.com^
 ||signinacesspoint.com^
 ||signspace.cloud^
+||sigortamhgskask.com^
 ||sigortamr.xyz^
 ||sikarcas.shop^
 ||silashield.space^
@@ -21795,6 +21823,7 @@
 ||srtyryqstaxagdaqnismanlik.blogspot.com^
 ||srtyryqstaxasgdaqnismanlik.blogspot.com^
 ||srwinservice.com^
+||ss6777.site^
 ||ssdfmrkt.xyz^
 ||ssinvestigaciones.com^
 ||ssksorgulamasifresiz.blogspot.com^
@@ -24106,6 +24135,7 @@
 ||uzmanislmnkta.net^
 ||uzumm-market-online.xyz^
 ||uzunlaryaniyoraramizda.co^
+||v-k.com.ua^
 ||v-new.cloud^
 ||v2.kali365.xyz^
 ||v2913712.sbs^
@@ -24870,6 +24900,7 @@
 ||xn--s0kmarlktlr-8zb.com^
 ||xn--sahibinden-guvenliodeme-sifir-alsveris-fxf.lovable.app^
 ||xn--sahibindenkargomilanmn-6ld.com^
+||xn--setdestekyardmlari-q0c.com^
 ||xn--temmuzfrsatlaragatbbvaslennmenuler-hcfhim.site^
 ||xn--temmuzfrsatlarbvagarantsslemmenulermn-nrfhjbalb.shop^
 ||xn--trendyol-ylmaz-ticaret-ile-siparisi-tamamla-2mg.com^
