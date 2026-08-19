@@ -199,6 +199,7 @@
 103.172.38.249
 103.172.79.74
 103.173.154.45
+103.174.34.49
 103.174.73.190
 103.174.80.40
 103.176.20.59
@@ -248,6 +249,7 @@
 103.248.61.36
 103.250.160.76
 103.251.112.11
+103.251.143.14
 103.252.127.6
 103.252.89.75
 103.255.177.55
@@ -709,6 +711,7 @@
 118.107.45.42
 118.107.46.174
 118.107.7.166
+118.114.239.128
 118.140.151.242
 118.145.151.135
 118.174.98.182
@@ -777,6 +780,7 @@
 121.32.49.226
 121.41.35.65
 121.43.96.49
+121.46.248.77
 121.78.124.7
 121.78.147.213
 121.92.21.139
@@ -2596,6 +2600,7 @@
 181.174.164.55
 181.176.231.77
 181.176.231.94
+181.191.65.7
 181.197.159.183
 181.206.158.190
 181.214.223.8
@@ -2967,6 +2972,7 @@
 185.247.137.170
 185.247.137.174
 185.247.137.190
+185.247.137.42
 185.247.224.41
 185.250.151.155
 185.255.114.110
@@ -4273,6 +4279,7 @@
 220.168.203.197
 221.120.34.164
 221.15.146.6
+221.165.172.38
 221.182.17.149
 221.200.212.47
 221.226.192.77
@@ -6895,6 +6902,7 @@
 87.230.98.74
 87.236.176.116
 87.236.176.208
+87.236.176.40
 87.236.177.9
 87.237.202.67
 87.239.129.78
@@ -7781,6 +7789,7 @@
 ||acentalarbirligi.org^
 ||acentamerkezi.com^
 ||acentasicilsorgu.org^
+||acentecozumleri.cfd^
 ||aceritop.com^
 ||acik-web-gir.casa^
 ||acikdenizde.my-homeip.net^
@@ -8270,6 +8279,7 @@
 ||applehosts.ru^
 ||appleid-customertelemetry.gl^
 ||appletime.in^
+||application.colibriathenas.com.br^
 ||applinecore.digital^
 ||applio.xyz^
 ||appnexa.digital^
@@ -10528,6 +10538,7 @@
 ||clubletooniafethiye.com^
 ||clubprincess.click^
 ||clueindex.com^
+||clxzmqte.xyz^
 ||cmd.allthe.site^
 ||cmhuzlasma.org^
 ||cn-microsoft.com^
@@ -11168,6 +11179,7 @@
 ||dijtalsbn.space^
 ||dikdiy.xyz^
 ||dinamik-hat-verileri.myonlineportal.ch^
+||dinamikmenkuldeger.com^
 ||dinamikuygulama.pro^
 ||dinamikuygulamagiris.pro^
 ||dinersciub.qpon^
@@ -12450,6 +12462,7 @@
 ||frsttlrrrkmpnyaabsvrrrrsonnnn.xyz^
 ||frsttlsnbsvrrkmponyaa128549.online^
 ||frsttlsnbsvrrkmponyaa128549.pro^
+||frsttrndvulrdaim.com^
 ||frsttsnnkmpnyabsvrrr.click^
 ||frsttsnnkmpnyabsvrrr.live^
 ||frsttsnnkmpnyabsvrrr.xyz^
@@ -14822,6 +14835,7 @@
 ||islemler.duckdns.org^
 ||islemlerburasbs.art^
 ||islemlerhizmet.online^
+||islemleriniz.duckdns.org^
 ||islemlerinizeburdandevamedin.yyuyy.com^
 ||islemlerinizzzizz.sbs^
 ||islemnktnasna.net^
@@ -16282,6 +16296,7 @@
 ||lesyatsmhzmt.com^
 ||letgo.guvenli-hizmet.online^
 ||lethasonuc.xyz^
+||letok82650.store^
 ||levano.gifts^
 ||levariq.gifts^
 ||levexionmedia.com^
@@ -17205,6 +17220,7 @@
 ||mersiniyilikor.net^
 ||messtxgymx.xyz^
 ||metabolicflux.com^
+||metabusinesscenter-appealform-copyright.vercel.app^
 ||metaforgechain1.lol^
 ||metaforgechain10.lol^
 ||metaforgechain2.lol^
@@ -17740,6 +17756,7 @@
 ||musteriportalim.sbs^
 ||muygufuderesede.lat^
 ||muzeburasi.com^
+||muzeburda.com^
 ||muzedunyasi.com^
 ||muzegezi.click^
 ||muzehizmet.click^
@@ -18325,6 +18342,7 @@
 ||odemekontrol.com^
 ||odemeyap.digital^
 ||odlassadan.shop^
+||odmeebasvurlarinia.sbs^
 ||odmyeyklezmni.cfd^
 ||oeannon.com^
 ||oeoeo2020201z.duckdns.org^
@@ -23131,6 +23149,7 @@
 ||tivento.shop^
 ||tj.tajikistandip.com^
 ||tjskxlkhz8kaxa.cfd^
+||tk-tapursevrandvun.info^
 ||tk-tapursevrandvun.net^
 ||tkg-edvtap-randv.org^
 ||tkg-edvtap-randvv.org^
@@ -23732,6 +23751,7 @@
 ||turkcell-ui.netlify.app^
 ||turkcell.tamamla-sip.com^
 ||turkcellduyuru.com^
+||turkcurrent.blog^
 ||turkdailyhub.world^
 ||turkekonomik.com^
 ||turkey-benz.com^
@@ -23996,6 +24016,7 @@
 ||u648984.softaculous.dev^
 ||u649198.softaculous.dev^
 ||u649786.softaculous.dev^
+||u649962.softaculous.dev^
 ||u8404944.click^
 ||u9p2x6m1z8q4.cfd^
 ||uardeqo.digital^
