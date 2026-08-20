@@ -58,6 +58,8 @@
 ||10000000001.opik.net^
 ||100101099999900001.duckdns.org^
 ||1001harcabitmez.click^
+||101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online^
+||101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus^
 ||101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online^
 ||101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online^
 ||101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online^
@@ -833,6 +835,7 @@
 123.60.167.7
 123.96.19.84
 ||1231516frrrssrstlarrkmpnyaasbsvrr.info^
+||1231516frrrssrstlarrkmpnyaasbsvrr.online^
 ||123213212112.duckdns.org^
 ||12321512633.lat^
 ||1232fafsas227fgsar24.cfd^
@@ -1708,6 +1711,7 @@
 154.82.92.35
 154.84.24.112
 154.84.63.184
+154.86.119.60
 154.86.22.47
 154.88.96.49
 154.88.96.61
@@ -7968,6 +7972,7 @@
 ||ak-yaz-kampanya.blogspot.com^
 ||akaycicekcilik.com^
 ||akaycicekcilik.com.tr^
+||akbadonerd.click^
 ||akbank-bireysel-sube.ph^
 ||akbank-bireysel-subesi.ph^
 ||akbank-borc-sorgulama.ph^
@@ -11689,6 +11694,7 @@
 ||elativexona.sbs^
 ||elclasico.click^
 ||elconews.blog^
+||elektro-tr.online^
 ||elektronik-alisveris-merkezi.com^
 ||elektronik-magaza-sepetim.com^
 ||elektronik-urun-sepetim.com^
@@ -12020,6 +12026,7 @@
 ||exanova.shop^
 ||exanova.site^
 ||exanova.store^
+||excellyx.com^
 ||exczx.com^
 ||exessupdate.info^
 ||exhibitproject.com^
@@ -12053,6 +12060,7 @@
 ||facebook-login-guide.com.ph^
 ||facebook-login-login-extra.ph^
 ||facebook.evsahibibasvuru.com^
+||facebookhelpdesklogin.blogspot.com^
 ||facebookloginadmin.blogspot.com^
 ||facebookloginapponline.ph^
 ||facebookloginlabd.com.ph^
@@ -12289,6 +12297,7 @@
 ||firsat-urununuz-sondemler.sbs^
 ||firsatarackiralama.online^
 ||firsatbonus.digital^
+||firsatdefteri.sbs^
 ||firsatgunlugu.sbs^
 ||firsati-kacirma.duckdns.org^
 ||firsatisindeekran.duckdns.org^
@@ -12415,6 +12424,7 @@
 ||forvar-d.my-homeip.de^
 ||forward-yonlendir.ink^
 ||forwardhorizon.net^
+||forwardjourney.online^
 ||forzir.cfd^
 ||foskopa.vu^
 ||fotocekinmeguzelim.vip^
@@ -12447,6 +12457,7 @@
 ||frontstory.pro^
 ||frostgiantd.info^
 ||frrrssrsarstlarrkmpnshhyaasbsvrrr14559587.info^
+||frrrssrsarstlarrkmpnshhyaasbsvrrr14559587.online^
 ||frrrstllrrrkmpppnnnyaaaabsvrrr.info^
 ||frrrstllrrrkmpppnnnyaaaabsvrrr.pro^
 ||frrstlrrkmnyaabsvrrr25479123.info^
@@ -13469,6 +13480,7 @@
 ||haberkrali.shop^
 ||haberl2231123.sbs^
 ||haberlarivizyon.com^
+||haberler.sizde.com.akbadonerd.click^
 ||haberler.sizde.com.solanamolana.click^
 ||haberler103342.shop^
 ||haberler112233.shop^
@@ -14071,6 +14083,7 @@
 ||hgsodemehizmetler.com^
 ||hgsodemehizmetler.info^
 ||hgsodemehizmetler.online^
+||hgsodeyklenktsi.cfd^
 ||hgsodykle.com^
 ||hgsonlneyklebkye.cfd^
 ||hgsonlneyklesmdi.cfd^
@@ -15586,6 +15599,7 @@
 ||kayitlikullanici.abrdns.com^
 ||kaytekin-vudepora.lol^
 ||kazan-kazan.com^
+||kazanamaksendehakknsedegelkatl13.info^
 ||kazancagi.world^
 ||kazanctakip.site^
 ||kazancyolu.site^
@@ -15876,6 +15890,8 @@
 ||kmnapyalagelen.duckdns.org^
 ||kmnnpyybsvrrprmsynnfrstlllrr.info^
 ||kmnnpyybsvrrprmsynnfrstlllrr.pro^
+||kmnpyaabsvrrfrsttsonnn36528.info^
+||kmnpyaabsvrrfrsttsonnn36528.pro^
 ||kmogren-durumbilgi.firebaseapp.com^
 ||kmogren-durumbilgi.web.app^
 ||kmogren-guvenlivehizli.firebaseapp.com^
@@ -19256,6 +19272,7 @@
 ||paribusponsorlugundacekilis.online^
 ||paribusponsorlugundacekilisi.online^
 ||paribusponsorlugundacekils.online^
+||paribusponsporlucekilisi.live^
 ||paribustock.org^
 ||paributechnology.com^
 ||parkfauna.com^
@@ -24971,6 +24988,7 @@
 ||www-teb-com-tr-basvuru-emekli-promosyon.my-homeip.de^
 ||www-teb-com-tr-basvuru-iade.my-homeip.de^
 ||www-teb-com-tr-basvuru-islemler.my-homeip.de^
+||www-teb-com-tr-basvuru-yap.my-homeip.de^
 ||www-teb-com-tr-emekli-promosyon.my-homeip.de^
 ||www-teb-com-tr-emekli.my-homeip.de^
 ||www-teb-com-tr-promosyon-emekli.my-homeip.de^
