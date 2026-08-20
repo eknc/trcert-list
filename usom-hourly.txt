@@ -13545,6 +13545,7 @@
 ||haberlerson23454.shop^
 ||haberlerson7754.shop^
 ||haberlersonbilgi.shop^
+||haberlerturk146519.sbs^
 ||habermeridyen10811.sbs^
 ||habermeridyen34.cfd^
 ||habermerityen10811.sbs^
