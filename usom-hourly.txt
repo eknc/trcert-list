@@ -73,6 +73,7 @@
 ||101-kstra.s3.eu-north-1.amazonaws.com^
 ||101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online^
 ||101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online^
+||101-sadece-bugune-ozel-alisveris-sepet-indirimi-mobilde-tr.buystore-tr.online^
 ||101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online^
 ||101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online^
 ||101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online^
@@ -8231,6 +8232,7 @@
 ||alsicane.net^
 ||alsversyaptmsendeartkyapmalsn.online^
 ||alt.e-wl.com^
+||altinyunushotelcesme.com^
 ||alts6343.blogspot.com^
 ||altzserberin.info^
 ||aluminiostramuntana.com^
@@ -8396,6 +8398,7 @@
 ||arabacekilis.com^
 ||arabacekilis.info^
 ||arabacekilisi.click^
+||arabacekilisi.online^
 ||arabacekilisim.com^
 ||arabacekilisim.info^
 ||arabam--paribu.com^
@@ -8435,6 +8438,7 @@
 ||aracmuayeneislem.com^
 ||aracmuayeneislemleri.sbs^
 ||aracmuayenenz.xyz^
+||aracmuayenerandevu.com^
 ||aracmuayenerandevualma.blogspot.com^
 ||aracmuayeneyaptir.sbs^
 ||aracmuaynalhemen.uk^
@@ -9429,6 +9433,7 @@
 ||beransraol.com^
 ||berdewselerce.duckdns.org^
 ||bergenlerdasdaw.duckdns.org^
+||bernagulcicekcilik.com.tr^
 ||bernasibutuwqu2.com^
 ||besbeskardeszczgssuper.online^
 ||besiprogrami.nicepage.io^
@@ -11469,6 +11474,7 @@
 ||driverbackup.gifts^
 ||driverclone.gifts^
 ||drivervault.gifts^
+||dro4432.site^
 ||dromax.digital^
 ||dromax.vu^
 ||dropboxi.com^
@@ -14261,6 +14267,7 @@
 ||hgsyklehgssrgla.cfd^
 ||hgsykleprahgsykle.cfd^
 ||hgsykleykleode.cfd^
+||hgsyklodesmdi.cfd^
 ||hgsylgcsonlinebrcpm.com^
 ||hgsylgcsonlinebrcpmz.com^
 ||hgsymra.com^
@@ -15745,6 +15752,7 @@
 ||karelunox.cyou^
 ||karg00-vakti.sbs^
 ||karg00-vaktii.sbs^
+||kargomhizli.com^
 ||kargotakip.e-ilan-elektronik-siparisim.com^
 ||kargotakip.mobilservis-82.sbs^
 ||kargotakip.ptt.com.sistemi.biz.tr^
@@ -21236,6 +21244,7 @@
 ||sana-ozel.duckdns.org^
 ||sanalbasvuruolustura.cloud^
 ||sanalcilarsystem.pro^
+||sanalcilarsystems2.pro^
 ||sanasiparilerindensok.cloud^
 ||sanatsal-g.myonlineportal.ch^
 ||sanayeminedebilirim.sbs^
@@ -22380,6 +22389,7 @@
 ||storban.capital^
 ||storban.surf^
 ||storbon.surf^
+||store-plus.online^
 ||stormplayavia.com^
 ||storvam.pics^
 ||storvax.com^
@@ -23574,6 +23584,7 @@
 ||tkisencis.net^
 ||tkkg-edvtapkon-v.online^
 ||tkkg-edvtapkonv.online^
+||tkktktklaspsrlurklm.com^
 ||tksiccerde.net^
 ||tksiehhfi.net^
 ||tkssafafaxassxcafc.xyz^
@@ -23617,6 +23628,7 @@
 ||togg5000stok.click^
 ||toggarac.com^
 ||toggbasvurum.com^
+||toggfinans.com^
 ||toggfinans.online^
 ||toggfinansman.com^
 ||togghaziran5000.com^
@@ -25646,6 +25658,7 @@
 ||yatirimblogu.com^
 ||yatirimci-merkezi.com^
 ||yatirimci-merkezi.net^
+||yatirimfinans.com^
 ||yatirimfinansmanmenkuldegerler.net^
 ||yatirimhedef.com^
 ||yatirimmerkeziinfo.net^
