@@ -62,6 +62,7 @@
 ||101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online^
 ||101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus^
 ||101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online^
+||101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop^
 ||101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online^
 ||101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online^
 ||101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online^
@@ -5696,6 +5697,7 @@
 49.51.253.65
 49.89.41.187
 ||49494oop49x92.duckdns.org^
+||49843544322684.sbs^
 ||4daa2aea93db-endpoint.com^
 ||4hex.online^
 ||4kvideodownloader.ru^
@@ -7256,6 +7258,7 @@
 91.92.242.13
 91.92.242.183
 91.92.242.236
+91.92.242.247
 91.92.242.30
 91.92.242.85
 91.92.243.160
@@ -7837,6 +7840,7 @@
 ||acentasorgulama.com^
 ||acentecozumleri.cfd^
 ||aceritop.com^
+||acik-deniz.my-homeip.de^
 ||acik-web-gir.casa^
 ||acikdenizde.my-homeip.net^
 ||acikdenizlere.my-homeip.de^
@@ -8459,6 +8463,7 @@
 ||arrrzumstwt.com^
 ||arrzuminndrim.com^
 ||arrzzumnndrrs.com^
+||arsbeyzfstt.com^
 ||arskrgmnsnz.giize.com^
 ||artcnb.com^
 ||arti-web.my-homeip.de^
@@ -10461,6 +10466,7 @@
 ||ceptesok.hizlifirsatim.com^
 ||ceptesok.hizligiriss.com^
 ||ceptesokfirsatlarim.com^
+||ceptesokindirmleri.online^
 ||ceptete.pzbsin.com^
 ||cepteteb-merkeziislemler.my-homeip.de^
 ||cepteteb.pzbsin.com^
@@ -10961,6 +10967,7 @@
 ||daspcz.help^
 ||daspino.vu^
 ||daspol.surf^
+||dassdaasd12.blogspot.com^
 ||dastore.top^
 ||data.evsahibibasvuru.com^
 ||datacentra.live^
@@ -16695,6 +16702,7 @@
 ||lorqexo.gifts^
 ||loseorwin.co^
 ||loserrq0j1sha8.com^
+||lovememore.click^
 ||lowertea.info^
 ||lowertea.xyz^
 ||lowtidecorner.info^
@@ -18603,6 +18611,7 @@
 ||odemehemen.com^
 ||odemekontrol.com^
 ||odemeyap.digital^
+||odeyklehgs.cfd^
 ||odlassadan.shop^
 ||odmeebasvurlarinia.sbs^
 ||odmyeyklezmni.cfd^
@@ -21069,6 +21078,7 @@
 ||sahibinden.magaza-mobil.com^
 ||sahibinden.magazada-online.com^
 ||sahibinden.magazadan-odeme.com^
+||sahibinden.mobilservislerim-1.sbs^
 ||sahibinden.mobilservislerim-2.sbs^
 ||sahibinden.mobilservisleriniz-6.sbs^
 ||sahibinden.odeme-ilanim-48773.com^
@@ -22943,6 +22953,7 @@
 ||taphzmet.store^
 ||taphzmet.web.app^
 ||taphzmett.shop^
+||taphzmrl.shop^
 ||taphzmts.shop^
 ||tapp-wweeb.com^
 ||taprnbdbvdhgzimet.online^
@@ -23026,6 +23037,7 @@
 ||tcbmtrcumhurbaskanligiuygulama10.com.ph^
 ||tcdosyasorgu.org^
 ||tcegm.net^
+||tchazinemasak.net^
 ||tchazinemasak.org^
 ||tckalkinmabankasi.com^
 ||tckalkinmayatirimbankasi.com^
@@ -25266,6 +25278,7 @@
 ||x4n6v1m8z9p3.cfd^
 ||x7m2q9v4n8k1.cfd^
 ||x7m6ha235fds3df2.click^
+||x7m6ha235fds3df2.duckdns.org^
 ||x7m6ha35f253fsd.cfd^
 ||x7m6ha35fds3df2.cfd^
 ||x7m6ha54n1g1.cfd^
