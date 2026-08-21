@@ -21082,6 +21082,7 @@
 ||sahibinden.siparisver-hemen.com^
 ||sahibinden.siparisverhemen.com^
 ||sahibinden.sozlesme-islemleri-online.com^
+||sahibinden.tr-alisveris-islemler.online^
 ||sahibinden.trguvenli-siparis.online^
 ||sahibinden.trguvenlisiparisler.online^
 ||sahibinden.trhizmetservis.online^
@@ -23730,6 +23731,7 @@
 ||tpurandevolstur.uk^
 ||tr-115-polistr.online^
 ||tr-akbank.ph^
+||tr-alisveris-islemler.online^
 ||tr-aselsan.com^
 ||tr-bbva-garanti.ph^
 ||tr-binance2026.duckdns.org^
@@ -25026,6 +25028,7 @@
 ||website6668123.nicepage.io^
 ||websitegit.lol^
 ||websitetasarimlarim.sbs^
+||webstt182.com^
 ||webtapcs.store^
 ||webtapsc.store^
 ||webte-182.com^
