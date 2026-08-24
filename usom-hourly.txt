@@ -8953,6 +8953,8 @@
 ||basvumerksd.nicepage.io^
 ||basvur-hemenbasvurgiris100yildeniz.ph^
 ||basvur-isceponay.space^
+||basvur-teb-cep.myonlineportal.de^
+||basvur-tebcep.myonlineportal.de^
 ||basvur.myonlineportal.de^
 ||basvurbizlkelerle.sbs^
 ||basvurbrd.sbs^
@@ -9036,6 +9038,7 @@
 ||basvurummobildenbntr.duckdns.org^
 ||basvurumunadresinde.cfd^
 ||basvurun-cepten.myonlineportal.de^
+||basvurunuz-cebte.myonlineportal.de^
 ||basvurusalislemlerims.duckdns.org^
 ||basvurusirasi.online^
 ||basvurusitesi-production.up.railway.app^
@@ -9584,6 +9587,7 @@
 ||bilimuskudar.w-staticblitz.com^
 ||bilimuskudar.wixsite.com^
 ||bilimuskudar.zone.id^
+||bilinclituketim.abrdns.com^
 ||billuno.top^
 ||bilopiddsade-cere.xyz^
 ||bilsesavasiyorumdahanelerle.sbs^
@@ -10495,6 +10499,8 @@
 ||cebteteb.my-homeip.de^
 ||cebteteb.myonlineportal.de^
 ||cebtetebi.myonlineportal.ch^
+||cebtetebli.my-homeip.de^
+||cebtetebli.myonlineportal.at^
 ||cebteteblim.myonlineportal.ch^
 ||cederese-deresedese.lol^
 ||cekilis--araba.live^
@@ -10544,6 +10550,7 @@
 ||ceptemobildeyiz.my-homeip.de^
 ||ceptemobili.my-homeip.de^
 ||ceptemobilim.my-homeip.de^
+||cepten-mobile-basvur.myonlineportal.de^
 ||ceptenmobilkredi.my-homeip.de^
 ||ceptep-basvurularonline.myonlineportal.de^
 ||ceptepromosyon.my-homeip.de^
@@ -11278,6 +11285,7 @@
 ||diarysafe.cyou^
 ||diger-ofansif-grenade.myonlineportal.ch^
 ||digi-tebim.my-homeip.de^
+||digital-login.shop^
 ||digital-ode.com^
 ||digital-page.shop^
 ||digitalcircuithub.com^
@@ -12135,6 +12143,7 @@
 ||esube-fibayatirim.com^
 ||esube-infoyatirim.com^
 ||esube-referans.com^
+||esube-teb-cepteteb.myonlineportal.de^
 ||esube-teraportfoy.com^
 ||esube.expresgroup.com^
 ||esube.fbavarlikmenkul.com^
@@ -12813,6 +12822,7 @@
 ||garaktifmenusu.duckdns.org^
 ||garandibas.cfd^
 ||garandibasvru.cfd^
+||garanitide-firsatlar.myonlineportal.de^
 ||garanti-acc.myonlineportal.ch^
 ||garanti-bank-bireysel.ph^
 ||garanti-bankasionline.ph^
@@ -12847,6 +12857,7 @@
 ||garantibbva-cgd.ph^
 ||garantibbva-com-tr.replit.app^
 ||garantibbva-creditsuisse.ph^
+||garantibbva-hepsiburada.com.ph^
 ||garantibbva-isbank.com.ph^
 ||garantibbva-netflix.ph^
 ||garantibbva-vero.ph^
@@ -13032,6 +13043,7 @@
 ||get7zip.ru^
 ||getaf.ru^
 ||getaimp.ru^
+||getalisveris.online^
 ||getarvion.site^
 ||getavast.ru^
 ||getbandicam.ru^
@@ -13584,6 +13596,7 @@
 ||guvenlialisveris-odeme.com^
 ||guvenlialisveris.online^
 ||guvenlialisverisin.online^
+||guvenlialisverispttmarket.online^
 ||guvenlianindaodeme.com^
 ||guvenlihavuz2026.com^
 ||guvenlihizmet.online^
@@ -14165,6 +14178,7 @@
 ||hemen--hediyeburada.online^
 ||hemen-aninda.cards^
 ||hemen-birkacdakika.guru^
+||hemen-hediye--burada.online^
 ||hemen-hediye-burada.online^
 ||hemen-satinal.com^
 ||hemen-siparisver.com^
@@ -15121,6 +15135,7 @@
 ||interland-ofise-g.myonlineportal.ch^
 ||intern-gr-lenade.myonlineportal.ch^
 ||internet-koveyttork.duckdns.org^
+||internet-teb-entry.my-homeip.de^
 ||internet-teb-entry.myonlineportal.de^
 ||internetal.xyz^
 ||internetbasvukanallari.duckdns.org^
@@ -15133,6 +15148,7 @@
 ||internetsube-qnbfinansbankasi.ph^
 ||internetsubesi-finans.my-homeip.net^
 ||internetsubesi-ingbank-tr.ph^
+||internetsubesi-qnb-com-tr.my-homeip.de^
 ||internetsubesi.online^
 ||internews.tr^
 ||intranet.evsahibibasvuru.com^
@@ -16023,6 +16039,7 @@
 ||kent-civilian-men-detailed.trycloudflare.com^
 ||kentblack.cfd^
 ||kentermen.duckdns.org^
+||kentermens.duckdns.org^
 ||kentfiresafe.com^
 ||kentjerk.info^
 ||kentrav.forum^
@@ -18029,6 +18046,7 @@
 ||mobil-cep-online-tr.site^
 ||mobil-cep-ozel.online^
 ||mobil-cep-shop-tr.sbs^
+||mobil-cepte.myonlineportal.de^
 ||mobil-deniz-com-esube.duckdns.org^
 ||mobil-deniz-com-promossyon-albay.duckdns.org^
 ||mobil-deniz-com-promossyon-aninda.webredirect.org^
@@ -18053,6 +18071,7 @@
 ||mobil-sepet-shop.click^
 ||mobil-sepet-shop.online^
 ||mobil-sepet-tr.online^
+||mobil-tepden-basvur.myonlineportal.de^
 ||mobil-tradresi.live^
 ||mobil-yazda-yakinini-davet.xyz^
 ||mobil-ziraatbasvurulariszie.duckdns.org^
@@ -18060,6 +18079,7 @@
 ||mobil.uyap-gov.com^
 ||mobilbasvuru.my-homeip.de^
 ||mobilbasvurularimozell.duckdns.org^
+||mobilbasvurunuz.myonlineportal.de^
 ||mobilbet.my-homeip.net^
 ||mobilbireyselkatilimm.online^
 ||mobilcep-erisim.my-homeip.de^
@@ -18069,6 +18089,7 @@
 ||mobildefirasthizmeti.duckdns.org^
 ||mobildehizmetlerimsizde.duckdns.org^
 ||mobildekiglobalerkanlar.duckdns.org^
+||mobilden-basvur.myonlineportal.de^
 ||mobilden.myonlineportal.de^
 ||mobildendijitalfirsatlar.sbs^
 ||mobildensbasvurslar.duckdns.org^
@@ -18130,6 +18151,7 @@
 ||mobilservisleriniz-5.sbs^
 ||mobilservisorg.com^
 ||mobilseyehatisleml.duckdns.org^
+||mobilsubede.my-homeip.de^
 ||mobilsubem.myonlineportal.de^
 ||mobilsubemiz.myonlineportal.de^
 ||mobilsubende.my-homeip.de^
@@ -21284,6 +21306,7 @@
 ||sahibinden-get.guvenliodemehizmet.online^
 ||sahibinden-get.guvenliodemelerim.online^
 ||sahibinden-get.guvenlisepetler-hizmet.online^
+||sahibinden-get.hizlikapimda.com^
 ||sahibinden-get.ilandetay-jet.com^
 ||sahibinden-get.ilanjet-hizmetler.com^
 ||sahibinden-get.ilanservis-odemehizmetin.online^
@@ -21451,6 +21474,7 @@
 ||sahibindensatici.com^
 ||sahibindensaticionay.com^
 ||sahibindensatis.org^
+||sahibindensatis.xyz^
 ||sahibindensatisonay.com^
 ||sahibindensatiss.click^
 ||sahibindensigorta.com^
@@ -22301,6 +22325,7 @@
 ||sokmarketler.shop^
 ||sokmarketlerdeindirim.shop^
 ||sokmarketlerfirsatlarim.com^
+||sokmarketlerhepsi.shop^
 ||sokmarketonlineozel.sbs^
 ||sokozelmarketekrani.sbs^
 ||soksinirlistok.duckdns.org^
@@ -23411,6 +23436,7 @@
 ||teampulsynk.team^
 ||teapot-sale.xyz^
 ||teb-bank.com^
+||teb-com-tr-emekli.myonlineportal.at^
 ||teb-com-tr-web-firsatlari.my-homeip.de^
 ||teb-com-tr-web.my-homeip.de^
 ||teb-com-tr.my-homeip.de^
@@ -23448,6 +23474,7 @@
 ||techvera.digital^
 ||techveras.online^
 ||tecnorix.com^
+||tedbanibuni.duckdns.org^
 ||teeeekfirsatspnsrlurklam.com^
 ||tefasglobal.com^
 ||tefasplatfrom.com^
@@ -24158,6 +24185,7 @@
 ||tr-sokraca.shop^
 ||tr-sube-isbank.ph^
 ||tr-suwen.shop^
+||tr-teb-com.my-homeip.de^
 ||tr-tekoaos.cc^
 ||tr.karacasales.shop^
 ||tr.randevurehberin.it.com^
