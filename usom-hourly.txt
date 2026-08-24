@@ -8172,6 +8172,7 @@
 ||aldinaldinburda.duckdns.org^
 ||aldinaldinekstra.site^
 ||aldinaldinekstra.xyz^
+||aldinaldinfirsatkapinagelsin.com^
 ||aldinaldinredmicilergeliyorburdan.sbs^
 ||aldinaldinsende.click^
 ||aldinaldinsuper.sbs^
@@ -8813,6 +8814,7 @@
 ||avsfilocar.org^
 ||avsfilokirala.net^
 ||avsfilokiralamaa.com^
+||avsfilokurumsal.com^
 ||avsfilorental.com^
 ||avsfilosu.com^
 ||avskirala.net^
@@ -10557,6 +10559,7 @@
 ||cepde-tebden.myonlineportal.de^
 ||cepgarantisube.ph^
 ||cepgarantisubeci.ph^
+||ceppptesokklarli.online^
 ||cepsube-finansbank.ph^
 ||cepte-com.my-homeip.de^
 ||cepte-islemleriminz-garanti.duckdns.org^
@@ -10587,6 +10590,7 @@
 ||cepteteb-emekli-basvur.myonlineportal.ch^
 ||cepteteb-merkeziislemler.my-homeip.de^
 ||cepteteb.pzbsin.com^
+||ceptetebde-com.my-homeip.de^
 ||ceptetebden.my-homeip.de^
 ||ceptetebeva.my-homeip.de^
 ||ceptetebli-basvurum.my-homeip.de^
@@ -11372,6 +11376,7 @@
 ||dijital-sipariskapinda.sbs^
 ||dijital-siparislerkapinda.sbs^
 ||dijital-urunkapinda.sbs^
+||dijital-urunlerkapinda.sbs^
 ||dijital-webkampanyalar.com^
 ||dijital-zirkampanya.com^
 ||dijital-zirkampanyalar.com^
@@ -11874,6 +11879,7 @@
 ||ehukukgov.org^
 ||ehukuksorgu.org^
 ||ehukukteblig.org^
+||eifffeeeeel.opik.net^
 ||eikamet-sigorta.com^
 ||einarkramer.22web.org^
 ||einfazgib.org^
@@ -12882,6 +12888,7 @@
 ||garanti.giris.yansitek.cam^
 ||garanti.vva8.com^
 ||garanti45465456465465.duckdns.org^
+||garantibank-iade-kampanya.ph^
 ||garantibbva-acres.com.ph^
 ||garantibbva-bell.com.ph^
 ||garantibbva-cainiao.ph^
@@ -13222,6 +13229,7 @@
 ||gmslb.net^
 ||gmtracker.online^
 ||gmtrackerreserve.online^
+||gnbfinansbank-mobilfirsatlari.ph^
 ||gnceladresweb.web.app^
 ||go-para-odeme.online^
 ||go.garantibbvakredibasvuru.com^
@@ -13477,6 +13485,7 @@
 ||gstaticsnewsz.com^
 ||gta6-play.ru^
 ||gtrllkol.cfd^
+||gttignyeryerdegil.sbs^
 ||gucum109.click^
 ||gudkoarancasa.cfd^
 ||gugoahahsadwasdas923sad.click^
@@ -14189,6 +14198,7 @@
 ||hediyelerburada.online^
 ||hediyelerim--burada.online^
 ||hediyelerim-burada.online^
+||hediyelerimburada.online^
 ||hediyelerin--burada.online^
 ||hediyelerin-burada.online^
 ||hediyelerinburada.online^
@@ -14196,6 +14206,7 @@
 ||hediyen--burada.online^
 ||hediyen-burada.online^
 ||hediyenburada.online^
+||heemenisn-sonuc.net^
 ||hefeelfeguystr.duckdns.org^
 ||hefelfeguystr.duckdns.org^
 ||heilbronner-fruehlingssymposium.de^
@@ -14226,6 +14237,7 @@
 ||hemen-birkacdakika.guru^
 ||hemen-hediye--burada.online^
 ||hemen-hediye-burada.online^
+||hemen-hediyeburada.online^
 ||hemen-satinal.com^
 ||hemen-siparisver.com^
 ||hemenalnsanra.net^
@@ -14281,6 +14293,8 @@
 ||hemennotknaslnta.net^
 ||hemenogren.abrdns.com^
 ||hemens-naosnuc.net^
+||hemensansburaya.online^
+||hemensielm-sonuc.net^
 ||hemensielmkntasi.net^
 ||hemensielmnokta-islnakt.net^
 ||hemensmdkk.space^
@@ -15447,6 +15461,7 @@
 ||istanbullbelggimkart.xyz^
 ||istanbullbelggimkartu.xyz^
 ||istanbullbelggimm.xyz^
+||istanbullbelgiimkart.xyz^
 ||istanbullbelgimkart.xyz^
 ||istanbullbelgimtek.xyz^
 ||istanbullbiizmlaa.xyz^
@@ -15934,6 +15949,7 @@
 ||karacaclub.shop^
 ||karacadoms.club^
 ||karacadoms.co^
+||karacaev.shop^
 ||karacaevim.vercel.app^
 ||karacaevs.store^
 ||karacaevtr.store^
@@ -16113,6 +16129,7 @@
 ||kepimhepsiburada.com^
 ||kepyenileme.com^
 ||kerametran.ezgateway.net^
+||kereraasz4n.blogspot.com^
 ||kerrrsnaw.duckdns.org^
 ||keskn5brdaclsyrz.com^
 ||kespola.surf^
@@ -16275,6 +16292,7 @@
 ||kkxxcsswxxx.duckdns.org^
 ||kl21177.com^
 ||kl55polisi155.online^
+||klardenslenews.duckdns.org^
 ||klasik6dsa.nicepage.io^
 ||klavli.site^
 ||klenarovituq.com^
@@ -17513,6 +17531,7 @@
 ||market-web.cards^
 ||market-yapi.com^
 ||marketaktuellerim.com^
+||marketalisverislerimizucuzlugua101.duckdns.org^
 ||marketbasketcenter.shop^
 ||marketcanvas.shop^
 ||marketchoicebay.shop^
@@ -21607,6 +21626,7 @@
 ||sanolin.com^
 ||sans-hemenburada.online^
 ||sanshemen-burada.online^
+||sanshemenburaya.online^
 ||santafebuno.top^
 ||santaskagsaen.online^
 ||santyonaxa.xyz^
@@ -21934,6 +21954,7 @@
 ||serzjkow.cfd^
 ||setpasskey.com^
 ||setpot-forward.vip^
+||setsahipsizkalmasinkimse.sbs^
 ||sett.basitdom.biz^
 ||setupsso.com^
 ||setupssopasskey.com^
@@ -22198,6 +22219,8 @@
 ||siparis-iade.com^
 ||siparis-magazasi.com^
 ||siparis-onay-tr.online^
+||siparis-onay.online^
+||siparis-onayin.online^
 ||siparis-onayli-115546.com^
 ||siparis-onayli-115551.com^
 ||siparis-satinal.com^
@@ -25702,6 +25725,7 @@
 ||www-155polisi.online^
 ||www-braun-tr.com^
 ||www-brauntr.com^
+||www-cepte-teb-com.my-homeip.de^
 ||www-cepteteb-com-tr-basvuru.my-homeip.de^
 ||www-enpara-qnbfinans-com-tr.ph^
 ||www-fifa.com^
@@ -25731,6 +25755,7 @@
 ||www-qnbfinansbank-cepsubesi-com.ph^
 ||www-qnbfinansbank-contact.ph^
 ||www-qnbfinansbank-help.ph^
+||www-qnbfinansbank-internetsubesi-com-tr.ph^
 ||www-qnbfinansbank-kampanya.ph^
 ||www-qnbfinansbank-login.ph^
 ||www-qnbfinansbank-online.ph^
