@@ -26189,6 +26189,7 @@
 ||yvqmtnmeivrcyomyeouz.supabase.co^
 ||yxcpanel.online^
 ||yxcpanel.xyz^
+||yxcvds.xyz^
 ||yy000011011.duckdns.org^
 ||yy44444000044444.duckdns.org^
 ||yy77770007777.duckdns.org^
