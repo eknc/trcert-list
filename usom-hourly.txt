@@ -77,6 +77,7 @@
 ||101-kstra.s3.eu-north-1.amazonaws.com^
 ||101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online^
 ||101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online^
+||101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online^
 ||101-sadece-bugune-ozel-alisveris-sepet-indirimi-mobilde-tr.buystore-tr.online^
 ||101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online^
 ||101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online^
@@ -1145,6 +1146,7 @@
 139.99.82.239
 139.99.83.25
 14.103.104.162
+14.103.107.214
 14.103.114.63
 14.103.117.97
 14.103.127.30
@@ -8069,6 +8071,7 @@
 ||akbank-kredi-basvuru-merkezi.loseyourip.com^
 ||akbank-pw.hizliyatirim.net^
 ||akbank.com.ph^
+||akbank.online^
 ||akbankbireysel-sube.ph^
 ||akbankdirekmobil.ph^
 ||akbankdireksube.ph^
@@ -11127,6 +11130,7 @@
 ||db155polisi.online^
 ||db155polisi.site^
 ||dbvagrntgirisonizlemetr.space^
+||dcfbuilders.com^
 ||dd3x32ffd2.duckdns.org^
 ||ddnnnnezzzz5445448777745.store^
 ||ddosyemiyomkralinaboyunegmiyom.xyz^
@@ -12639,6 +12643,7 @@
 ||floxyra.info^
 ||flrsatagustos.com^
 ||flrsatdiyari.com^
+||flrsathadigewldsen.shop^
 ||flrsatiaria1-0-1-lndlrlmleri.online^
 ||flrsatlardiyari.com^
 ||flrsatlarla1-0-1-lndlrlmleri.online^
@@ -13408,6 +13413,7 @@
 ||gratis.cwbots.com^
 ||gratis.empordafibra.com^
 ||gratis.globalscholarpress.com^
+||gratis.kasihinfo.com^
 ||gratis.lakeboundtech.com^
 ||gratis.obliqueprism.com^
 ||gratis.optosupply.com^
@@ -14211,6 +14217,7 @@
 ||helwmgsl.sbs^
 ||helxiagent.com^
 ||hembasvrkyt.hicam.net^
+||hemeins-nsonuc.net^
 ||hemeleterfesa.duckdns.org^
 ||hememislemnkta.net^
 ||hemen--hediye-burada.online^
@@ -14266,6 +14273,7 @@
 ||hemenislmokntai.net^
 ||hemenismlantans.net^
 ||hemenismlnktasnati.net^
+||hemenkampanyaburaya.online^
 ||hemenl-40binpromo-buradan.sbs^
 ||hemenlanlsatnas.net^
 ||hemenmuz.lat^
@@ -14312,10 +14320,12 @@
 ||hergetxdeedxx.duckdns.org^
 ||herkes-kullanabilsindiye.sbs^
 ||herkesbeklyorkanao0osndas28285268956.click^
+||herkesbizmleonlne.sbs^
 ||herkesburdasendenerdesnbbvasda1455285.click^
 ||herkesburdesedegelart250.click^
 ||herkesfirsatibulsun.sbs^
 ||herkesfirsatiniyakalasin.sbs^
+||herkesindirimibulsun.sbs^
 ||herkessahipolsundiyesinirlisayida.sbs^
 ||herkessetsahibiolsundiye.sbs^
 ||herksbrudasannerdeesanden84.click^
@@ -15024,6 +15034,7 @@
 ||ilanim-onay-762213.com^
 ||ilanlarim-sepetin.pro^
 ||ilanonayi.online^
+||ilanonayin.online^
 ||ilanonayla.online^
 ||ilanservis-detay1.com^
 ||ilanservis-jethizmet.com^
@@ -15842,6 +15853,8 @@
 ||kampanyalarim-karaca.vercel.app^
 ||kampanyalarimiz-yaz.myonlineportal.ch^
 ||kampanyaliurunsayfasi.click^
+||kampanyam--burada.online^
+||kampanyam-burada.online^
 ||kampanyapusulasi.sbs^
 ||kampanyarehberi7x.sbs^
 ||kampanyasoksokkampnyalarimizzer.duckdns.org^
@@ -16739,6 +16752,7 @@
 ||kuvvetdenkuvvetdogar.co^
 ||kuvyethacseveri.duckdns.org^
 ||kuzey-islem.22web.org^
+||kuzeymenkulas.com^
 ||kuzeymuayene.com^
 ||kveylekrt.duckdns.org^
 ||kvrnjr30.apexharvestor.digital^
@@ -17962,8 +17976,10 @@
 ||mhsdhfxbvcb.art^
 ||mhshemen.uk^
 ||mhskastogreen.uk^
+||mhsksrsnrndsv.com^
 ||mhslaatkfff.uk^
 ||mhsrarandvlrmzbrda.sbs^
+||mhsrrandvu.com^
 ||mhsscfsrsa12.sbs^
 ||mhurbiraznle.sbs^
 ||mhxrsr3ndevuhizm3tlerinizrxnd3vu.com^
@@ -19542,6 +19558,7 @@
 ||pantolonunnerdendiyor.click^
 ||panzozerrot.com^
 ||paparaemankuldegerler.com^
+||paparaemenkuldegerler.com^
 ||parabir.site^
 ||parabulutu.site^
 ||paragonshellyonetimk.one^
@@ -21125,6 +21142,7 @@
 ||rixvona.cyou^
 ||rldmistnbsvr.com^
 ||rnavdukkakf.com^
+||rnddvhszsjfsf.store^
 ||rndhsvizdsfj.store^
 ||rndsuvhhizmetburdss.online^
 ||rndsuvhhizmetburdss.store^
@@ -21409,12 +21427,14 @@
 ||sahibinden-ilan.tr-get-servis.online^
 ||sahibinden-order.cfd^
 ||sahibinden-param-guvende.ilan-onayla.online^
+||sahibinden-param-guvende.ilanonayin.online^
 ||sahibinden-param-guvende.ilanonayla.online^
 ||sahibinden-param-guvende.islemonayla.online^
 ||sahibinden-param-guvende.islemonaylatr.online^
 ||sahibinden-param-guvende.islemonaytr.online^
 ||sahibinden-param-guvende.siparisbilgitr.online^
 ||sahibinden-param-guvende.siparisonayi.online^
+||sahibinden-param-guvende.siparisonayin.online^
 ||sahibinden-param-guvende.urunodeme-tr.online^
 ||sahibinden-param-guvende.urunodemetr.online^
 ||sahibinden-paramguvende-tr.ct.ws^
@@ -22193,6 +22213,7 @@
 ||siparislerolunsuyor.cloud^
 ||siparisonayi.online^
 ||siparisonayim.online^
+||siparisonayin.online^
 ||siparissatin-al.com^
 ||siparisver-hemen.com^
 ||siparisverhemen.com^
@@ -22299,6 +22320,7 @@
 ||slmgr.sh^
 ||slow-green-tarccrgc.edgeone.dev^
 ||slrdandsbrdansgfgh.click^
+||sltelye-ylnendirivmici.com^
 ||smaebagis.com^
 ||smartbasketplace.shop^
 ||smartdailygoods.shop^
@@ -22417,6 +22439,7 @@
 ||solidarksystems.alwaysdata.net^
 ||solidtempo.com^
 ||soliveprolprsp.click^
+||solkmlrkatler.com^
 ||solthere.net^
 ||soltherisvoid.com^
 ||solutioncivmultitechofficeit.ekiaurekacre.vu^
@@ -24348,6 +24371,7 @@
 ||trendyol-siparistamamla.online^
 ||trendyol.guvenli-hizmet.online^
 ||trendyol.ilanservis-odemen.online^
+||trendyol.mobilsepetlerimtrservisin.online^
 ||trendyol.mobilservisin-24.sbs^
 ||trendyol.servsjethizmet.online^
 ||trendyol0-1029.l3v0.my^
