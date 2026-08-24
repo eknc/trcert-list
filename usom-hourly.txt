@@ -63,6 +63,7 @@
 ||101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus^
 ||101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online^
 ||101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop^
+||101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online^
 ||101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online^
 ||101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online^
 ||101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online^
@@ -6432,6 +6433,7 @@
 77.238.245.11
 77.239.120.249
 77.239.121.3
+77.239.124.102
 77.239.124.108
 77.239.124.110
 77.239.124.247
@@ -8487,6 +8489,7 @@
 ||areluxo.site^
 ||areluxo.store^
 ||arenaworldcupfootball.xyz^
+||arendelakral.duckdns.org^
 ||aribu.dev^
 ||arkanabakarsanonunugoremen.sbs^
 ||arkandabenvarim.com^
@@ -8618,6 +8621,7 @@
 ||asliyesorgusu.org^
 ||asnasnahyaaslananala.49843544322684.sbs^
 ||asncxbyaaasdanala.48465498456.sbs^
+||asncxbyaaasdanala.489415686332522.sbs^
 ||asncxbyaaasdanala.49843544322684.sbs^
 ||asncxbyaaasdanala.65735677234232.sbs^
 ||asncxbyaaasdanala.89465489421.sbs^
@@ -9587,6 +9591,7 @@
 ||bilimuskudar.w-staticblitz.com^
 ||bilimuskudar.wixsite.com^
 ||bilimuskudar.zone.id^
+||bilinclikullanim.abrdns.com^
 ||bilinclituketim.abrdns.com^
 ||billuno.top^
 ||bilopiddsade-cere.xyz^
@@ -10527,6 +10532,7 @@
 ||cekilissonucqnbfinans.com.ph^
 ||cekilissonucuqnbfinans.com.ph^
 ||celebwise.info^
+||celikzirhli.click^
 ||celte-sok.shop^
 ||cemostvsan.net^
 ||cemostvsn.net^
@@ -11342,8 +11348,11 @@
 ||dijital-mobilgiris.com^
 ||dijital-mobilkampanya.com^
 ||dijital-onlinehizlisiparis.sbs^
+||dijital-onlinesiparis.sbs^
 ||dijital-servisler.sbs^
 ||dijital-simdikapinda.sbs^
+||dijital-sipariskapinda.sbs^
+||dijital-urunkapinda.sbs^
 ||dijital-webkampanyalar.com^
 ||dijital-zirkampanya.com^
 ||dijital-zirkampanyalar.com^
@@ -11589,6 +11598,7 @@
 ||dunyamutfagindanlezzetler.shop^
 ||duoasdhashdhas988asdhashd.click^
 ||duszgouz.com^
+||duvarfln.click^
 ||duyanlardan-duymayanlara-grsgor.sbs^
 ||duygularimbekler.click^
 ||dvsc-access.sbs^
@@ -12251,6 +12261,7 @@
 ||extendyourcredibility.de^
 ||extranet.evsahibibasvuru.com^
 ||extrashoot.cfd^
+||eylulbasiguzeldr.duckdns.org^
 ||eylulgunsonlari.duckdns.org^
 ||eypdvy.click^
 ||eyqwj.com^
@@ -14151,6 +14162,7 @@
 ||hediye50gb.space^
 ||hediyen--burada.online^
 ||hediyen-burada.online^
+||hediyenburada.online^
 ||hefeelfeguystr.duckdns.org^
 ||hefelfeguystr.duckdns.org^
 ||heilbronner-fruehlingssymposium.de^
@@ -14645,6 +14657,7 @@
 ||hmeensin-snouc.net^
 ||hmenkanlsata.net^
 ||hmenlnkarsan.net^
+||hminislmeonkt.com^
 ||hmnasantasns.net^
 ||hmnbnlaraglsnde.com^
 ||hmneislemnktasi.net^
@@ -14915,6 +14928,7 @@
 ||icarrental.net^
 ||icerik-limitleri-s-g.ink^
 ||icerik-onemli.garden^
+||ichikananakon.click^
 ||icloudfind-my-iphone.ph^
 ||icloudsnet.ru^
 ||icrauzlasman-1.sbs^
@@ -18395,6 +18409,7 @@
 ||nailscanai.com^
 ||nakil-web.ink^
 ||nakil-web.my-homeip.de^
+||nakliyathizmetlerieniyisiburada.sbs^
 ||nalikalisgo-modere.lol^
 ||nanofrontier.capital^
 ||narkozweb.online^
@@ -18932,6 +18947,7 @@
 ||official-teams-storage.com^
 ||official-version.com^
 ||offservers.ru^
+||ofirsatbufirsatkacirmayinsakin.com^
 ||ogodkekflkks.click^
 ||ogreninrandevunuzu.com^
 ||ogrenmeaile.com^
@@ -21282,6 +21298,7 @@
 ||sagliklihizmetleregunleresizlere.webredirect.org^
 ||sagliklikalalim.cfd^
 ||sagliklikalalim.sbs^
+||sagliklikalalim.xyz^
 ||saglikliol.giize.com^
 ||saglikliolnnn.mywire.org^
 ||saglikliozelgnlerex.webredirect.org^
@@ -21404,6 +21421,7 @@
 ||sahibinden.ilan-havale-fast.com^
 ||sahibinden.ilan-magaza.com^
 ||sahibinden.ilan-sepetimde.com^
+||sahibinden.ilanda-sepetim-1099.com^
 ||sahibinden.ilanim-onay-762212.com^
 ||sahibinden.ile-islemlerim.com.tr^
 ||sahibinden.ile-sepette-onay.com.tr^
@@ -22472,6 +22490,7 @@
 ||sorgulamasisteminde.xyz^
 ||sorgumahkeme.org^
 ||sorgumali.org^
+||sorgumalitr.org^
 ||sorgumaliye.org^
 ||sorgumasak.org^
 ||sorgunbosphours.com^
@@ -23446,6 +23465,7 @@
 ||tebbasvuruonay.my-homeip.de^
 ||tebbasvurusayfa.my-homeip.de^
 ||tebbmb.cfd^
+||tebcepte-com.my-homeip.de^
 ||tebcepte-sube-parola.myonlineportal.de^
 ||tebdeburdabasvuru.my-homeip.de^
 ||tebdenpromosyon.my-homeip.de^
@@ -24425,6 +24445,7 @@
 ||tsadafgasasgxckbvxc.cyou^
 ||tsaxahgsfgsafsax.cfd^
 ||tskdestekyardim.ph^
+||tsrsasdsesrs.com^
 ||tssoxsadgsahdasad.cfd^
 ||tsxasafasf-saf.cfd^
 ||tsxasfasfas.sbs^
@@ -24801,6 +24822,7 @@
 ||ulkesesleri.com^
 ||ulketakip.com^
 ||ulkeyansimasi.com^
+||ulkjxmnzxopr32rx.cfd^
 ||ultimatecore.net^
 ||ultimatenewschannel.com^
 ||ultrena.xyz^
@@ -24830,6 +24852,7 @@
 ||umutototamironarimcilaa.duckdns.org^
 ||unableteotoc.com^
 ||unallarparca.online^
+||unarsitilsmantar3zx.duckdns.org^
 ||undenv.click^
 ||unifi.garantibbvakredibasvuru.com^
 ||unifiedvo.com^
@@ -26462,6 +26485,7 @@
 ||ziratoff.online^
 ||ziratpngj.cfd^
 ||ziratt-yeni.com^
+||ziratxha300zir3x00.sbs^
 ||zircartel.tr^
 ||zirdefisatkacmaz.duckdns.org^
 ||zirdijital-kampanya.sbs^
