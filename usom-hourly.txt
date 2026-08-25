@@ -4488,6 +4488,7 @@
 ||2451.ezpizi.click^
 ||24515-2525.xyz^
 ||2452521.sbs^
+||245891251.sbs^
 ||24612-20114.xyz^
 ||24612-yara.click^
 ||24612-yara.xyz^
@@ -18256,6 +18257,7 @@
 ||mobiltebce.my-homeip.net^
 ||mobiltrsepetleriniz-alim.online^
 ||mobilweb-hat-grn.casa^
+||mobilyamerkezi.shop^
 ||mobilyamerkezitr.shop^
 ||mobim-liter-y.myonlineportal.ch^
 ||modabelle.store^
