@@ -3703,6 +3703,7 @@
 196.251.80.231
 196.251.83.162
 196.251.83.188
+196.251.84.11
 196.251.84.144
 196.251.84.211
 196.251.84.253
@@ -3804,6 +3805,7 @@
 ||1o1aldins.duckdns.org^
 ||1o1burdagel.shop^
 ||1o1firsat.com^
+||1o1haftaninyldizlari.com^
 ||1o1kapilardaextradan.shop^
 ||1scdacdx123c123x12312.cfd^
 ||1smax.com^
@@ -7891,6 +7893,7 @@
 ||acil112acill.xyz^
 ||acitatlihisler.sbs^
 ||acktr-log-webgrnead.myonlineportal.ch^
+||aclaraciones-digital.online^
 ||acmfilo.com^
 ||acrfruxtmulgvyvtbwgq.supabase.co^
 ||acronisportal.ru^
@@ -8640,6 +8643,7 @@
 ||asncxbyaaasdanala.489415686332522.sbs^
 ||asncxbyaaasdanala.49843544322684.sbs^
 ||asncxbyaaasdanala.65735677234232.sbs^
+||asncxbyaaasdanala.89415648951651.sbs^
 ||asncxbyaaasdanala.894216546865.sbs^
 ||asncxbyaaasdanala.89465489421.sbs^
 ||asncxbyaaasdanala.benimlekalbirazdahadur.sbs^
@@ -8682,6 +8686,7 @@
 ||audshop.top^
 ||auramatrixa.com^
 ||aurekh.com^
+||aureviontraxeluma.cfd^
 ||auromine.bond^
 ||auroraclair.com^
 ||aurorait.blog^
@@ -8911,6 +8916,7 @@
 ||balancedperspective.info^
 ||balerdenmased.duckdns.org^
 ||balikcihasogeliyo.fun^
+||balonx.online^
 ||bambaska.casa^
 ||bambuicin.sbs^
 ||banabakarifdabi.sbs^
@@ -9668,6 +9674,7 @@
 ||bireysel-islemler-com-garanti.duckdns.org^
 ||bireysel-islemlerim-garanti.freemyip.com^
 ||bireysel-islemleriniz-garanti.duckdns.org^
+||bireysel-magaza.com^
 ||bireysel-mobil-shop.sbs^
 ||bireysel-mobil-tr.sbs^
 ||bireysel-promosion-firsatlar.my-homeip.de^
@@ -14658,6 +14665,7 @@
 ||hizlikapidamarket.com^
 ||hizlikapimda.com^
 ||hizlikapinda.com^
+||hizlikargolama.com^
 ||hizlikargolar.com^
 ||hizlikayitt.com^
 ||hizlikempos.xyz^
@@ -16482,6 +16490,7 @@
 ||kmsorgudetay.firebaseapp.com^
 ||kmsorgudetay.web.app^
 ||kmsorgulahizli.click^
+||kmsorgulamamizz.web.app^
 ||kmsorgupratik.com^
 ||kmsorgupttavm.com^
 ||kmsrgoalamyapalimkmhmnamt.com^
@@ -18898,6 +18907,7 @@
 ||novyra.vu^
 ||nowscoop.site^
 ||nowurisch.fit^
+||noxelavitumporazek.cfd^
 ||noya.selsandannda.com^
 ||noya.suaraileti.com^
 ||npm-cache.com^
@@ -19036,6 +19046,7 @@
 ||odmezmnihgsde.cfd^
 ||odmyeyklezmni.cfd^
 ||odmykleprdahgs.cfd^
+||odnmezmnihgsde.cfd^
 ||oeannon.com^
 ||oeoeo2020201z.duckdns.org^
 ||oesiskola.sbs^
@@ -19606,6 +19617,7 @@
 ||panel.hedefonmusteripanel.com^
 ||panel.hedefonportfoyum.com^
 ||panel.qsewjn.icu^
+||panelbalonxfs.xyz^
 ||panelsorgu.space^
 ||pantolonunnerdendiyor.click^
 ||panzozerrot.com^
@@ -19983,6 +19995,7 @@
 ||pazarama.anindaodeme.com^
 ||pazarama.anlik-ilan-odemesi.com^
 ||pazarama.bireysel-ilan.com^
+||pazarama.bireysel-magaza.com^
 ||pazarama.bireyselsatici.online^
 ||pazarama.bireyselsiparis.com^
 ||pazarama.duckdns.org^
@@ -20001,6 +20014,7 @@
 ||pazarama.hizli-ilan-fast.com^
 ||pazarama.hizli-odemem.com^
 ||pazarama.hizlikapimda.com^
+||pazarama.hizlikargolama.com^
 ||pazarama.hizlikargolar.com^
 ||pazarama.hizlionline.com^
 ||pazarama.ilan-havale-odemem.com^
@@ -20008,6 +20022,7 @@
 ||pazarama.ilan-magaza.com^
 ||pazarama.ilanda-sepetim-1092.com^
 ||pazarama.ilanda-sepetim-1099.com^
+||pazarama.ilanda-sepetim-1102.com^
 ||pazarama.ilandan-fast.com^
 ||pazarama.ile-e-sepetler.com.tr^
 ||pazarama.ile-onay-sepete.com^
@@ -21664,6 +21679,7 @@
 ||sankotextile-tr.com^
 ||sanolin.com^
 ||sans-hemenburada.online^
+||sans-kurasi.online^
 ||sanshemen-burada.online^
 ||sanshemenburada.online^
 ||sanshemenburaya.online^
@@ -22608,6 +22624,7 @@
 ||sooonnkmpnyybsvrprmsynnn.info^
 ||sopahot391.site^
 ||sopahot391.store^
+||soporte-aclaracion.xyz^
 ||soqmarkqletlr.shop^
 ||soqmlarklt.online^
 ||sorggirsin.cfd^
@@ -24720,6 +24737,7 @@
 ||turkiue.sbs^
 ||turkiyapostasix.com^
 ||turkiyapostatr.com^
+||turkiye-gov.biz^
 ||turkiye-petrolleri-hisseleri.com^
 ||turkiye-petrolleri-platform.com^
 ||turkiye-petrolleri.pro^
