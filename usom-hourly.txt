@@ -7733,6 +7733,7 @@
 ||a101kampanyalarii.blogspot.com^
 ||a101kampanyanizburada.com^
 ||a101kapidamarketim.com^
+||a101kapimda.shop^
 ||a101katalogguncel.duckdns.org^
 ||a101katologz.duckdns.org^
 ||a101magazafislerionline.net^
@@ -8786,6 +8787,7 @@
 ||avisrent.net^
 ||avisrental.fun^
 ||avisrezervasyon.net^
+||avissozlesmeonline.com^
 ||avisturkey.vercel.app^
 ||avisturkiye.net^
 ||avisverification.fr^
@@ -12290,6 +12292,7 @@
 ||extendyourcredibility.de^
 ||extranet.evsahibibasvuru.com^
 ||extrashoot.cfd^
+||eylulayindayizbiz.duckdns.org^
 ||eylulbasiguzeldr.duckdns.org^
 ||eylulgunsonlari.duckdns.org^
 ||eypdvy.click^
@@ -12992,6 +12995,7 @@
 ||gecici-t.casa^
 ||gecisbakiycis.lat^
 ||gecisbakiyebayi.firebaseapp.com^
+||gecisbakiyesistemi.web.app^
 ||gecisbakiyukleme.web.app^
 ||gecisbakyeyukleme.web.app^
 ||gecisbayisi.web.app^
@@ -14459,6 +14463,7 @@
 ||hgshgsykleykle.cfd^
 ||hgsilegirecemeli.xyz^
 ||hgsislemlerincep.com^
+||hgskgmyolgecisbrcodyn.com^
 ||hgskontrollerims.lat^
 ||hgskurumsal.net^
 ||hgslendifasnxs.xyz^
@@ -21646,6 +21651,7 @@
 ||sanolin.com^
 ||sans-hemenburada.online^
 ||sanshemen-burada.online^
+||sanshemenburada.online^
 ||sanshemenburaya.online^
 ||santafebuno.top^
 ||santaskagsaen.online^
@@ -22444,6 +22450,7 @@
 ||soketescepte.lat^
 ||sokfirsatlarburada.com^
 ||sokflrsatlarbrda.com^
+||sokflrsatlarburada.com^
 ||sokflrsatlarharikala.shop^
 ||sokfrstlaslsad.s0k.workers.dev^
 ||sokindirim-market.com^
@@ -24279,6 +24286,7 @@
 ||tpaohisseleri.pro^
 ||tpaokamuyatirim-platformu.com^
 ||tpaokazanc.pro^
+||tpaoyatirimprogrami.pro^
 ||tpetrolinvest.com^
 ||tpkpolus.ru^
 ||tplskerjsc.space^
