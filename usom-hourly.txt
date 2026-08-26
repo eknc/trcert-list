@@ -8080,6 +8080,7 @@
 ||akbank-bireysel-subesi.ph^
 ||akbank-borc-sorgulama.ph^
 ||akbank-com.ph^
+||akbank-direkt-firsatkampanyasi-esubetr.ph^
 ||akbank-invest-hub.sbs^
 ||akbank-isube.ph^
 ||akbank-kredi-basvuru-merkezi.loseyourip.com^
@@ -8095,6 +8096,7 @@
 ||akbankk-bireysell.ph^
 ||akbankmobil.netlify.app^
 ||akbankmobilnet.ph^
+||akbankonline-giris.ph^
 ||akbasvurumobil.duckdns.org^
 ||akbiadekampanya2025.click^
 ||akbireyselislemkanali.duckdns.org^
@@ -8875,6 +8877,7 @@
 ||axyvyra.xyz^
 ||axyxo.xyz^
 ||ay0nl3ndiriliy0rs0n.duckdns.org^
+||ayasdasagsdgasgdw990w.click^
 ||ayaxum.click^
 ||aydogukani.info^
 ||aygozumdedunya.sbs^
@@ -8943,6 +8946,7 @@
 ||bangoburdanedenyoksun.info^
 ||bank.garantibbvakredibasvuru.com^
 ||bankafolder.com^
+||bankaguncelle.22web.org^
 ||bankamizsizinle.com^
 ||bankfab-alelt.cfd^
 ||bankfab-alert.cfd^
@@ -10041,6 +10045,7 @@
 ||bromist.best^
 ||bronzelocker.bond^
 ||brookroding.com^
+||brotherislem.22web.org^
 ||brovixa.cyou^
 ||brovixan.com^
 ||broxent.com^
@@ -11319,6 +11324,7 @@
 ||devamediyoruzbasvurla.sbs^
 ||devapp.digital^
 ||devdaynot.com^
+||developer.evsahibibasvuru.com^
 ||devflowtech.digital^
 ||deviom.xyz^
 ||devizo.xyz^
@@ -11985,6 +11991,7 @@
 ||elektro-tr.online^
 ||elektronik-alisveris-merkezi.com^
 ||elektronik-magaza-sepetim.com^
+||elektronik-merkezi-ilanlarim.com^
 ||elektronik-urun-sepetim.com^
 ||elektronikdtm.com^
 ||elenamasaj.com^
@@ -12955,6 +12962,7 @@
 ||garantibbva-com-tr.replit.app^
 ||garantibbva-creditsuisse.ph^
 ||garantibbva-erstebank.ph^
+||garantibbva-gov.ph^
 ||garantibbva-hepsiburada.com.ph^
 ||garantibbva-isbank.com.ph^
 ||garantibbva-kraken.ph^
@@ -13252,6 +13260,7 @@
 ||girisss-aktiff-sorsisteme.sbs^
 ||girisssulkesorguekraniniz.sbs^
 ||girissube-akbank.ph^
+||giristurkiyegovtr.vercel.app^
 ||gironetcdn.ru^
 ||girs-onlne-aktiff.sbs^
 ||girsgelsmesocnu.sbs^
@@ -13368,6 +13377,7 @@
 ||goturkishmart.shop^
 ||gouvvbo.top^
 ||gov-kbstar-garantibbva.ph^
+||gov-trendyol.com.ph^
 ||gov-trendyol.ph^
 ||gov.onemotorlng.cc^
 ||gov.onemotoryng.cc^
@@ -14445,6 +14455,7 @@
 ||hersey-indirimlerile.info^
 ||herseybrdanalrn.shop^
 ||herseyburakabininsucu.blogspot.com^
+||herseyguzelolacaksendegelyao15.click^
 ||herseyhalkimiziicin.sbs^
 ||herseyherkessesylsin.sbs^
 ||herseyherkezgusecelyenguncel65.info^
@@ -14943,6 +14954,7 @@
 ||hopbala.click^
 ||hopcipiti-fipfipsede.lol^
 ||hopdedik.click^
+||horferruhs.duckdns.org^
 ||horizoneguide.com^
 ||horizonera.cfd^
 ||horizonguard.space^
@@ -15311,6 +15323,7 @@
 ||interiordecor.pics^
 ||interland-ofise-g.myonlineportal.ch^
 ||intern-gr-lenade.myonlineportal.ch^
+||internatsube-akbank.ph^
 ||internet--qnbfinansbankasi.ph^
 ||internet-koveyttork.duckdns.org^
 ||internet-teb-entry.my-homeip.de^
@@ -19141,6 +19154,7 @@
 ||odemekontrol.com^
 ||odememguvende.online^
 ||odemeyap.digital^
+||odemsmihgssmid.cfd^
 ||odeyklehgs.cfd^
 ||odlassadan.shop^
 ||odmeebasvurlarinia.sbs^
@@ -19253,6 +19267,7 @@
 ||onaylislem.com^
 ||onaylnnan-girisvehizmetislemleri.sbs^
 ||onayvermebana.art^
+||onboarding.evsahibibasvuru.com^
 ||ondanbndansndanszden.shop^
 ||ondansonrasindabizdebiliriz.com^
 ||ondid.skin^
@@ -19510,6 +19525,7 @@
 ||orbitmeshlink9.lol^
 ||orbitnuvo.com^
 ||orbitpeakd.top^
+||orcamento.evsahibibasvuru.com^
 ||orderapiserver.info^
 ||oresasny.com^
 ||orhanceylan.art^
@@ -20583,6 +20599,7 @@
 ||ptt-km-sorgula-ma.web.app^
 ||ptt-kmsorgula-aracgecmisiogren.firebaseapp.com^
 ||ptt-kmsorgula-aracgecmisiogren.web.app^
+||ptt-trendyol.com.ph^
 ||ptt.avmbireyselsiparis.com^
 ||ptt.avmhemenal.com^
 ||ptt.avmsatislarim.com^
@@ -20655,6 +20672,7 @@
 ||pttavm-oto-kontrol.web.app^
 ||pttavm-tramer-km-sorgu.web.app^
 ||pttavm.baglanti-mobilde.com^
+||pttavm.baglanti-tamamlama.com^
 ||pttavm.com.co^
 ||pttavm.com.ph^
 ||pttavm.crefrsnzngtrdklri.info^
@@ -20663,6 +20681,7 @@
 ||pttavm.guvenli.ilanlar.duckdns.org^
 ||pttavm.guvenlihizmet.online^
 ||pttavm.guvenliteslimat.online^
+||pttavm.hizli-guvenli-alim.com^
 ||pttavm.hizli-siparisislem.com^
 ||pttavm.hizliveguvenli.sbs^
 ||pttavm.ilan-mobilde.com^
@@ -21378,6 +21397,7 @@
 ||rsmn7383rn-99de155d802b.herokuapp.com^
 ||rstartguide.online^
 ||rtey73838.click^
+||rtf-yukleme.22web.org^
 ||rtkatrbascuru.sbs^
 ||rtspxc.click^
 ||rtukhaberler.sbs^
@@ -23014,6 +23034,7 @@
 ||streamnf.live^
 ||stretar7.contabilfacil.sbs^
 ||strip-mens.tilda.ws^
+||studio.evsahibibasvuru.com^
 ||stuffdns.in^
 ||stylecode.bond^
 ||stylevault.bond^
@@ -24868,6 +24889,7 @@
 ||turkiyapostasix.com^
 ||turkiyapostatr.com^
 ||turkiye-gov.biz^
+||turkiye-gov.click^
 ||turkiye-petrolleri-hisseleri.com^
 ||turkiye-petrolleri-platform.com^
 ||turkiye-petrolleri.pro^
@@ -25088,6 +25110,7 @@
 ||u8404944.click^
 ||u9p2x6m1z8q4.cfd^
 ||uardeqo.digital^
+||uat.evsahibibasvuru.com^
 ||ucbeskazaniyorumamayetmiyor.click^
 ||ucurumsunbana4.uk^
 ||ucurumsunbana5.uk^
