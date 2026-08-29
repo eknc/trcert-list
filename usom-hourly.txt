@@ -9852,6 +9852,7 @@
 ||birimkurum.org^
 ||birimmali.org^
 ||birimmaliye.org^
+||birimsorgu.org^
 ||birimtr.org^
 ||birimuzlasma.org^
 ||birimvergi.org^
@@ -18675,6 +18676,7 @@
 ||mobildeyiz.myonlineportal.de^
 ||mobildijitalfirsatlar.sbs^
 ||mobile-akbank-basvurum.github.io^
+||mobile-digital.shop^
 ||mobile-karaca.vercel.app^
 ||mobile-obilet.uk^
 ||mobile-qnbfinansbank.ph^
@@ -26265,6 +26267,7 @@
 ||web-tapsnrsandvun.info^
 ||web-tapsnrsandvun.net^
 ||web-telegram.ug^
+||web.evsahibibasvuru.com^
 ||webassistia.gifts^
 ||webb-182.com^
 ||webbtaccss.space^
