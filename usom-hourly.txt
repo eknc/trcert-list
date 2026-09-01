@@ -13269,6 +13269,7 @@
 ||galata-modasi.shop^
 ||galaxypress.space^
 ||galderenderlerdens.duckdns.org^
+||galevino-torusemi.lol^
 ||gallerybox.pics^
 ||gallerymission.com^
 ||gamaforge.com^
@@ -22407,6 +22408,7 @@
 ||sahibinden-get.vercel.app^
 ||sahibinden-getilan.ile-guvenle-islem-web.com^
 ||sahibinden-getilan.tr-alisveris-e-islemler.online^
+||sahibinden-getilan.tr-alisveris-e-islemlerim.online^
 ||sahibinden-guvenli.siparisonayim.online^
 ||sahibinden-hizmet.online^
 ||sahibinden-ilan.tr-get-servis.online^
@@ -25374,6 +25376,7 @@
 ||tr-115-polistr.online^
 ||tr-akbank.ph^
 ||tr-alisveris-e-islemler.online^
+||tr-alisveris-e-islemlerim.online^
 ||tr-alisveris-islemler.online^
 ||tr-aselsan.com^
 ||tr-bbva-garanti.ph^
