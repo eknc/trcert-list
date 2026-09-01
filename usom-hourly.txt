@@ -977,6 +977,7 @@
 13.60.76.136
 13.61.9.37
 13.90.18.59
+130.12.180.117
 130.12.180.132
 130.12.180.18
 130.12.180.20
@@ -3686,6 +3687,7 @@
 195.177.94.169
 195.177.94.6
 195.178.110.102
+195.178.110.155
 195.178.110.217
 195.178.110.36
 195.178.110.53
@@ -5261,10 +5263,12 @@
 45.146.54.67
 45.148.10.119
 45.148.10.169
+45.148.10.18
 45.148.10.200
 45.148.10.212
 45.148.10.230
 45.148.10.242
+45.148.10.60
 45.148.10.62
 45.148.120.244
 45.148.18.38
@@ -7490,6 +7494,7 @@
 93.113.25.46
 93.115.172.41
 93.123.109.164
+93.123.109.165
 93.123.109.166
 93.123.109.205
 93.123.17.151
@@ -7860,6 +7865,7 @@
 ||a101marketalisverisleri.com^
 ||a101marketfirsatlarimiz.duckdns.org^
 ||a101marketinizgeldi.ph^
+||a101marketler.com^
 ||a101mayisfirsatlari.x10.mx^
 ||a101mayisfirsatlari.xo.je^
 ||a101online.help^
@@ -8138,6 +8144,7 @@
 ||agstsprmsyngunleri.duckdns.org^
 ||agugoawsdasdhga923asdas.click^
 ||agugogaasdsahd982sadw.click^
+||agugogawwss292sswsad.click^
 ||agustos-burada.info.tr^
 ||agustos-burada.tv.tr^
 ||agustosayikacirilmayacakmalzemeler.sbs^
@@ -8300,6 +8307,7 @@
 ||akyaman-lodrefiku.lol^
 ||al-rndev-smdi-hemen.duckdns.org^
 ||al-tr.online^
+||al0rvdal182.org^
 ||al1-82-rvdn.com^
 ||alabamarecoverycenter.com^
 ||alabid234.github.io^
@@ -8307,6 +8315,7 @@
 ||aladeniz.com^
 ||alarm-taslagi.garden^
 ||albarakaaiprojects.com^
+||albarakamenkulyatirim.com^
 ||albayquery.space^
 ||alburdan.shop^
 ||alcs.xyttkx.cc^
@@ -8365,6 +8374,7 @@
 ||alisveris-sepetimiz.com^
 ||alisveris.lol^
 ||alisverishizmeti.online^
+||alisverishizmetin-10.sbs^
 ||alisverishizmetin-55.sbs^
 ||alisverisinizguvende.com^
 ||alisverisjet.online^
@@ -8501,6 +8511,7 @@
 ||ankarasummit.ph^
 ||ankarazirvesi.org^
 ||ankaro.gifts^
+||anket.mku-edu.com^
 ||ankleblanketcandle.com^
 ||ankrltsasrabeklemeden.com^
 ||anktk.com^
@@ -8691,6 +8702,7 @@
 ||arorabayisi.com^
 ||arorafabrika.online^
 ||aroramotorluaraclar.com^
+||aroramotorsatis.com^
 ||aroraorijinalparca.com^
 ||aroraorijinalparcalari.com^
 ||arorayedekparcalistesi.com^
@@ -8902,6 +8914,7 @@
 ||autoupdaters.com^
 ||autoupdatet.com^
 ||autoupdatethis.com^
+||av.evsahibibasvuru.com^
 ||avafex.com^
 ||avansy-web.ink^
 ||avantaj-tr.online^
@@ -11132,6 +11145,7 @@
 ||consequuntur.com^
 ||consistentdigital.de^
 ||consol.e-wl.com^
+||console.evsahibibasvuru.com^
 ||contabilidad.icu^
 ||contactpredicttogether.ink^
 ||contactpulsynk.ink^
@@ -12117,6 +12131,7 @@
 ||ed5ce47d835f-endpoint.com^
 ||edava.online^
 ||edavabildirim.org^
+||edavacbs.org^
 ||edavakontrol.org^
 ||edavam.org^
 ||edavamuzlasma.org^
@@ -12128,6 +12143,7 @@
 ||edbo.publicvm.com^
 ||edcf8b03c84634.lhr.life^
 ||edevgovtr.com^
+||edevlet-ai.com^
 ||edevlet.multidium.com^
 ||edevlet1.net^
 ||edevletgib.org^
@@ -12147,6 +12163,7 @@
 ||edinimler-rg.ink^
 ||edosyabildirim.org^
 ||edosyabirimi.org^
+||edosyacbs.org^
 ||edosyaegm.org^
 ||edosyagib.org^
 ||edosyam.org^
@@ -12334,6 +12351,7 @@
 ||email.garantibbvakredibasvuru.com^
 ||emakihabar24.lovable.app^
 ||emaliye.org^
+||emaliyecbs.org^
 ||emaliyeegm.org^
 ||emaliyeteblig.org^
 ||emaliyetebligat.org^
@@ -12590,6 +12608,7 @@
 ||etalimatdosya.org^
 ||etalimatkamu.org^
 ||etc-a67i.vercel.app^
+||etebligatbildirim.org^
 ||etebligatkontrol.org^
 ||etebligmaliye.org^
 ||eticaret-beta.vercel.app^
@@ -13249,6 +13268,7 @@
 ||fwlbhu.buzz^
 ||fwqfasfasfwqfwq.yyuyy.com^
 ||fximbra.weebly.com^
+||fxt124y5fs263fd.click^
 ||fymixae.digital^
 ||fynkorixa.com^
 ||fyntor.site^
@@ -14379,6 +14399,7 @@
 ||haberler73421.shop^
 ||haberler7452523.shop^
 ||haberler78912.sbs^
+||haberler834756.shop^
 ||haberler8676.shop^
 ||haberler8834232.shop^
 ||haberler911.sbs^
@@ -15086,6 +15107,7 @@
 ||hitkrul.com^
 ||hizhwomantre.pro^
 ||hizlabasvurlarinionaylara.sbs^
+||hizladirsiparislerinden27agus.cloud^
 ||hizlagecisbakiyuklme.web.app^
 ||hizlandirmaszamanis.cloud^
 ||hizlgbcesiicc.com^
@@ -15761,6 +15783,8 @@
 ||indirimucak.o-bilets.com^
 ||indirmsznle.com^
 ||indrmli-149luk-gunler.sbs^
+||infazdava.org^
+||infazevrak.org^
 ||infaztc.net^
 ||infect.smelly.cc^
 ||infinilabd.info^
@@ -15802,6 +15826,7 @@
 ||instagram-secured-login.ph^
 ||instagramlogin74.blogspot.com^
 ||instagramlogin910.blogspot.com^
+||instagramloginpage2021.blogspot.com^
 ||instatraksf.nicepage.io^
 ||instatraksfa.nicepage.io^
 ||instructure-garantibbva.com.ph^
@@ -15849,6 +15874,7 @@
 ||invoice-limat-t.myonlineportal.ch^
 ||inwebcentral.com^
 ||ioncraftds.pro^
+||iphone.evsahibibasvuru.com^
 ||ipucu-web.click^
 ||iqd2g5opy2vua7p8hd19.innovaxazd.icu^
 ||iqvotd.buzz^
@@ -17445,6 +17471,7 @@
 ||kurumadliye.org^
 ||kurumaktif.org^
 ||kurumceza.org^
+||kurumhukuk.org^
 ||kurummali.org^
 ||kurumsal-online-islem.com^
 ||kurumsalbirkurumsal.click^
@@ -18830,6 +18857,7 @@
 ||mksfuuerwo.live^
 ||mkskskx213xkk33.duckdns.org^
 ||mksndnhg.short.gy^
+||mku-edu.com^
 ||ml55polisi.online^
 ||mlgrsshazlrann.online^
 ||mlhlrosralndevu.shop^
@@ -19862,6 +19890,7 @@
 ||oilwealthpro.com^
 ||ojj.a3jb4ob55b1uk2wr.fun^
 ||ok09985.site^
+||okadarbasvrduksenkaldnbtek.info^
 ||okf4laz97zdb.server.swissnetwork.io^
 ||okidoki-flax.vercel.app^
 ||okkziug.cfd^
@@ -21314,7 +21343,10 @@
 ||ptt-avm.guvenli-hizmet.online^
 ||ptt-avm.servsjethizmet.online^
 ||ptt-gov-tr-details9a4ss89q3a20sa65s2.wasapkaw.my^
+||ptt-gov-tr.ru^
 ||ptt-gov.eu.cc^
+||ptt-gov.life^
+||ptt-govz.life^
 ||ptt-hgs-odeme.com^
 ||ptt-hgs-odeme.xyz^
 ||ptt-hizliaracsorgu-kmsorgula.web.app^
@@ -22409,6 +22441,7 @@
 ||sahibinden-getilan.ile-guvenle-islem-web.com^
 ||sahibinden-getilan.tr-alisveris-e-islemler.online^
 ||sahibinden-getilan.tr-alisveris-e-islemlerim.online^
+||sahibinden-getilan.tr-alisveris-islemlerim.online^
 ||sahibinden-guvenli.siparisonayim.online^
 ||sahibinden-hizmet.online^
 ||sahibinden-ilan.tr-get-servis.online^
@@ -22702,6 +22735,7 @@
 ||scoopova.info^
 ||scopetoday.click^
 ||scopeyn.com^
+||scout-we.myonlineportal.ch^
 ||screenly.cam^
 ||screenserv.com^
 ||script-dev.buzz^
@@ -22830,6 +22864,7 @@
 ||selectumfamilyhotels.com^
 ||selectumhotelsandresorts.com^
 ||selectumluxuryresorts.com^
+||selectumresortshotels.com^
 ||selgebeachmanavgat.com^
 ||selgebeachresortside.com^
 ||selgebeachs.com^
@@ -23650,6 +23685,7 @@
 ||sorgupaneli.ink^
 ||sorgupaneli.ph^
 ||sorgupanelimapi.atspace.tv^
+||sorgutc.org^
 ||sorimel.pro^
 ||sormekavudiq.com^
 ||sorogren-aktarekraniniz.sbs^
@@ -25378,6 +25414,7 @@
 ||tr-alisveris-e-islemler.online^
 ||tr-alisveris-e-islemlerim.online^
 ||tr-alisveris-islemler.online^
+||tr-alisveris-islemlerim.online^
 ||tr-aselsan.com^
 ||tr-bbva-garanti.ph^
 ||tr-binance2026.duckdns.org^
@@ -26698,6 +26735,7 @@
 ||web-tapsnrsandvun.net^
 ||web-telegram.ug^
 ||web.evsahibibasvuru.com^
+||web1.evsahibibasvuru.com^
 ||webassistia.gifts^
 ||webb-182.com^
 ||webbtaccss.space^
@@ -27263,6 +27301,7 @@
 ||yardimdestekpaketim.com^
 ||yardimelim.com^
 ||yardimevim.com^
+||yardimevim.net^
 ||yardimkapisi.org^
 ||yardimpaketim.com^
 ||yardimpaketim.net^
