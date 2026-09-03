@@ -1570,6 +1570,7 @@
 147.93.146.171
 147.93.155.118
 ||14745155571.duckdns.org^
+||14745155571455.webredirect.org^
 148.113.17.48
 148.113.214.176
 148.135.195.153
@@ -8437,6 +8438,12 @@
 ||alisveris.lol^
 ||alisverishizmeti.online^
 ||alisverishizmetin-10.sbs^
+||alisverishizmetin-20.sbs^
+||alisverishizmetin-25.sbs^
+||alisverishizmetin-30.sbs^
+||alisverishizmetin-35.sbs^
+||alisverishizmetin-40.sbs^
+||alisverishizmetin-50.sbs^
 ||alisverishizmetin-55.sbs^
 ||alisverisinizguvende.com^
 ||alisverisjet.online^
@@ -9108,6 +9115,7 @@
 ||avscarfilom.com^
 ||avscarkiralama.com^
 ||avscarrental.net^
+||avscehwvsvanasb.org^
 ||avsfiloarackiralama.com^
 ||avsfilobayi.com^
 ||avsfilocar.org^
@@ -9779,6 +9787,7 @@
 ||belmixt.org^
 ||beloads.com^
 ||belsis.art^
+||belsis.buzz^
 ||belsis.click^
 ||belsis.ink^
 ||belsis.online^
@@ -10269,6 +10278,7 @@
 ||bozmayinayari.dns.navy^
 ||boztekin-qirevopa.lol^
 ||bozzl.top^
+||bp-garantibbva-anna.ph^
 ||bpfi.digital^
 ||bpi-garantibbva.com.ph^
 ||bq8x4nzm7cvlp5ka.cfd^
@@ -10919,8 +10929,10 @@
 ||cebtetebli.my-homeip.de^
 ||cebtetebli.myonlineportal.at^
 ||cebteteblim.myonlineportal.ch^
+||cebtetep-com.my-homeip.de^
 ||ceceriya.s.gy^
 ||cederese-deresedese.lol^
+||cekememezlikvar.sbs^
 ||cekilis--araba.live^
 ||cekilis--binance.com^
 ||cekilis--paribu.com^
@@ -12313,8 +12325,10 @@
 ||edosyaegm.org^
 ||edosyagib.org^
 ||edosyam.org^
+||edosyasorgu.com^
 ||edosyatakip.com^
 ||edosyatakip.org^
+||edosyauzlasma.com^
 ||edr-security-bucket1.cc^
 ||education-baykar-investment-program-com.pages.dev^
 ||eduflow.icu^
@@ -12873,6 +12887,7 @@
 ||eylulgunsonlari.duckdns.org^
 ||eylulkapsamayi.sbs^
 ||eylulkmpnybslngc.duckdns.org^
+||eylulkmpnykcmz.duckdns.org^
 ||eylulsonundayizbizler.duckdns.org^
 ||eypdvy.click^
 ||eyqwj.com^
@@ -13869,6 +13884,7 @@
 ||gitnow.dev^
 ||gittigidiyor.com.ph^
 ||gizemligunlersdz.sbs^
+||gizlieyllkmpnysi.mywire.org^
 ||gjbdijittal.com^
 ||gjswxattkq.yoga^
 ||gkkcl123klx12k3lz1312.shop^
@@ -14108,6 +14124,7 @@
 ||gratis.cwbots.com^
 ||gratis.dumfi.com^
 ||gratis.empordafibra.com^
+||gratis.ghy3.com^
 ||gratis.globalscholarpress.com^
 ||gratis.kasihinfo.com^
 ||gratis.kywestfest.com^
@@ -14576,6 +14593,7 @@
 ||haberler47823.shop^
 ||haberler47852.shop^
 ||haberler48751.sbs^
+||haberler53454321.shop^
 ||haberler54232.shop^
 ||haberler543343.shop^
 ||haberler554.shop^
@@ -17002,6 +17020,7 @@
 ||kdih.top^
 ||kdsuyrse.live^
 ||keandefwoeoopewuy98sndansdn90e0p21212.click^
+||kediciksorgupaneli.online^
 ||keeplovethis.xyz^
 ||keesefef.dns.navy^
 ||kefalukahotelakyarlar.com^
@@ -19775,6 +19794,7 @@
 ||newequipmentsolutions.com^
 ||newesef.blogspot.com^
 ||newfashio.online^
+||newgnrylevbiitimi.giize.com^
 ||newguncelgarantislemleri.duckdns.org^
 ||newgzmligunlerdyzbiz.duckdns.org^
 ||newhmarkare.cfd^
@@ -20783,6 +20803,7 @@
 ||pan.rongtv.xyz^
 ||pancakeswap.financial^
 ||panel.allthe.site^
+||panel.alwaysdata.net^
 ||panel.evsahibibasvuru.com^
 ||panel.hdfportfoy.com^
 ||panel.hedeffon.com^
@@ -20790,6 +20811,7 @@
 ||panel.hedefonportfoyum.com^
 ||panel.qsewjn.icu^
 ||panelbalonxfs.xyz^
+||panelsorgu.buzz^
 ||panelsorgu.space^
 ||pantolonunnerdendiyor.click^
 ||panzozerrot.com^
@@ -21410,6 +21432,7 @@
 ||plsxkkj123k1z3123z12.cfd^
 ||pluginchad.xyz^
 ||plurnostavi.gifts^
+||pluskurumsal.net^
 ||poc4b1sdftrecvbnfew89.pro^
 ||pocmsmdi.net^
 ||poczta.outsec.pl^
@@ -22544,6 +22567,7 @@
 ||ruhsuzpanel.online^
 ||ruhsuzpanel.site^
 ||ruhsuzpanel1.site^
+||ruhsuzpanel2.site^
 ||ruhsuzpanel5.site^
 ||ruhsuzpanel6.site^
 ||ruhsuzpanel7.site^
@@ -23744,6 +23768,7 @@
 ||sizlerlehadihemenfirst.sbs^
 ||sizlerleyizz.sbs^
 ||sizlerleyizzz.sbs^
+||sizvarsakbizvarizbizsetisaglariz.sbs^
 ||sjdkjj23.s3.ap-southeast-1.amazonaws.com^
 ||sk35shwdi.icu^
 ||skaldnmfbsjdpvsvcmvdlbo63.click^
@@ -24061,6 +24086,7 @@
 ||sorgupaneli.ink^
 ||sorgupaneli.ph^
 ||sorgupaneli.vip^
+||sorgupaneli.world^
 ||sorgupanelimapi.atspace.tv^
 ||sorgutc.org^
 ||sorimel.pro^
@@ -26119,6 +26145,7 @@
 ||tt002332sd23.duckdns.org^
 ||tt33300003033.duckdns.org^
 ||tta3p0px47q0.icu^
+||ttagnlerndyzbizz.giize.com^
 ||ttavskoc.com^
 ||ttccckk.duckdns.org^
 ||ttektiklaspnsrlurklam.com^
