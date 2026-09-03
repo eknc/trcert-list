@@ -1191,6 +1191,7 @@
 14.103.107.214
 14.103.114.63
 14.103.117.97
+14.103.123.169
 14.103.127.30
 14.103.145.202
 14.103.145.211
@@ -1971,6 +1972,7 @@
 159.223.201.180
 159.223.226.149
 159.223.45.59
+159.223.5.148
 159.223.92.200
 159.223.96.160
 159.242.42.20
@@ -1994,6 +1996,7 @@
 160.119.64.3
 160.119.76.33
 160.119.76.64
+160.187.210.180
 160.187.246.111
 160.187.246.125
 160.187.246.150
@@ -2925,12 +2928,16 @@
 185.176.94.42
 185.177.239.255
 185.177.72.11
+185.177.72.12
+185.177.72.13
 185.177.72.17
+185.177.72.23
 185.177.72.29
 185.177.72.30
 185.177.72.51
 185.177.72.56
 185.177.72.58
+185.177.72.70
 185.179.218.75
 185.180.221.108
 185.181.230.103
@@ -3704,6 +3711,7 @@
 195.170.172.204
 195.177.94.169
 195.177.94.6
+195.178.110.101
 195.178.110.102
 195.178.110.155
 195.178.110.217
@@ -4722,6 +4730,7 @@
 ||31jctjk3k1l2z12lk3c12k312.cfd^
 32.143.50.222
 ||3212221112445479890.duckdns.org^
+||3212221112445479892.duckdns.org^
 ||321321321.vercel.app^
 ||321xz123123.duckdns.org^
 ||32221x3de332.duckdns.org^
@@ -4970,6 +4979,7 @@
 39.107.156.136
 39.107.60.51
 39.109.123.199
+39.88.200.53
 39.97.229.220
 ||3c123jkxkl132x13x1132.cfd^
 ||3d.guvenli-pos.com^
@@ -7564,6 +7574,7 @@
 ||931684725.lat^
 ||9375w5vx29p.icu^
 94.102.51.144
+94.103.3.102
 94.103.85.47
 94.125.218.19
 94.130.12.27
@@ -7906,6 +7917,7 @@
 ||a101yuzyilinfirsatlari.duckdns.org^
 ||a10firsat.duckdns.org^
 ||a10l.org^
+||a1capitalmenkulonline.com^
 ||a1menkuldegerler.com^
 ||a1newtemuzfirstlari.xyz^
 ||a1o1.ile-e-islemlerim.com.tr^
@@ -9992,6 +10004,7 @@
 ||bireyselsatici.com^
 ||bireyselsatici.online^
 ||bireyselsiparis.com^
+||bireyselsiparisin.online^
 ||bireyselsubehalkbank.com.ph^
 ||birgulususebepolur.sbs^
 ||birgulususebepolur1.sbs^
@@ -10558,6 +10571,7 @@
 ||burasihepbizde.com^
 ||burda-frslat.xyz^
 ||burdaemhrsrandvlrmz.sbs^
+||burdagecelerziyaneder.com^
 ||burdageldlsimdn.shop^
 ||burdageldlsimdn.xyz^
 ||burdayzsendegelkatl89.click^
@@ -11147,6 +11161,7 @@
 ||cndanlardansandan.sbs^
 ||cndanlardansandan.shop^
 ||cnmag.ru^
+||cns-fl.com^
 ||cntqsexvtasxmenuguncexzll.xyz^
 ||cobrakai.vip^
 ||cocacola-careerhub.com^
@@ -11866,6 +11881,7 @@
 ||dikdiy.xyz^
 ||dinamik-hat-verileri.myonlineportal.ch^
 ||dinamikmenkuldeger.com^
+||dinamiksube.com^
 ||dinamikuygulama.pro^
 ||dinamikuygulamagiris.pro^
 ||dinersciub.qpon^
@@ -15665,6 +15681,7 @@
 ||hyadgelbenmleolckalmyldzlara.online^
 ||hygienehistory.com^
 ||hylkgmbrcodmyl.com^
+||hynzbirts.giize.com^
 ||hypercorevector1.lol^
 ||hypercorevector10.lol^
 ||hypercorevector2.lol^
@@ -16170,6 +16187,7 @@
 ||istanbulbellggimm.xyz^
 ||istanbulbellgiimkartt.xyz^
 ||istanbulbellgiimmm.xyz^
+||istanbulbelrlgim.xyz^
 ||istanbulbenim3434.xyz^
 ||istanbulbenimla.xyz^
 ||istanbulberzan.xyz^
@@ -18776,6 +18794,7 @@
 ||meteorclients.com^
 ||methodicalness.de^
 ||metlafounder.com^
+||metometa3169.shop^
 ||metramon.com^
 ||metricalo.live^
 ||metrikcs.com^
@@ -20040,6 +20059,7 @@
 ||odeykelhgsykleode.cfd^
 ||odeyklehgs.cfd^
 ||odlassadan.shop^
+||odmdeyklehgs.cfd^
 ||odmeebasvurlarinia.sbs^
 ||odmezmnihgsde.cfd^
 ||odmyeyklezmni.cfd^
@@ -22693,6 +22713,7 @@
 ||sahibinden-sparam-guvende-ilan-no-376467832.gt.tc^
 ||sahibinden-tr.siparisim-guvende.online^
 ||sahibinden.alisverisinizguvende.com^
+||sahibinden.bireyselsiparisin.online^
 ||sahibinden.dogrulama-paramguvende.com^
 ||sahibinden.e-alisveris-ilan-sepetim.com^
 ||sahibinden.e-elektronik-firsat-sepetimiz.com^
@@ -23652,6 +23673,7 @@
 ||smartneedshub.shop^
 ||smartutilityhub.shop^
 ||smartvaluebay.shop^
+||smdiodehgshdiode.cfd^
 ||smdizmnimihgs.cfd^
 ||smdodmezmnihgsykle.cfd^
 ||smokup.bond^
@@ -23931,6 +23953,7 @@
 ||source-management.myonlineportal.ch^
 ||sovaro.online^
 ||sovbuyli.gifts^
+||sowixpro.tr^
 ||soxzr300xbsvruzrt0xf423sadvc.click^
 ||sozbir-eutamot.myonlineportal.ch^
 ||sozbir-launcher.myonlineportal.ch^
