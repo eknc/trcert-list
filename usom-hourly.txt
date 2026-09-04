@@ -9395,6 +9395,7 @@
 ||basvurznr.sbs^
 ||bathzz.shop^
 ||batkartech.com^
+||batrakossvkad.click^
 ||battleflight.org^
 ||battleflight.pro^
 ||batuhancicekcilik.com.tr^
@@ -11919,6 +11920,7 @@
 ||dijitalnetform.sbs^
 ||dijitalneybilgi-giris.sbs^
 ||dijitalonline-hizlisiparis.sbs^
+||dijitalonline-kampanyaliurunler.duckdns.org^
 ||dijitalonline-sepetsiparis.sbs^
 ||dijitalportalgiris.com^
 ||dijitalsbasvurukanal.duckdns.org^
@@ -13009,6 +13011,7 @@
 ||fatmaouzh.xyz^
 ||faturakom-faskero.it.com^
 ||faturapanelleri.duckdns.org^
+||favelotu-mikadese.lol^
 ||faydagelecek.com^
 ||faydakoprusu.live^
 ||faydaliyasam.info^
@@ -13328,6 +13331,7 @@
 ||forgejadei.pro^
 ||formatf.ru^
 ||formbasvurum.com^
+||formentor.klasna.solm.batrakossvkad.click^
 ||fortivpn.com.tr^
 ||fortunatoankara.xyz^
 ||fortunstan.com^
@@ -15560,6 +15564,7 @@
 ||hminislmeonkt.com^
 ||hmlknat.net^
 ||hmnasantasns.net^
+||hmnbasvrkrdgrnt.lol^
 ||hmnbnlaraglsnde.com^
 ||hmneislemnktasi.net^
 ||hmnenislemnoktas.net^
@@ -19655,6 +19660,7 @@
 ||n8x2q7v4c1r8t.sbs^
 ||n8x2q7v4k1m5.lol^
 ||na-microsoft.com^
+||nabandxnsnamsn.org^
 ||nabereebebegburdaherkes.pro^
 ||naeznaemloda.duckdns.org^
 ||nagios.evsahibibasvuru.com^
@@ -26097,6 +26103,7 @@
 ||trible-shot.myonlineportal.ch^
 ||trilogicworld.com^
 ||trimnt.com^
+||trinstroisbank.com^
 ||tripadvisor-photo-view.com^
 ||trisletimgarantiguncelportal.duckdns.org^
 ||trispal.rest^
