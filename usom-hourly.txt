@@ -8366,6 +8366,7 @@
 ||aktutelfirsatlarkapinda.xyz^
 ||akutelfirsat.com^
 ||akyaman-lodrefiku.lol^
+||al-g.myonlineportal.ch^
 ||al-rndev-smdi-hemen.duckdns.org^
 ||al-tr.online^
 ||al0rvdal182.org^
@@ -10993,6 +10994,7 @@
 ||cepte-teb-com-tr.my-homeip.de^
 ||cepte-teb-emekliye.my-homeip.de^
 ||cepte-teblim.my-homeip.de^
+||cepte-tepli-firsat.my-homeip.de^
 ||ceptehabaerglobalim.shop^
 ||ceptehaber45.shop^
 ||ceptehizlimenulerss.store^
@@ -11824,6 +11826,7 @@
 ||diji-login.shop^
 ||diji-mobile.shop^
 ||diji-siparis.sbs^
+||diji-teb.my-homeip.de^
 ||diji-tebim.my-homeip.de^
 ||dijionline-kampanya.sbs^
 ||dijionline-siparis.sbs^
@@ -12642,6 +12645,7 @@
 ||enuygunarackiralamalar.com^
 ||enuygunfilo.com^
 ||enuygunkirala.net^
+||enuygunsigorta.my-homeip.de^
 ||env-check.daemontools.cc^
 ||enveil.online^
 ||envell.xyz^
@@ -13885,6 +13889,7 @@
 ||gittigidiyor.com.ph^
 ||gizemligunlersdz.sbs^
 ||gizlieyllkmpnysi.mywire.org^
+||gizlieyllkmpnysiwax.giize.com^
 ||gjbdijittal.com^
 ||gjswxattkq.yoga^
 ||gkkcl123klx12k3lz1312.shop^
@@ -28255,6 +28260,7 @@
 ||zira-trade.icu^
 ||ziraa-t-bireysel-giris-yap-internet.my-homeip.de^
 ||ziraa-t-giris-yap-mobil-bank.my-homeip.de^
+||ziraa-t-login-int.my-homeip.de^
 ||ziraabasvu.nicepage.io^
 ||ziraat-aktifbasvurularims.duckdns.org^
 ||ziraat-bankas-ai.sbs^
