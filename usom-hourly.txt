@@ -1959,6 +1959,7 @@
 158.94.211.17
 158.94.211.240
 ||1584515557145.duckdns.org^
+||1584515557149.duckdns.org^
 ||159-karayol.com^
 159.100.13.216
 159.100.13.22
@@ -11933,6 +11934,7 @@
 ||dijitalnetbilgi-giris.sbs^
 ||dijitalnetform.sbs^
 ||dijitalneybilgi-giris.sbs^
+||dijitalonline-aynigunkapinda.duckdns.org^
 ||dijitalonline-hizlisiparis.sbs^
 ||dijitalonline-kampanyalar.duckdns.org^
 ||dijitalonline-kampanyaliurunler.duckdns.org^
@@ -14168,6 +14170,7 @@
 ||gratis-tr.optosupply.com^
 ||gratis.anointedacres.com^
 ||gratis.ask4tree.com^
+||gratis.benmook.com^
 ||gratis.blixtrader.com^
 ||gratis.craftyhour.com^
 ||gratis.cwbots.com^
@@ -14498,6 +14501,7 @@
 ||haber145216562.sbs^
 ||haber1453.sbs^
 ||haber1453.shop^
+||haber2026.doordk.com^
 ||haber25-assf.shop^
 ||haber252.shop^
 ||haber254.cfd^
@@ -16949,6 +16953,7 @@
 ||karacababy.shop^
 ||karacabutik.com.tr^
 ||karacabuy.homes^
+||karacacarsafs.homes^
 ||karacaclub.shop^
 ||karacadiscount.homes^
 ||karacadoms.club^
@@ -19028,6 +19033,7 @@
 ||mhhssrbfegsdg.site^
 ||mhhssrcfegsdg.site^
 ||mhhssrreekaliyd.lol^
+||mhhssrreekaliyf.lol^
 ||mhhssrrtaaga.site^
 ||mhhssrrtabga.site^
 ||mhjr-s.com^
@@ -19197,6 +19203,7 @@
 ||mhysyhisawag.icu^
 ||mi.overlapsnowbound.com^
 ||miappl.com^
+||mibusare-yedolapi.lol^
 ||micescrewdriverspear.com^
 ||microservice-update-s2-bucket.cc^
 ||microsft.updata.net.cn^
@@ -22858,6 +22865,7 @@
 ||sahibinden-get-paramguvende-ode.gt.tc^
 ||sahibinden-get.alimlarinizhizmetler.online^
 ||sahibinden-get.detayservisn.com^
+||sahibinden-get.ejet-ticaretin1.online^
 ||sahibinden-get.emobileservislerr.com^
 ||sahibinden-get.emobileservislerrn.online^
 ||sahibinden-get.eservisalimin1.online^
@@ -24082,6 +24090,7 @@
 ||son-gun-destekleme.cfd^
 ||son101.duckdns.org^
 ||son101cilerkaldi.cloud^
+||son2026indirimleri101.biz^
 ||sonbilet.com.tr^
 ||sondakika.cam^
 ||sondakikada.org^
@@ -27581,6 +27590,7 @@
 ||www-teb-com-tr-onayli-islem.my-homeip.de^
 ||www-teb-com-tr-promosyon-basvuru.my-homeip.de^
 ||www-teb-com-tr-promosyon-emekli.my-homeip.de^
+||www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de^
 ||www-tebfirsatlar-com.my-homeip.de^
 ||www-toki-gov-tr-ev.vercel.app^
 ||www-tr-binance.com^
@@ -28154,6 +28164,7 @@
 ||yonleqndiriliyorsiniz.duckdns.org^
 ||yorum-ithal-gr.garden^
 ||youarases.lat^
+||your-house.myonlineportal.ch^
 ||yoursfind.com^
 ||yozatw.buzz^
 ||ypikrddijisube.xyz^
