@@ -4746,6 +4746,7 @@
 ||3212221112445479895.duckdns.org^
 ||3212221112445479897.duckdns.org^
 ||3212221112445479898.duckdns.org^
+||3212221112445479899.duckdns.org^
 ||321321321.vercel.app^
 ||321xz123123.duckdns.org^
 ||32221x3de332.duckdns.org^
@@ -10729,6 +10730,7 @@
 ||byyrdrmdmdnsnttt.com^
 ||bznzn.duckdns.org^
 ||c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev^
+||c-e-p-t-e-teb.my-homeip.de^
 ||c.windowsk-cdn.com^
 ||c2.saintpetersburgresident.ru^
 ||c2.tralalarkefe.com^
@@ -12298,6 +12300,7 @@
 ||ebilgi.org^
 ||ecd31356-d.b-cdn.net^
 ||eceza.org^
+||ecezaadalet.org^
 ||ecezabildirim.org^
 ||ecezacbs.org^
 ||ecezadavam.com^
@@ -14154,6 +14157,7 @@
 ||grantipromosynlari.com^
 ||grantiscylk.cfd^
 ||grapehardwarejourney.com^
+||gratis-mr.ddnsgeek.com^
 ||gratis-tr.craftyhour.com^
 ||gratis-tr.empordafibra.com^
 ||gratis-tr.obliqueprism.com^
@@ -14581,6 +14585,7 @@
 ||haberler132423.sbs^
 ||haberler1358636.shop^
 ||haberler141153.shop^
+||haberler14223.shop^
 ||haberler1425123.shop^
 ||haberler14253231.shop^
 ||haberler142536231.shop^
@@ -14745,6 +14750,7 @@
 ||hakkinda-uyum.ink^
 ||haksizfil.cfd^
 ||halaaranmyorsunartkyuhkankagelsendeburda.click^
+||halbook.com^
 ||halflife-play.ru^
 ||halhalican.co^
 ||halk-bireysel-basvur-com.duckdns.org^
@@ -15690,6 +15696,7 @@
 ||homeparcel.shop^
 ||homesjersfter.duckdns.org^
 ||homesnetlerkest.duckdns.org^
+||homesnftyer.duckdns.org^
 ||homesteadmart.shop^
 ||homestikest.duckdns.org^
 ||homestkald.duckdns.org^
@@ -15961,6 +15968,7 @@
 ||ilandan-fast.com^
 ||ilandetay-jet.com^
 ||ilanguvende.online^
+||ilanguvenli.online^
 ||ilanim-fast.com^
 ||ilanim-onay-762211.com^
 ||ilanim-onay-762212.com^
@@ -19004,6 +19012,7 @@
 ||mhhsrssahsa.site^
 ||mhhsrssbhsa.site^
 ||mhhssaaakaliya.site^
+||mhhssaaakaliyc.site^
 ||mhhssrafegsdg.site^
 ||mhhssrbfegsdg.site^
 ||mhhssrcfegsdg.site^
@@ -22907,6 +22916,7 @@
 ||sahibinden-order.com^
 ||sahibinden-param-guvende.ilan-onayla.online^
 ||sahibinden-param-guvende.ilan-siparis.online^
+||sahibinden-param-guvende.ilanguvenli.online^
 ||sahibinden-param-guvende.ilanonayin.online^
 ||sahibinden-param-guvende.ilanonayla.online^
 ||sahibinden-param-guvende.islemonayla.online^
@@ -25800,6 +25810,7 @@
 ||tokyolokko.co^
 ||tol-liber-oreal.myonlineportal.ch^
 ||tom-basvraidt.duckdns.org^
+||tom00bnk01.duckdns.org^
 ||tombankhadi.com^
 ||tombnkbsvr.duckdns.org^
 ||tomerudakil.gifts^
@@ -26062,6 +26073,7 @@
 ||trendrally.online^
 ||trendvista.site^
 ||trendwatch.vu^
+||trendy0l.homes^
 ||trendy0l.lol^
 ||trendyo5.lol^
 ||trendyo5.sbs^
@@ -27649,6 +27661,7 @@
 ||xeturkbuy.shop^
 ||xfd74y2ha226fd.click^
 ||xhad734nm2db.sbs^
+||xhomensetler.duckdns.org^
 ||xiaomimiyizu.xyz^
 ||xijkwm2.s3.ap-southeast-1.amazonaws.com^
 ||xirmali.info^
@@ -27887,6 +27900,7 @@
 ||yasanan.ink^
 ||yaslanirsambirgunyakalarsin.sbs^
 ||yasoguh.xyz^
+||yatirim-finansman.com^
 ||yatirim-hesabi-tr-10.online^
 ||yatirim.finansmaninfo.biz^
 ||yatirim.oykportfolio.com^
