@@ -4744,6 +4744,8 @@
 ||3212221112445479890.duckdns.org^
 ||3212221112445479892.duckdns.org^
 ||3212221112445479895.duckdns.org^
+||3212221112445479897.duckdns.org^
+||3212221112445479898.duckdns.org^
 ||321321321.vercel.app^
 ||321xz123123.duckdns.org^
 ||32221x3de332.duckdns.org^
@@ -8787,6 +8789,7 @@
 ||arlentaarackiralama.com^
 ||armadegerleme.com^
 ||armapak.site^
+||armine.live^
 ||armyhelicoptermail.com^
 ||arorabayisi.com^
 ||arorafabrika.online^
@@ -11059,6 +11062,7 @@
 ||ceveop.live^
 ||ceviri-lifonsi-edinim.myonlineportal.eu^
 ||cevirkazanbntr.duckdns.org^
+||ceyhunturizm.com^
 ||ceza-kgm.cc^
 ||cezabirimi.net^
 ||cezadavasorgu.org^
@@ -12742,6 +12746,7 @@
 ||esbetgiris-hizli.com^
 ||esbm.com.tr^
 ||esbmonline.com^
+||eservishizmetleriniz1.online^
 ||esinin-anli.shop^
 ||eskitaglimrandevu.duckdns.org^
 ||eskiyeyluldeyiz.duckdns.org^
@@ -15726,6 +15731,7 @@
 ||horizonguard.space^
 ||horizonmindventure.sbs^
 ||horyhk.click^
+||hosemenst.duckdns.org^
 ||hospitalinstallation.com^
 ||hospitality-woods-jewellery-bubble.trycloudflare.com^
 ||hosted-by.yeezyhost.net^
@@ -15973,6 +15979,7 @@
 ||ile-alisverislerini-tamamlama.com^
 ||ile-e-islem.com.tr^
 ||ile-e-islemler.com.tr^
+||ile-e-islemlerle.com.tr^
 ||ile-e-sepet.com.tr^
 ||ile-e-sepetler.com.tr^
 ||ile-guvende-islemini-yap.com^
@@ -18996,6 +19003,7 @@
 ||mhhrsvatandasgiris.duckdns.org^
 ||mhhsrssahsa.site^
 ||mhhsrssbhsa.site^
+||mhhssaaakaliya.site^
 ||mhhssrafegsdg.site^
 ||mhhssrbfegsdg.site^
 ||mhhssrcfegsdg.site^
@@ -19061,6 +19069,7 @@
 ||mhrs-d.digital^
 ||mhrs-e-devlet.vercel.app^
 ||mhrs-edevletgiris.sbs^
+||mhrs-giris-islem-link.vercel.app^
 ||mhrs-giris.blog^
 ||mhrs-hastane.digital^
 ||mhrs-randevu.vercel.app^
@@ -22470,6 +22479,7 @@
 ||reklam-kura.online^
 ||reklam-kurasi.online^
 ||reklambul.online^
+||reklamlaronlineak.sbs^
 ||reklammetaonline.cfd^
 ||reklampilot.site^
 ||reklamsite.shop^
@@ -22826,6 +22836,8 @@
 ||sahibinden-get.detayservisn.com^
 ||sahibinden-get.emobileservislerr.com^
 ||sahibinden-get.emobileservislerrn.online^
+||sahibinden-get.eservisalimin1.online^
+||sahibinden-get.eservishizmetleriniz1.online^
 ||sahibinden-get.eurunhizmetin.com^
 ||sahibinden-get.guveli-hizmet.online^
 ||sahibinden-get.guvenli-hizmet.online^
@@ -22886,6 +22898,8 @@
 ||sahibinden-getilan.tr-alisveris-e-islemler.online^
 ||sahibinden-getilan.tr-alisveris-e-islemlerim.online^
 ||sahibinden-getilan.tr-alisveris-islemlerim.online^
+||sahibinden-getilan.tr-alisverisler-getislem.online^
+||sahibinden-getilan.tr-web-islemler.online^
 ||sahibinden-guvenli.siparisonayim.online^
 ||sahibinden-hizmet.online^
 ||sahibinden-ilan.tr-get-servis.online^
@@ -24095,6 +24109,7 @@
 ||sonnbsvrrprmsynnnkmpnyaaa.live^
 ||sonnfrstlsrrrkmpnyaabsvrr.art^
 ||sonnfrstlsrrrkmpnyaabsvrr.info^
+||sonnfrstlsrrrkmpnyaabsvrr.live^
 ||sonnnfrsltarrkmpnyaaabsvrkredi.info^
 ||sonnnfrsltarrkmpnyaaabsvrkredi.pro^
 ||sonnnfrstlarrrkmpnyaakredii.info^
@@ -26528,6 +26543,7 @@
 ||tuyoahsadhahsd909adsdhas.click^
 ||tuyoashdahsdhashd92sdh92sad.click^
 ||tv.evsahibibasvuru.com^
+||tvrjsdbsjackcs.online^
 ||tvrkdrtsandvbhs.shop^
 ||tvrkdrtsandvbhs.store^
 ||tvrkrsnzhdsmsvc.store^
