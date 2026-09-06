@@ -8643,6 +8643,7 @@
 ||apartment.devour.top^
 ||apexkurumsalfilo.com^
 ||apexsorgu.alwaysdata.net^
+||api-garantibbva.ph^
 ||api-microservice-us1.com^
 ||api-sync-service.mdkd1184.workers.dev^
 ||api.blnance-basvuru.info^
@@ -11736,6 +11737,7 @@
 ||denizbank.com.ph^
 ||denizbankampanyasi.sanmadarbeler.cfd^
 ||denizbankesube.ph^
+||denizdegerlimenkuller.com^
 ||denizdentoprag.my-homeip.de^
 ||denizmenkul.pro^
 ||denizmobil-basvuru-ekranim.duckdns.org^
@@ -13589,6 +13591,7 @@
 ||garantibbva-alahli.ph^
 ||garantibbva-alibaba.ph^
 ||garantibbva-alipay.ph^
+||garantibbva-api.ph^
 ||garantibbva-au.com.ph^
 ||garantibbva-bankofamerican.ph^
 ||garantibbva-bb.ph^
@@ -19486,6 +19489,7 @@
 ||mobilservisler-53.sbs^
 ||mobilservisler-54.sbs^
 ||mobilservisler-55.sbs^
+||mobilservisler-57.sbs^
 ||mobilservisler-68.sbs^
 ||mobilservisler-83.sbs^
 ||mobilservisler-85.sbs^
@@ -22646,6 +22650,7 @@
 ||rise-advance.com^
 ||risl-olekna-rivers.myonlineportal.ch^
 ||rivenetworld.com^
+||rivex.lol^
 ||rivluma.com^
 ||rivoraq.vu^
 ||rixoshotelresort.com^
@@ -23888,6 +23893,7 @@
 ||siparisonayi.online^
 ||siparisonayim.online^
 ||siparisonayin.online^
+||siparisonayla.online^
 ||siparissatin-al.com^
 ||siparisver-hemen.com^
 ||siparisverhemen.com^
@@ -26084,6 +26090,7 @@
 ||tr-suwen.shop^
 ||tr-teb-com.my-homeip.de^
 ||tr-tekoaos.cc^
+||tr-web-alisveris.online^
 ||tr.karacasales.shop^
 ||tr.randevurehberin.it.com^
 ||tr42-guncelsikaytler.sbs^
@@ -27383,6 +27390,7 @@
 ||web-182.xyz^
 ||web-bas-vur.myonlineportal.de^
 ||web-basvurum-grntbbva.fixip.org^
+||web-braun.com^
 ||web-garanti-subesi-tr.ph^
 ||web-lanse.ink^
 ||web-links-mobil-tr.click^
@@ -28494,6 +28502,7 @@
 ||ziraatbank-kolaybasvurlar.vercel.app^
 ||ziraatbank-onlinesbi.ph^
 ||ziraatbank-ssa.com.ph^
+||ziraatbank-turkey.com^
 ||ziraatbank.cfd^
 ||ziraatbankasiefr2025.essentebilisim.com^
 ||ziraatbankasiefr2025.jumbosoft.com.tr^
