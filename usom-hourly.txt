@@ -1028,6 +1028,7 @@
 ||13222214544588989990898.duckdns.org^
 ||13222214544588989990899.duckdns.org^
 133.18.225.36
+||13395003852.duckdns.org^
 134.122.13.34
 134.122.136.119
 134.122.136.96
@@ -8054,6 +8055,7 @@
 ||abiorime.cfd^
 ||abnormin-legrn.ink^
 ||abuseatmayadevamet.click^
+||abwbevehwmnend.org^
 ||ac-count.my-homeip.de^
 ||ac123xlkdsdaxjk12kj3123c12.cfd^
 ||ac7mzp4xq9vkn2rt.cfd^
@@ -8811,6 +8813,7 @@
 ||aroramotorsatis.com^
 ||aroraorijinalparca.com^
 ||aroraorijinalparcalari.com^
+||arorayedekparcalarisatis.com^
 ||arorayedekparcalistesi.com^
 ||arorayedekparcasi.com^
 ||arorayedekparcatr.com^
@@ -8953,6 +8956,7 @@
 ||asncxbyaaasdanala.874184655641556.sbs^
 ||asncxbyaaasdanala.8746519864165.sbs^
 ||asncxbyaaasdanala.8796451654165333.sbs^
+||asncxbyaaasdanala.8889655532144.sbs^
 ||asncxbyaaasdanala.89415648951651.sbs^
 ||asncxbyaaasdanala.8941568418975.sbs^
 ||asncxbyaaasdanala.894216546865.sbs^
@@ -9230,6 +9234,7 @@
 ||back-swift.cn.com^
 ||backcollarlip.com^
 ||backend.evsahibibasvuru.com^
+||bademamcakim.xyz^
 ||badsfghsadasdds.gleeze.com^
 ||bagciksizmargela.sbs^
 ||baglanti-ile-tamamla.com^
@@ -11485,6 +11490,7 @@
 ||cspragstsayn.duckdns.org^
 ||cspryenignce.duckdns.org^
 ||css-cameras-strongly-jaguar.trycloudflare.com^
+||ct54t1d74fs127f.cfd^
 ||ct54t1d74fs127fd.sbs^
 ||ctfsai.cc^
 ||ctrgarlerimenuguncel.xyz^
@@ -12067,6 +12073,7 @@
 ||documentos-online.com^
 ||documents.ef971a42.workers.dev^
 ||docviro.xyz^
+||dodocuks.duckdns.org^
 ||dogalrehberim.com^
 ||dogalvizyonum.com^
 ||dogarentkurumsalfilo.com^
@@ -13964,6 +13971,7 @@
 ||git-service.com^
 ||git-tanstack.com^
 ||git.evsahibibasvuru.com^
+||gitarkursistan.duckdns.org^
 ||gitgidebildiginyerdeyim.sbs^
 ||gitgidebildiginyerdeyiz.sbs^
 ||gitgideduzeliyor.sbs^
@@ -14621,6 +14629,7 @@
 ||haberler123.shop^
 ||haberler1230149.shop^
 ||haberler12342.shop^
+||haberler12343.sbs^
 ||haberler1234321.shop^
 ||haberler12348.shop^
 ||haberler123531234.shop^
@@ -19065,6 +19074,7 @@
 ||metricalo.live^
 ||metrikcs.com^
 ||metrixfolers.pro^
+||mexadowcrestdigitalplatform.cfd^
 ||meyvanto.com^
 ||mezeoldumaskofu.com^
 ||mfagovtr.ph^
@@ -19094,6 +19104,7 @@
 ||mhhrdw.com^
 ||mhhres.dns.navy^
 ||mhhrsvatandasgiris.duckdns.org^
+||mhhsrrekaliye.lol^
 ||mhhsrssahsa.site^
 ||mhhsrssbhsa.site^
 ||mhhssaaakaliya.site^
@@ -19259,6 +19270,8 @@
 ||mhslaatkfff.uk^
 ||mhsrarandvlrmzbrda.sbs^
 ||mhsrrandvu.com^
+||mhsrrekaliya.site^
+||mhsrrekaliyb.site^
 ||mhsrrrbhas.site^
 ||mhsrrrchas.site^
 ||mhsscfsrsa12.sbs^
@@ -19564,6 +19577,7 @@
 ||monitorix.cyou^
 ||montagelips.info^
 ||monteraa.shop^
+||montevialifestylexhls4.sbs^
 ||montevikasystem.com^
 ||monteviral2026.duckdns.org^
 ||moodle.evsahibibasvuru.com^
@@ -22721,6 +22735,7 @@
 ||roddddybdrydln.shop^
 ||roddddybdrydlnnn.shop^
 ||rodrodrodrodmusic.com^
+||rodyskryrzzbgnn.duckdns.org^
 ||rofortrade.com^
 ||rofusadhasdhashdh0093sadsad.click^
 ||rogdt-917c.williammgros4.workers.dev^
@@ -23329,6 +23344,7 @@
 ||sbsbsbsbsbs.sbs^
 ||scaletoki.site^
 ||scaut-bzm-hlaki.myonlineportal.ch^
+||sciencedirect.sbs^
 ||sckancalon.xyz^
 ||scoopova.info^
 ||scopetoday.click^
@@ -23524,6 +23540,7 @@
 ||sepeetiturkiye.com^
 ||sepet-alisveris.com^
 ||sepet-mobil-tr.online^
+||sepet-net.online^
 ||sepet-odemesi-1985.com^
 ||sepet-odemesi-1988.com^
 ||sepetbox-tr.online^
@@ -27704,6 +27721,7 @@
 ||www-teb-com-tr-onayli-islem.my-homeip.de^
 ||www-teb-com-tr-promosyon-basvuru.my-homeip.de^
 ||www-teb-com-tr-promosyon-emekli.my-homeip.de^
+||www-teb-com-tr-sayfalar-emekli-basvuru.my-homeip.de^
 ||www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de^
 ||www-tebfirsatlar-com.my-homeip.de^
 ||www-toki-gov-tr-ev.vercel.app^
