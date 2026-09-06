@@ -5834,6 +5834,7 @@
 47.98.202.186
 ||4742532456254625562.duckdns.org^
 48.217.48.70
+||48512365482451615.duckdns.org^
 ||485489541268.cloud^
 ||485e02db-a.b-cdn.net^
 ||4864958496556489.net^
@@ -11484,6 +11485,7 @@
 ||cspragstsayn.duckdns.org^
 ||cspryenignce.duckdns.org^
 ||css-cameras-strongly-jaguar.trycloudflare.com^
+||ct54t1d74fs127fd.sbs^
 ||ctfsai.cc^
 ||ctrgarlerimenuguncel.xyz^
 ||ctroocankaa.xyz^
@@ -11959,6 +11961,7 @@
 ||dijitalnetform.sbs^
 ||dijitalneybilgi-giris.sbs^
 ||dijitalonline-aynigunkapinda.duckdns.org^
+||dijitalonline-hemenkapinda.duckdns.org^
 ||dijitalonline-hizlisiparis.sbs^
 ||dijitalonline-kampanyakapinda.duckdns.org^
 ||dijitalonline-kampanyalar.duckdns.org^
@@ -14666,6 +14669,7 @@
 ||haberler31345653.shop^
 ||haberler32334.shop^
 ||haberler3242.sbs^
+||haberler3262343.sbs^
 ||haberler332348.shop^
 ||haberler33544.sbs^
 ||haberler34063.sbs^
@@ -21712,6 +21716,7 @@
 ||pplardandandan.shop^
 ||pporscsic.net^
 ||ppp00oo3o0ooopp.duckdns.org^
+||pppprrdannnn.duckdns.org^
 ||pppzirpppsf.nicepage.io^
 ||ppvagirisgoniz1ernenutrapp.space^
 ||ppvagirisgonizlemenuapptr.space^
