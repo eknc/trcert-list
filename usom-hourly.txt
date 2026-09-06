@@ -35,6 +35,7 @@
 ||0n33-onlineislemler.duckdns.org^
 ||0nline-akbank.testyourphishing.com^
 ||0nline-sok-market.duckdns.org^
+||0nline-sok-markett.duckdns.org^
 ||0nlinesharedocurnents0nedrlve.envirotrustsecure.de^
 ||0qs4b4his2.icu^
 ||0x0200x0x32lljj2.duckdns.org^
@@ -2784,6 +2785,7 @@
 ||182onlinee.com^
 ||182randvm.com^
 ||182webicinrndsv.com^
+||182webpp.click^
 ||182websp.com^
 ||182webstt.click^
 ||182webstt.lat^
@@ -8078,6 +8080,7 @@
 ||aceritop.com^
 ||acik-deniz.my-homeip.de^
 ||acik-web-gir.casa^
+||acikdeniz-denizbankasi.com.ph^
 ||acikdenizde.my-homeip.net^
 ||acikdenizlere.my-homeip.de^
 ||acikekranbasvurulari.sbs^
@@ -9163,6 +9166,7 @@
 ||avsrental.net^
 ||avsrentalcar.net^
 ||avsrentcar.net^
+||avssfilokiralama.com^
 ||avsturkiye.com^
 ||avukateportal.org^
 ||avukatsistemim.online^
@@ -9407,6 +9411,7 @@
 ||basvurusitesi-production.up.railway.app^
 ||basvurziyytar.cfd^
 ||basvurznr.sbs^
+||batangemininmallaribunlar.sbs^
 ||bathzz.shop^
 ||batkartech.com^
 ||batrakossvkad.click^
@@ -10100,6 +10105,7 @@
 ||bizland-garantibbva.com.ph^
 ||bizlerdehepiyigelirizsize.com^
 ||bizlerhepburadankalin.com^
+||bizlerlensizlerle.shop^
 ||bizmora.digital^
 ||bizora.gifts^
 ||bizsizinleyizzz.sbs^
@@ -12478,6 +12484,7 @@
 ||einfazuzlasma.com^
 ||einfazuzlasma.org^
 ||ejecen.com^
+||ejet-ticaretin1.online^
 ||ekamugib.org^
 ||ekamukontrol.org^
 ||ekamutebligat.org^
@@ -12931,6 +12938,7 @@
 ||eylulbasiguzeldr.duckdns.org^
 ||eylulbasindaonlineyiz.duckdns.org^
 ||eylulbittibitiyorsla.duckdns.org^
+||eylulcskmpnya.duckdns.org^
 ||eylulcspkmpny.duckdns.org^
 ||eylulgirismobil.top^
 ||eylulgnlerindeyizbizlere.duckdns.org^
@@ -13897,6 +13905,7 @@
 ||giliandersi.top^
 ||gilr-laynkarltini.xyz^
 ||gimkupiq.gifts^
+||gir-vesile-ifade.casa^
 ||gir-yaz-tr.biz^
 ||gir101tkl.xn--tt-8ja.net^
 ||giramodi-valamoli.lol^
@@ -14985,6 +14994,7 @@
 ||haziranonlinegarantiguncelmenutr.xyz^
 ||haziranozelflrsattingeldi.com^
 ||hazirnda-gldi-kredifrstlrnda.com^
+||hazmedemeyenvar.sbs^
 ||hbnmhlrsarndlv.com^
 ||hbs-tarbiil.com^
 ||hbs-tarbil.com^
@@ -15205,6 +15215,7 @@
 ||herkesfirsatibulsun.sbs^
 ||herkesfirsatiniyakalasin.sbs^
 ||herkesindirimibulsun.sbs^
+||herkesinkendikampanyasi.sbs^
 ||herkessahibiiolsun.sbs^
 ||herkessahipolsundiyesinirlisayida.sbs^
 ||herkessetsahibiolsundiye.sbs^
@@ -16950,9 +16961,13 @@
 ||kapisigov.icu^
 ||kapiskara.lat^
 ||kapitalix.capital^
+||kapkoltugunumasani.sbs^
+||kapmasanisansandalyen.sbs^
+||kapmasanivesandalyeni.sbs^
 ||kapotrtaotcar.duckdns.org^
 ||kapsamli-ebyl-g.myonlineportal.ch^
 ||kapsamsekil-acil.biz^
+||kapsandalyenimasani.sbs^
 ||kapsmuh.com^
 ||karac.shop^
 ||karaca-a5q5-git-main-redmi1.vercel.app^
@@ -17377,6 +17392,7 @@
 ||klarna-garantibbva.com.ph^
 ||klarnagarantibbva.com.ph^
 ||klasik6dsa.nicepage.io^
+||klasmanssld.click^
 ||klaspatikatki1974.duckdns.org^
 ||klavli.site^
 ||klenarovituq.com^
@@ -19752,6 +19768,7 @@
 ||nailscanai.com^
 ||nakil-web.ink^
 ||nakil-web.my-homeip.de^
+||nakletmek-web.garden^
 ||nakliyathizmetlerieniyisiburada.sbs^
 ||nalikalisgo-modere.lol^
 ||nanofrontier.capital^
@@ -21928,6 +21945,7 @@
 ||pttavm-oto-kontrol.firebaseapp.com^
 ||pttavm-oto-kontrol.web.app^
 ||pttavm-tramer-km-sorgu.web.app^
+||pttavm.avmsiparis.com^
 ||pttavm.baglanti-mobilde.com^
 ||pttavm.baglanti-tamamlama.com^
 ||pttavm.com.co^
@@ -21959,6 +21977,7 @@
 ||pttavm.msiparisinizi-tamamla.com^
 ||pttavm.net.ph^
 ||pttavm.odeme-tamamla.com^
+||pttavm.odemeyi-tamamla.com^
 ||pttavm.onay-ilanim-534.com^
 ||pttavm.onayda-sepet-7180.com^
 ||pttavm.online^
@@ -21966,6 +21985,7 @@
 ||pttavm.online-hizmet-islemleri.com^
 ||pttavm.onlinedogrulama.com^
 ||pttavm.saticimerkezi.com^
+||pttavm.satinal-siparis.com^
 ||pttavm.securesepetin.com^
 ||pttavm.sepetguvende.online^
 ||pttavm.sepetimde-ilanlar.pro^
@@ -21975,6 +21995,7 @@
 ||pttavm.siparis-guvenliodeme.com^
 ||pttavm.siparisweb.net^
 ||pttavm.site^
+||pttavm.tamamla-sipars.com^
 ||pttavmaracanaliz.firebaseapp.com^
 ||pttavmaracanaliz.web.app^
 ||pttavmaracdetay.firebaseapp.com^
@@ -22586,6 +22607,7 @@
 ||resrsfds.dns.navy^
 ||rest.e-wl.com^
 ||result-lie-grndte.myonlineportal.ch^
+||result-ty.myonlineportal.ch^
 ||resumeacceptable.com^
 ||resutato.com^
 ||resz0x0323232.duckdns.org^
@@ -24112,6 +24134,7 @@
 ||solidtempo.com^
 ||soliveprolprsp.click^
 ||solkmlrkatler.com^
+||solktanmarlektler.shop^
 ||sollrdannnds.duckdns.org^
 ||solthere.net^
 ||soltherisvoid.com^
@@ -27183,6 +27206,7 @@
 ||videox.gifts^
 ||vids.chatorizon.com^
 ||viemio.com^
+||view-sour-c.myonlineportal.ch^
 ||viewdocuemnt151y-dataqjqhg.emp01825.workers.dev^
 ||vigmanet.ru^
 ||viixzhsldndu3dx3e.click^
