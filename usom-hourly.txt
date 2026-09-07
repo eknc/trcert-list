@@ -14255,10 +14255,12 @@
 ||griss-onlnes.cfd^
 ||grisstlera.nicepage.io^
 ||grnsdcjkasjdcjhx12j3xksadas.cfd^
+||grnte.com^
 ||grnti-firstlr.lol^
 ||grntibba.duckdns.org^
 ||grntkrzsrz.com^
 ||grntprmsynnkmpnyamkrz.info^
+||grnttam.com^
 ||grntttpromsnynnnbsvrrr.info^
 ||grntttpromsnynnnbsvrrr.pro^
 ||grntttttprmsynbsvrrrr.live^
@@ -14369,6 +14371,7 @@
 ||guncelsikayetler-251.sbs^
 ||guncelsikayetler-369.sbs^
 ||guncelsikayetler-452.sbs^
+||guncelsikayetler-453.sbs^
 ||guncelsikayetler-455.sbs^
 ||guncelsikayetler-458.sbs^
 ||guncelsikayetler-459.sbs^
@@ -19207,6 +19210,7 @@
 ||mhrsilerandevuekrani.duckdns.org^
 ||mhrsislem.com^
 ||mhrsislemlerin.com^
+||mhrsislemyapgiris.vercel.app^
 ||mhrslenddeearn.cfd^
 ||mhrslendinad.cfd^
 ||mhrslkislem.com^
@@ -22614,6 +22618,7 @@
 ||reklam-cekilisi.online^
 ||reklam-kura.online^
 ||reklam-kurasi.online^
+||reklam-link-mhrs.vercel.app^
 ||reklambul.online^
 ||reklamlaronlineak.sbs^
 ||reklammeklamyokkk.sbs^
