@@ -3741,6 +3741,7 @@
 195.177.94.6
 195.178.110.101
 195.178.110.102
+195.178.110.132
 195.178.110.155
 195.178.110.217
 195.178.110.22
@@ -10168,6 +10169,7 @@
 ||bizizyurdakul.shop^
 ||bizland-garantibbva.com.ph^
 ||bizlerdehepiyigelirizsize.com^
+||bizlerdengordunuz.shop^
 ||bizlerhepburadankalin.com^
 ||bizlerlensizlerle.shop^
 ||bizmora.digital^
@@ -11109,6 +11111,7 @@
 ||cepte-shop.online^
 ||cepte-sok.shop^
 ||cepte-sokindirim.rf.gd^
+||cepte-t-e-b-com-tr.my-homeip.de^
 ||cepte-teb-com-tr.my-homeip.de^
 ||cepte-teb-emekliye.my-homeip.de^
 ||cepte-teblim.my-homeip.de^
@@ -11133,6 +11136,7 @@
 ||ceptesokindirmleri.online^
 ||ceptesoklarile.online^
 ||ceptete.pzbsin.com^
+||cepteteb-c-o-m-tr.my-homeip.de^
 ||cepteteb-com-tr.my-homeip.de^
 ||cepteteb-com.my-homeip.de^
 ||cepteteb-digital-firsatlar.my-homeip.de^
@@ -12654,6 +12658,7 @@
 ||elvirohubs.store^
 ||elvirolabs.site^
 ||elvorilla.sbs^
+||elwanda26230.softr.app^
 ||elyntis.shop^
 ||elyntisapp.site^
 ||elyntishubs.store^
@@ -17021,6 +17026,7 @@
 ||kaitakcl12lk3xk1l3212.cfd^
 ||kaitaksdkcj13x12.cfd^
 ||kaitalasdkkx123x132.cfd^
+||kaitameloxx.cfd^
 ||kaitarafaelxx.cfd^
 ||kaitasdakjkj123xk123lx13221321.sbs^
 ||kaitcaskdckj123xk132.sbs^
@@ -17242,6 +17248,7 @@
 ||karijis.top^
 ||karikatur-line.click^
 ||karisik.click^
+||kariyerportal.derestech.com^
 ||karmab.nicepage.io^
 ||karmanaparas.click^
 ||karmavotogalerist.duckdns.org^
@@ -19227,6 +19234,7 @@
 ||metareklam.shop^
 ||metareklam9503.cfd^
 ||metareklam9503.sbs^
+||metaxrkox23z.sbs^
 ||meteorclients.com^
 ||methodicalness.de^
 ||metlafounder.com^
@@ -19772,6 +19780,7 @@
 ||mossmesh17.com^
 ||mossylorex.com^
 ||mostsignal.com^
+||motorlineyedekparca.com^
 ||motovox.bond^
 ||moudtz.cc^
 ||mousears.synology.me^
@@ -21193,6 +21202,7 @@
 ||panelsorgu.space^
 ||pantolonunnerdendiyor.click^
 ||panzozerrot.com^
+||papara-hepsiburada.com.ph^
 ||papara-online.com.ph^
 ||paparaemankuldegerler.com^
 ||paparaemenkuldegerler.com^
@@ -23006,6 +23016,7 @@
 ||rwgerwgsdfgfg.duckdns.org^
 ||rwslink.net^
 ||rwwkqrl.xyz^
+||ryalcar.com^
 ||rydjfgyhrfrefddfs.sbs^
 ||rynqewvqwebyutn.click^
 ||s-candycollection.com^
@@ -23175,6 +23186,7 @@
 ||sahibinden-get.alimlarinizhizmetler.online^
 ||sahibinden-get.detayservisn.com^
 ||sahibinden-get.ejet-ticaretin1.online^
+||sahibinden-get.ejet-ticaretin6.online^
 ||sahibinden-get.emobileservislerr.com^
 ||sahibinden-get.emobileservislerrn.online^
 ||sahibinden-get.eservisalimin1.online^
@@ -23195,6 +23207,7 @@
 ||sahibinden-get.islem-alisveris-hizmet.com.tr^
 ||sahibinden-get.islem-guvende.online^
 ||sahibinden-get.jet-servis-hizmetlerim.online^
+||sahibinden-get.jethizmetin2-ru.online^
 ||sahibinden-get.jetservishizmetleriniz.online^
 ||sahibinden-get.jetservisleriniz.com^
 ||sahibinden-get.mobil-eservisin.com^
@@ -24880,6 +24893,7 @@
 ||surcasaoneaca.cfd^
 ||sureklihissettiren.click^
 ||suruyorumarabayihodilen.click^
+||surveys.evsahibibasvuru.com^
 ||survivorville.com^
 ||sutf.kafekarachi.com^
 ||sutgeldsendegelartkherksburdabas34.click^
@@ -28479,6 +28493,7 @@
 ||yklesrglhgs.cfd^
 ||yklmebslasmdi.cfd^
 ||yklmehgszmnpra.cfd^
+||yklmrdnsnrahgs.cfd^
 ||yllrdnsnlrdansdasds.click^
 ||ymdreferans.online^
 ||ynl3ndiriyn3nuzknkk.duckdns.org^
