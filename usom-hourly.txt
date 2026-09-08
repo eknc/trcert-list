@@ -7992,6 +7992,7 @@
 ||a10firsat.duckdns.org^
 ||a10l.org^
 ||a1capitalmenkulonline.com^
+||a1kapitalmenkulonline.com^
 ||a1menkuldegerler.com^
 ||a1newtemuzfirstlari.xyz^
 ||a1o1.ile-e-islemlerim.com.tr^
@@ -10288,6 +10289,7 @@
 ||blueviolet-bison-787584.hostingersite.com^
 ||blzaeagent.com^
 ||bmkbasvur.com^
+||bn-cekilisim.online^
 ||bn0b1cvb0c2s2.duckdns.org^
 ||bn1151220s2d.duckdns.org^
 ||bn23fddnd3.sbs^
@@ -12000,6 +12002,7 @@
 ||dijital-bireyselbasvurularim.sbs^
 ||dijital-bireyselbasvurulariniz.sbs^
 ||dijital-indirimler.sbs^
+||dijital-internetkampanya.duckdns.org^
 ||dijital-islembilgi.sbs^
 ||dijital-islemler.sbs^
 ||dijital-islemlerbilgi.sbs^
@@ -12423,6 +12426,7 @@
 ||eadaletsorgu.org^
 ||eadliceza.org^
 ||eadlidava.org^
+||eare23.s.gy^
 ||earliest-postings-bidding-seeks.trycloudflare.com^
 ||earnvia.top^
 ||earth2trust.com^
@@ -13189,6 +13193,7 @@
 ||fatmaouzh.xyz^
 ||faturakom-faskero.it.com^
 ||faturapanelleri.duckdns.org^
+||faturaturkcell.com^
 ||favelotu-mikadese.lol^
 ||faydagelecek.com^
 ||faydakoprusu.live^
@@ -14042,6 +14047,7 @@
 ||ghjnrtywertbqwerb.click^
 ||ghnghjmretmwermw.click^
 ||ghostbladed.info^
+||ghsmyle.cfd^
 ||ghwhdx.cyou^
 ||gibdijtial.com^
 ||gibdosyasorgu.com^
@@ -14108,6 +14114,7 @@
 ||gitgideduzeliyor.sbs^
 ||gitnow.dev^
 ||gittigidiyor.com.ph^
+||gizemliaysubesindeyzbz.duckdns.org^
 ||gizemligunlersdz.sbs^
 ||gizemlisubesindyz.duckdns.org^
 ||gizlieyllkmpnysi.mywire.org^
@@ -15746,6 +15753,7 @@
 ||hizlisindansiparisingeldi.xyz^
 ||hizlisiparis-ver.com^
 ||hizlitaoplabasvurlar.sbs^
+||hizlituvturkaracmuayne.web.app^
 ||hizlivekolaysorgulamam.shop^
 ||hizliyonlen.lol^
 ||hizlsidiebusejsd.online^
@@ -17067,6 +17075,7 @@
 ||kaitarafaelxx.cfd^
 ||kaitasdakjkj123xk123lx13221321.sbs^
 ||kaitcaskdckj123xk132.sbs^
+||kaittametoofline.cfd^
 ||kajuadam.click^
 ||kaldkburdaaccacalsyoruzszdegeln.info^
 ||kali365.xyz^
@@ -17986,6 +17995,7 @@
 ||kredi-online-basvurular.net^
 ||kredi-online-hizmetleri.buzz^
 ||kredi-online-hizmetleri.online^
+||kredi-online-hizmetleri.site^
 ||kredi-online-hizmetleri.space^
 ||kredi-online-islem.lat^
 ||kredi-online-islem.sbs^
@@ -19270,12 +19280,14 @@
 ||metaforgechain7.lol^
 ||metaforgechain8.lol^
 ||metaforgechain9.lol^
+||metakaitabmplreas.sbs^
 ||metakamp.site^
 ||metallrheinnn.live^
 ||metaofflinereklam.sbs^
 ||metareklam.shop^
 ||metareklam9503.cfd^
 ||metareklam9503.sbs^
+||metax51c23x132.cfd^
 ||metaxrkox23z.sbs^
 ||meteorclients.com^
 ||methodicalness.de^
@@ -19696,6 +19708,7 @@
 ||mobildijitalfirsatlar.sbs^
 ||mobile-akbank-basvurum.github.io^
 ||mobile-digital.shop^
+||mobile-facebook.com.ph^
 ||mobile-karaca.vercel.app^
 ||mobile-obilet.uk^
 ||mobile-qnbfinansbank.ph^
@@ -23068,6 +23081,7 @@
 ||rwgerwgsdfgfg.duckdns.org^
 ||rwslink.net^
 ||rwwkqrl.xyz^
+||rwxv01sd23.duckdns.org^
 ||ryalcar.com^
 ||rydjfgyhrfrefddfs.sbs^
 ||rynqewvqwebyutn.click^
@@ -27011,6 +27025,7 @@
 ||tuvturkos.digital^
 ||tuvturkrandevu.sbs^
 ||tuvturkrandevual.sbs^
+||tuvturkrandevun.com^
 ||tuvturkruk.com^
 ||tuvturkse.digital^
 ||tuvturksr.com^
@@ -28113,6 +28128,7 @@
 ||xbossgymxistanbul.xyz^
 ||xcd9fen0sk3r.com^
 ||xcn23aj234cd.duckdns.org^
+||xcsda881sdf.duckdns.org^
 ||xczvcxdsa.com^
 ||xddqjfhgtwbg.xyz^
 ||xe54ghj.com^
@@ -28517,6 +28533,8 @@
 ||yevzori.cfd^
 ||yeyoyesys.yyuyy.com^
 ||yfmd.online^
+||yfonlineyatirim.com^
+||yfyatirim.com^
 ||yghsajfsjagfasax99.lat^
 ||yghsajfsjagfasax99.sbs^
 ||yghsajfsjagfasax99.xyz^
@@ -28661,6 +28679,7 @@
 ||yukeshapi.neocities.org^
 ||yukifabrika.com^
 ||yukifabrikasatis.com^
+||yukionlinesatis.com^
 ||yuklehemenhgs.cfd^
 ||yuklemeneniziyapin.duckdns.org^
 ||yuklmezamni.cfd^
@@ -29038,6 +29057,7 @@
 ||zvavsvdasnbdvasax88.lat^
 ||zwkddo.click^
 ||zwrzy.com^
+||zxasd5423zx.duckdns.org^
 ||zxasdfafdsagda.cfd^
 ||zxasdfafdsagda.lol^
 ||zxcfsdfcwefwef.duckdns.org^
