@@ -7858,6 +7858,7 @@
 98.81.92.194
 ||9848956489.cloud^
 ||987899876523253i4sa.duckdns.org^
+||9897984956163.sbs^
 99.119.166.50
 ||999000044444.duckdns.org^
 ||99903030x332zww1.duckdns.org^
@@ -8199,6 +8200,7 @@
 ||admin.evsahibibasvuru.com^
 ||admingarantibbva.com.ph^
 ||adreseteslimarackiralama.com^
+||adrslerteklr.sbs^
 ||ads-parkpro.com^
 ||adsadburadanhemenalve.digital^
 ||adsadburadanhemenalvesa.digital^
@@ -10290,6 +10292,7 @@
 ||blzaeagent.com^
 ||bmkbasvur.com^
 ||bn-cekilisim.online^
+||bn-cekilisin.online^
 ||bn0b1cvb0c2s2.duckdns.org^
 ||bn1151220s2d.duckdns.org^
 ||bn23fddnd3.sbs^
@@ -11586,6 +11589,7 @@
 ||cspragstsayn.duckdns.org^
 ||cspryenignce.duckdns.org^
 ||css-cameras-strongly-jaguar.trycloudflare.com^
+||ct54t1d74f25cd.cfd^
 ||ct54t1d74fs127f.cfd^
 ||ct54t1d74fs127fd.sbs^
 ||ctfsai.cc^
@@ -12013,6 +12017,7 @@
 ||dijital-kampanyalarindirim.sbs^
 ||dijital-kapinda.sbs^
 ||dijital-limit.com^
+||dijital-marketplus.duckdns.org^
 ||dijital-mobilgiris.com^
 ||dijital-mobilkampanya.com^
 ||dijital-onlinehizlisiparis.sbs^
@@ -12522,6 +12527,7 @@
 ||eeeee33e311.duckdns.org^
 ||eesnnas.dns.navy^
 ||eevtasmenuguncell.xyz^
+||efesgrtbq.ice.fo^
 ||efesotomotiv.com^
 ||effectivevideostrategies.click^
 ||effsanelndlrlmsaatlerllbasladdll.com^
@@ -12679,6 +12685,7 @@
 ||eliteregi.digital^
 ||elitgsm.com^
 ||elixora.cyou^
+||elizcicekcilik.com^
 ||ellis-myself-very-born.trycloudflare.com^
 ||elllsrer.dns.navy^
 ||elsavora.us^
@@ -13221,6 +13228,7 @@
 ||feeua.top^
 ||feezossl.xyz^
 ||felfecirdom.co^
+||felkaritasle.live^
 ||fellanfllansas.live^
 ||felmora.cfd^
 ||felvanta.com^
@@ -13698,9 +13706,11 @@
 ||gamaforge.com^
 ||gameguy.neocities.org^
 ||gameingarea.com^
+||gamemer.online^
 ||gamepinxjzr.com^
 ||gamerol.click^
 ||gami.companyfeel.cfd^
+||gamzecicekcilik.com^
 ||ganeloriduk.gifts^
 ||gangansdd.nicepage.io^
 ||ganqzu.help^
@@ -15180,6 +15190,7 @@
 ||hcbportfoy.online^
 ||hcbrseyolmuyoryargyedk50.click^
 ||hcu6ubizt.icu^
+||hdflolink.cloud^
 ||hdfportfoy.com^
 ||hdiisndebrdnglbrya.com^
 ||hdiodegs.cfd^
@@ -18020,6 +18031,7 @@
 ||krediikmpnyaabsvrrsnfrstlarrr.info^
 ||krediikmpnyaabsvrrsnfrstlarrr.pro^
 ||kredimatik.sbs^
+||kredin-hazir-online.cloud^
 ||kredionaylamaca.sbs^
 ||kredionaylamamerkezi.space^
 ||kredionaymerkezi.sbs^
@@ -18391,6 +18403,7 @@
 ||lndirimkapinqgeldi.sbs^
 ||lndirimlerikacirmadansendeal.com^
 ||lndirimtakipcileriyiz.com^
+||lndirimtakptt.com^
 ||lnktanra.net^
 ||lnmlnmlmnlmn.net^
 ||lnnnnl.club^
@@ -19917,6 +19930,7 @@
 ||muhugudueretese-duguhuderede.lol^
 ||muhugufe-redesede.lol^
 ||mujco.cn^
+||mujdecicek.com^
 ||mujuhubi-bililide.lol^
 ||mukemmelbirbaslangicicinharikagunlerde.lat^
 ||mukemmelbirbaslangicicinharikagunlerde.xyz^
@@ -20466,6 +20480,7 @@
 ||npmjs.store^
 ||npmjs.us.org^
 ||npqhfu.buzz^
+||nq8h0vi.s.gy^
 ||nrlwz.com^
 ||nrtuynewrnernq.click^
 ||ns-preplycom.hungnot.cfd^
@@ -21754,6 +21769,7 @@
 ||pepsico-jobs.com^
 ||peraboko-seremoli.lol^
 ||perasude-serenapo.lol^
+||perdedevlerimeys.duckdns.org^
 ||perewoisbb0.com^
 ||perion.vu^
 ||perplexity-platform.gitlab.io^
@@ -22166,6 +22182,7 @@
 ||ptt-avm.guvenli-hizmet.online^
 ||ptt-avm.servsjethizmet.online^
 ||ptt-gov-tr-details9a4ss89q3a20sa65s2.wasapkaw.my^
+||ptt-gov-tr.account-ac.online^
 ||ptt-gov-tr.ru^
 ||ptt-gov.eu.cc^
 ||ptt-gov.life^
@@ -24346,6 +24363,7 @@
 ||slardankardanlardan1234.click^
 ||sldmigeldisten.xyz^
 ||sleno.pro^
+||sliencewebsites.sbs^
 ||sliyteye-aktrlar.com^
 ||slkmalkretler.shop^
 ||slkmalrkelr.shop^
@@ -24358,6 +24376,7 @@
 ||smartbusinessclass.sbs^
 ||smartdailygoods.shop^
 ||smartexce.digital^
+||smartgrowthtulsa.com^
 ||smartneedshub.shop^
 ||smartutilityhub.shop^
 ||smartvaluebay.shop^
@@ -25662,6 +25681,7 @@
 ||teb-digital-emekliye-ozel.my-homeip.de^
 ||teb-emeklilere.my-homeip.de^
 ||teb-emekliye.my-homeip.de^
+||teb-f-i-r-s-a-t-l-a-r-i.my-homeip.de^
 ||teb-hizmet.my-homeip.de^
 ||teb-info.info^
 ||teb-sube-com-tr.my-homeip.de^
