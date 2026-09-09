@@ -2672,6 +2672,7 @@
 179.43.172.127
 179.43.172.191
 179.43.175.108
+179.43.175.2
 179.43.176.60
 179.43.186.214
 179.60.149.194
@@ -2820,6 +2821,7 @@
 184.174.96.71
 184.174.96.74
 184.174.97.32
+184.184.15.195
 184.67.141.110
 184.75.134.59
 184.95.51.165
@@ -4671,6 +4673,7 @@
 ||2as1d5e65sd1sad54sd.duckdns.org^
 ||2baserec2.guru^
 ||2dc62559e005-endpoint.com^
+||2metaofflinereklam.sbs^
 ||2q7xrmvp.sbs^
 ||2reklammetaonline.cfd^
 ||2sadxjasdklkjcladjkc123x12.cfd^
@@ -6045,6 +6048,7 @@
 50.213.208.89
 50.243.177.161
 50.35.168.148
+50.80.61.80
 ||500binucak.cyou^
 ||500binucak.sbs^
 ||500ceb4e.nicepage.io^
@@ -9990,6 +9994,7 @@
 ||bilgi-bilgi.nicepage.io^
 ||bilgi-mobil-shop-ozel-tr.click^
 ||bilgi-tp.online^
+||bilgial.site^
 ||bilgicheckerssystemm.lovestoblog.com^
 ||bilgidosyasi.com^
 ||bilgihub.info^
@@ -10292,6 +10297,7 @@
 ||blueviolet-bison-787584.hostingersite.com^
 ||blzaeagent.com^
 ||bmkbasvur.com^
+||bn-araba-cekilisin.online^
 ||bn-cekilisim.online^
 ||bn-cekilisin.online^
 ||bn0b1cvb0c2s2.duckdns.org^
@@ -10838,6 +10844,7 @@
 ||byyrdrmdmdnsnttt.com^
 ||bznzn.duckdns.org^
 ||c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev^
+||c-e-p-t-e-t-e-b-ayricalikli-firsatlar.my-homeip.de^
 ||c-e-p-t-e-t-e-b.my-homeip.de^
 ||c-e-p-t-e-teb.my-homeip.de^
 ||c-ep-t-e-t-e-b.my-homeip.de^
@@ -13640,6 +13647,7 @@
 ||fsa24f31.xyz^
 ||fsa24f313235.cfd^
 ||fsafcvahsfklafjala.sbs^
+||fsafgt435gyw4g.lol^
 ||fsdklcaslkdx213cksaads.cfd^
 ||fsdklcaslkdx213cksaads.cyou^
 ||fsdklcaslkdx213cksaads.shop^
@@ -16603,6 +16611,7 @@
 ||istanbulbelgimmkartcan.xyz^
 ||istanbulbelgimmkarttt.xyz^
 ||istanbulbelgimrandevu.xyz^
+||istanbulbelgimrandevutr.xyz^
 ||istanbulbellggiimm.xyz^
 ||istanbulbellggimm.xyz^
 ||istanbulbellgiimkartt.xyz^
@@ -17076,8 +17085,10 @@
 ||kaita1xsadljkackkj13x132.cfd^
 ||kaita2avjfdskjakdsx23.cfd^
 ||kaita2csdkjadkjsadjkx3123x12.sbs^
+||kaita3elleme3434.sbs^
 ||kaita99asdjkjkqxeqkwe.cfd^
 ||kaitacsdkjck123xk123.sbs^
+||kaitaelleme3434.sbs^
 ||kaitaelleme3x123z12sacac.cfd^
 ||kaitaisasdjasdjxj123kx13x123.shop^
 ||kaitaisx12k3131xsak123.cfd^
@@ -17371,6 +17382,7 @@
 ||kazprofitlab.com^
 ||kazprominvest.com^
 ||kazprominvestplat.com^
+||kbc-trendyol.ph^
 ||kbeautyreviews.com^
 ||kcbps.com^
 ||kcekrmarve.duckdns.org^
@@ -19296,6 +19308,7 @@
 ||metaforgechain8.lol^
 ||metaforgechain9.lol^
 ||metakaitabmplreas.sbs^
+||metakaitareklamofflinebee.sbs^
 ||metakamp.site^
 ||metallrheinnn.live^
 ||metaofflinereklam.sbs^
@@ -20058,6 +20071,7 @@
 ||n8x2q7v4c1r8t.sbs^
 ||n8x2q7v4k1m5.lol^
 ||na-microsoft.com^
+||naazlisubesindyzz.duckdns.org^
 ||nabandxnsnamsn.org^
 ||nabereebebegburdaherkes.pro^
 ||naeznaemloda.duckdns.org^
@@ -21196,6 +21210,7 @@
 ||oyakglobal.com^
 ||oyaktrade.com^
 ||oyaktradeplus.com^
+||oyaktraderplus.com^
 ||oyakyatirimtradeplus.com^
 ||oykportfolio.online^
 ||oynat.click^
@@ -24430,6 +24445,7 @@
 ||snrlsaydcakm.cfd^
 ||snrlsayocadaoneaca.cfd^
 ||snrox020x231.gleeze.com^
+||snryklendrdnhgs.cfd^
 ||sntskenlaersa.online^
 ||sntskenlerdebgn.online^
 ||sntsknnn.online^
@@ -28603,6 +28619,7 @@
 ||yklesmddeme.cfd^
 ||yklesrglhgs.cfd^
 ||yklmebslasmdi.cfd^
+||yklmednsnrhgs.cfd^
 ||yklmehgszmnpra.cfd^
 ||yklmrdnsnrahgs.cfd^
 ||yllrdnsnlrdansdasds.click^
