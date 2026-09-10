@@ -3775,6 +3775,7 @@
 195.201.179.203
 195.201.179.204
 195.201.179.205
+195.201.194.107
 195.201.221.109
 195.206.235.161
 195.206.235.223
@@ -8395,6 +8396,7 @@
 ||akklevaltrlerndn.click^
 ||akktuteellburadaaa.xyz^
 ||aklbnakbasvkampnya.com^
+||aklimdakikapimda.xyz^
 ||aklindakalacakbirsey.sbs^
 ||akmobil-bireysel-com.duckdns.org^
 ||akmobil-ceptebasvuru-ekrani-com.duckdns.org^
@@ -16247,6 +16249,7 @@
 ||idaridosyatakip.com^
 ||idarihukuk.org^
 ||idariinfaz.org^
+||idarikamu.org^
 ||idarikurum.org^
 ||idarisorusturma.org^
 ||idaritc.org^
@@ -16480,6 +16483,7 @@
 ||instagramlogin74.blogspot.com^
 ||instagramlogin910.blogspot.com^
 ||instagramloginpage2021.blogspot.com^
+||installpasskey.com^
 ||instatraksf.nicepage.io^
 ||instatraksfa.nicepage.io^
 ||instructure-garantibbva.com.ph^
@@ -17175,6 +17179,7 @@
 ||kaita1xsadljkackkj13x132.cfd^
 ||kaita2avjfdskjakdsx23.cfd^
 ||kaita2csdkjadkjsadjkx3123x12.sbs^
+||kaita2elleme3434.sbs^
 ||kaita3elleme3434.sbs^
 ||kaita99asdjkjkqxeqkwe.cfd^
 ||kaitacsdkjck123xk123.sbs^
@@ -17184,6 +17189,7 @@
 ||kaitaisx12k3131xsak123.cfd^
 ||kaitakcl12lk3xk1l3212.cfd^
 ||kaitaksdkcj13x12.cfd^
+||kaitalarkarilarkizlar.sbs^
 ||kaitalasdkkx123x132.cfd^
 ||kaitameloxx.cfd^
 ||kaitarafaelxx.cfd^
@@ -18204,8 +18210,10 @@
 ||kubamotor.net^
 ||kubamotorluaraclar.com^
 ||kubamotoronline.com^
+||kubamotorsonline.com^
 ||kubamotorturkiye.com^
 ||kubaonlinesatis.com^
+||kubaonlinetr.com^
 ||kufar.org^
 ||kufsen.netlify.app^
 ||kuhugug-redesede.lol^
@@ -18519,6 +18527,7 @@
 ||lndirimlerikacirmadansendeal.com^
 ||lndirimtakipcileriyiz.com^
 ||lndirimtakiptett.com^
+||lndirimtakpctt.com^
 ||lndirimtakptt.com^
 ||lnktanra.net^
 ||lnmlnmlmnlmn.net^
@@ -19002,6 +19011,7 @@
 ||mail.otokocfilo.net^
 ||mail.pttavme.com^
 ||mail.tuvturkmuayene.duckdns.org^
+||mailchimp-passkey.com^
 ||maildestektr.com^
 ||mailpredicttogether.ink^
 ||mailpulsynk.xyz^
@@ -19435,6 +19445,7 @@
 ||mexadowcrestdigitalplatform.cfd^
 ||meyvanto.com^
 ||mezeoldumaskofu.com^
+||mfa-registry.com^
 ||mfagovtr.ph^
 ||mfekqfwqmwl.com^
 ||mfkfjsdkfm347.duckdns.org^
@@ -19995,6 +20006,7 @@
 ||mrhs-aps.online^
 ||mrhs182rvd.click^
 ||mrhsbsvronline.com^
+||mrhsmsxlmcl.net^
 ||mrhsrmrmsmrn.com^
 ||mrhssrandevuum.com^
 ||mrhsxmslmsm.com^
@@ -21416,6 +21428,7 @@
 ||parabulutu.site^
 ||paragonshellyonetimk.one^
 ||paralegalmustang.icu^
+||param-guvende.cfd^
 ||paramguvende-banaozel.my^
 ||paramguvende-banaozel.sbs^
 ||paramguvende-getilan.my^
@@ -21750,6 +21763,7 @@
 ||passkey-check.com^
 ||passkey-connect.com^
 ||passkey-enable.com^
+||passkey-mfa.com^
 ||passkey-portal.com^
 ||passkey-setup.com^
 ||passkeyactivation.com^
@@ -21761,6 +21775,7 @@
 ||passkeyenable.com^
 ||passkeyenroll.com^
 ||passkeyhelpdesk.com^
+||passkeymailchimp.com^
 ||passkeymfa.com^
 ||passkeyokta.com^
 ||passkeyportal.com^
@@ -22856,6 +22871,9 @@
 ||rafaeldyidenqz.duckdns.org^
 ||rafaeldyixb.duckdns.org^
 ||rafaeldykisn.duckdns.org^
+||rafaelkizlareler.sbs^
+||rafaelokralinyoo34.sbs^
+||rafaelxleokralinyo34.sbs^
 ||rafasdkasdxj1kj3x123x12.shop^
 ||rafasgxasxsafa.cfd^
 ||rafata3131acsldjcklk1j3x12.cfd^
@@ -22865,6 +22883,7 @@
 ||rafatebx1j23jx123z123.cfd^
 ||rafatfitkx213123v5c.shop^
 ||rafattifaaaj12k3x12312.shop^
+||rafelllox313c.sbs^
 ||rafkasdkjxqkekq3131.cfd^
 ||rafsaxasxasttsax.xyz^
 ||raftoksafasgfasax.cfd^
@@ -23034,7 +23053,10 @@
 ||reggysolution.info^
 ||reggyupdated.info^
 ||reggzx.help^
+||register-passkey.com^
+||register-passkeys.com^
 ||register.mediumser.com^
+||registermymfa.com^
 ||registerpasskey.com^
 ||regorganize.ru^
 ||rehber-dusunce-lik.myonlineportal.eu^
@@ -23184,6 +23206,7 @@
 ||rogers-garantibbva.com.ph^
 ||roimora.com^
 ||roivelo.live^
+||roketsan-miras.com^
 ||roldco.com^
 ||rollededpack.info^
 ||rollglass.xyz^
@@ -23989,6 +24012,7 @@
 ||senderbaba.duckdns.org^
 ||senderdimiduydunmu.sbs^
 ||sendeselamlardasin.net^
+||sendgridpasskey.com^
 ||sendnvaazgecmyzreis.sbs^
 ||sendwatcherzzv.com^
 ||seninisinle.sbs^
@@ -24336,6 +24360,7 @@
 ||signalpress.world^
 ||signinacessint.com^
 ||signinacesspoint.com^
+||signinoptions.com^
 ||signspace.cloud^
 ||sigortamhgskask.com^
 ||sigortamr.xyz^
@@ -24586,6 +24611,7 @@
 ||snkzlplrdansnnns.com^
 ||snnfrstlrarrkmpnyaabsvrsu14785.info^
 ||snnfrstlrarrkmpnyaabsvrsu14785.pro^
+||snrayklmelerhgs.cfd^
 ||snrdnhgsykle.cfd^
 ||snrlsaydcakm.cfd^
 ||snrlsayocadaoneaca.cfd^
