@@ -4647,6 +4647,7 @@
 ||24612-20114.xyz^
 ||24612-yara.click^
 ||24612-yara.xyz^
+||251562.sbs^
 ||252525-26526.xyz^
 ||2525611.lat^
 ||2526211.xyz^
@@ -9271,6 +9272,7 @@
 ||avsoto.com^
 ||avsotofly.com^
 ||avsotokoc.net^
+||avsotokockiralama.com^
 ||avsrentacar.net^
 ||avsrentacar.org^
 ||avsrental.net^
@@ -11258,6 +11260,7 @@
 ||cezadavasorgu.org^
 ||cezadosya.org^
 ||cezadosyasorgu.org^
+||cezagovtr.org^
 ||cezakamu.org^
 ||cezakamuportal.org^
 ||cezakayit.com^
@@ -12231,6 +12234,7 @@
 ||dmca-chrome-extensions.click^
 ||dnb-ziraatbank.com.ph^
 ||dnervarnerv.duckdns.org^
+||dnfbdnskdxm.sbs^
 ||dnmeypyzyenis.duckdns.org^
 ||dnsapple.ru^
 ||dnsrelays.ru^
@@ -12537,6 +12541,7 @@
 ||ecezaegm.org^
 ||ecezakontrol.org^
 ||ecezamaliye.com^
+||ecezamasak.com^
 ||ecezamgov.org^
 ||ecezamkontrol.org^
 ||ecezatalimat.com^
@@ -12553,6 +12558,7 @@
 ||edavacbs.org^
 ||edavakontrol.org^
 ||edavam.org^
+||edavamasak.com^
 ||edavamuzlasma.org^
 ||edavateblig.org^
 ||edavatebligat.org^
@@ -12655,6 +12661,7 @@
 ||efsxibnsk.gleeze.com^
 ||efsxsbkqw.sbs^
 ||egebek.com.tr^
+||egibmasak.com^
 ||egibtalimat.com^
 ||egiiris-on.cfd^
 ||egiiris-onn.cfd^
@@ -12788,6 +12795,7 @@
 ||emaliye.org^
 ||emaliyecbs.org^
 ||emaliyeegm.org^
+||emaliyemasak.com^
 ||emaliyeteblig.org^
 ||emaliyetebligat.org^
 ||emasak.com^
@@ -12937,6 +12945,7 @@
 ||epgoldsecurity.com^
 ||eportalasliye.org^
 ||eportalgib.org^
+||eportalmasak.com^
 ||eportalsorgu.org^
 ||eportaluzlasma.org^
 ||epostatavsiyesi24x.com^
@@ -13085,6 +13094,7 @@
 ||euwingsvisaconsultancy.com^
 ||euyapbildirim.org^
 ||euyapbilgi.org^
+||euyapmasak.com^
 ||euyaptakip.org^
 ||euyapteblig.org^
 ||euyapuzlasma.org^
@@ -13102,7 +13112,9 @@
 ||evatandas.org^
 ||evatandasbilgi.org^
 ||evatandasceza.org^
+||evatandasdava.com^
 ||evatandasgib.org^
+||evatandasgov.com^
 ||evatandasuyap.org^
 ||evdeis-cagrimerkezi.online^
 ||evdenbasvuruadresi.abrdns.com^
@@ -14963,6 +14975,7 @@
 ||haberler452344.sbs^
 ||haberler4561.sbs^
 ||haberler4567844.shop^
+||haberler4675874.sbs^
 ||haberler4722.shop^
 ||haberler47823.shop^
 ||haberler47852.shop^
@@ -15893,6 +15906,7 @@
 ||hizmetinkalitesi-vurgusu.shop^
 ||hizmetler-yonlendir.com^
 ||hizmetlerimsizisf.click^
+||hizmetlerisadlad.click^
 ||hizmetlermizdnens.click^
 ||hizmetlermizdnensxasx.click^
 ||hizmetlermizdnenwsxasx.click^
@@ -15933,6 +15947,7 @@
 ||hmbmasak.org^
 ||hmbsorgu.net^
 ||hmbsorgu.org^
+||hmbveznedar.com^
 ||hmeensin-snouc.net^
 ||hmenkanlsata.net^
 ||hmenlnkarsan.net^
@@ -17444,6 +17459,7 @@
 ||karmanaparas.click^
 ||karmavotogalerist.duckdns.org^
 ||karnpanyalarirn.xyz^
+||karocoshoprt.shop^
 ||karostmufz.com^
 ||karovexim.com^
 ||karparenda.click^
@@ -18000,6 +18016,7 @@
 ||kocraw.click^
 ||kocrental.com^
 ||kocrental.org^
+||koctas.live^
 ||koelra-lg-grn.myonlineportal.ch^
 ||koent.website^
 ||kofestlerkest.duckdns.org^
@@ -18014,6 +18031,7 @@
 ||kolaydiploma.com^
 ||kolayfis.netlify.app^
 ||kolayfiz.netlify.app^
+||kolaykrdburdasendekatl81.ink^
 ||kolaylankampnayanoktsherseyburda258741.click^
 ||kolaylik-sayesinde.com^
 ||kolaylikbiryol.com^
@@ -19668,6 +19686,7 @@
 ||mhsksrsnrndsv.com^
 ||mhslaatkfff.uk^
 ||mhsraaggwa.site^
+||mhsraaggwb.site^
 ||mhsrarandvlrmzbrda.sbs^
 ||mhsrrandvu.com^
 ||mhsrrekaliya.site^
@@ -20132,6 +20151,7 @@
 ||muzekapisi.click^
 ||muzekartim.click^
 ||muzekartim.com^
+||muzenyillik.com^
 ||muzeodeme.click^
 ||muzeonline.click^
 ||muzeportal.biz^
@@ -21107,6 +21127,7 @@
 ||oob-worker.cf102-baf.workers.dev^
 ||oob-worker.cf103-070.workers.dev^
 ||oob-worker.cf99-9b3.workers.dev^
+||op-onlinehizli.site^
 ||opast-ligrneda-lok.myonlineportal.ch^
 ||open-garanti.info^
 ||openaigarantibbva.com.ph^
@@ -23521,6 +23542,7 @@
 ||sahibinden-get.mobilservisler-44.sbs^
 ||sahibinden-get.mobilservisler-49.sbs^
 ||sahibinden-get.mobilservisler-50.sbs^
+||sahibinden-get.mobilservisler-62.sbs^
 ||sahibinden-get.mobilservisler-66.sbs^
 ||sahibinden-get.mobilservisler-70.sbs^
 ||sahibinden-get.mobilservisler-71.sbs^
@@ -24026,6 +24048,7 @@
 ||senatoria.sbs^
 ||senbanaddosatbensanaclick.sbs^
 ||senbnademdnmmvgzl.com^
+||senburdaheprahatta.com^
 ||sende-gelal.duckdns.org^
 ||sende-katil.online^
 ||sendeburadahepkalbizle.com^
@@ -25068,6 +25091,7 @@
 ||starkampanya.com^
 ||starlightcreativeflow.sbs^
 ||starlinkprod.pro^
+||starshoplotuskatilim82.site^
 ||startpasskey.com^
 ||startpasskeysetup.com^
 ||starzoomel.info^
@@ -25154,6 +25178,7 @@
 ||styleward.bond^
 ||stylexa.run^
 ||suanokadar.sbs^
+||sube-cepteteb.myonlineportal.de^
 ||sube-fba.com^
 ||sube-fiba.com^
 ||sube-garantilibbva.my-homeip.net^
@@ -26637,6 +26662,7 @@
 ||topubosvuru.store^
 ||topxgax.click^
 ||toravel.gifts^
+||toravia.live^
 ||toravina.gifts^
 ||tordevol.com^
 ||tordnews.com^
@@ -28925,6 +28951,7 @@
 ||youarases.lat^
 ||youngel.biz^
 ||your-house.myonlineportal.ch^
+||your-nextstep.online^
 ||yoursfind.com^
 ||yozatw.buzz^
 ||ypikrddijisube.xyz^
