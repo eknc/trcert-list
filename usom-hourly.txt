@@ -400,6 +400,7 @@
 104.194.159.55
 104.200.73.237
 104.207.144.154
+104.218.165.253
 104.219.234.170
 104.225.129.171
 104.233.167.116
@@ -4180,6 +4181,7 @@
 207.90.238.99
 208.100.26.245
 208.123.119.167
+208.123.119.215
 208.131.130.53
 208.131.130.71
 208.65.84.35
@@ -7374,6 +7376,7 @@
 89.32.41.31
 89.32.41.42
 89.34.90.99
+89.34.96.56
 89.35.130.116
 89.36.161.17
 89.36.76.38
@@ -7502,6 +7505,7 @@
 91.212.166.91
 91.212.45.5
 91.213.50.74
+91.214.78.118
 91.215.152.7
 91.215.85.103
 91.215.85.121
@@ -8160,6 +8164,7 @@
 ||acceptable-use-policy-calendly.de^
 ||access-account-web.online^
 ||accessing-gregory-mhz-commitments.trycloudflare.com^
+||accounts-mail-google.com^
 ||acctune.com^
 ||accuaritaion-loy-g.myonlineportal.ch^
 ||accuratef.icu^
@@ -8642,6 +8647,7 @@
 ||alsicane.net^
 ||alsversyaptmsendeartkyapmalsn.online^
 ||alt.e-wl.com^
+||alternatifbank.online^
 ||altinova.live^
 ||altinyildizclassics.live^
 ||altinyunushotelcesme.com^
@@ -11079,6 +11085,7 @@
 ||cartora.biz^
 ||cartpeak.gifts^
 ||cartradepoint.com^
+||carts-tr.online^
 ||carttody.cyou^
 ||carvendora.com^
 ||carvioarackiralama.com^
@@ -11437,6 +11444,7 @@
 ||cloudauth-gateway.com^
 ||cloudcoderz.digital^
 ||cloudfilebridge.com^
+||cloudflare.bonto.run^
 ||cloudfront-021.s3.us-west-2.amazonaws.com^
 ||cloudguide.in^
 ||cloudharborinsights.cfd^
@@ -11874,6 +11882,7 @@
 ||dbs-ptt-garantibbva.com.ph^
 ||dbvagrntgirisonizlemetr.space^
 ||dcfbuilders.com^
+||dcfdc-eight.vercel.app^
 ||dd3x32ffd2.duckdns.org^
 ||ddnnnnezzzz5445448777745.store^
 ||ddosyemiyomkralinaboyunegmiyom.xyz^
@@ -12324,6 +12333,7 @@
 ||dolapilanlarim.com^
 ||dolayli-kestirme.click^
 ||dolmaq.shop^
+||domainlify.net^
 ||domatisc.ink^
 ||domestlerkest.duckdns.org^
 ||domremont.gifts^
@@ -14321,6 +14331,7 @@
 ||gmtrackerreserve.online^
 ||gnbfinansbank-mobilfirsatlari.ph^
 ||gnceladresweb.web.app^
+||gnclhgsyklmelr.cfd^
 ||go-para-odeme.online^
 ||go.0010v.lol^
 ||go.garantibbvakredibasvuru.com^
@@ -16157,6 +16168,7 @@
 ||hopcipiti-fipfipsede.lol^
 ||hopdedik.click^
 ||horferruhs.duckdns.org^
+||horizon-frankfurt-pharmacology-charleston.trycloudflare.com^
 ||horizoneguide.com^
 ||horizonera.cfd^
 ||horizonguard.space^
@@ -16527,6 +16539,7 @@
 ||info-referanslinki.com^
 ||infobireysel.online^
 ||infocontablidades.it.com^
+||infomenkulyatirim.com^
 ||infomusteri.com^
 ||infonaria.com^
 ||infonexusline.com^
@@ -17834,6 +17847,7 @@
 ||klarna-garantibbva.com.ph^
 ||klarnagarantibbva.com.ph^
 ||klasik6dsa.nicepage.io^
+||klasmansmcs.click^
 ||klasmanssld.click^
 ||klaspatikatki1974.duckdns.org^
 ||klavli.site^
@@ -18647,6 +18661,7 @@
 ||login.garantibbvakredibasvuru.com^
 ||login.org.tr^
 ||login.trees4sale.net^
+||login10matik.shop^
 ||loginbinance-tr.online^
 ||logisticabiomedica.com^
 ||logiswebmail.top^
@@ -19132,6 +19147,7 @@
 ||malivezneformu.com^
 ||maliye-vezne.com^
 ||maliyeadalet.org^
+||maliyearastirma.com^
 ||maliyebilgitr.org^
 ||maliyebordro.org^
 ||maliyecezahukuk.org^
@@ -19755,6 +19771,9 @@
 ||mhssrajhsyyh.icu^
 ||mhssrrrahas.site^
 ||mhssrrrdhas.site^
+||mhsssrassa.live^
+||mhsssrassb.live^
+||mhsssrassc.live^
 ||mhsysndvuesa.site^
 ||mhtsrsagdsg.site^
 ||mhtsrscgdsg.site^
@@ -20669,6 +20688,7 @@
 ||nopanel-363563.top^
 ||nopanel-36672.top^
 ||nopanel-564732.top^
+||nopanel-66235.top^
 ||nopanel-76255.top^
 ||nopanel-815625.top^
 ||nopanel-85434.top^
@@ -21370,6 +21390,7 @@
 ||otokocfilomkurumsal.com^
 ||otokocfilomkurumsal.net^
 ||otokocfilomturkey.net^
+||otokocfilootomotiv.com^
 ||otokocfilorent.com^
 ||otokocfilorentacar.com^
 ||otokocfilorentacar.net^
@@ -21396,6 +21417,7 @@
 ||otokoconlinekirala.com.tr^
 ||otokoconlinekirala.online^
 ||otokocotokirala.com.tr^
+||otokocotomobil.com^
 ||otokocrent.net^
 ||otokocrent.org^
 ||otokocrentacar.net^
@@ -24088,6 +24110,7 @@
 ||selectumhotelsandresorts.com^
 ||selectumluxuries.com^
 ||selectumluxuryresorts.com^
+||selectumresorts.net^
 ||selectumresortshotels.com^
 ||selesy-mlg-tr.myonlineportal.ch^
 ||selgebeachmanavgat.com^
@@ -24215,6 +24238,7 @@
 ||serverscreen.net^
 ||service-center-instagram.com^
 ||service-infos.info^
+||service-nowinc.com^
 ||service-page-11369-28315-outlook.s3.us-west-2.amazonaws.com^
 ||service-page-25144-30466-outlook.s3.us-west-2.amazonaws.com^
 ||service8date.com^
@@ -24695,6 +24719,7 @@
 ||smartneedshub.shop^
 ||smartutilityhub.shop^
 ||smartvaluebay.shop^
+||smdihgsykleme.cfd^
 ||smdiodehgshdiode.cfd^
 ||smdizmnimihgs.cfd^
 ||smdodmezmnihgsykle.cfd^
@@ -24728,6 +24753,7 @@
 ||snfrstlrrkmpnyaabsvrrrprmsynn.live^
 ||snfrstlrrkmpnyaabsvrrrprmsynn.online^
 ||snfrstlrrkmpnyaabsvrrrprmsynn.pro^
+||snipex-iota.vercel.app^
 ||snipr.my^
 ||snipr.page^
 ||snipr.site^
@@ -25077,6 +25103,7 @@
 ||sponsorlucekilis.online^
 ||sponsorlucekilisim.online^
 ||sponsorlucekilisin.online^
+||sponsorlucekilisler.online^
 ||sponsorluhaber.com^
 ||sponsorluhizmettler.duckdns.org^
 ||sponsorlureklaml.click^
@@ -25093,6 +25120,7 @@
 ||sportworldcuponline.xyz^
 ||sposnorlu-basvurularim.vercel.app^
 ||spotifylink.me^
+||spraygroundtr.com^
 ||spsksjj.blogspot.com^
 ||sptiseput.net^
 ||sptlrdelndrmguncel.com^
@@ -25329,6 +25357,7 @@
 ||suruyorumarabayihodilen.click^
 ||surveys.evsahibibasvuru.com^
 ||survivorville.com^
+||susi.bonto.run^
 ||sutf.kafekarachi.com^
 ||sutgeldsendegelartkherksburdabas34.click^
 ||suwen.shop^
@@ -27972,6 +28001,7 @@
 ||veyloriax.cfd^
 ||veyron.social^
 ||veyronix.biz^
+||veznedarvergiformu.com^
 ||vfhnrtybwerbqrb.sbs^
 ||vfvdsdsdfs.sbs^
 ||vgarantiveyonetimmerkezi.space^
@@ -28040,6 +28070,7 @@
 ||vocal-sfogliatella-400a98.netlify.app^
 ||vodafone-card-g.pages.dev^
 ||vodafone-card4.pages.dev^
+||voicearch.online^
 ||voidcipher.vip^
 ||voidreaver.pro^
 ||voidsec.vip^
@@ -28929,6 +28960,7 @@
 ||yfmd.online^
 ||yfonlineyatirim.com^
 ||yfyatirim.com^
+||yfyatirimgiris.com^
 ||yghsajfsjagfasax99.lat^
 ||yghsajfsjagfasax99.sbs^
 ||yghsajfsjagfasax99.xyz^
