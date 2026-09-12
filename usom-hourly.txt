@@ -7988,6 +7988,7 @@
 ||a-101-extra-sadece-online-ozel-tr.online-shop-bireysel-tr.sbs^
 ||a-101-extra-sadece-online-ozel-tr.online-tr-shop-mobil.sbs^
 ||a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs^
+||a-101-mobil-sadece-bugune-ozel-tr.cepte-indirimler.online^
 ||a-101-online-ozel-extra-mobil-tr.sepette-indirim.online^
 ||a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site^
 ||a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online^
