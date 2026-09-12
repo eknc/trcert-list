@@ -8953,6 +8953,7 @@
 ||arc-ly.myonlineportal.ch^
 ||arcdemo.com.tr^
 ||archive.evsahibibasvuru.com^
+||arcmuaynerrandevudcs.com^
 ||arcmymcmn.com^
 ||arcwawork.com^
 ||ardaddls.com^
@@ -11325,6 +11326,7 @@
 ||cepteteb-com.my-homeip.de^
 ||cepteteb-digital-firsatlar.my-homeip.de^
 ||cepteteb-emekli-basvur.myonlineportal.ch^
+||cepteteb-emekliyle.my-homeip.de^
 ||cepteteb-esube.my-homeip.de^
 ||cepteteb-merkeziislemler.my-homeip.de^
 ||cepteteb.pzbsin.com^
@@ -14882,6 +14884,7 @@
 ||guvenlisatismerkezi.com^
 ||guvenlisepet-hizmet.online^
 ||guvenlisepetim-hizmet.online^
+||guvenlisepetim.site^
 ||guvenlisepetler-hizmet.online^
 ||guvenlisiparis-49100.com^
 ||guvenlisiparisim.com^
@@ -14947,6 +14950,7 @@
 ||haber145216562.sbs^
 ||haber1453.sbs^
 ||haber1453.shop^
+||haber165498.sbs^
 ||haber2026.doordk.com^
 ||haber25-assf.shop^
 ||haber252.shop^
@@ -19291,6 +19295,7 @@
 ||mannaras.click^
 ||manpowergroupjobs.com^
 ||mansfieldpediatrics.com^
+||mansndksmsnskzkskek.org^
 ||mansndksnskwlwkdnd.org^
 ||mantardunyasiczxx.duckdns.org^
 ||mantelterminalevyemekleris.duckdns.org^
@@ -23540,6 +23545,7 @@
 ||rwslink.net^
 ||rwwkqrl.xyz^
 ||rwxv01sd23.duckdns.org^
+||rx534ft19vs324s127cd.cfd^
 ||ryalcar.com^
 ||rydjfgyhrfrefddfs.sbs^
 ||rynqewvqwebyutn.click^
@@ -23788,6 +23794,7 @@
 ||sahibinden-getilan.tr-web-alisveris.online^
 ||sahibinden-getilan.tr-web-islemler.online^
 ||sahibinden-getilan.tr-webislemler-tr-alisveris.online^
+||sahibinden-getilan.tr-webislemler-tr-getalisveris.online^
 ||sahibinden-guvenli.siparisonayim.online^
 ||sahibinden-hizmet.online^
 ||sahibinden-ilan.tr-get-servis.online^
@@ -26717,6 +26724,7 @@
 ||toaksenawse.ezgateway.net^
 ||toby44292.softr.app^
 ||todayverse.online^
+||toegleon.com^
 ||toekibassvur.vercel.app^
 ||togetherhire.fun^
 ||togethernow.sbs^
@@ -27901,6 +27909,7 @@
 ||uzaktankayit.abrdns.com^
 ||uzatma.casa^
 ||uzerlerguzelim.co^
+||uzlasmaaktifdosyasorgula.com^
 ||uzlasmabirim.org^
 ||uzlasmadosya.com^
 ||uzlasmadosyakontrol.org^
