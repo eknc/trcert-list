@@ -962,6 +962,7 @@
 ||1254598989899890.duckdns.org^
 ||1254598989899893.duckdns.org^
 ||1254598989899894.duckdns.org^
+||1254598989899898.duckdns.org^
 ||1255665988451698992.duckdns.org^
 ||1255665988451698993.duckdns.org^
 126.209.16.237
@@ -3999,6 +4000,7 @@
 2.58.85.92
 2.59.161.132
 2.59.181.54
+||20-26-flrsalrini-kcirma.site^
 20.117.181.201
 20.162.226.228
 20.17.161.74
@@ -8004,7 +8006,9 @@
 ||a-1o1-c.duckdns.org^
 ||a-alisveris-sepetim.com^
 ||a-g-r.my-homeip.de^
+||a-hymo.myonlineportal.ch^
 ||a-life-groundweb.myonlineportal.ch^
+||a-ri-l.myonlineportal.ch^
 ||a-right-look-mr.myonlineportal.ch^
 ||a-rs-m.myonlineportal.ch^
 ||a-s-b-c.myonlineportal.ch^
@@ -8605,6 +8609,7 @@
 ||alipay-hepsiburada.ph^
 ||alisveris-sepetimiz.com^
 ||alisveris.lol^
+||alisverisepetin-12.sbs^
 ||alisverishizmeti.online^
 ||alisverishizmetin-10.sbs^
 ||alisverishizmetin-20.sbs^
@@ -10244,6 +10249,7 @@
 ||bireycel-pass.my-homeip.net^
 ||bireysel-akmobil-cepte-com.duckdns.org^
 ||bireysel-firsatlar.click^
+||bireysel-guvenli-siparis-onay-sistemi-guncel.online^
 ||bireysel-iade-halkbank.ph^
 ||bireysel-islemler-com-garanti.duckdns.org^
 ||bireysel-islemlerim-garanti.freemyip.com^
@@ -10681,6 +10687,7 @@
 ||bsvrrfrstlrrkmpnpyaaakredii.live^
 ||bsvrrfrstlrrkmpnpyaaakredii.online^
 ||bsvrrfrstlrrkmpnpyaaakredii.xyz^
+||bsvrrkmpaanyy.click^
 ||bsvrrkmpnsnnfrstlarr150432.online^
 ||bsvrrkmpnsnnfrstlarr150432.pro^
 ||bsvrrkmpnyaakrediifrstlrrsnnn.online^
@@ -13288,6 +13295,7 @@
 ||eylulfirstlari.duckdns.org^
 ||eylulflrsatlarl.com^
 ||eylulflrsatlmiz.com^
+||eylulfrstgnleri.duckdns.org^
 ||eylulgirismobil.top^
 ||eylulgnlerindeyizbizlere.duckdns.org^
 ||eylulgunlerinb.gleeze.com^
@@ -16359,6 +16367,7 @@
 ||hzlirandevlarr.com^
 ||hzliyklmednsnrhgs.cfd^
 ||hzliyklmehgs.cfd^
+||hzliyklmenktsi.cfd^
 ||hzlmskernff.space^
 ||hzlnhmnislmlr.com^
 ||hzlnsdanismanlk.com^
@@ -18056,6 +18065,7 @@
 ||kmpnybsvrrrprsmynn15329.info^
 ||kmpnybsvrrrprsmynn15329.pro^
 ||kmpnyeylulfirst.duckdns.org^
+||kmpnyeylulsn.duckdns.org^
 ||kmpnykredibsvrrrfrstlarrr158749.online^
 ||kmpnykredibsvrrrfrstlarrr158749.pro^
 ||kmpnylrrbsvrrsnfrstlrrr.art^
@@ -18319,6 +18329,7 @@
 ||kredibasvurusu.lat^
 ||kredibasvurusu.lol^
 ||krediibsvrrrkmnpyyyprmsnnn.info^
+||krediibsvrrrkmnpyyyprmsnnn.pro^
 ||krediiibsvrrkmpnyaafrsatlarii.info^
 ||krediiibsvrrkmpnyaafrsatlarii.life^
 ||krediiibsvrrkmpnyaafrsatlarii.online^
@@ -18327,6 +18338,7 @@
 ||krediikmpnyaabsvrrsnfrstlarrr.pro^
 ||kredimatik.sbs^
 ||kredin-hazir-online.cloud^
+||krediniz-hazir-online.cloud^
 ||kredionaylamaca.sbs^
 ||kredionaylamamerkezi.space^
 ||kredionaymerkezi.sbs^
@@ -20345,6 +20357,7 @@
 ||mygarantibva.com^
 ||mygreatmarket.com^
 ||mygreatmarket.org^
+||myheabmkatlsende58.info^
 ||myidsafety.com^
 ||mykankacmsendebasvur.art^
 ||mykankacmsendebasvuronline.art^
