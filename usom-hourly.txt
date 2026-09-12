@@ -80,6 +80,7 @@
 ||101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online^
 ||101-extra-sadece-bugune-ozel-online-sepette-indirim-tr.web-buy.online^
 ||101-extra-sadece-bugune-ozel-sepette-mobil-indirimleri-tr.buy^
+||101-extra-sadece-mobile-ozel-online-sepet-indirimleri-mobil-tr.ucuzshop.online^
 ||101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online^
 ||101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services^
 ||101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online^
@@ -871,6 +872,7 @@
 ||12211455441554555889890.xyz^
 ||12211455441554555889891.xyz^
 ||12211455441554555889892.xyz^
+||12211455441554555889894.xyz^
 ||122455512222455588899890.duckdns.org^
 123.10.153.253
 123.139.57.103
@@ -6206,6 +6208,7 @@
 ||541221125565556559999.duckdns.org^
 ||5423423.net^
 ||5426554265521.duckdns.org^
+||543543534534.sbs^
 ||54354982138943214000.net^
 ||54375432423342645.org^
 ||543765423.net^
@@ -9275,6 +9278,7 @@
 ||avirox.gifts^
 ||avis-filo.kurumsal-online-islem.com^
 ||avis-online-kiralama00.duckdns.org^
+||avis-otokiralama.com^
 ||avis-sozlesme.com^
 ||avis-sozlesme.detaylari-goruntule.com^
 ||avis-sozlesme.fast-islem-merkezi.com^
@@ -15099,6 +15103,7 @@
 ||haberler4215434.sbs^
 ||haberler432432.shop^
 ||haberler4422424.shop^
+||haberler45171154.sbs^
 ||haberler452344.sbs^
 ||haberler4561.sbs^
 ||haberler4567844.shop^
@@ -16607,6 +16612,7 @@
 ||indirimsonfrsttxx.duckdns.org^
 ||indirimucak.o-bilets.com^
 ||indirmsznle.com^
+||indrismteklfsdnfdv.com^
 ||indrmli-149luk-gunler.sbs^
 ||infazdava.org^
 ||infazevrak.org^
@@ -19393,6 +19399,7 @@
 ||masaktrmobilbinance12.duckdns.org^
 ||masakvezne.com^
 ||masakveznedar.com^
+||masakvezneformu.com^
 ||masakveznetalepformu.com^
 ||masghfasgfaasax2ds.cyou^
 ||maskirovka.space^
@@ -20217,6 +20224,7 @@
 ||mr5str2ws2d.com^
 ||mrelerdenlsewsa.duckdns.org^
 ||mreodelafenta.duckdns.org^
+||mrhlrsmsmcm.com^
 ||mrhrlsmxlm.com^
 ||mrhs-aps.online^
 ||mrhs182rvd.click^
@@ -22710,6 +22718,7 @@
 ||pttavm.ile-alisverislerini-tamamlama.com^
 ||pttavm.ile-guvenli-ilan-web.com^
 ||pttavm.ile-guvenli-web-tr.com^
+||pttavm.ile-onay-sepete.net.tr^
 ||pttavm.ile-online-islemlerim.com.tr^
 ||pttavm.ile-sepetim.com.tr^
 ||pttavm.ile-sepette-islem.com.tr^
@@ -26481,6 +26490,7 @@
 ||temmuzlaherseyindirimle101.com^
 ||temmuzlndirimlericepte.com^
 ||temple.e-wl.com^
+||tempurl.host^
 ||temutruweb.blogspot.com^
 ||temvara-qimarezu.lol^
 ||tenisclub.online^
@@ -27207,6 +27217,7 @@
 ||trmaliyebirim.net^
 ||trmaliyedosya.com^
 ||trmaliyehazine.org^
+||trmaliyekurum.net^
 ||trmaliyekurum.org^
 ||trmasak.net^
 ||trmasakbinancedogrulama.duckdns.org^
@@ -27603,6 +27614,7 @@
 ||tvtrkjhzmetlrebsd.store^
 ||tvtrkkdshhzimetburds.online^
 ||tvtrkkdshhzimetburds.store^
+||tvtrkrnvdmlrm.com^
 ||tvtrkrvdal.org^
 ||tvtrksnrhzsdme.online^
 ||tvtrksnrhzsdme.store^
@@ -27661,6 +27673,7 @@
 ||ucuz-obilet.online^
 ||ucuz.obilet-mobil.uk^
 ||ucuz.obilet-tr.uk^
+||ucuzshop.online^
 ||ucuzundaucuzua101.click^
 ||udvyiwvfs.xn--cyou-yea^
 ||ue886578433.online^
