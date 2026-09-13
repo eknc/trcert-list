@@ -2790,6 +2790,7 @@
 ||182-onlines.help^
 ||182-web.sbs^
 ||182-web.xyz^
+||182-webb.cfd^
 ||182-webb.sbs^
 ||182-webb.xyz^
 ||182-webhati.com^
@@ -8727,6 +8728,7 @@
 ||anadolugateway.com^
 ||anadolugenis.com^
 ||anadolugozlem.com^
+||anadolugroup.online^
 ||anadoluhikayesi.com^
 ||anadoluisigi.com^
 ||anadolukapsami.com^
@@ -9178,6 +9180,7 @@
 ||atlas-compass.com^
 ||atlasvpn.space^
 ||atlaswiucheck.cfd^
+||atm-acv.myonlineportal.ch^
 ||ato-blik-ziraatbank.com.ph^
 ||atomprofitplatform.com^
 ||atrendy.my^
@@ -9510,6 +9513,7 @@
 ||basurvu-y.cfd^
 ||basuvurlardevamedc.sbs^
 ||basvr.tombnk-basvr.click^
+||basvrrkmpnyaasonnnfrstlarrr.info^
 ||basvrrkmpnyaasonnnfrstlarrr.pro^
 ||basvrsawkxa.sbs^
 ||basvru-merkkzei.cfd^
@@ -10271,6 +10275,7 @@
 ||bireysel-promosion-firsatlar.my-homeip.de^
 ||bireysel-satis.com^
 ||bireysel-shop-tr.click^
+||bireysel-shops-mobil.online^
 ||bireysel-teb-firsati.my-homeip.de^
 ||bireysel-teb-promosyon.my-homeip.de^
 ||bireysel-trans.my-homeip.de^
@@ -10966,6 +10971,7 @@
 ||bva-lite.shop^
 ||bva-mobile.shop^
 ||bva-request.shop^
+||bva-web.shop^
 ||bvbvbva128282828992.duckdns.org^
 ||bvbvbva28282828992.duckdns.org^
 ||bvd012df4.sbs^
@@ -11333,6 +11339,7 @@
 ||cepteteb-com.my-homeip.de^
 ||cepteteb-digital-firsatlar.my-homeip.de^
 ||cepteteb-emekli-basvur.myonlineportal.ch^
+||cepteteb-emekli.myonlineportal.de^
 ||cepteteb-emekliyle.my-homeip.de^
 ||cepteteb-esube.my-homeip.de^
 ||cepteteb-merkeziislemler.my-homeip.de^
@@ -13481,6 +13488,7 @@
 ||ferdancandansandan.shop^
 ||ferdancandansandan.xyz^
 ||ferigaporas.click^
+||fernasburs.site^
 ||fertilitysaving.com^
 ||feslink.net^
 ||fetch-tumpy-side.myonlineportal.ch^
@@ -13771,6 +13779,7 @@
 ||forum.evsahibibasvuru.com^
 ||forum2.evsahibibasvuru.com^
 ||forvar-d.my-homeip.de^
+||forvard.best^
 ||forward-yonlendir.ink^
 ||forwardhorizon.net^
 ||forwardjourney.online^
@@ -14042,6 +14051,7 @@
 ||garantibbvakasikornbank.ph^
 ||garantibbvakoreanair.com.ph^
 ||garantibbvakredi.otzo.com^
+||garantibbvakredibasvuru.online^
 ||garantibbvakredibasvurusu.info^
 ||garantibbvamobil.netlify.app^
 ||garantibbvanorusderma.ph^
@@ -14173,6 +14183,7 @@
 ||gelengidenalsindiye.lol^
 ||gelerdesewend.duckdns.org^
 ||gelgelgelsendeakpmyaayakaatal3248927475293.click^
+||geliridaresibaskanligi.org^
 ||gelirkenbiradetekmekalmakistermisin.online^
 ||gelirkenbiradetekmekalmakistermisin.xyz^
 ||gelisimalani.com^
@@ -17344,6 +17355,7 @@
 ||k9ashdahsdhashdh23sahdhs.click^
 ||k9d9c.my^
 ||k9mvx2r7q.cfd^
+||kabsakaioniine.com^
 ||kacirimayacakpaslanmazcelik.sbs^
 ||kacirmadanalhemenkapinda.xyz^
 ||kacirmadangelkapinda.com^
@@ -19249,6 +19261,7 @@
 ||maliegm.net^
 ||maliidariceza.org^
 ||malimahkeme.org^
+||malimasak.net^
 ||malimasak.org^
 ||maliportal.net^
 ||malisorgu.org^
@@ -19890,6 +19903,8 @@
 ||mhsscfsrsa12.sbs^
 ||mhssrajhsyyh.icu^
 ||mhssrasa.sbs^
+||mhssrasa.space^
+||mhssrasa.store^
 ||mhssrrrahas.site^
 ||mhssrrrdhas.site^
 ||mhsssrassa.live^
@@ -20119,6 +20134,7 @@
 ||mobilitebasvurus.sbs^
 ||mobilnet.my-homeip.net^
 ||mobilpkampanyam.duckdns.org^
+||mobils-cep.online^
 ||mobils-tr.online^
 ||mobilsepet-tr.online^
 ||mobilsepetalim-10.online^
@@ -23953,6 +23969,7 @@
 ||sahibindeni.com.tr^
 ||sahibindenilankargoo.com^
 ||sahibindenile.com.tr^
+||sahibindenkaargom.com^
 ||sahibindenkargo-islem.com^
 ||sahibindenkargo.click^
 ||sahibindenkargoilan.com^
@@ -24654,6 +24671,7 @@
 ||showpulsera.net^
 ||showsix.digital^
 ||showthetrick.com^
+||sibonex.com^
 ||sibqeforsfo.duckdns.org^
 ||sicak-mavi-yazi-bva.xyz^
 ||sicex.lol^
@@ -26225,6 +26243,7 @@
 ||teb-cepte-emekliye.my-homeip.de^
 ||teb-com-tr-emekli.myonlineportal.at^
 ||teb-com-tr-emekliyeozel.my-homeip.de^
+||teb-com-tr-internet-subesi.my-homeip.de^
 ||teb-com-tr-web-firsatlari.my-homeip.de^
 ||teb-com-tr-web.my-homeip.de^
 ||teb-com-tr.my-homeip.de^
@@ -27902,6 +27921,7 @@
 ||uyaptebligat.org^
 ||uyapuzlastirma.org^
 ||uyapvatandas-sorgu.com^
+||uyapvatandas.org^
 ||uyari-detaylar-tr.ink^
 ||uyariweb.guru^
 ||uygnsaynindrmfirstlar.cfd^
