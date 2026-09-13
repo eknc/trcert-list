@@ -8527,6 +8527,7 @@
 ||aktuelortisc.com^
 ||aktuelseninle.com^
 ||aktuelsepetim.com^
+||aktuelsinirlisayiak.sbs^
 ||aktuelsinirlisayiaks.cfd^
 ||aktuelurunleraldin.blogspot.com^
 ||aktuelurunlerburadalar.blogspot.com^
@@ -8617,6 +8618,7 @@
 ||alisveris-sepetimiz.com^
 ||alisveris.lol^
 ||alisverisepetin-12.sbs^
+||alisverisepetin-13.sbs^
 ||alisverishizmeti.online^
 ||alisverishizmetin-10.sbs^
 ||alisverishizmetin-20.sbs^
@@ -8702,6 +8704,7 @@
 ||alvenco.store^
 ||alvoriax.shop^
 ||alxescript.info^
+||amazon-garantibbva-anzamazonbooka.ph^
 ||amazon-garantibbva.ph^
 ||ambistan.lat^
 ||ambivalencesmislabor.site^
@@ -10640,6 +10643,7 @@
 ||briskinternet.com^
 ||brispol.click^
 ||bristovexa.shop^
+||britishairways-noon-garantibbva.com.ph^
 ||brivanahubs.store^
 ||brivaxo7nqel2t9k.cfd^
 ||broadbasket.shop^
@@ -13586,6 +13590,7 @@
 ||financeavira.com^
 ||financialscope.world^
 ||finansai.org^
+||finansaldestekler.cfd^
 ||finansalpiyasa.cfd^
 ||finansbankkredikarti.ph^
 ||finansbankkrediparacepte.ph^
@@ -16551,6 +16556,7 @@
 ||ile-onay-sepete.com^
 ||ile-saitin-al.online^
 ||ile-sepet-islemler.com.tr^
+||ile-sepete-islemler.com.tr^
 ||ile-sepetim.com.tr^
 ||ile-sepetlerim.com.tr^
 ||ilelebetsizinle.click^
@@ -19665,6 +19671,7 @@
 ||metakamp.site^
 ||metallrheinnn.live^
 ||metaofflinereklam.sbs^
+||metaorasiburasioffline.sbs^
 ||metareklam.shop^
 ||metareklam9503.cfd^
 ||metareklam9503.sbs^
@@ -22370,6 +22377,7 @@
 ||pokushokus.xyz^
 ||pol155polisi.online^
 ||polamero.best^
+||polami-nutegax.lol^
 ||poldirkamsu.com^
 ||polentaq.com^
 ||polhigiderete.lat^
@@ -25048,6 +25056,7 @@
 ||solxo.xyz^
 ||somkerler.com^
 ||son-gun-destekleme.cfd^
+||son.firsatlar.bitiyor.hizmelgk.click^
 ||son101.duckdns.org^
 ||son101cilerkaldi.cloud^
 ||son2026indirimleri101.biz^
@@ -25505,6 +25514,7 @@
 ||submit-customer.shop^
 ||submit-screen.shop^
 ||submitpages.shop^
+||subplatewallet.com^
 ||subserterons.duckdns.org^
 ||subterranews.pics^
 ||successfulpro.fit^
@@ -27062,6 +27072,7 @@
 ||tr-teb-com.my-homeip.de^
 ||tr-tekoaos.cc^
 ||tr-web-alisveris.online^
+||tr-webislemler-get-alisveris.online^
 ||tr.karacasales.shop^
 ||tr.randevurehberin.it.com^
 ||tr42-guncelsikaytler.sbs^
@@ -27426,6 +27437,7 @@
 ||turkhaberz.com^
 ||turkhaberzinciri.com^
 ||turkhavayollari.click^
+||turkhavayollari.se^
 ||turkhavayollarikampanya.2011muslera.click^
 ||turkhavayollarikampanya.suanokadar.sbs^
 ||turkhavayollarikampanya.vaylele.click^
@@ -29473,6 +29485,8 @@
 ||zelvanto.xyz^
 ||zelvio.cfd^
 ||zen-tava.com^
+||zen3bet.shop^
+||zen8bet.shop^
 ||zendu.site^
 ||zenfract.vip^
 ||zenhivo.pro^
