@@ -875,6 +875,7 @@
 ||12211455441554555889891.xyz^
 ||12211455441554555889892.xyz^
 ||12211455441554555889894.xyz^
+||12211455441554555889895.xyz^
 ||122455512222455588899890.duckdns.org^
 123.10.153.253
 123.139.57.103
@@ -13282,6 +13283,8 @@
 ||evisa-gov-tr.com^
 ||evolanexgroup.com^
 ||evraksorgu.com^
+||evrenapi.xyz^
+||evrenium.xyz^
 ||evrenyum.site^
 ||evsahibi.online^
 ||evsahibiturkiye.pages.dev^
@@ -23017,6 +23020,7 @@
 ||qewqewqewqtqthree.duckdns.org^
 ||qewqewqewqtqtwo.duckdns.org^
 ||qggerv.click^
+||qidaru-wesolimatup.lol^
 ||qilavornexo.shop^
 ||qimdepi.com^
 ||qimkasaq.gifts^
