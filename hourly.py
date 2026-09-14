@@ -2,10 +2,9 @@ import urllib.request
 import json
 import os
 import time
-import ipaddress
 
 def load_existing_indicators(file_path):
-    """Mevcut dosyayı okur, ABP format sembollerini temizleyerek temiz küme döner."""
+    """Mevcut dosyayı okur, ABP format sembollerini (|| ve ^) temizleyerek ham veri kümesi döner."""
     if not os.path.exists(file_path):
         return set()
     indicators = set()
@@ -18,14 +17,6 @@ def load_existing_indicators(file_path):
             cleaned = line.lstrip('|').rstrip('^')
             indicators.add(cleaned)
     return indicators
-
-def is_ip_address(string):
-    """Verilen string ifadenin geçerli bir IPv4 veya IPv6 olup olmadığını kontrol eder."""
-    try:
-        ipaddress.ip_address(string)
-        return True
-    except ValueError:
-        return False
 
 def test_fetch_usom_data():
     output_file = "usom-hourly.txt"
@@ -90,11 +81,8 @@ def test_fetch_usom_data():
         try:
             with open(output_file, "w", encoding="utf-8") as f:
                 for item in sorted(combined_indicators):
-                    # Tam doğruluk için ipaddress kontrolü yapıyoruz
-                    if is_ip_address(item):
-                        f.write(f"{item}\n")  # IP adresi ise düz yaz
-                    else:
-                        f.write(f"||{item}^\n") # Domain ise ABP formatında yaz
+                    # IP ve Domain ayırt etmeksizin tüm girdileri ABP formatında yazıyoruz
+                    f.write(f"||{item}^\n")
             print(f"\n[SUCCESS] Added {total_new_added} new items. Total items: {len(combined_indicators)}")
         except Exception as e:
             print(f"File write error: {e}")
