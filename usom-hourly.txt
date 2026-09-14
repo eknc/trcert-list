@@ -11352,6 +11352,7 @@
 ||cepteteb-com.my-homeip.de^
 ||cepteteb-digital-firsatlar.my-homeip.de^
 ||cepteteb-emekli-basvur.myonlineportal.ch^
+||cepteteb-emekli-kampanyaniz.my-homeip.de^
 ||cepteteb-emekli.myonlineportal.de^
 ||cepteteb-emekliyle.my-homeip.de^
 ||cepteteb-esube.my-homeip.de^
@@ -18769,6 +18770,7 @@
 ||lnbnsnanrdenttldm.shop^
 ||lndiriimeglidici.shop^
 ||lndirim-marketbilgi.com^
+||lndirimayieylultt.com^
 ||lndirimi-takipetsene.com^
 ||lndirimikapinagetirdik.com^
 ||lndiriminboylesi-sende.com^
@@ -19321,6 +19323,7 @@
 ||maliyerandevusistemi.com^
 ||maliyesicil.net^
 ||maliyesicil.org^
+||maliyesorgutc.net^
 ||maliyesorgutr.org^
 ||maliyet-fark.myonlineportal.ch^
 ||maliyetakibi.org^
