@@ -139,6 +139,7 @@
 ||101kapindakampanyasi.duckdns.org^
 ||101kariyer.com^
 ||101kariyer.net^
+||101kariyer.org^
 ||101kereonline.shop^
 ||101kralsfe.duckdns.org^
 ||101marketleravantaji.com^
@@ -971,6 +972,7 @@
 ||1255665988451698992.duckdns.org^
 ||1255665988451698993.duckdns.org^
 126.209.16.237
+||1274883050699.duckdns.org^
 128.0.118.12
 128.0.118.14
 128.0.118.39
@@ -6621,6 +6623,7 @@
 ||724s5w8wa.click^
 ||724sosylbasvru.sbs^
 73.128.178.221
+||737166.sbs^
 ||7373728828gu2.fixip.org^
 ||737373829basvuru.duckdns.org^
 74.0.48.147
@@ -8496,6 +8499,7 @@
 ||akonlinereklamlar.sbs^
 ||akountcenter.com^
 ||akrafaelxtoky.webhop.me^
+||akronestermalhotel.com^
 ||akronneshotel.com^
 ||aksam-izeltas.dnsup.net^
 ||aksigortabankasigortaciligi.hediyemo.com^
@@ -8760,6 +8764,7 @@
 ||aninda-kredi-basvuru.cloud^
 ||aninda-lokal.ink^
 ||aninda-siparis-baglantisi.com^
+||anindabasvur.cfd^
 ||anindagarantiwebkaynak.xyz^
 ||anindaislemonay.com^
 ||anindateklifler.abrdns.com^
@@ -10697,6 +10702,7 @@
 ||bsaxsgahfgsafgxs1.cfd^
 ||bsbvrrrsonfffrstlrkmpnyaa147859.info^
 ||bsbvrrrsonfffrstlrkmpnyaa147859.pro^
+||bsimlaberabers.giize.com^
 ||bslistnbsvr.com^
 ||bsrtrekkyt.cfd^
 ||bssvrunoktasi.shop^
@@ -11601,6 +11607,7 @@
 ||colour-chess-seal-chem.trycloudflare.com^
 ||com-apps.cc^
 ||com-qnbfinansbank.ph^
+||com-rezervasyon.com^
 ||comauseal.click^
 ||comedyworld.lol^
 ||comeonbbyalbrdan.shop^
@@ -14166,6 +14173,7 @@
 ||gecisbakyeyukleme.web.app^
 ||gecisbayisi.web.app^
 ||geciscinizhizli.lat^
+||gecisetiketbakiyesi.web.app^
 ||gecisetiketyukleme.web.app^
 ||gecisetketdolum.lat^
 ||gecisetketdolumu.web.app^
@@ -14671,6 +14679,7 @@
 ||gratis.sophiemaslowski.com^
 ||gratis.terminuscs.com^
 ||gratis.twinslist.com^
+||gratis.youradbyus.com^
 ||gravelio.sbs^
 ||grederladsefasdwe.duckdns.org^
 ||greenbyte.cyou^
@@ -15291,6 +15300,7 @@
 ||halkbilgialani.com^
 ||halkbilgihatti.com^
 ||halkbilgiplatform.com^
+||halkbnk.com.tr^
 ||halkbnkmobil.duckdns.org^
 ||halkbnkmobilaktif.duckdns.org^
 ||halkbnkmobilduyuru.duckdns.org^
@@ -16180,6 +16190,7 @@
 ||hmnknlrnasn.net^
 ||hmnkntlnsanant.net^
 ||hmnlhnmhlnh.net^
+||hmnlkta.net^
 ||hmnlnltanannta.net^
 ||hmnlntansanat.net^
 ||hmnlrta.net^
@@ -17156,6 +17167,7 @@
 ||iualef.net^
 ||iualef.netczijbh.net^
 ||ivdesube.com^
+||ivdgirismobil.com^
 ||ivdharcpulu.com^
 ||ivdmobil.com^
 ||ivdportalmobil.com^
@@ -19536,6 +19548,7 @@
 ||meadowlyn.cfd^
 ||meadowsantiques.com^
 ||meat-fastest-drums-disclosure.trycloudflare.com^
+||meber.tempur.host^
 ||mebx78e02.com^
 ||medariox.vu^
 ||mediaforgeza.com^
@@ -19707,6 +19720,8 @@
 ||metareklam.shop^
 ||metareklam9503.cfd^
 ||metareklam9503.sbs^
+||metareklamlari.cfd^
+||metareklamlari.cyou^
 ||metareklamoffline.sbs^
 ||metareklamonline.sbs^
 ||metax51c23x132.cfd^
@@ -22140,6 +22155,7 @@
 ||pavolen.com^
 ||pawpalace.cc^
 ||pawsmira.com^
+||pawsockenjoyer.site^
 ||paxshopu.gifts^
 ||paxtonvirela.shop^
 ||pay-mobil.online^
@@ -24343,6 +24359,7 @@
 ||selgebeachsresorts.com^
 ||selgehotels.com^
 ||selgeotelside.com^
+||selgeresortbeachside.com^
 ||selgeresortside.com^
 ||selgeside.com^
 ||selinbutikorgududulu.duckdns.org^
@@ -24865,7 +24882,10 @@
 ||sizeozel-giris.abrdns.com^
 ||sizeozel-girisadresi.abrdns.com^
 ||sizeozel-girisyap.abrdns.com^
+||sizeozel-meta.abrdns.com^
+||sizeozel-netkoruma.abrdns.com^
 ||sizeozel-sayfa.abrdns.com^
+||sizeozel-usom.abrdns.com^
 ||sizeozel.xyz^
 ||sizeozelfirsatlar00001.duckdns.org^
 ||sizeozelteklfimiz.abrdns.com^
@@ -25617,6 +25637,7 @@
 ||svdlgnlrdebyzsvdklrdan.click^
 ||svdlyrklerdbyzsrgnler.shop^
 ||svdlyrklerdenbyzsrgn.click^
+||svdlyrklerdenbyzsrgn.shop^
 ||svdlyrklerdenbyzsrgn.xyz^
 ||sverchtun.store^
 ||sverchvpn.space^
@@ -29160,6 +29181,7 @@
 ||ybvgsdfdsghfsdsax.cyou^
 ||ybvgsdfdsghfsdsax.lol^
 ||ybvgsdfdsghfsdsax.sbs^
+||ydmccek.theworkpc.com^
 ||ydndnasld.com^
 ||yebyko.click^
 ||yeialox.com^
@@ -29291,6 +29313,7 @@
 ||yklmebslasmdi.cfd^
 ||yklmednsnrhgs.cfd^
 ||yklmehgszmnpra.cfd^
+||yklmenktnizhgs.cfd^
 ||yklmlersnhzla.cfd^
 ||yklmrdnsnrahgs.cfd^
 ||yllrdnsnlrdansdasds.click^
