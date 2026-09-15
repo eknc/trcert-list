@@ -9125,6 +9125,7 @@
 ||asdfsdfsdf.duckdns.org^
 ||asdfsdfsdgdf.duckdns.org^
 ||asdfsdfwsdf.duckdns.org^
+||asdfsdsfd.duckdns.org^
 ||asdhashdh99000ashdhasdasd.click^
 ||asdhashdhas2asdahsd827sad.click^
 ||asdjxk12312z1232123.cfd^
@@ -10192,6 +10193,7 @@
 ||bilgi-mobil-shop-ozel-tr.click^
 ||bilgi-tp.online^
 ||bilgial.site^
+||bilgicep-tr.online^
 ||bilgicheckerssystemm.lovestoblog.com^
 ||bilgidosyasi.com^
 ||bilgihub.info^
@@ -11413,6 +11415,7 @@
 ||cepteteb-digital-firsatlar.my-homeip.de^
 ||cepteteb-emekli-basvur.myonlineportal.ch^
 ||cepteteb-emekli-kampanyaniz.my-homeip.de^
+||cepteteb-emekli-sube.my-homeip.de^
 ||cepteteb-emekli.myonlineportal.de^
 ||cepteteb-emekliyle.my-homeip.de^
 ||cepteteb-esube.my-homeip.de^
@@ -15980,6 +15983,7 @@
 ||hiizsfe.cfd^
 ||hiizsfe.cyou^
 ||hikopere-repilosade.lol^
+||hilallisubesndyzz.duckdns.org^
 ||hilisipairsler17temmuzda.cloud^
 ||hillindrmgnlerndyzbiz.duckdns.org^
 ||hillisolutions.info^
@@ -16258,6 +16262,7 @@
 ||hmnkntlnsanant.net^
 ||hmnlhnmhlnh.net^
 ||hmnlkta.net^
+||hmnlktnas.net^
 ||hmnlnltanannta.net^
 ||hmnlntansanat.net^
 ||hmnlrta.net^
@@ -17992,6 +17997,7 @@
 ||kikeus.website^
 ||kikpx.top^
 ||kilabeyt-org.my-homeip.de^
+||kilissubesndyzbizlerr.duckdns.org^
 ||kilit-entry.biz^
 ||kilmtresrgulamarmzan.firebaseapp.com^
 ||kilmtresrgulamarmzan.web.app^
@@ -18341,6 +18347,7 @@
 ||kolektif-ajans-yaz.biz^
 ||kolektifweb.digital^
 ||kolibofilna-lucere.lol^
+||kolihigideferesede.lol^
 ||kolirapolse-vadore.lol^
 ||kolmlolla-ukler-ciklsosto.xyz^
 ||koly-g.my-homeip.de^
@@ -19961,9 +19968,12 @@
 ||mhrsislem.com^
 ||mhrsislemlerin.com^
 ||mhrsislemyapgiris.vercel.app^
+||mhrskhsdh.art^
 ||mhrslenddeearn.cfd^
 ||mhrslendinad.cfd^
 ||mhrslkislem.com^
+||mhrsmlxmxl.com^
+||mhrsmsxlm.com^
 ||mhrsonlinebasvuru.duckdns.org^
 ||mhrsonlineportalrandevu.duckdns.org^
 ||mhrsportal.vercel.app^
@@ -20684,6 +20694,7 @@
 ||needcherries.online^
 ||nefeshhope.com^
 ||nefislokumlarburada.xyz^
+||neflixtr.icu^
 ||negratomasa2026.online^
 ||nehikmet.cfd^
 ||nekadarbeklesekbos.cloud^
@@ -21659,6 +21670,7 @@
 ||osmanli.portfoymenkul.com^
 ||osmanliportfoy.app^
 ||osmanlisorgupaneli.site^
+||osmanlisubesndyzbiz.online^
 ||osmanlivportfoy.com^
 ||osmurmaomurga.click^
 ||osogransd.online^
@@ -23867,6 +23879,7 @@
 ||sadeosolsprisatlaybftrk112111.blogspot.com^
 ||sadesconfsirsatlartr1od.blogdns.com^
 ||sadfsafsda230203mk.net^
+||sadfsfddfas.duckdns.org^
 ||sadibofilme-katore.lol^
 ||sadimuralme-venere.lol^
 ||sadkjhsdakjhsadkjh.com^
@@ -25384,6 +25397,7 @@
 ||sorunsuzhepburdayizbiz.com^
 ||sosuwen.shop^
 ||sosyal-media.garden^
+||sosyal-tahsis-konutlari.cfd^
 ||sosyalhizmetbasvuru.site^
 ||sosyalkonut-toplukonut.vercel.app^
 ||sosyalkonut-toplukonutlar.vercel.app^
@@ -26442,6 +26456,7 @@
 ||teb-cepte-emekliye.my-homeip.de^
 ||teb-com-tr-emekli.myonlineportal.at^
 ||teb-com-tr-emekliyeozel.my-homeip.de^
+||teb-com-tr-internet-emeklilik.my-homeip.de^
 ||teb-com-tr-internet-subesi.my-homeip.de^
 ||teb-com-tr-web-firsatlari.my-homeip.de^
 ||teb-com-tr-web.my-homeip.de^
@@ -29560,6 +29575,7 @@
 ||yurttici-kargo.com^
 ||yurudumdurmamasla.sbs^
 ||yuskanca.duckdns.org^
+||yusuflumerkezsubesin.duckdns.org^
 ||yusuflusubesibb.duckdns.org^
 ||yutnckaoneca.cfd^
 ||yutnertbwervw.click^
