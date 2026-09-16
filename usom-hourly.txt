@@ -77,6 +77,7 @@
 ||101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online^
 ||101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online^
 ||101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online^
+||101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.marketsepeti.online^
 ||101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online^
 ||101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online^
 ||101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online^
@@ -8281,6 +8282,7 @@
 ||acentasorgulama.com^
 ||acentecozumleri.cfd^
 ||aceritop.com^
+||acik-deniz-online.my-homeip.de^
 ||acik-deniz.my-homeip.de^
 ||acik-web-gir.casa^
 ||acikdeniz-denizbankasi.com.ph^
@@ -8635,6 +8637,7 @@
 ||alderdasdewas.duckdns.org^
 ||aldimal.xyz^
 ||aldin-caymakinesi.lat^
+||aldin-yadaaldin.com^
 ||aldin1.space^
 ||aldinaktuelcay.xyz^
 ||aldinaldin.ekstra101.dpdns.org^
@@ -9624,6 +9627,7 @@
 ||basvrumerkezniz.cfd^
 ||basvruncepte-garanti.dns.army^
 ||basvruncepte-garanti.duckdns.org^
+||basvrurrrpmrsmynnnkmphyaaa.pro^
 ||basvruukmpnyasibkreidvi.pro^
 ||basvu-r-tok-gov-basvur-dev.com^
 ||basvu-r-tok-gov-basvur-dev.xyz^
@@ -9718,6 +9722,8 @@
 ||basvurularinitamamlar.sbs^
 ||basvurulariniz.myonlineportal.de^
 ||basvurulariniz.sbs^
+||basvurulariyapinkacirmayin2026.cfd^
+||basvurulariyapinkacirmayinekim.cfd^
 ||basvurumbbvada.duckdns.org^
 ||basvurumburada.click^
 ||basvurumburda.click^
@@ -13815,6 +13821,7 @@
 ||firsai.tipshub.net^
 ||firsat-obilet.online^
 ||firsat-promos-gelicikk.shop^
+||firsat-tebde.my-homeip.de^
 ||firsat-urununuz-sondemler.sbs^
 ||firsatarackiralama.online^
 ||firsatavcisi.sbs^
@@ -25896,6 +25903,7 @@
 ||sube-fiba.com^
 ||sube-garantilibbva.my-homeip.net^
 ||sube-garantl.shop^
+||sube-garenti.my-homeip.de^
 ||sube-infoyatirim.com^
 ||sube-kuveyt-mobilturk.duckdns.org^
 ||sube-kuveyt-ttr.duckdns.org^
@@ -26025,6 +26033,7 @@
 ||sys-tools.cfd^
 ||szgtch.com^
 ||szhpnzleotkbrda.lol^
+||t-e-b-ayricaliklar.my-homeip.de^
 ||t-e-b-ayricalikli.my-homeip.de^
 ||t-investing.com^
 ||t-investt.com^
@@ -26693,6 +26702,7 @@
 ||tebcepte-sube-parola.myonlineportal.de^
 ||tebcom-tr.my-homeip.de^
 ||tebde-emekliye.my-homeip.de^
+||tebde-firsat.my-homeip.de^
 ||tebdeburdabasvuru.my-homeip.de^
 ||tebdenpromosyon.my-homeip.de^
 ||tebdeyim-cepteyim.myonlineportal.de^
@@ -27925,6 +27935,7 @@
 ||turkiyeegitim.vu^
 ||turkiyefinans-katilim-com.duckdns.org^
 ||turkiyefinans-katilimyap-com.duckdns.org^
+||turkiyefinans.my-homeip.de^
 ||turkiyefinans.pzbsin.com^
 ||turkiyefocus.com^
 ||turkiyegovtr.lovestoblog.com^
