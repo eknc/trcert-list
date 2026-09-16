@@ -156,6 +156,7 @@
 ||102.117.170.192^
 ||102.130.112.157^
 ||102.135.95.102^
+||102.220.161.87^
 ||102.253.0.7^
 ||102.33.1.144^
 ||102.36.150.232^
@@ -4869,6 +4870,7 @@
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
 ||3125123.uk^
+||315455564447889889989990.duckdns.org^
 ||31852858529696963.baby^
 ||31akkcasjkkx12k3jx321.cfd^
 ||31jctjk3k1l2z12lk3c12k312.cfd^
@@ -5529,6 +5531,7 @@
 ||45.155.54.28^
 ||45.155.54.62^
 ||45.155.69.166^
+||45.155.90.234^
 ||45.155.91.135^
 ||45.156.24.224^
 ||45.156.87.115^
@@ -7577,6 +7580,7 @@
 ||91.202.233.251^
 ||91.203.132.252^
 ||91.203.193.162^
+||91.203.61.27^
 ||91.206.178.120^
 ||91.206.178.125^
 ||91.206.178.133^
@@ -8342,6 +8346,7 @@
 ||adidasgarantibbva.com.ph^
 ||adidasgarantibbva.ph^
 ||adinbeachshotels.com^
+||adipsyagrufe.shop^
 ||adlancex.com^
 ||adlibirim.net^
 ||adlicezatakip.org^
@@ -9095,6 +9100,7 @@
 ||artcnb.com^
 ||arti-web.my-homeip.de^
 ||artikburdan.netlify.app^
+||artikkatildiburdaherkescabukbak76.site^
 ||artivun.sbs^
 ||artkhersesycokbasitsendegelbzekatl.online^
 ||artlino.gifts^
@@ -11493,6 +11499,7 @@
 ||ceptetebde-com.my-homeip.de^
 ||ceptetebde-emekli.my-homeip.de^
 ||ceptetebden-emekli.my-homeip.de^
+||ceptetebden-firsati.my-homeip.de^
 ||ceptetebden.my-homeip.de^
 ||ceptetebeva.my-homeip.de^
 ||ceptetebli-basvurum.my-homeip.de^
@@ -11532,6 +11539,7 @@
 ||cezamerkezi.org^
 ||cezasorgu.info^
 ||cezasorgugov.com^
+||cezasorgumaliye.com^
 ||cezatakip.net^
 ||cezauyap.org^
 ||cezauzlasmaburosu.com^
@@ -12970,6 +12978,7 @@
 ||egitimmerkezi.info^
 ||egitimova.com^
 ||egitimrotasi.co^
+||egm-gov.my.id^
 ||egmbirim.net^
 ||egmbirim.org^
 ||egmcezam.org^
@@ -13868,6 +13877,7 @@
 ||first-onayweb.ink^
 ||firstdrivehill.com^
 ||firstkmpyeyl.duckdns.org^
+||firstlarrkmpnyaabsvrrr151745.pro^
 ||firstlartukenmkuzere1o1.shop^
 ||firstlrkapndatukenyr1o1.info^
 ||fiscalapi.ro^
@@ -15991,6 +16001,7 @@
 ||hgs-ode-smdii.cfd^
 ||hgs-ode-yukle-simdi.cfd^
 ||hgs-ode-zamani.cfd^
+||hgs-odeme-guncel-429014.vercel.app^
 ||hgs-odeme-guncel.vercel.app^
 ||hgs-odemeleri.duckdns.org^
 ||hgs-pttavm.ph^
@@ -16075,6 +16086,7 @@
 ||hgsyklemelerde.duckdns.org^
 ||hgsykleprahgsykle.cfd^
 ||hgsykleykleode.cfd^
+||hgsyklezmnipraykle.cfd^
 ||hgsyklodesmdi.cfd^
 ||hgsylgcsonlinebrcpm.com^
 ||hgsylgcsonlinebrcpmz.com^
@@ -16891,6 +16903,7 @@
 ||indirimlibirgun.duckdns.org^
 ||indirimligunlerretto.duckdns.org^
 ||indirimmarketleri.click^
+||indirimrehberi.sbs^
 ||indirimsepeti.sbs^
 ||indirimsepetinde.com^
 ||indirimsonfrstt.dnsup.net^
@@ -17039,6 +17052,7 @@
 ||isbnkasiwebsubayrntilr6.shop^
 ||isbnkbaharetkinlikleri.com^
 ||isbnkpromations.com^
+||isbnqamfirsatlarisonkampanyasinda.com^
 ||isbo31w1o7xk3fztvmgpbv.app^
 ||isbqnk-prmosyon.space^
 ||isbrakasi.com^
@@ -17134,6 +17148,7 @@
 ||istakbilhizmetler.xyz^
 ||istakbilislemler.xyz^
 ||istanbancan.com^
+||istanbbulkaarty.xyz^
 ||istanbsaass.xyz^
 ||istanbubizimx.sbs^
 ||istanbuklcsac.xyz^
@@ -18118,6 +18133,8 @@
 ||kgm7218.top^
 ||kgm7995.top^
 ||kgmagov.buzz^
+||kgmbildirmeks.click^
+||kgmborcsorgulamaodeme.ddnsgeek.com^
 ||kgmclaro.click^
 ||kgmgcsbrcnzsrgl.com^
 ||kgmgooiv-tr.ink^
@@ -18350,6 +18367,7 @@
 ||kmpnyaaaprmsynnncklssssss.click^
 ||kmpnyaaaprmsynnncklssssss.info^
 ||kmpnyaaavasvrrrusofnrsalari.online^
+||kmpnyaabasvrrrprsmynn.online^
 ||kmpnyaabsvrr12531.online^
 ||kmpnyaabsvrr12531.pro^
 ||kmpnyaabsvrrfrstlarrrrbsvrr.art^
@@ -19492,6 +19510,7 @@
 ||magaza-odemesi.com^
 ||magaza.online^
 ||magazada-online.com^
+||magazada-shop.online^
 ||magazadan-odeme.com^
 ||magazadan-odemem.com^
 ||magazadan-siparis.com^
@@ -19574,6 +19593,7 @@
 ||maliturkiyen.cyou^
 ||maliuyap.org^
 ||malivezne.com^
+||malivezne.net^
 ||malivezneformu.com^
 ||maliye-vezne.com^
 ||maliyeadalet.org^
@@ -19593,6 +19613,7 @@
 ||maliyekamusorgu.org^
 ||maliyemasak.org^
 ||maliyeodemehizmeti.com^
+||maliyeodemeislemleri.com^
 ||maliyeportal.org^
 ||maliyerandevusistemi.com^
 ||maliyesicil.net^
@@ -24718,6 +24739,7 @@
 ||sendegartnbuldahsel252.click^
 ||sendegelbasvurkazanpromosyon75.click^
 ||sendegelbesendegelartkyap52.click^
+||sendegelburdanalarkdas75.click^
 ||sendegelcabukbasvursondak34.click^
 ||sendenkorkmuyorum1.vip^
 ||sendenkorkmuyorum4.vip^
@@ -25532,6 +25554,7 @@
 ||sonnnfrstlrrkmpnyaabsvrrr.info^
 ||sonnnfrstlrrkmpnyaabsvrrr.online^
 ||sonnnfrstlrrkmpnyaabsvrrr.pro^
+||sonnnfrtsltarrrrprmsynnkmpnya.pro^
 ||sonnnnfrstkkkmpnyabsvrr.art^
 ||sonnnnfrstkkkmpnyabsvrr.info^
 ||sonnnnfrstkkkmpnyabsvrr.pro^
@@ -27293,6 +27316,7 @@
 ||toki-gov.yapisalkonutlar.lol^
 ||toki-govtr-tc.vercel.app^
 ||toki-konut-basvurutr.org^
+||toki-konutlarim.sbs^
 ||toki-toplu-konutlar.vercel.app^
 ||toki-toplukonut.gravitycl.app^
 ||toki-toplukonut.vercel.app^
@@ -29155,6 +29179,7 @@
 ||www-teb-com-tr-internet-subesi.my-homeip.de^
 ||www-teb-com-tr-islem-merkezi.my-homeip.de^
 ||www-teb-com-tr-mobil-sayfa.my-homeip.de^
+||www-teb-com-tr-musteri-girisi.my-homeip.de^
 ||www-teb-com-tr-onayli-islem.my-homeip.de^
 ||www-teb-com-tr-promosyon-basvuru.my-homeip.de^
 ||www-teb-com-tr-promosyon-emekli.my-homeip.de^
