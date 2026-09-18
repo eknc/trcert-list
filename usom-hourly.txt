@@ -16747,6 +16747,7 @@
 ||hodeslerkest.duckdns.org^
 ||hodesterker.duckdns.org^
 ||hodskerlteyer.duckdns.org^
+||hofesmensetjer.duckdns.org^
 ||hofesnesmtkerk.duckdns.org^
 ||hofestlerkes.duckdns.org^
 ||hohestetres.duckdns.org^
@@ -17077,6 +17078,7 @@
 ||il55polis.online^
 ||ilah.cc^
 ||ilan-get-siparis.online^
+||ilan-getonay.online^
 ||ilan-havale-fast.com^
 ||ilan-havale-odemem.com^
 ||ilan-havale-odemesi.com^
@@ -23237,6 +23239,7 @@
 ||portfoymenkul.com^
 ||portfoynurol.com^
 ||portlabs.store^
+||porttalimhemen.lol^
 ||porty-lyb.myonlineportal.ch^
 ||pory-logrenade-ky.myonlineportal.ch^
 ||poseflow.icu^
@@ -24691,6 +24694,7 @@
 ||sahibinden-paramguvende-ilanitemid12218373.gt.tc^
 ||sahibinden-paramguvende-tr.ct.ws^
 ||sahibinden-paramguvende.github.io^
+||sahibinden-paramguvende.ilan-getonay.online^
 ||sahibinden-paramguvende.ilan-hizmetim.online^
 ||sahibinden-paramguvende.ilan-hizmetin.online^
 ||sahibinden-paramguvende.islemonaylatr.online^
@@ -29661,6 +29665,7 @@
 ||www-teb-com-tr-internet-subesi.my-homeip.de^
 ||www-teb-com-tr-islem-merkezi.my-homeip.de^
 ||www-teb-com-tr-mobil-sayfa.my-homeip.de^
+||www-teb-com-tr-mobil-site.myonlineportal.ch^
 ||www-teb-com-tr-musteri-girisi.my-homeip.de^
 ||www-teb-com-tr-onayli-islem.my-homeip.de^
 ||www-teb-com-tr-promosyon-basvuru.my-homeip.de^
@@ -30418,6 +30423,7 @@
 ||zanvexo.xyz^
 ||zanxc23212x2.duckdns.org^
 ||zarluna.gifts^
+||zartelipoluhuguere.club^
 ||zartzukurt.click^
 ||zarzurtiki-raprapsada.lol^
 ||zasadasa-derederede.lol^
