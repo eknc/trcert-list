@@ -85,6 +85,8 @@
 ||101-extra-mobil-sadece-bugune-ozel-mobil-sepet-indirimleri-cep.cepfirsat.online^
 ||101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online^
 ||101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online^
+||101-extra-online-sadece-bugune-ozel-alisveris-indirim-sepeti.bilgi-indirim-tr.online^
+||101-extra-sadece-bugune-ozel-alisveris-indirim-tr.extra-trend.online^
 ||101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.bilgi-al.online^
 ||101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online^
 ||101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop^
@@ -7590,6 +7592,7 @@
 ||89.64.70.69^
 ||89.67.211.162^
 ||894561235864132.sbs^
+||89856974prmsynnlmkmpnyaabasvur.pro^
 ||89sadhash23sadh99sadhsd.click^
 ||89sakdjkxk1l2312z312.sbs^
 ||8asdcasdjasklaksldlx12312.cfd^
@@ -9590,6 +9593,7 @@
 ||avsfilokiralamaa.com^
 ||avsfilokurumsal.com^
 ||avsfilom.com^
+||avsfilom.net^
 ||avsfilonrentcara.com^
 ||avsfilorent.com^
 ||avsfilorental.com^
@@ -9772,6 +9776,7 @@
 ||basvr.tombnk-basvr.click^
 ||basvrrkmpnyaasonnnfrstlarrr.info^
 ||basvrrkmpnyaasonnnfrstlarrr.pro^
+||basvrrrkmpnyaasda13105439.online^
 ||basvrsawkxa.sbs^
 ||basvru-merkkzei.cfd^
 ||basvrulistem.cfd^
@@ -13031,6 +13036,7 @@
 ||ebbvadijitalonizlemenugapptr.space^
 ||ebebekonline.shop^
 ||ebilgi.org^
+||ebilisimceza.com^
 ||ebtkceza.com^
 ||ecbsdosya.org^
 ||ecbskamu.org^
@@ -15129,6 +15135,7 @@
 ||gradixt.tr^
 ||gragelerdesasdas.duckdns.org^
 ||granadabelekluxury.com^
+||granadaluxuribelek.com^
 ||granadaluxuries.com^
 ||granadaluxuriesbelek.com^
 ||granadaluxuryspa.com^
@@ -16497,6 +16504,7 @@
 ||hizli-siparis-sayfasi.com^
 ||hizli-siparisislem.com^
 ||hizli-tuvttr.site^
+||hizli-yapgecisin-yk.web.app^
 ||hizlial-siparis.com^
 ||hizlialisverisicinbr.com^
 ||hizlialisverislerim.com^
@@ -16636,6 +16644,7 @@
 ||hizmetbasvurularimsizde.duckdns.org^
 ||hizmetfirsatlarimkatil.duckdns.org^
 ||hizmetiaesorgu.online^
+||hizmetiaesorgu.site^
 ||hizmetinkalitesi-burada.shop^
 ||hizmetinkalitesi-dunyasi.shop^
 ||hizmetinkalitesi-garantisi.shop^
@@ -17094,6 +17103,7 @@
 ||ilah.cc^
 ||ilan-get-siparis.online^
 ||ilan-getonay.online^
+||ilan-getsiparis.online^
 ||ilan-havale-fast.com^
 ||ilan-havale-odemem.com^
 ||ilan-havale-odemesi.com^
@@ -18475,6 +18485,7 @@
 ||kgm.nghyfd.cc^
 ||kgm.npufww.help^
 ||kgm.nwqly.top^
+||kgm.piyka.help^
 ||kgm.pjxsjz.click^
 ||kgm.qtllum.help^
 ||kgm.rdgth.homes^
@@ -21587,6 +21598,7 @@
 ||nn99990009999.duckdns.org^
 ||nnp0.allthe.site^
 ||nntknlanana.net^
+||nnvirandevubilgilendirme.blogspot.com^
 ||nobilservislerim-2.sbs^
 ||node-js.prentiva99.info^
 ||node.androiddebugbridge.su^
@@ -21731,16 +21743,26 @@
 ||nuvtorgi.gifts^
 ||nvidiapapara.com.ph^
 ||nviilerrndevusu.org^
+||nviirandevubilgilendirme.blogspot.com^
 ||nviirandevun.com^
 ||nviirnndevullarii.net^
+||nviraandevubilgilendirme.blogspot.com^
 ||nvirandev.org^
+||nvirandevubilgilendirme.blogspot.com^
+||nvirandevubilgilendirme1.blogspot.com^
+||nvirandevubilgilendirme2.blogspot.com^
+||nvirandevubilgilendirme3.blogspot.com^
+||nvirandevubilgilendirmecan.blogspot.com^
+||nvirandevubilgilendirmetr.blogspot.com^
 ||nvirandevucan.xyz^
 ||nvirandevucunuz.online^
 ||nvirandevular.com^
+||nvirandevular.xyz^
 ||nvirandevulariniz.online^
 ||nvirandevulariniz.space^
 ||nvirandevularinizz.online^
 ||nvirandevularinizz.site^
+||nvirandevutek.xyz^
 ||nvirandevuu.xyz^
 ||nvirandevuuu.xyz^
 ||nvirandvu.org^
@@ -24700,6 +24722,7 @@
 ||sahibinden-order.cfd^
 ||sahibinden-order.com^
 ||sahibinden-param-guvende.ilan-getonay.online^
+||sahibinden-param-guvende.ilan-getsiparis.online^
 ||sahibinden-param-guvende.ilan-onayla.online^
 ||sahibinden-param-guvende.ilan-siparis.online^
 ||sahibinden-param-guvende.ilanguvenli.online^
