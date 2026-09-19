@@ -10566,6 +10566,7 @@
 ||bireybasvurular.click^
 ||bireycel-pass.my-homeip.net^
 ||bireysel-akmobil-cepte-com.duckdns.org^
+||bireysel-bireysel-ziraat.my-homeip.de^
 ||bireysel-firsatlar.click^
 ||bireysel-guvenli-siparis-onay-sistemi-guncel.online^
 ||bireysel-iade-halkbank.ph^
@@ -10584,6 +10585,7 @@
 ||bireysel-trans.my-homeip.de^
 ||bireysel-transcation.my-homeip.net^
 ||bireysel-ziraatli-kampanya.my-homeip.net^
+||bireysel-zirai-tarim.my-homeip.de^
 ||bireyselbasvurdenizbank.74-235-34-0.plesk.page^
 ||bireyselimpttavm.com^
 ||bireyselpttavm.com^
@@ -11678,6 +11680,7 @@
 ||ceptesoklarile.online^
 ||ceptete.pzbsin.com^
 ||cepteteb-c-o-m-tr.my-homeip.de^
+||cepteteb-com-tr-emekliye-ozell.my-homeip.de^
 ||cepteteb-com-tr.my-homeip.de^
 ||cepteteb-com.my-homeip.de^
 ||cepteteb-digital-firsatlar.my-homeip.de^
@@ -29748,7 +29751,10 @@
 ||www-cepteteb-ayricalikli-firsatlar.my-homeip.de^
 ||www-cepteteb-com-tr-basvuru.my-homeip.de^
 ||www-cepteteb-digitalfirsatlar-com.my-homeip.de^
+||www-cepteteb-emekli-kampanyalari.my-homeip.de^
+||www-cepteteb-emekliye.my-homeip.de^
 ||www-cepteteb-ozelkampanya.my-homeip.de^
+||www-ceptetebden-ayricalik.my-homeip.de^
 ||www-dot-turkiye-dot-gov-dot-tr.jp.gmproxy.org^
 ||www-enpara-qnbfinans-com-tr.ph^
 ||www-fifa.com^
