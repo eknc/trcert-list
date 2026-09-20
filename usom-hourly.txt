@@ -4838,6 +4838,8 @@
 ||2569858477prmsynnkmpnyaabsvr.pro^
 ||256sdx43m6hacx32.sbs^
 ||263737.sbs^
+||2660172556.cloud^
+||2660176266.cloud^
 ||27.124.13.32^
 ||27.124.2.12^
 ||27.124.2.46^
@@ -8736,6 +8738,7 @@
 ||aktarimekranim.duckdns.org^
 ||aktarimsorgurkranlariniz.sbs^
 ||aktarimyapguvenli.duckdns.org^
+||aktarm.space^
 ||aktarsana.space^
 ||aktfbncasgrslertr.com^
 ||aktifbnnsvsbonlinetr.com^
@@ -8990,6 +8993,7 @@
 ||anatoliatravel.pro^
 ||anatoliax.info^
 ||anavico.gifts^
+||and-anp-andric.myonlineportal.ch^
 ||and-web.myonlineportal.ch^
 ||andansiparisa.sbs^
 ||andxxxo.com^
@@ -11604,6 +11608,7 @@
 ||cebteteb-com.my-homeip.de^
 ||cebteteb.my-homeip.de^
 ||cebteteb.myonlineportal.de^
+||cebtetebde-ayricaliklar.my-homeip.de^
 ||cebtetebi.myonlineportal.ch^
 ||cebtetebli.my-homeip.de^
 ||cebtetebli.myonlineportal.at^
@@ -15685,6 +15690,7 @@
 ||haberler145365349.sbs^
 ||haberler145425462.shop^
 ||haberler1542334.shop^
+||haberler154313.sbs^
 ||haberler1564568.sbs^
 ||haberler163234.shop^
 ||haberler1642432.shop^
@@ -17675,6 +17681,7 @@
 ||istanbulhebeler.shop^
 ||istanbulhemencan.xyz^
 ||istanbulhostuzh.xyz^
+||istanbulhovardasi.sbs^
 ||istanbulhub.shop^
 ||istanbulio.shop^
 ||istanbulkacan.xyz^
@@ -25771,6 +25778,7 @@
 ||sg.vrlys.top^
 ||sg.vrlyu.top^
 ||sg.vrlyz.top^
+||sgelink.cloud^
 ||sgk-euravisionix.forum^
 ||sgk-marmaranexis.buzz^
 ||sgkborcsorgulama.com.arkadasliksitesi.gen.tr^
