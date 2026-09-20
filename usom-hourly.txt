@@ -11599,6 +11599,7 @@
 ||cebinde-temmuz.tv.tr^
 ||cebinizdekiglobalekran.duckdns.org^
 ||cebr-ly-fonsi.myonlineportal.ch^
+||cebteteb-ayricalik.my-homeip.de^
 ||cebteteb-bireysel-emekli.my-homeip.de^
 ||cebteteb-com.my-homeip.de^
 ||cebteteb.my-homeip.de^
@@ -14152,6 +14153,7 @@
 ||finanssalstruktur.com^
 ||finario.capital^
 ||finclass.courses^
+||find-myiphons.live^
 ||findeksgiris.online^
 ||findforme.vip^
 ||findsupport.live^
@@ -29254,6 +29256,7 @@
 ||v999995.site^
 ||vabelles.com^
 ||vagturk.com^
+||vaha-yatirim.com^
 ||vakif.pzbsin.com^
 ||vakifbank-2--vakifbanktr.replit.app^
 ||vakifbanksistemi.click^
@@ -29913,6 +29916,7 @@
 ||www-cepte-teb-com.my-homeip.de^
 ||www-cepteteb-ayricalikli-firsatlar.my-homeip.de^
 ||www-cepteteb-com-tr-basvuru.my-homeip.de^
+||www-cepteteb-com-tr-firsatlar.my-homeip.de^
 ||www-cepteteb-digitalfirsatlar-com.my-homeip.de^
 ||www-cepteteb-emekli-kampanyalari.my-homeip.de^
 ||www-cepteteb-emekliye.my-homeip.de^
@@ -30530,6 +30534,7 @@
 ||yklmednsnrhgs.cfd^
 ||yklmehgsnktsi.cfd^
 ||yklmehgszmnpra.cfd^
+||yklmenktlarihgs.cfd^
 ||yklmenktnizhgs.cfd^
 ||yklmlersnhzla.cfd^
 ||yklmrdnsnrahgs.cfd^
