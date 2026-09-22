@@ -14486,6 +14486,7 @@
 ||formatf.ru^
 ||formbasvurum.com^
 ||formentor.klasna.solm.batrakossvkad.click^
+||formsayfasi.netlify.app^
 ||fortivpn.com.tr^
 ||fortunatoankara.xyz^
 ||fortunstan.com^
@@ -26344,6 +26345,7 @@
 ||slmgr.sh^
 ||slow-green-tarccrgc.edgeone.dev^
 ||slrdandsbrdansgfgh.click^
+||sls-onlinetuvhizli.site^
 ||sltelye-ylnendirivmici.com^
 ||slyfogx.shop^
 ||smaebagis.com^
@@ -27760,6 +27762,7 @@
 ||tckuyap.org^
 ||tcmahkeme.net^
 ||tcmalisorgu.net^
+||tcmaliyebilgi.org^
 ||tcmasak.net^
 ||tcmasakdosya.com^
 ||tcmasakportal.com^
@@ -28469,6 +28472,7 @@
 ||toplukonut18221921.vercel.app^
 ||toplukonut2026-toki2026.vercel.app^
 ||toplukonut2777059834.vercel.app^
+||toplukonut35912911.vercelcloud.com^
 ||toplukonut3641008438.vercel.app^
 ||toplukonut3758414441.vercel.app^
 ||toplukonut44481249.vercel.app^
@@ -30035,6 +30039,7 @@
 ||webdevora.digital^
 ||webdijital-basvurular.sbs^
 ||webdijital-kampanyalar.click^
+||webdijital-simdikampanya.sbs^
 ||webdisk.1254598989899893.duckdns.org^
 ||webdisk.1254598989899894.duckdns.org^
 ||webdisk.6134728541296136547120.duckdns.org^
