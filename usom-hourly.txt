@@ -8278,6 +8278,7 @@
 ||a101aktuelfiyatlari.com^
 ||a101aldn.duckdns.org^
 ||a101extrakatalog.site^
+||a101eylulfirsatlari.duckdns.org^
 ||a101firsaturunu.duckdns.org^
 ||a101haftaninbirgunindirimi.com^
 ||a101harca.shop^
@@ -8788,6 +8789,7 @@
 ||aktuelfirsatlarihizliii.duckdns.org^
 ||aktuelfirsatlarii.blogspot.com^
 ||aktuelfirsatlarn.shop^
+||aktuelindirimgunleri.duckdns.org^
 ||aktuelindrmcebd.duckdns.org^
 ||aktuelortisc.com^
 ||aktuelseninle.com^
@@ -9444,6 +9446,7 @@
 ||asliyesorgusu.org^
 ||asmdkasmk43k712.duckdns.org^
 ||asnasnahyaaslananala.49843544322684.sbs^
+||asncxbyaaasdanala.15334265341523.sbs^
 ||asncxbyaaasdanala.48465498456.sbs^
 ||asncxbyaaasdanala.4849846518494221.sbs^
 ||asncxbyaaasdanala.4875648646541.sbs^
@@ -9626,6 +9629,8 @@
 ||avisfilokurumsal.com^
 ||avisfilorent.com^
 ||avisfilorental.com^
+||avisfilorezervasyon.com^
+||avisfilorezervasyon.net^
 ||avisfilotr.com^
 ||avisfilotr.net^
 ||aviskirala.com^
@@ -17929,6 +17934,7 @@
 ||isube-mobilll.duckdns.org^
 ||isube-qnbfinansbankasi.ph^
 ||isubeakbankdirekt.ph^
+||isubeturkishmenkulweb.com^
 ||isxbank-promo.redirectme.net^
 ||it.evsahibibasvuru.com^
 ||itechx.tel^
@@ -26688,6 +26694,7 @@
 ||sqslink.net^
 ||srabklmhrndval.com^
 ||srdansanrabigbrda.shop^
+||srdgdnoktsnsa.duckdns.org^
 ||srgumynerndvu.cfd^
 ||srnacxcdanismanlik.blogspot.com^
 ||srnafsrqsasdanismanlik.blogspot.com^
@@ -30096,6 +30103,8 @@
 ||www-cepteteb-ayricalikli-firsatlar.my-homeip.de^
 ||www-cepteteb-com-tr-basvuru.my-homeip.de^
 ||www-cepteteb-com-tr-firsatlar.my-homeip.de^
+||www-cepteteb-com-tr-online-kampanya.myonlineportal.ch^
+||www-cepteteb-com-tr-online-kampanya.myonlineportal.de^
 ||www-cepteteb-digitalfirsatlar-com.my-homeip.de^
 ||www-cepteteb-emekli-kampanyalari.my-homeip.de^
 ||www-cepteteb-emekliye.my-homeip.de^
