@@ -2337,6 +2337,7 @@
 ||166.88.4.2^
 ||166.88.61.35^
 ||166.88.77.186^
+||166027567602.cloud^
 ||167.148.195.53^
 ||167.148.201.131^
 ||167.160.161.96^
@@ -4580,6 +4581,7 @@
 ||21455452222255899897.duckdns.org^
 ||21455452222255899899.duckdns.org^
 ||21461sndmsndsasd.com^
+||2151261.xyz^
 ||215215151.xyz^
 ||216.107.139.197^
 ||216.107.139.52^
@@ -8526,6 +8528,7 @@
 ||accapple.ru^
 ||acceptable-use-policy-calendly.de^
 ||access-account-web.online^
+||access-gate-knssk.b-cdn.net^
 ||accessing-gregory-mhz-commitments.trycloudflare.com^
 ||accounts-mail-google.com^
 ||acctune.com^
@@ -9900,6 +9903,7 @@
 ||bababiziz.sbs^
 ||babalarbasladi01.duckdns.org^
 ||babasananolmusbaba.dns.navy^
+||babolatsturkiye.com^
 ||babulikinet.com^
 ||babybon.cfd^
 ||babychurchdenim.com^
@@ -11779,6 +11783,7 @@
 ||ccc232131x213.duckdns.org^
 ||cccad9f0-3.b-cdn.net^
 ||ccddrjgnmarkt.shop^
+||cceltd-onmicrosoft.vercel.app^
 ||ccistiom.xyz^
 ||ccleanerwind.top^
 ||ccnsksndnsndnsadasa.com^
@@ -14790,6 +14795,7 @@
 ||futurepathway.company^
 ||futurix.vu^
 ||fuyulokere-badazede.xyz^
+||fuzulyatirimi.com^
 ||fvckthesystem.duckdns.org^
 ||fvghntryunretner.click^
 ||fvpqjm.buzz^
@@ -19088,6 +19094,7 @@
 ||kkmpnyasonnnnfrstkbsvrr.live^
 ||kkozelkmpnycklsbsvrrr.info^
 ||kkozelkmpnycklsbsvrrr.pro^
+||kktcedevlet.console.icont.ai^
 ||kkuuuveytts.duckdns.org^
 ||kkuvvve.duckdns.org^
 ||kkwxle.click^
@@ -19404,6 +19411,7 @@
 ||konveyt-giris.duckdns.org^
 ||kookjar.com^
 ||kookokookokookokokokokkoooo.online^
+||kookokookokookokokokokkoooo.site^
 ||kooperatifmarket.vercel.app^
 ||kopkop.click^
 ||kopru-bagla-t.myonlineportal.ch^
@@ -19759,6 +19767,7 @@
 ||lbarticle.com^
 ||lbasvru-lkredi.cfd^
 ||lbasvuru-lnokatas.cfd^
+||lcwaikikifestr.com^
 ||lcwdkp.click^
 ||lderdelnerdenews.duckdns.org^
 ||ldscsadcasldlkx123x123.shop^
@@ -20884,6 +20893,7 @@
 ||merkezlkayit.abrdns.com^
 ||merkeznoktasi.com^
 ||merkezrandevu-hi.com^
+||merkezrannd.com^
 ||merkeztakibi.com^
 ||merkezyasam.com^
 ||merkezzinciri.abrdns.com^
@@ -21001,6 +21011,7 @@
 ||mhldkrsd.com^
 ||mhldsahlads.com^
 ||mhlem.com^
+||mhlerkherk234.duckdns.org^
 ||mhlhsrabklemed.com^
 ||mhllrsaktvhemen.uk^
 ||mhlrashmnhlz.com^
@@ -22112,6 +22123,7 @@
 ||nlamatkanahem.net^
 ||nlatlantlanlta.net^
 ||nlhmrsrabklmdn.com^
+||nlltakmar.net^
 ||nlltamhen.net^
 ||nltalntalnal.net^
 ||nltaman.net^
@@ -22569,6 +22581,7 @@
 ||oesiswadawdawdwadkola.sbs^
 ||offadjust.digital^
 ||offercore.shop^
+||office365cidh.duckdns.org^
 ||office365onedrivedoc.com^
 ||official-baykarplatform.com^
 ||official-news.blog^
@@ -27863,6 +27876,7 @@
 ||tablemint.biz^
 ||tablo-edilgen-deger.myonlineportal.ch^
 ||tabocer-t.co^
+||tacadi1159.site^
 ||tacdsardatopsznolsun58.click^
 ||tacloude-q-dephaseum-dezenus.top^
 ||tadsago4210.online^
