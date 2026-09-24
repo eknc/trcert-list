@@ -6505,6 +6505,7 @@
 ||60.205.148.180^
 ||60.29.226.181^
 ||60.30.147.18^
+||6017266923.cloud^
 ||604da060-7.b-cdn.net^
 ||61.111.250.139^
 ||61.136.71.171^
@@ -13077,6 +13078,7 @@
 ||dosya-takip.com.idea-files.com^
 ||dosyabirim.org^
 ||dosyacezasorgu.org^
+||dosyagibsorgula.com^
 ||dosyaincele.org^
 ||dosyalarim.conjugaizen.com^
 ||dosyalaruzlasma.org^
@@ -13320,6 +13322,8 @@
 ||ebelgesorgu.com^
 ||ebilgi.org^
 ||ebilisimceza.com^
+||ebilisiminfaz.com^
+||ebilisimteblig.com^
 ||ebtkceza.com^
 ||ebtkportal.com^
 ||ecbsdosya.org^
@@ -16190,6 +16194,7 @@
 ||halkfirsat.click^
 ||halkfirsat.online^
 ||halkfirsat.shop^
+||halkfirsat.tech^
 ||halkfirsat.wiki^
 ||halkgiris.duckdns.org^
 ||halkgirisiniz.duckdns.org^
@@ -18123,6 +18128,7 @@
 ||istkadarbkasadn.com^
 ||istkarlanlasanadas.com^
 ||istkart.xyz^
+||istkartbelgim.xyz^
 ||istkartlabuanlama.duckdns.org^
 ||istkartlahmnadak.com^
 ||istkartlahzlacn.duckdns.org^
@@ -19161,6 +19167,8 @@
 ||kmpnyaaavasvrrrusofnrsalari.online^
 ||kmpnyaabasvrrrprsmynn.online^
 ||kmpnyaabasvrrsonfirstlarrr.pro^
+||kmpnyaabasvrurrprsmynn9328317.online^
+||kmpnyaabasvrurrprsmynn9328317.pro^
 ||kmpnyaabsvrasdas103321.online^
 ||kmpnyaabsvrr12531.online^
 ||kmpnyaabsvrr12531.pro^
@@ -19427,6 +19435,11 @@
 ||kreatif-destek.com^
 ||kreautopagne.de^
 ||kredc.digital^
+||kredddbsvrr213654frstlar.online^
+||kredddbsvrr213654frstlar.pro^
+||kredddbsvrrprmsynn984587kmpny.info^
+||kredddbsvrrprmsynn984587kmpny.online^
+||kredddbsvrrprmsynnkmpnya745896.online^
 ||kredddfrstlrarrkmpnyaabsvrsu98563214.info^
 ||kredddfrstlrarrkmpnyaabsvrsu98563214.pro^
 ||kreddii-merkezisonn.com^
@@ -23686,6 +23699,7 @@
 ||pazarama.satiskontrol.com^
 ||pazarama.sepet-odemeler-2211.com^
 ||pazarama.sepet-odemeler-2212.com^
+||pazarama.sepet-odemeler-2213.com^
 ||pazarama.siparisguvende.com^
 ||pazarama.siparisim-onay-1923.com^
 ||pazarama.siparisimhizli.com^
@@ -24266,6 +24280,7 @@
 ||pttavm-kmsorgulama.web.app^
 ||pttavm-kmsorgulamakkicn.web.app^
 ||pttavm-kmsorgulayin.web.app^
+||pttavm-kmsxrgulama.web.app^
 ||pttavm-odemenizguvende.com^
 ||pttavm-online-siparis.com^
 ||pttavm-onlinesatis.com^
@@ -26310,6 +26325,7 @@
 ||sharedinsight.info^
 ||sharemax.best^
 ||sharing-weblooks-394039902939console-39940030broker.mos.ap-southeast-2.sufybkt.com^
+||sharkturkiye.com^
 ||sharpbrief.world^
 ||shb-guvenlimuhasebeodemesi.duckdns.org^
 ||shelternode18.com^
@@ -26819,6 +26835,8 @@
 ||sonnbsvrrprmsynnnkmpnyaaa.click^
 ||sonnbsvrrprmsynnnkmpnyaaa.live^
 ||sonnfrstlararkmpyabsvr103921.pro^
+||sonnfrstlarrkmpnyaabasvrrr103421.online^
+||sonnfrstlarrkmpnyaabasvrrr103421.pro^
 ||sonnfrstlsrrrkmpnyaabsvrr.art^
 ||sonnfrstlsrrrkmpnyaabsvrr.info^
 ||sonnfrstlsrrrkmpnyaabsvrr.live^
@@ -28536,6 +28554,7 @@
 ||tkg-tapvrdvsunuz.info^
 ||tkg-tapvrdvsunuz.net^
 ||tkg-tapvrdvsunuz.org^
+||tkg-tpuransevdnuz.com^
 ||tkg-tpuransevdnuz.net^
 ||tkgg-edvtap-randvv.org^
 ||tkgms.com.tr^
