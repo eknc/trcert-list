@@ -9409,6 +9409,7 @@
 ||arorayedekparcatr.com^
 ||arquivos-omie.com^
 ||arracamuyane.web.app^
+||arracicnrndavual.web.app^
 ||arracxacnmuyayne.com.tr^
 ||arracxxacnmuyayne.online^
 ||arrrzumstwt.com^
@@ -13239,6 +13240,7 @@
 ||dzbank.capital^
 ||e-aidtodemelr-2023-gov-tr.rf.gd^
 ||e-alisveris-ilan-sepetim.com^
+||e-alisveriskampanya.sbs^
 ||e-basvurularburada.digital^
 ||e-dev-toki-gov-basvuru-dev.online^
 ||e-dev-toki-gov-basvuru-dev.site^
@@ -17536,10 +17538,12 @@
 ||ilan-hizmetin.online^
 ||ilan-ikinciel.com^
 ||ilan-islem.online^
+||ilan-islemi.online^
 ||ilan-magaza.com^
 ||ilan-onayi.online^
 ||ilan-onayla.online^
 ||ilan-paramguvende.online^
+||ilan-satisi.online^
 ||ilan-sepetlerimiz-alisveris.com^
 ||ilan-sepetlerimiz-burada.com^
 ||ilan.hizmet-islememleri.com^
@@ -22837,6 +22841,7 @@
 ||onlinefba.com^
 ||onlineflrsat.com^
 ||onlinegarantimobile.myftp.org^
+||onlinegetodeme.com^
 ||onlinehaziranfirsatlari.com^
 ||onlinehemen.com^
 ||onlineilanlarimptt.com^
@@ -23143,6 +23148,7 @@
 ||otokocturkiye.net^
 ||otokocturkiye.org^
 ||otokocturkiyefilo.com^
+||otokofilo.com^
 ||otokofilomkurumsal.net^
 ||otokokurumsal.com^
 ||otokokurumsal.net^
@@ -29295,6 +29301,7 @@
 ||tttektikklasponsorlurrklam.com^
 ||ttttektikklasponsorlurrklam.com^
 ||tttuvturkhizlirandvu.web.app^
+||tttuwtukr.govt.hu^
 ||tttzzdttaasrqw.nicepage.io^
 ||ttuuvturk.govt.hu^
 ||ttuuvturk.web.app^
