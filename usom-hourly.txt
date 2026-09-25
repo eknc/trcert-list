@@ -9168,6 +9168,7 @@
 ||and-web.myonlineportal.ch^
 ||andansiparisa.sbs^
 ||andxxxo.com^
+||aneviirnadvm.online^
 ||angry-toaster.com^
 ||animalview.xyz^
 ||aninda-basvurularim-com-garanti.duckdns.org^
@@ -13296,6 +13297,7 @@
 ||dzbank.capital^
 ||e-aidtodemelr-2023-gov-tr.rf.gd^
 ||e-alisveris-ilan-sepetim.com^
+||e-alisveris.sbs^
 ||e-alisveriskampanya.sbs^
 ||e-basvurularburada.digital^
 ||e-dev-toki-gov-basvuru-dev.online^
@@ -17608,6 +17610,7 @@
 ||ikbalthermalhotel.com^
 ||ikcjxlsjsq8n3x.cfd^
 ||ikinciel-siparis.com^
+||ikincietap.vercelserver.com^
 ||ikjykmasdwebasdzxmvqwe.click^
 ||iknmusteri.online^
 ||iknportfoy.online^
@@ -18866,6 +18869,7 @@
 ||karocoshoprt.shop^
 ||karostmufz.com^
 ||karovexim.com^
+||karpanel.space^
 ||karparenda.click^
 ||karsamansa.click^
 ||karsepti.gifts^
@@ -30136,6 +30140,7 @@
 ||v2913712.sbs^
 ||v2k7mxr.sbs^
 ||v2xmq7r9k.cfd^
+||v30105.site^
 ||v34c21312.duckdns.org^
 ||v34v3249813x9123x123.shop^
 ||v434gyh66.nicepage.io^
@@ -30829,6 +30834,8 @@
 ||www-brauntr.com^
 ||www-cebteteb-emeklim.my-homeip.de^
 ||www-cepte-b-asn.myonlineportal.ch^
+||www-cepte-frst-sync.myonlineportal.ch^
+||www-cepte-only.myonlineportal.ch^
 ||www-cepte-smdi.myonlineportal.ch^
 ||www-cepte-teb-com.my-homeip.de^
 ||www-ceptedir-sync.myonlineportal.ch^
@@ -31535,6 +31542,7 @@
 ||yonlendiriliyordustahk1.duckdns.org^
 ||yonlendiriliyrsundunz.duckdns.org^
 ||yonlendirilyordusunksi.duckdns.org^
+||yonlendiring.space^
 ||yonlendirisordunsinuz63.duckdns.org^
 ||yonlendiriyotrsunez.duckdns.org^
 ||yonlendirknkcbkbni.duckdns.org^
