@@ -213,6 +213,8 @@
 ||101.99.94.109^
 ||101.99.94.173^
 ||10100002026.duckdns.org^
+||1010010177200.bounceme.net^
+||101001310177200.bounceme.net^
 ||10102dasdas02s2a2da.com^
 ||101ekstramr.duckdns.org^
 ||101firsatlarimburda.click^
@@ -15643,6 +15645,7 @@
 ||gratis.obliqueprism.com^
 ||gratis.optosupply.com^
 ||gratis.paperbacksins.com^
+||gratis.rataforo.com^
 ||gratis.sendreward.com^
 ||gratis.simplysweetcakesoc.com^
 ||gratis.sinoyear.com^
@@ -16173,6 +16176,7 @@
 ||haberler543343.shop^
 ||haberler554.shop^
 ||haberler562346.sbs^
+||haberler56321.sbs^
 ||haberler5632494.sbs^
 ||haberler56755712366.com^
 ||haberler568794.sbs^
@@ -17202,6 +17206,7 @@
 ||hlznarandvlar.com^
 ||hlzrndlsa.com^
 ||hmansahsmnashamnsahmnsahmashns99.space^
+||hmbakanlikvezne.com^
 ||hmbceza.net^
 ||hmbkxcbv.art^
 ||hmbmaliye.org^
@@ -24417,6 +24422,7 @@
 ||ptt-gov-tr.ru^
 ||ptt-gov.eu.cc^
 ||ptt-gov.life^
+||ptt-govv.cc^
 ||ptt-govz.life^
 ||ptt-hgs-odeme.com^
 ||ptt-hgs-odeme.xyz^
@@ -28316,6 +28322,7 @@
 ||teb-bank.com^
 ||teb-cepte-emekliye.my-homeip.de^
 ||teb-com-tr-emekli-firsatlari.my-homeip.de^
+||teb-com-tr-emekli-promosyon.myonlineportal.de^
 ||teb-com-tr-emekli-sayfasi.my-homeip.de^
 ||teb-com-tr-emekli.myonlineportal.at^
 ||teb-com-tr-emekliyeozel.my-homeip.de^
@@ -29820,6 +29827,8 @@
 ||tvtrkjhzmetlrebsd.store^
 ||tvtrkkdshhzimetburds.online^
 ||tvtrkkdshhzimetburds.store^
+||tvtrkmafylari.duckdns.org^
+||tvtrkmynexx.duckdns.org^
 ||tvtrkrnvdmlrm.com^
 ||tvtrkrvdal.org^
 ||tvtrksnrhzsdme.online^
@@ -30842,6 +30851,7 @@
 ||www-braun.org^
 ||www-brauntr.com^
 ||www-cebteteb-emeklim.my-homeip.de^
+||www-cepdetep-com-tr.my-homeip.de^
 ||www-cepte-b-asn.myonlineportal.ch^
 ||www-cepte-frst-sync.myonlineportal.ch^
 ||www-cepte-only.myonlineportal.ch^
