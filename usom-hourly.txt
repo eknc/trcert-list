@@ -216,6 +216,8 @@
 ||1010010177200.bounceme.net^
 ||101001310177200.bounceme.net^
 ||10102dasdas02s2a2da.com^
+||10108283004588.bounceme.net^
+||1014545082504588.bounceme.net^
 ||101ekstramr.duckdns.org^
 ||101firsatlarimburda.click^
 ||101firsatlarin.com^
@@ -13020,6 +13022,7 @@
 ||dijitalsiparisler-kapinda.duckdns.org^
 ||dijitalsiparisler-kapinda.sbs^
 ||dijitalsorgu.sbs^
+||dijitalsube-onlinebasvur.sbs^
 ||dijitalurun-aynigunkapinda.duckdns.org^
 ||dijitalweb-basvurlarim.sbs^
 ||dijitalweb-kampanya.com^
@@ -13301,6 +13304,7 @@
 ||e-alisveris-ilan-sepetim.com^
 ||e-alisveris.sbs^
 ||e-alisveriskampanya.sbs^
+||e-alisverissepet.sbs^
 ||e-basvurularburada.digital^
 ||e-dev-toki-gov-basvuru-dev.online^
 ||e-dev-toki-gov-basvuru-dev.site^
@@ -13368,6 +13372,7 @@
 ||e-sagligahemenkavussss.digital^
 ||e-sagliklibiryasammucadele.digital^
 ||e-sbm.org^
+||e-sepetalisveris.sbs^
 ||e-sozlesme.kurumsal-online-islem.com^
 ||e-sozlesme.online^
 ||e-sube-isbank.ph^
@@ -13527,6 +13532,7 @@
 ||eeeee33e311.duckdns.org^
 ||eesnnas.dns.navy^
 ||eevtasmenuguncell.xyz^
+||efescim.cc.cd^
 ||efesgrtbq.ice.fo^
 ||efesoskr.bot.cd^
 ||efesotomotiv.com^
@@ -14382,6 +14388,7 @@
 ||felmora.cfd^
 ||felvanta.com^
 ||felvoro.store^
+||femonester.duckdns.org^
 ||fenabisey.blogspot.com^
 ||fendril.rest^
 ||fenkasro.gifts^
@@ -17457,6 +17464,7 @@
 ||hukukegm.net^
 ||hukukgib.org^
 ||hukukicezasorgu.com^
+||hukukmali.org^
 ||hukukpaneli.org^
 ||hukuksistem.net^
 ||hukukyonetim.org^
@@ -20622,6 +20630,7 @@
 ||malext.com^
 ||malibirim.com^
 ||malicezasorgu.com^
+||malidosya.org^
 ||maliegm.net^
 ||maliidariceza.org^
 ||malimahkeme.org^
@@ -24474,6 +24483,7 @@
 ||pttavm-bireyselonline.com^
 ||pttavm-com.ph^
 ||pttavm-gecis-hizliykl.web.app^
+||pttavm-gecisbakiyenoktasi.web.app^
 ||pttavm-guvenli-bilgilendirici.firebaseapp.com^
 ||pttavm-guvenli-bilgilendirici.web.app^
 ||pttavm-guvenliode.rf.gd^
@@ -28276,6 +28286,7 @@
 ||tbdqxq.net^
 ||tbk.ist^
 ||tbsaxashfdsasf.sbs^
+||tbtokyo.cc.cd^
 ||tcadli.org^
 ||tcadliye.net^
 ||tcadliye.org^
@@ -30084,6 +30095,7 @@
 ||uy347384.click^
 ||uyap-sorgu.online^
 ||uyapadalet.org^
+||uyapbildirim.com^
 ||uyapbilisim.com^
 ||uyapdava.com^
 ||uyapdavaesorgu.org^
@@ -30131,6 +30143,7 @@
 ||uzerlerguzelim.co^
 ||uzlasmaaktifdosyasorgula.com^
 ||uzlasmabaro.com^
+||uzlasmabildirim.com^
 ||uzlasmabilisim.com^
 ||uzlasmabirim.org^
 ||uzlasmacezasorgu.org^
