@@ -8241,6 +8241,8 @@
 ||98.71.173.119^
 ||98.81.92.194^
 ||9848956489.cloud^
+||98652314prmsynnkmpnyaabsvrr.online^
+||98652314prmsynnkmpnyaabsvrr.pro^
 ||9876523basvrrkmpnyaasonnnfrstlarrr.info^
 ||9876523basvrrkmpnyaasonnnfrstlarrr.pro^
 ||987899876523253i4sa.duckdns.org^
@@ -11904,6 +11906,7 @@
 ||cekilis-paribu.online^
 ||cekilis-reklam.online^
 ||cekilis-sans.online^
+||cekilis-sponsorlu.online^
 ||cekilis-tanitim.online^
 ||cekilisbinance.com^
 ||cekilisburada.online^
@@ -15177,6 +15180,7 @@
 ||gelsinkapina.co^
 ||gelsinkapinaclub.click^
 ||geltatleyeburdfahereyvar81.click^
+||gelvebasinial.duckdns.org^
 ||genafut.top^
 ||gencdeadlaser.cfd^
 ||gencertemizlik.cfd^
