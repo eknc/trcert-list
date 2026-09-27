@@ -6180,6 +6180,7 @@
 ||47.98.194.60^
 ||47.98.202.186^
 ||4742532456254625562.duckdns.org^
+||47859632prmsynnbsvrrkmpnyyyy.online^
 ||48.217.48.70^
 ||48512365482451615.duckdns.org^
 ||485489541268.cloud^
@@ -13303,6 +13304,7 @@
 ||dzbank.capital^
 ||e-aidtodemelr-2023-gov-tr.rf.gd^
 ||e-alisveris-ilan-sepetim.com^
+||e-alisveris-kampanyalar.sbs^
 ||e-alisveris.sbs^
 ||e-alisveriskampanya.sbs^
 ||e-alisverissepet.sbs^
@@ -15806,6 +15808,7 @@
 ||guncelsikayetler-455.sbs^
 ||guncelsikayetler-458.sbs^
 ||guncelsikayetler-459.sbs^
+||guncelsikayetler-553.sbs^
 ||guncelsikayetler-67.sbs^
 ||guncelsikayetler-773.sbs^
 ||guncelsikayetler-774.sbs^
@@ -16090,6 +16093,7 @@
 ||haberler1242123561.sbs^
 ||haberler1245321.shop^
 ||haberler1245343.shop^
+||haberler125421.sbs^
 ||haberler1256236.shop^
 ||haberler1278945.shop^
 ||haberler1283432.shop^
@@ -29000,6 +29004,7 @@
 ||tokyolokko.co^
 ||tol-liber-oreal.myonlineportal.ch^
 ||tom-basvraidt.duckdns.org^
+||tom-hadhii.duckdns.org^
 ||tom00bnk01.duckdns.org^
 ||tombankhadi.com^
 ||tombnkbsvr.duckdns.org^
@@ -30595,6 +30600,7 @@
 ||warwarawra.my.canva.site^
 ||wasaredoor.shop^
 ||washquarry.bond^
+||wasilewski-investments.pl^
 ||wastingtime.co^
 ||watchworldcup.watch^
 ||watchworldcup.world^
