@@ -1203,6 +1203,7 @@
 ||13222214544588989990899.duckdns.org^
 ||133.18.225.36^
 ||133213345665578555989899091.duckdns.org^
+||133213345665578555989899092.duckdns.org^
 ||13395003852.duckdns.org^
 ||13395003853321.duckdns.org^
 ||1339500385355.duckdns.org^
@@ -10907,6 +10908,7 @@
 ||bilimuskudar.zone.id^
 ||bilinclikullanim.abrdns.com^
 ||bilinclituketim.abrdns.com^
+||bilipta.top^
 ||billuno.top^
 ||bilopiddsade-cere.xyz^
 ||bilsesavasiyorumdahanelerle.sbs^
@@ -15573,6 +15575,7 @@
 ||go-para-odeme.online^
 ||go.0010v.lol^
 ||go.garantibbvakredibasvuru.com^
+||goalfran.xyz^
 ||goalfree.cfd^
 ||goalmate.ru^
 ||goalsheepvision.com^
@@ -15629,6 +15632,7 @@
 ||gopiraventuxelazim.sbs^
 ||goporland.shop^
 ||gopractic.digital^
+||goprizva.com^
 ||gopshop.shop^
 ||gorantisidi232323.duckdns.org^
 ||gorati.info^
@@ -15874,6 +15878,7 @@
 ||grup-web.ink^
 ||grupdk.com^
 ||gruta.com.mx^
+||gryacvm.click^
 ||gryhnthtyuwer.click^
 ||gsdhsdfhswa.sbs^
 ||gsladcskadlc1j23k1231z31.shop^
@@ -27758,6 +27763,7 @@
 ||stockib.com^
 ||stockivs.com^
 ||stocksnt.com^
+||stoklaribitiriyoruzsondusus.sbs^
 ||stokta-sayili-urun.sbs^
 ||stontra.shop^
 ||storage-apis.vercelcloud.com^
@@ -27922,6 +27928,7 @@
 ||swift-sh.com^
 ||swift-zip.com^
 ||switch.my-homeip.de^
+||switzel.com^
 ||swqlink.net^
 ||sx.nuihuw.com^
 ||sx1886.com^
@@ -28351,6 +28358,7 @@
 ||t9x1q6m4z8w3.sbs^
 ||t9xuv2mqi7zora4kel8nav5.sbs^
 ||taatas.com^
+||tabaeq.mom^
 ||tabble.site^
 ||tabkherkersegeleceksennerdesn85.info^
 ||tabksendeartkkatlherkesburdagel25.click^
@@ -31018,6 +31026,7 @@
 ||weentuncast.sbs^
 ||wefdasfdasf.duckdns.org^
 ||wegwehq.xyz^
+||wekinni.top^
 ||welghlbeingguide.info^
 ||wellivo.gifts^
 ||welllbeingplace.com^
@@ -31186,14 +31195,18 @@
 ||www-cepte-portal-tb.myonlineportal.ch^
 ||www-cepte-portaln-tb.myonlineportal.ch^
 ||www-cepte-rar-tb.myonlineportal.ch^
+||www-cepte-rat-outb.myonlineportal.ch^
 ||www-cepte-secrty-tb.myonlineportal.ch^
 ||www-cepte-smdi.myonlineportal.ch^
 ||www-cepte-stor-syn.myonlineportal.ch^
 ||www-cepte-tb-story.myonlineportal.ch^
+||www-cepte-tbyour-web.myonlineportal.ch^
 ||www-cepte-teb-com.my-homeip.de^
 ||www-cepte-teb-work.myonlineportal.ch^
 ||www-cepte-time-tb.myonlineportal.ch^
 ||www-cepte-tvb-right.myonlineportal.ch^
+||www-cepte-tyb-web.myonlineportal.ch^
+||www-cepte-wb-tb.myonlineportal.ch^
 ||www-ceptedir-sync.myonlineportal.ch^
 ||www-cepteteb-ayricalikli-firsatlar.my-homeip.de^
 ||www-cepteteb-com-tr-basvuru.my-homeip.de^
