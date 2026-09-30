@@ -391,6 +391,8 @@
 ||103.241.64.128^
 ||103.243.212.98^
 ||103.244.88.125^
+||103.245.231.248^
+||103.245.231.79^
 ||103.245.236.146^
 ||103.245.249.64^
 ||103.246.145.201^
@@ -1013,6 +1015,7 @@
 ||12211455441554555889895.xyz^
 ||12212111455447885588952225590.duckdns.org^
 ||12212111455447885588952225591.duckdns.org^
+||1222233122455666512255991.xyz^
 ||122455512222455588899890.duckdns.org^
 ||1227300299930.webredirect.org^
 ||123.10.153.253^
@@ -1121,6 +1124,7 @@
 ||1267125.xyz^
 ||127478900120.duckdns.org^
 ||1274883050699.duckdns.org^
+||127919552784050.webredirect.org^
 ||1279199552030.duckdns.org^
 ||128.0.118.12^
 ||128.0.118.14^
@@ -3735,6 +3739,7 @@
 ||193.169.240.81^
 ||193.17.183.233^
 ||193.176.190.41^
+||193.178.158.107^
 ||193.178.159.128^
 ||193.178.210.226^
 ||193.181.23.70^
@@ -4223,6 +4228,7 @@
 ||2.57.149.231^
 ||2.57.149.237^
 ||2.57.149.25^
+||2.57.241.246^
 ||2.58.14.183^
 ||2.58.14.246^
 ||2.58.14.95^
@@ -6006,6 +6012,7 @@
 ||45.82.85.50^
 ||45.83.236.105^
 ||45.84.0.254^
+||45.84.59.66^
 ||45.86.163.163^
 ||45.86.163.77^
 ||45.86.163.93^
@@ -7700,6 +7707,7 @@
 ||89.124.96.27^
 ||89.125.17.185^
 ||89.125.189.85^
+||89.125.209.168^
 ||89.125.255.29^
 ||89.125.66.101^
 ||89.144.30.109^
@@ -9020,6 +9028,7 @@
 ||aktarimekranim.duckdns.org^
 ||aktarimsorgurkranlariniz.sbs^
 ||aktarimyapguvenli.duckdns.org^
+||aktaring.online^
 ||aktaring.space^
 ||aktarm.space^
 ||aktarsana.space^
@@ -11772,6 +11781,7 @@
 ||bytezi.xyz^
 ||bytix.cyou^
 ||bytra.cyou^
+||byveo.org^
 ||byyrdrmdmdnsnttt.com^
 ||bznzn.duckdns.org^
 ||c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev^
@@ -15590,6 +15600,7 @@
 ||glbrdrvalsn.com^
 ||glerdanesakare.duckdns.org^
 ||glerdenlerdews.duckdns.org^
+||gliderrompercycl.com^
 ||glimzo.click^
 ||glintryvo.com^
 ||glitch-vibe.com^
@@ -15938,6 +15949,7 @@
 ||gta6demo.us^
 ||gtrllkol.cfd^
 ||gttignyeryerdegil.sbs^
+||guach.net^
 ||guardiancapitalway.com^
 ||guardiangrowthfunding.com^
 ||gucum109.click^
@@ -16021,6 +16033,7 @@
 ||guncelsikayetler-c14.sbs^
 ||guncelsikayetler-c15.sbs^
 ||guncelsistemgirisi.abrdns.com^
+||guncelsistemgirisiniz.abrdns.com^
 ||guncelsistemhaber.com^
 ||gunceltrsikayetler-253.sbs^
 ||gunceltrsikayetler-255.sbs^
@@ -16595,6 +16608,7 @@
 ||halkrafaelo.space^
 ||halksalseyler.co^
 ||halktanweb.blogspot.com^
+||halkyatirim-tr.info^
 ||halmoramarket.shop^
 ||haltrnlersknmkd.cfd^
 ||haluce.online^
@@ -19411,6 +19425,7 @@
 ||kilometresorgulamasi.info^
 ||kilometresorgulamayapburadagovpet.duckdns.org^
 ||kilometresorgumadan.web.app^
+||kilometresorgumerkezi.web.app^
 ||kilometresorgupttavm.com^
 ||kilometresorgus.web.app^
 ||kilometresorgusubayin.web.app^
@@ -19733,6 +19748,7 @@
 ||kmverisorgu.com^
 ||kmyenilmezi.xyz^
 ||kmyikilmazi.xyz^
+||kmzsgsmdiza.web.app^
 ||knaklanlktana.net^
 ||kndanglrbndensana.shop^
 ||kndemvaerc.duckdns.org^
@@ -19770,6 +19786,7 @@
 ||kocrental.com^
 ||kocrental.org^
 ||koctas.live^
+||koefes.cc.cd^
 ||koelra-lg-grn.myonlineportal.ch^
 ||koent.website^
 ||kofestlerkest.duckdns.org^
@@ -25214,6 +25231,7 @@
 ||quintra.store^
 ||quirkyclub.club^
 ||qujarenu-womisaki.lol^
+||qumel.link^
 ||qumora.info^
 ||qunlivo.com^
 ||quorion.site^
@@ -25660,6 +25678,7 @@
 ||rndvunuzuayirten.com^
 ||rndvunuzuayirtin.com^
 ||rndvzhudsmurebus.store^
+||rngdnnnnnn.xyz^
 ||rnmdvshuzbrusdds.store^
 ||rnndnddvvvlrrrr.lol^
 ||roamcase.org^
@@ -25684,6 +25703,7 @@
 ||roivelo.live^
 ||roketsan-miras.com^
 ||roldco.com^
+||rollcyrentacars.online^
 ||rollededpack.info^
 ||rollenmetimur.duckdns.org^
 ||rollglass.xyz^
@@ -26468,6 +26488,7 @@
 ||secondsightsystilqemsllc.vu^
 ||secondturkiye.shop^
 ||secupd.cfd^
+||secure-dns-hub.com^
 ||secure-imagehub.info^
 ||secure-passkey.com^
 ||secure-tr.online^
@@ -27544,6 +27565,7 @@
 ||sorgupanelciniz.world^
 ||sorgupanelhizli.site^
 ||sorgupaneli.art^
+||sorgupaneli.boats^
 ||sorgupaneli.info^
 ||sorgupaneli.ink^
 ||sorgupaneli.life^
@@ -29216,6 +29238,7 @@
 ||tkg-tpuransevdnuz.com^
 ||tkg-tpuransevdnuz.net^
 ||tkgg-edvtap-randvv.org^
+||tkgm.ink^
 ||tkgms.com.tr^
 ||tkibasvru.sbs^
 ||tkibscvr.sbs^
@@ -30740,6 +30763,7 @@
 ||veonllinevservise.xyz^
 ||veradix.blog^
 ||veralunahorizon.com^
+||vercelserver.com^
 ||verdantcore.biz^
 ||verenacicek.com^
 ||veri-donustur.ink^
@@ -31025,6 +31049,8 @@
 ||web-meets.com^
 ||web-shop-tr.online^
 ||web-siparis-kampanya.sbs^
+||web-siparis-olusturma.sbs^
+||web-siparis-online.sbs^
 ||web-siparis-ver.sbs^
 ||web-sipariskampanya.sbs^
 ||web-siparislerim.sbs^
@@ -31094,6 +31120,7 @@
 ||webtapsc.store^
 ||webte-182.com^
 ||webte182.com^
+||webteislembbva.fun^
 ||webtkrmsal.com^
 ||webtkrmsal.web.app^
 ||webvexa.vu^
@@ -31176,6 +31203,7 @@
 ||woodwok.asia^
 ||worbint.surf^
 ||wordlinktranslator.com^
+||wordpress-19c09.wasmer.app^
 ||wordpress-214832-0.cloudclusters.net^
 ||workandtrash.cfd^
 ||worker-net.com^
@@ -31281,6 +31309,7 @@
 ||www-cepte-secrty-tb.myonlineportal.ch^
 ||www-cepte-smdi.myonlineportal.ch^
 ||www-cepte-stor-syn.myonlineportal.ch^
+||www-cepte-tb-result.myonlineportal.ch^
 ||www-cepte-tb-story.myonlineportal.ch^
 ||www-cepte-tbyour-web.myonlineportal.ch^
 ||www-cepte-teb-com.my-homeip.de^
@@ -31288,8 +31317,10 @@
 ||www-cepte-time-tb.myonlineportal.ch^
 ||www-cepte-tvb-right.myonlineportal.ch^
 ||www-cepte-tyb-web.myonlineportal.ch^
+||www-cepte-vsync-ac.myonlineportal.ch^
 ||www-cepte-wb-tb.myonlineportal.ch^
 ||www-ceptedir-sync.myonlineportal.ch^
+||www-ceptetb-repstr.myonlineportal.ch^
 ||www-cepteteb-ayricalikli-firsatlar.my-homeip.de^
 ||www-cepteteb-com-tr-basvuru.my-homeip.de^
 ||www-cepteteb-com-tr-firsatlar-promosyon.myonlineportal.ch^
