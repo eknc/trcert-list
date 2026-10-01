@@ -262,6 +262,7 @@
 ||103.101.30.10^
 ||103.102.31.18^
 ||103.103.0.225^
+||103.103.128.6^
 ||103.104.87.233^
 ||103.106.105.135^
 ||103.106.202.99^
@@ -346,6 +347,7 @@
 ||103.172.38.249^
 ||103.172.79.74^
 ||103.173.154.45^
+||103.173.62.134^
 ||103.174.34.49^
 ||103.174.73.190^
 ||103.174.80.40^
@@ -1162,6 +1164,7 @@
 ||129.212.216.91^
 ||129.226.190.169^
 ||129.232.1.116^
+||129996.com^
 ||12fa32fafs22fgsar24.cfd^
 ||12mayistasiparisler.cloud^
 ||13.140.176.180^
@@ -1467,6 +1470,7 @@
 ||142.11.200.187^
 ||142.11.200.188^
 ||142.11.206.73^
+||142.11.227.246^
 ||142.111.152.50^
 ||142.111.77.196^
 ||142.127.171.133^
@@ -1831,6 +1835,7 @@
 ||149.28.219.210^
 ||149.28.25.254^
 ||149.28.25.33^
+||149.28.68.157^
 ||149.28.71.39^
 ||149.28.78.189^
 ||149.28.99.61^
@@ -2616,6 +2621,8 @@
 ||173.236.113.132^
 ||173.239.218.248^
 ||173.239.218.251^
+||173.247.227.62^
+||173.247.232.38^
 ||173.249.209.193^
 ||173.249.41.141^
 ||173.254.211.184^
@@ -3127,6 +3134,7 @@
 ||185.141.119.185^
 ||185.141.216.120^
 ||185.141.216.127^
+||185.141.24.3^
 ||185.141.63.209^
 ||185.141.63.216^
 ||185.142.33.131^
@@ -4158,6 +4166,7 @@
 ||198.46.178.135^
 ||198.46.218.19^
 ||198.46.243.118^
+||198.50.168.185^
 ||198.50.207.21^
 ||198.52.166.197^
 ||198.54.117.242^
@@ -4363,6 +4372,7 @@
 ||205.237.106.27^
 ||205.237.110.243^
 ||206.119.124.126^
+||206.119.167.207^
 ||206.119.80.89^
 ||206.123.128.81^
 ||206.123.145.153^
@@ -5024,6 +5034,7 @@
 ||31.14.142.50^
 ||31.149.213.145^
 ||31.162.170.37^
+||31.170.160.61^
 ||31.170.22.205^
 ||31.172.87.20^
 ||31.172.87.248^
@@ -5977,6 +5988,7 @@
 ||45.76.155.14^
 ||45.76.157.113^
 ||45.76.160.53^
+||45.76.171.107^
 ||45.76.182.154^
 ||45.76.184.214^
 ||45.76.193.171^
@@ -7294,6 +7306,7 @@
 ||80.85.156.237^
 ||80.85.157.117^
 ||80.94.93.119^
+||80.94.95.252^
 ||80.96.109.107^
 ||80.96.109.229^
 ||80.96.109.241^
@@ -8730,6 +8743,7 @@
 ||acvigilioplifacada.xyz^
 ||ad-g.org^
 ||ada322e232.pzbsin.com^
+||adaadada.top^
 ||adaai.neocities.org^
 ||adaletgib.org^
 ||adalethukuku.org^
@@ -9363,6 +9377,7 @@
 ||antalyalunex.com^
 ||antdqz.cc^
 ||antibotv3.com^
+||anticonstitutionally.sbs^
 ||antrop-livayn.myonlineportal.ch^
 ||anus-staylard.xyz^
 ||anveriadigital.com^
@@ -9374,6 +9389,7 @@
 ||aotuzbirharcaharcatmez.duckdns.org^
 ||apartment.devour.top^
 ||apexkurumsalfilo.com^
+||apexrecord.top^
 ||apexsorgu.alwaysdata.net^
 ||api-garantibbva.ph^
 ||api-microservice-us1.com^
@@ -10961,6 +10977,7 @@
 ||binance-tr-cekilis.com^
 ||binance-web30.shop^
 ||binancecekilisi.com^
+||binancechainus.com^
 ||binancelogin-tr.com^
 ||binancemasakdogrulamaactivasyon.duckdns.org^
 ||binancemobileapp.ph^
@@ -11962,6 +11979,7 @@
 ||casewiselegal.com^
 ||casl123xkkasckx132.lat^
 ||casteleta.vip^
+||cataclysmdda.xyz^
 ||catalogpix.pics^
 ||catalyst-pro.lat^
 ||catalystboostfunding.com^
@@ -11970,6 +11988,7 @@
 ||catchingthewindoutdoors.org^
 ||caterpillar-turkiyetr.com^
 ||caterplilar-turkiye.com^
+||cathaybk-garantibbva.com.ph^
 ||catsica.shop^
 ||caurforaedddal.click^
 ||cauterizespray.icu^
@@ -12194,6 +12213,7 @@
 ||ceptetebden-firsati.my-homeip.de^
 ||ceptetebden.my-homeip.de^
 ||ceptetebeva.my-homeip.de^
+||ceptetebli-ayricalik.my-homeip.de^
 ||ceptetebli-basvurum.my-homeip.de^
 ||ceptetebli-emekliye.my-homeip.de^
 ||ceptetebli-kampanya.my-homeip.de^
@@ -12679,6 +12699,7 @@
 ||ctfsai.cc^
 ||ctrgarlerimenuguncel.xyz^
 ||ctroocankaa.xyz^
+||cuckoldtazmanya.duckdns.org^
 ||cugeredesede-sederese.lol^
 ||cugufirede-sedete.lol^
 ||cugufuerede-sederese.lol^
@@ -14553,6 +14574,7 @@
 ||fasterscommunications.com^
 ||fastfilenext.com^
 ||fastfustfist.co^
+||fastsecurey.info^
 ||faststoneportal.ru^
 ||fasttracknews.buzz^
 ||fate-dale-candidates-quantitative.trycloudflare.com^
@@ -18123,6 +18145,7 @@
 ||instagramlogin910.blogspot.com^
 ||instagramloginpage2021.blogspot.com^
 ||installpasskey.com^
+||instantmessagehub.tech^
 ||instatraksf.nicepage.io^
 ||instatraksfa.nicepage.io^
 ||instructure-garantibbva.com.ph^
@@ -18819,6 +18842,8 @@
 ||jui.theoptimizedbody.com^
 ||juk2a.site^
 ||july8494589.click^
+||jump.qt-proxy.org^
+||jump.qt-team.com^
 ||jumperfloate.top^
 ||jurnaqiv.live^
 ||jurnemov.media^
@@ -20440,6 +20465,7 @@
 ||login.org.tr^
 ||login.trees4sale.net^
 ||login10matik.shop^
+||login4matik.shop^
 ||loginbinance-tr.online^
 ||logisticabiomedica.com^
 ||logiswebmail.top^
@@ -21725,6 +21751,7 @@
 ||mirezanoq.com^
 ||mirezanul.com^
 ||mirkazuno.sbs^
+||mirrorstorage.org^
 ||misslink.click^
 ||misyonmenkuldegerler.com^
 ||misyonyatirimmenkuldegerler.com^
@@ -22480,6 +22507,7 @@
 ||newswisp.today^
 ||newswoven.com^
 ||newsx24daily.com^
+||newtourism.pw^
 ||nexafin.capital^
 ||nexahub.lat^
 ||nexarova.shop^
@@ -22505,6 +22533,7 @@
 ||nextwave.business^
 ||nexulio.xyz^
 ||nexumra.com^
+||nexupoly.com^
 ||nexurafuture.info^
 ||nexusforged.pro^
 ||nexusintimategoods.com^
@@ -23362,6 +23391,7 @@
 ||onlinezlraatmenuglrls.duckdns.org^
 ||onlinnehzmtlerim.com^
 ||onlinozlxxldante.gt.tc^
+||onlion.shop^
 ||onliseriesxozel.click^
 ||onlline-sbm.org^
 ||onlline.csgb.govct.tr^
@@ -25026,6 +25056,7 @@
 ||pttonlinesiparislerim.com^
 ||pttov.bond^
 ||ptttavmhgsyukle.com^
+||ptttawmsorgulasana.com^
 ||pttttavmhgs.com^
 ||pttviphome.life^
 ||ptvavm.shop^
@@ -25199,6 +25230,8 @@
 ||qrlwkemail.garantibbvakredibasvuru.com^
 ||qsewjn.icu^
 ||qt-proxy.org^
+||qt-team.com^
+||qtproxy.com^
 ||qtproxy.xyz^
 ||qtwayedfasfhda1sasx2.shop^
 ||quantovexhub.com^
@@ -25806,6 +25839,7 @@
 ||rynqewvqwebyutn.click^
 ||s-candycollection.com^
 ||s-guvendesigortaodeme.duckdns.org^
+||s-guvenlimuhasebeodemebirimi.com^
 ||s-guvenlimuhasebeodemenoktasi.duckdns.org^
 ||s-guvenliodemebiriminiz.duckdns.org^
 ||s-guvenlisigortaodemenoktasi.duckdns.org^
@@ -26058,6 +26092,7 @@
 ||sahibinden-get.servisinguvenli-67.sbs^
 ||sahibinden-get.servisinguvenli-68.sbs^
 ||sahibinden-get.servisinguvenli-75.sbs^
+||sahibinden-get.servisinguvenli-80.sbs^
 ||sahibinden-get.servislerinmobil-12.sbs^
 ||sahibinden-get.servislerinmobil-13.sbs^
 ||sahibinden-get.servislerjethizmetler.online^
@@ -26233,6 +26268,7 @@
 ||sahibinden.sepetimde-onay.com^
 ||sahibinden.sepetimguvende.shop^
 ||sahibinden.sepetimonay.site^
+||sahibinden.sepetteonline.shop^
 ||sahibinden.shenzylegend.com^
 ||sahibinden.siparis-magazasi.com^
 ||sahibinden.siparishizli-ver.com^
@@ -26727,6 +26763,7 @@
 ||servalingarden.pro^
 ||server-guide--microsoftsignin.replit.app^
 ||server.cubatiendaalimentos.com.mx^
+||serverbks.xyz^
 ||serverhubx.cyou^
 ||servernest.sbs^
 ||serverpath.digital^
@@ -29720,6 +29757,7 @@
 ||trendyo5.xyz^
 ||trendyol-alibaba.ph^
 ||trendyol-baglanti-ile-satin-al.com^
+||trendyol-bridge.duckdns.org^
 ||trendyol-ekargo-4000.netlify.app^
 ||trendyol-ile-baglanti-tamamla.com^
 ||trendyol-mall.biz^
@@ -30860,6 +30898,7 @@
 ||view-sour-c.myonlineportal.ch^
 ||viewdocuemnt151y-dataqjqhg.emp01825.workers.dev^
 ||vigmanet.ru^
+||vigorlabs.info^
 ||viixzhsldndu3dx3e.click^
 ||viki-play.com^
 ||vimshopa.gifts^
@@ -31199,6 +31238,7 @@
 ||windwsecurity.run^
 ||winhardwarehub.gifts^
 ||winride.gifts^
+||wintel.biz^
 ||winter-smoke-a612.icy-star-f45c.workers.dev^
 ||winter-waterfall-0606.rihaniomar21.workers.dev^
 ||wireinsight.info^
@@ -31432,6 +31472,7 @@
 ||www.drivelivelime.com^
 ||www.guidingstars.ae^
 ||www.heilongyk.top^
+||www.zhc-ms-whatsappweb.com.cn^
 ||www155-polisi.online^
 ||www221x23241.duckdns.org^
 ||wwwaww.sbs^
