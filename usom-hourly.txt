@@ -991,6 +991,7 @@
 ||120.85.112.123^
 ||120.89.46.135^
 ||120.92.16.84^
+||120200000000034445.duckdns.org^
 ||121.127.232.253^
 ||121.127.33.212^
 ||121.127.34.150^
@@ -1213,6 +1214,7 @@
 ||130.94.32.155^
 ||130.94.41.206^
 ||130.94.6.228^
+||1300000.duckdns.org^
 ||131.123.40.98^
 ||131.123.43.239^
 ||131.153.13.235^
@@ -4981,6 +4983,7 @@
 ||24612-20114.xyz^
 ||24612-yara.click^
 ||24612-yara.xyz^
+||2481489213.com^
 ||24saatteslimkapina.sbs^
 ||251562.sbs^
 ||252525-26526.xyz^
@@ -5183,6 +5186,7 @@
 ||342354325435123.duckdns.org^
 ||34236544.net^
 ||3424firsatbsvuru.com^
+||3432wqewqr211421.cfd^
 ||3434343434istanbul.sbs^
 ||3434343434istanbul.xyz^
 ||34424firsatbsvuru.com^
@@ -9117,6 +9121,7 @@
 ||aktuelcebindecom.com^
 ||aktuelfirsat.com^
 ||aktuelfirsatgunu.duckdns.org^
+||aktuelfirsati.duckdns.org^
 ||aktuelfirsatlarihizliii.duckdns.org^
 ||aktuelfirsatlarii.blogspot.com^
 ||aktuelfirsatlarn.shop^
@@ -13356,6 +13361,7 @@
 ||dnzmnkulonline.com^
 ||do2wers.com^
 ||doadis.com^
+||doaodeme.com^
 ||doarsoft.com^
 ||doblosolfar.sbs^
 ||dobroway.com^
@@ -15756,6 +15762,7 @@
 ||goodsroute.shop^
 ||goodsvalley.shop^
 ||googlecomfunkyehh.vercel.app^
+||googlemeet.pro^
 ||googlemeet98ty.pages.dev^
 ||googlenets.ru^
 ||googleplaydown.com^
@@ -19331,6 +19338,7 @@
 ||kekecdanisman.com^
 ||kekeevyahv2.duckdns.org^
 ||kekemgeldisohretkekemgeldipara.cfd^
+||kekemolmusmetaci.duckdns.org^
 ||kekrswwwsan.blogspot.com^
 ||keldarux.vu^
 ||kellea.hegikeiroz.workers.dev^
@@ -19513,6 +19521,7 @@
 ||kilometredetaym.web.app^
 ||kilometregecmisikolay.lol^
 ||kilometrekusu.xyz^
+||kilometresorguhesap.web.app^
 ||kilometresorgulamapttavm.com^
 ||kilometresorgulamasi.info^
 ||kilometresorgulamayapburadagovpet.duckdns.org^
@@ -19824,6 +19833,7 @@
 ||kmsorgulamahizmettimiz.web.app^
 ||kmsorgulamahzmetleriniz.online^
 ||kmsorgulamahzmetleriniz.web.app^
+||kmsorgulamaislemleri.web.app^
 ||kmsorgulamamizz.web.app^
 ||kmsorgulamamizzw.web.app^
 ||kmsorgulamammiz.web.app^
@@ -23635,6 +23645,7 @@
 ||osmanli.portfoymenkul.com^
 ||osmanliportfoy.app^
 ||osmanlisorgupaneli.site^
+||osmanlisorgupaneli.space^
 ||osmanlisubesndyzbiz.online^
 ||osmanlivportfoy.com^
 ||osmanlivportfoy.online^
@@ -24296,6 +24307,7 @@
 ||pazarama.guvenliservisler.com^
 ||pazarama.guvenlisiparisim.com^
 ||pazarama.guvenliteslimat.com^
+||pazarama.gvnliodemeniz.com^
 ||pazarama.havale-gonderici.com^
 ||pazarama.havale-gonderim.com^
 ||pazarama.hemenislemler.com^
@@ -24339,6 +24351,9 @@
 ||pazarama.magazamda-ilanim.com^
 ||pazarama.odeme-onay-1281.com^
 ||pazarama.odeme-onay-1282.com^
+||pazarama.odeme-onay-1283.com^
+||pazarama.odeme-onay-1284.com^
+||pazarama.odeme-onay-1285.com^
 ||pazarama.odemeyonetimi.com^
 ||pazarama.onayda-sepet-7180.com^
 ||pazarama.onayda-sepet-7181.com^
@@ -25816,6 +25831,7 @@
 ||roivelo.live^
 ||roketsan-miras.com^
 ||roldco.com^
+||roleplayyasak.duckdns.org^
 ||rollcyrentacars.online^
 ||rollededpack.info^
 ||rollenmetimur.duckdns.org^
@@ -27449,6 +27465,7 @@
 ||softquiver.com^
 ||softwareguard.cfd^
 ||sofuoglumoto.com^
+||sofuoglumotosiklet.com^
 ||sok-marketler-kampanyasi-stoklarla52052052.sbs^
 ||sokagirdim.xyz^
 ||sokaklaroldubasimabela.duckdns.org^
@@ -31636,6 +31653,7 @@
 ||xbd.garden^
 ||xbossgymxistanbul.xyz^
 ||xcd9fen0sk3r.com^
+||xcdr12wq1w.com^
 ||xcn23aj234cd.duckdns.org^
 ||xcsda881sdf.duckdns.org^
 ||xczvcxdsa.com^
@@ -32491,6 +32509,7 @@
 ||ziraat-mobil.online^
 ||ziraat-yenilenensubemiz.com.ph^
 ||ziraat.bkasionline.com^
+||ziraat.finance^
 ||ziraatbank-bankofamerican.com.ph^
 ||ziraatbank-com-tr.my-homeip.de^
 ||ziraatbank-kolaybasvurlar.vercel.app^
