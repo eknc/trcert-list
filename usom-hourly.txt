@@ -137,6 +137,7 @@
 ||101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online^
 ||101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online^
 ||101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online^
+||101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online^
 ||101-extra-sadece-bugune-ozel-mobil-online-indirimleri-sepet-tr.cepsepet-tr.online^
 ||101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-shop-tr.trendex-tr.online^
 ||101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online^
@@ -804,6 +805,7 @@
 ||1111112820004933.bounceme.net^
 ||11111128830029.bounceme.net^
 ||11112222244444.webredirect.org^
+||11112222244494.webredirect.org^
 ||11114141414.duckdns.org^
 ||111194999373845dnz.duckdns.org^
 ||111194999373845dnz.webredirect.org^
@@ -5634,6 +5636,7 @@
 ||45.128.232.200^
 ||45.128.232.235^
 ||45.129.0.125^
+||45.129.0.192^
 ||45.129.199.200^
 ||45.129.199.222^
 ||45.129.230.38^
@@ -6698,6 +6701,7 @@
 ||62.210.201.223^
 ||62.215.108.18^
 ||62.233.57.94^
+||62.238.62.226^
 ||62.60.130.142^
 ||62.60.130.228^
 ||62.60.131.168^
@@ -7232,6 +7236,7 @@
 ||79.141.162.187^
 ||79.141.162.189^
 ||79.141.163.179^
+||79.141.169.187^
 ||79.141.173.158^
 ||79.141.175.146^
 ||79.184.25.198^
@@ -8618,6 +8623,7 @@
 ||a101onlineislemlermerkezi.pages.dev^
 ||a101pazar.com^
 ||a101pro.shop^
+||a101reklam.com^
 ||a101yilinfirsatlar.com^
 ||a101yuzyilinfirsatlari.duckdns.org^
 ||a10firsat.duckdns.org^
@@ -10851,6 +10857,7 @@
 ||bendenkorkmasan4.vip^
 ||bendenkorkmasan6.vip^
 ||bendenkorkmasan8.vip^
+||bendenynarvdalsn.lol^
 ||bendigo-homesa.info^
 ||benefasts-fhgs2.com^
 ||benibirdahanezamangorcen.click^
@@ -18653,6 +18660,7 @@
 ||istkartbelgimtr.xyz^
 ||istkartlabuanlama.duckdns.org^
 ||istkartlahmnadak.com^
+||istkartlahmnodesal.xyz^
 ||istkartlahzlacn.duckdns.org^
 ||istkartlassnyada.com^
 ||istkartrtx.online^
@@ -19848,6 +19856,7 @@
 ||kmsorgulamahzmetleriniz.online^
 ||kmsorgulamahzmetleriniz.web.app^
 ||kmsorgulamaiislemleri.web.app^
+||kmsorgulamaiislemleri1.web.app^
 ||kmsorgulamaislemleri.web.app^
 ||kmsorgulamaislemleri1.web.app^
 ||kmsorgulamaislemleri2.web.app^
@@ -20881,6 +20890,7 @@
 ||lunazorix.com^
 ||lundalfinans.com^
 ||lunexavri.capital^
+||lunixel.com^
 ||lunmallo.gifts^
 ||lunmivo.shop^
 ||lunoxstar.xyz^
@@ -21273,6 +21283,7 @@
 ||mawarid.top^
 ||maxapk.xyz^
 ||maximumgenc.online^
+||maxisfonyonetimi.com^
 ||maxisgsyatirim.com^
 ||maxolutions243.com^
 ||maybeshewillcome.top^
@@ -24470,6 +24481,7 @@
 ||pg-cordivant-m6.pages.dev^
 ||philipsturkey.com^
 ||phillipcapital-trd.com^
+||phillipcapitaldanismanlik.com^
 ||phillipcapitaltrader.com^
 ||phone.evsahibibasvuru.com^
 ||photbookguest.pro^
@@ -26631,6 +26643,7 @@
 ||sdklcflsd231xasc123x12.cfd^
 ||sdklcflsd231xasc123x12.lol^
 ||sdkmob.org^
+||sdr3ddedd3.com^
 ||sdsahashsahsahsahahashha.kozow.com^
 ||sdvfad1x312asdx13123x1.cfd^
 ||sdw35rhgf32.com^
@@ -29156,6 +29169,7 @@
 ||tekrardevametmelin3.cloud^
 ||tekrarsa.dnsup.net^
 ||tekrartekrarbasvurdana.sbs^
+||tekrixly.com^
 ||teksenbilisimn.com^
 ||teksicse.net^
 ||teksoksiparisi.cloud^
@@ -31476,9 +31490,11 @@
 ||www-cebte-tvb-ony.myonlineportal.ch^
 ||www-cebteteb-emeklim.my-homeip.de^
 ||www-cebteteb-promosyonu-com.my-homeip.de^
+||www-cep-on-btb.myonlineportal.ch^
 ||www-cepdetep-com-tr.my-homeip.de^
 ||www-cepdetep-com.myonlineportal.ch^
 ||www-cepte-acc-tvb.myonlineportal.ch^
+||www-cepte-ass-tb.my-homeip.de^
 ||www-cepte-b-asn.myonlineportal.ch^
 ||www-cepte-birey-async.myonlineportal.ch^
 ||www-cepte-de-tb.myonlineportal.ch^
