@@ -8440,6 +8440,7 @@
 ||9rm2tk.atoms.world^
 ||9zaeto0la2z7mdtvcg8zhilom4y7r53tw36esjgrifet62smtvojkgdgdyw.s3.us-east-2.amazonaws.com^
 ||Abuguncografya.com^
+||Avsbayisi.com^
 ||BilgiCheckersSystem.lovestoblog.com^
 ||Cezainfaz.org^
 ||Fifa.house^
@@ -9996,6 +9997,7 @@
 ||avantajlimarketler.click^
 ||avantajnoktasi24.sbs^
 ||avantajsepet-tr.online^
+||avantajsepeti.sbs^
 ||avaraj.my-homeip.de^
 ||ave-art-alk.myonlineportal.ch^
 ||aventrahq.site^
@@ -10194,6 +10196,7 @@
 ||ayricalik-cepte.myonlineportal.ch^
 ||ayricalik-ceptetebde.my-homeip.de^
 ||ayricalik-tepte.my-homeip.de^
+||ayricalikla-ceptetebde.my-homeip.de^
 ||ayricaliklar-cepteteb-emekliye.my-homeip.de^
 ||ayricaliklar-cepteteb.my-homeip.de^
 ||ayurvediccancer.com^
@@ -11791,6 +11794,7 @@
 ||bunelosa-tegaviru.lol^
 ||bunlarkaltesendeortakol.info^
 ||bunualmadanolmaz.sbs^
+||bunuarayanburada.sbs^
 ||bunuencoksenisters.sbs^
 ||bunuoylecegecme.sbs^
 ||burada-nisan.biz.tr^
@@ -12304,6 +12308,7 @@
 ||ceptemobildeyiz.my-homeip.de^
 ||ceptemobili.my-homeip.de^
 ||ceptemobilim.my-homeip.de^
+||cepten-ayricaliklar.my-homeip.de^
 ||cepten-mobile-basvur.myonlineportal.de^
 ||ceptenmobilkredi.my-homeip.de^
 ||ceptep-basvurularonline.myonlineportal.de^
@@ -16504,6 +16509,7 @@
 ||haberler1242123561.sbs^
 ||haberler1245321.shop^
 ||haberler1245343.shop^
+||haberler12531.sbs^
 ||haberler125421.sbs^
 ||haberler125423.sbs^
 ||haberler1256236.shop^
@@ -17238,6 +17244,7 @@
 ||hesapli.o-bilet.eu^
 ||hesapli.online^
 ||hesaplikasabim.site^
+||hesaplikasabim.world^
 ||hesaplikasap.online^
 ||hesaplikasap.site^
 ||hesaplishop-tr.online^
@@ -25982,6 +25989,7 @@
 ||rixospremiumshotels.com^
 ||rixosshotels.com^
 ||rixvona.cyou^
+||rklmflnykkrdsmmmmmmbrknnn.duckdns.org^
 ||rksmoto.com^
 ||rksmotors.com^
 ||rkssatis.com^
@@ -29030,6 +29038,7 @@
 ||tavreno.tr^
 ||tavsanciksorgupaneli.online^
 ||tavsanciksorgupaneli.site^
+||tavsanciksorgupaneli.website^
 ||tavzilo.gifts^
 ||taweruk-hisopalem.lol^
 ||tax-filecenter-irs.matthewtarwater.com^
@@ -31718,6 +31727,7 @@
 ||www-cep-on-tb.myonlineportal.ch^
 ||www-cepdetep-com-tr.my-homeip.de^
 ||www-cepdetep-com.myonlineportal.ch^
+||www-cepl-tvb-dolu.myonlineportal.ch^
 ||www-cepte-acc-tvb.myonlineportal.ch^
 ||www-cepte-ass-tb.my-homeip.de^
 ||www-cepte-ayricalik-tvb.myonlineportal.ch^
