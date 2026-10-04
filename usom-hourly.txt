@@ -17440,6 +17440,7 @@
 ||hizlgecisbakieyukleme.web.app^
 ||hizlgecisbakiyedoldurma.web.app^
 ||hizlgecisbakiyeyukleme.web.app^
+||hizlgecisbayniz.art^
 ||hizlgecisnyuklemesi.art^
 ||hizlgecisonlnebakye.lat^
 ||hizlgecsdolumu.org^
@@ -31881,6 +31882,7 @@
 ||wwwptt-tr.tracking-online.website^
 ||wwwtrumore.com^
 ||wwwturkeygovtr.polypartssidecar.eu^
+||wwww-ayricaliklar-kapisi-com.my-homeip.de^
 ||wwwww0.sbs^
 ||wwwwwxxxxxxssw.duckdns.org^
 ||wxswwxxxxw.duckdns.org^
