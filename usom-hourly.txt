@@ -73,6 +73,7 @@
 ||101-bugune-ozel-extra-indirim-firsatlar-mobilde-shop-tr.buys-market.online^
 ||101-bugune-ozel-extra-indirim-sadece-online-tr.marketplus-tr.online^
 ||101-bugune-ozel-extra-mobilde-sepet-indirimi-tr.store-plus.online^
+||101-bugune-ozel-mobil-alisveris-extra-indirimleri-tr.shopmax-tr.online^
 ||101-bugune-ozel-sadece-online-sepet-indirimleri-tr-mobil.sepetim-tr.online^
 ||101-cep-bugune-ozel-online-sepet-alisveris-indirimi-sepette-tr.ticaret-tr.online^
 ||101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online^
@@ -105,18 +106,21 @@
 ||101-extra-cepte-online-siparis-onay-bugune-ozel-indirim-tr.mobils-tr.online^
 ||101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online^
 ||101-extra-mobil-bugune-ozel-indirim-sepeti-cepte-alisveris-tr.bilgicep-tr.online^
+||101-extra-mobil-indirimli-urunler-sadece-bugune-ozel-tr.hemenkap.online^
 ||101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop^
 ||101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop-plus.online^
 ||101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-firsati-tr.hesaplishop-tr.online^
 ||101-extra-mobil-sadece-bugune-ozel-alisveris-indirimi.avantajvar-tr.online^
 ||101-extra-mobil-sadece-bugune-ozel-avantajli-fiyatlar-tr.e-ticaret-tr.online^
 ||101-extra-mobil-sadece-bugune-ozel-indirim-sepeti-tr.indirimtakip.online^
+||101-extra-mobil-sadece-bugune-ozel-indirim-sepeti-tr.shopping-online.online^
 ||101-extra-mobil-sadece-bugune-ozel-indirimler-mobilde-tr.trendly-shops.online^
 ||101-extra-mobil-sadece-bugune-ozel-indirimli-alisveris-sepette.extramarket-tr.online^
 ||101-extra-mobil-sadece-bugune-ozel-mobil-sepet-indirimleri-cep.cepfirsat.online^
 ||101-extra-mobil-sadece-bugune-ozel-online-alisveris-tr.pro-tr.online^
 ||101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online^
 ||101-extra-mobil-sadece-bugune-ozel-online-sepet-indirimi.extradamobil.online^
+||101-extra-mobil-sadece-bugune-ozel-shop-indirim-tr.hemensiparis.online^
 ||101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.hemen-tr.online^
 ||101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.indirimsaati.online^
 ||101-extra-mobil-sadece-online-indirim-alisveris-sepeti-tr.ticaret-tr.online^
@@ -193,6 +197,7 @@
 ||101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online^
 ||101-firsatlari.duckdns.org^
 ||101-kstra.s3.eu-north-1.amazonaws.com^
+||101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online^
 ||101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online^
 ||101-mobil-extra-online-siparis-ozel-sepet-indiirmli-tr.web-shop-tr.online^
 ||101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online^
@@ -204,6 +209,7 @@
 ||101-mobil-extra-sadece-bugune-ozel-online-indirimler-alisveris.hemenmagaza-tr.online^
 ||101-mobil-extra-sadece-bugune-ozel-online-siparis-ver-tr.cepspts.online^
 ||101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online^
+||101-mobil-online-extra-indirimler-sadece-bugune-ozel-tr.shopping-tr.online^
 ||101-mobil-sadece-bugune-ozel-extra-indirim-sepeti-cep.trendy-shop-tr.online^
 ||101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online^
 ||101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online^
@@ -217,6 +223,7 @@
 ||101-sadece-bugune-ozel-alisveris-sepeti-indirimleri-tr.storesmobil-tr.online^
 ||101-sadece-bugune-ozel-cepte-alisveris-indirimleri-sepette-tr.shopier-tr.online^
 ||101-sadece-bugune-ozel-extra-indirim-alisverisi-tr.marketjet.online^
+||101-sadece-bugune-ozel-extra-mobil-indirim-sepeti-tr.onlinesiparis.online^
 ||101-sadece-bugune-ozel-extra-mobil-sepet-indirimleri-tr.alisverisjet.online^
 ||101-sadece-bugune-ozel-extra-sepet-alisveris-indirimi-tr.market-extra.online^
 ||101-sadece-bugune-ozel-extra-sepet-indirimleri-mobil-online-tr.jet-shop.online^
@@ -3344,6 +3351,7 @@
 ||185.215.113.206^
 ||185.215.113.55^
 ||185.215.180.70^
+||185.216.68.87^
 ||185.216.70.138^
 ||185.216.70.142^
 ||185.216.70.37^
@@ -7577,6 +7585,7 @@
 ||85.11.187.8^
 ||85.114.102.58^
 ||85.121.176.239^
+||85.121.4.25^
 ||85.121.52.245^
 ||85.137.249.93^
 ||85.137.253.48^
@@ -9590,12 +9599,14 @@
 ||araba-cekilisii.com^
 ||araba-cekilisim.com^
 ||araba-cekilisim.info^
+||araba-cekilisim.link^
 ||araba-cekilisim.online^
 ||araba-cekilisin.online^
 ||araba-kazanma-sansi.online^
 ||araba-paribu.com^
 ||arabacekilis.com^
 ||arabacekilis.info^
+||arabacekilis.link^
 ||arabacekilisi.click^
 ||arabacekilisi.online^
 ||arabacekilisim.com^
@@ -9659,6 +9670,7 @@
 ||aracmuayeneyaptir.sbs^
 ||aracmuayennehizliislemler.com^
 ||aracmuaynalhemen.uk^
+||aracmuaynerandvu.art^
 ||aracmuayyennistasyon.com^
 ||aracmuayyne.sbs^
 ||aracmuayyyenen.com^
@@ -9669,6 +9681,7 @@
 ||aracsystemgecis.cfd^
 ||aradan-cikan-donemez.xyz^
 ||aradiginburadavar.sbs^
+||aradiginherseyibirarada.sbs^
 ||aradiklarinesyalarburada.sbs^
 ||arakampanyalardonem.cloud^
 ||araksdatoaslvanb.online^
@@ -10862,6 +10875,7 @@
 ||bedavapanel.net^
 ||bedavapanel2.site^
 ||bedavapanel2026.cyou^
+||bedavapanel4.site^
 ||bedavapanelariyorum.world^
 ||bedavapanelimizyeniden.gt.tc^
 ||bedavasorgu.org^
@@ -13663,6 +13677,7 @@
 ||dygr-forest.my-homeip.de^
 ||dynamoforged.pro^
 ||dynavo.site^
+||dynexly.com^
 ||dynotatattaas.lol^
 ||dynotatattaas.xyz^
 ||dysoncomtr.rf.gd^
@@ -18287,6 +18302,7 @@
 ||indirimindirdim.gt.tc^
 ||indirimkapinda.tekrardanpiyasadayiz.cloud^
 ||indirimlebasladia101sendehemenal.adsite.online^
+||indirimler1o1.com^
 ||indirimlerburda101.xyz^
 ||indirimlerscom.com^
 ||indirimli-fiyatlar-tr.online^
@@ -18687,6 +18703,7 @@
 ||istanbulkartbasvuru.lol^
 ||istanbulkartbasvuru.pro^
 ||istanbulkartbasvuru.xyz^
+||istanbulkartbasvurutr.com^
 ||istanbulkartbelgim.xyz^
 ||istanbulkartbelgimm.xyz^
 ||istanbulkartcan.xyz^
@@ -18856,6 +18873,7 @@
 ||isube-mobilll.duckdns.org^
 ||isube-qnbfinansbankasi.ph^
 ||isubeakbankdirekt.ph^
+||isubehissegiris.com^
 ||isubeodeamenkul.com^
 ||isubeturkishmenkulweb.com^
 ||isxbank-promo.redirectme.net^
@@ -21319,6 +21337,7 @@
 ||mapid.e-wl.com^
 ||mapiora.gifts^
 ||maplebrookfieldridge.icu^
+||marielsorgupaneli.online^
 ||marjinstyle.shop^
 ||mark-squires-expressrancnes-com-s-account.workers.dev^
 ||markafilo.net^
@@ -22186,6 +22205,7 @@
 ||mobildehizmetlerimsizde.duckdns.org^
 ||mobildekiglobalerkanlar.duckdns.org^
 ||mobilden-basvur.myonlineportal.de^
+||mobilden.internet-subesi.site^
 ||mobilden.myonlineportal.de^
 ||mobildendijitalfirsatlar.sbs^
 ||mobildensbasvurslar.duckdns.org^
@@ -24524,6 +24544,7 @@
 ||paysun88.com^
 ||payvora.capital^
 ||pazarama-com-tr.shopsites.shop^
+||pazarama-hemen-siparis.com^
 ||pazarama-hizli-onay.com^
 ||pazarama-hizli-onay.net^
 ||pazarama-kurban.duckdns.org^
@@ -24581,6 +24602,7 @@
 ||pazarama.ile-islemlerdeyim.com.tr^
 ||pazarama.ile-onay-sepete.com^
 ||pazarama.ile-sepet.com.tr^
+||pazarama.ile-siparisiniz.com.tr^
 ||pazarama.indirimsepetinde.com^
 ||pazarama.islemcepte.com^
 ||pazarama.islemlerle.com.tr^
@@ -24596,6 +24618,11 @@
 ||pazarama.odeme-onay-1283.com^
 ||pazarama.odeme-onay-1284.com^
 ||pazarama.odeme-onay-1285.com^
+||pazarama.odeme-onay-1286.com^
+||pazarama.odeme-onay-1287.com^
+||pazarama.odeme-onay-1288.com^
+||pazarama.odeme-onay-1289.com^
+||pazarama.odeme-onay-1290.com^
 ||pazarama.odemeyonetimi.com^
 ||pazarama.onayda-sepet-7180.com^
 ||pazarama.onayda-sepet-7181.com^
@@ -24620,7 +24647,9 @@
 ||pazarama.sepet-odemeler-2213.com^
 ||pazarama.sepet-odemeler-2214.com^
 ||pazarama.sepet-odemeler-2216.com^
+||pazarama.sepetinizde.com.tr^
 ||pazarama.siparisguvende.com^
+||pazarama.siparishizi.com^
 ||pazarama.siparisim-onay-1923.com^
 ||pazarama.siparisimhizli.com^
 ||pazarama.siparisislemleri.com^
@@ -24667,6 +24696,7 @@
 ||pepecekilisim.com^
 ||pepepupuchek13.com^
 ||pepepx00x0xw23.duckdns.org^
+||peppdalfestooned.info^
 ||pepsico-jobs.com^
 ||peraboko-seremoli.lol^
 ||perasude-serenapo.lol^
@@ -24738,6 +24768,7 @@
 ||pilifuere-sederilise.lol^
 ||piligederesede-resugere.lol^
 ||piloko-hulukuerede.lol^
+||pilouyguredesa.lol^
 ||pingapp.site^
 ||pinkpawgo.org^
 ||pinkyslauncher.com^
@@ -26155,6 +26186,7 @@
 ||ruhsuzpanel1.sbs^
 ||ruhsuzpanel1.site^
 ||ruhsuzpanel1.website^
+||ruhsuzpanel10.site^
 ||ruhsuzpanel2.shop^
 ||ruhsuzpanel2.site^
 ||ruhsuzpanel2.website^
@@ -26444,6 +26476,7 @@
 ||sahibinden-get.mobilservisleriniz-3.sbs^
 ||sahibinden-get.mobilservisleriniz-5.sbs^
 ||sahibinden-get.servisepetin-10.sbs^
+||sahibinden-get.servisepetin-15.sbs^
 ||sahibinden-get.servisinguvenli-25.sbs^
 ||sahibinden-get.servisinguvenli-60.sbs^
 ||sahibinden-get.servisinguvenli-65.sbs^
@@ -26611,6 +26644,7 @@
 ||sahibinden.onayda-sepet-7186.com^
 ||sahibinden.online-alisveris-sepetimiz.com^
 ||sahibinden.online-alisveris-sepetiniz.com^
+||sahibinden.online-satislari-burada.com^
 ||sahibinden.order-id42942.cfd^
 ||sahibinden.param-guvende-ilanim.com^
 ||sahibinden.paranguvende.my^
@@ -27706,6 +27740,7 @@
 ||sndeglbrdn.com^
 ||sndehmngelal.com^
 ||sndenbnlaraglbrdanal.shop^
+||sndermbasvr.duckdns.org^
 ||sndesbvrhmn.click^
 ||sndeyakalahmn.duckdns.org^
 ||sndkkfrslarrkmpnyaabasvrr25413698.pro^
@@ -28288,6 +28323,7 @@
 ||stellaonline.org.tr^
 ||stellar-minds.cfd^
 ||stellardockd.top^
+||stellarko.com^
 ||stellarnodegrid1.lol^
 ||stellarnodegrid10.lol^
 ||stellarnodegrid2.lol^
@@ -31805,6 +31841,9 @@
 ||www-async-cebteteb.myonlineportal.ch^
 ||www-at-ayricalik-tb.myonlineportal.ch^
 ||www-avr-cep-web.myonlineportal.ch^
+||www-ayricalik-tb-cepte.myonlineportal.ch^
+||www-ayricaliklarla-dolutb.myonlineportal.ch^
+||www-ayricalikli-t-on.myonlineportal.ch^
 ||www-braun-tr.com^
 ||www-braun.net^
 ||www-braun.org^
@@ -31961,6 +32000,8 @@
 ||www.drivelivelime.com^
 ||www.guidingstars.ae^
 ||www.heilongyk.top^
+||www.ruhsuzpanel6.site^
+||www.ruhsuzpanel9.site^
 ||www.zhc-ms-whatsappweb.com.cn^
 ||www155-polisi.online^
 ||www221x23241.duckdns.org^
@@ -32713,6 +32754,7 @@
 ||z7m2rpq4.sbs^
 ||z87014.site^
 ||z9p3t6k1r8w4.cfd^
+||zaderipioligifdere.lol^
 ||zadese-deresederepi.lol^
 ||zadeserede-sedepiloki.lol^
 ||zaedesederepilokihop.lol^
