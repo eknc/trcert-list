@@ -3051,6 +3051,7 @@
 ||180.76.146.178^
 ||180.76.185.72^
 ||180.76.240.16^
+||1808nett.xyz^
 ||181.10.144.116^
 ||181.167.144.229^
 ||181.168.28.8^
@@ -6602,6 +6603,7 @@
 ||50gbfirsat.b-cdn.net^
 ||50gbfirsat.online^
 ||50tarak.nicepage.io^
+||50yilaycicekzeytinyag.online^
 ||50yilozelzeytinyagaycicek.online^
 ||51.15.17.89^
 ||51.15.193.80^
@@ -11749,6 +11751,7 @@
 ||brightslunar.com^
 ||brighttrend.shop^
 ||brika.surf^
+||brilliancefragment.shop^
 ||brily.org^
 ||brimarto.gifts^
 ||brinelavo.vu^
@@ -11926,6 +11929,7 @@
 ||bufiyatakcmz.duckdns.org^
 ||bufiyatkcmzkmpny.duckdns.org^
 ||bufy-web-lyt.myonlineportal.ch^
+||bugecemisafirinim.duckdns.org^
 ||bugerefedesedese.lol^
 ||bugfudafadadsede.xyz^
 ||bugrhanceone.duckdns.org^
@@ -12366,6 +12370,7 @@
 ||caymakinesi-aktuel.lat^
 ||caysponsorlari.online^
 ||caytarifleri.sbs^
+||cayyemekleri.evyemekleritarifleri.lol^
 ||cbnmbzbnzxbvzbetytyruuee81.info^
 ||cbsceza.com^
 ||cbsdava.com^
@@ -12543,6 +12548,7 @@
 ||ceptesokfirsatlarim.com^
 ||ceptesokindirmleri.online^
 ||ceptesoklarile.online^
+||ceptesokmarklrt.lol^
 ||ceptete.pzbsin.com^
 ||cepteteb-ayrica.myonlineportal.ch^
 ||cepteteb-c-o-m-tr.my-homeip.de^
@@ -14007,6 +14013,7 @@
 ||e-online-ilan-sepet.com^
 ||e-online-ilan-sepetim.com^
 ||e-onlineislemlerim.rf.gd^
+||e-rndval.cfd^
 ||e-sagligahemenkavussss.digital^
 ||e-sagliklibiryasammucadele.digital^
 ||e-sbm.org^
@@ -15780,6 +15787,8 @@
 ||garantikampanyan.click^
 ||garantikrediara.cloud^
 ||garantikrediler.cloud^
+||garantikredim.cloud^
+||garantikredirehberi.cloud^
 ||garantili-basvuru-islemlerim.webredirect.org^
 ||garantili-bireysel-islemim-com.duckdns.org^
 ||garantili-islemlerim-bireysel-com.mayddns.com^
@@ -16165,6 +16174,7 @@
 ||glazed-client.com^
 ||glbrdanrvdlansn.lol^
 ||glbrdrvalsn.com^
+||glbunuvrhdors.duckdns.org^
 ||glerdanesakare.duckdns.org^
 ||glerdenlerdews.duckdns.org^
 ||gliderrompercycl.com^
@@ -16874,6 +16884,7 @@
 ||haberler112233.shop^
 ||haberler11237489.sbs^
 ||haberler11278945.shop^
+||haberler114561.sbs^
 ||haberler122746.sbs^
 ||haberler123.shop^
 ||haberler1230149.shop^
@@ -18326,6 +18337,7 @@
 ||honejsatery.duckdns.org^
 ||honejsterheyr.duckdns.org^
 ||honejsterkestler.click^
+||honemkslerkter.duckdns.org^
 ||honeshadrteker.duckdns.org^
 ||honesjerkteryers.duckdns.org^
 ||honesjterlarser.duckdns.org^
@@ -20338,6 +20350,7 @@
 ||klerdesnweasdes.duckdns.org^
 ||klevdpo.com^
 ||klima-firsat.duckdns.org^
+||klimacinizgeldidrpppyok.com^
 ||klimbat.com^
 ||klimbat.pics^
 ||klimbat.xyz^
@@ -20348,6 +20361,7 @@
 ||klmteresrgulamasffet.web.app^
 ||klmtresrgulamasuat.firebaseapp.com^
 ||klmtresrgulamasuat.web.app^
+||klomensta.duckdns.org^
 ||klometresrgulamacomptt.duckdns.org^
 ||klomtresorgulamayapburdagovptt.duckdns.org^
 ||klomtresrgulamaislemlerinizbrdanyazi.duckdns.org^
@@ -24314,6 +24328,7 @@
 ||onlineodememaliye.com^
 ||onlineozelhzyusuf101.ct.ws^
 ||onlineozelindirim-101.com^
+||onlineozldantexx.ct.ws^
 ||onlineqnbfinansbank.com.ph^
 ||onlinerandevuportalekranlarimizdir.duckdns.org^
 ||onlinereferansfba.com^
@@ -31747,6 +31762,7 @@
 ||urlmal.com^
 ||urtcankaodansacaz.cfd^
 ||urun-dyson.duckdns.org^
+||urunbitmedengerekeniyapanlar.sbs^
 ||urundetayi.com^
 ||urunguvende.online^
 ||urunhizmetivebedeli.com^
