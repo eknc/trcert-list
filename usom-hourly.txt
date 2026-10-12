@@ -311,6 +311,7 @@
 ||101kralsfe.duckdns.org^
 ||101marketleravantaji.com^
 ||101onlinemerkezlersistem.pages.dev^
+||101onlinetakipkampanyasi.sbs^
 ||101satislar.click^
 ||101sepetindirimleri.xyz^
 ||101sonbrdandrim.com^
@@ -5267,6 +5268,7 @@
 ||312222545548789988996.duckdns.org^
 ||312222545548789988997.duckdns.org^
 ||312222545548789988998.duckdns.org^
+||312241222111422245225891.xyz^
 ||3123x12m3asdm123x.sbs^
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
@@ -9813,6 +9815,7 @@
 ||aracla.com^
 ||aracmuaeyeneislemlerr.com^
 ||aracmuayanerandevu.xyz^
+||aracmuayanerandevutr.com^
 ||aracmuayanetuvturk.com^
 ||aracmuayene.ink^
 ||aracmuayenede.xyz^
@@ -11106,6 +11109,7 @@
 ||bedavapanel4.site^
 ||bedavapanelariyorum.world^
 ||bedavapanelhizmetleri.website^
+||bedavapanelhizmetleri.world^
 ||bedavapanelimizyeniden.gt.tc^
 ||bedavasorgu.org^
 ||bedavasorgu.site^
@@ -12367,6 +12371,7 @@
 ||carefesfas.duckdns.org^
 ||careffuoersa.com^
 ||careffuoersa.vercel.app^
+||carefoursa.vercel.app^
 ||carelinno.gifts^
 ||carelio.gifts^
 ||carepilotx.com^
@@ -13120,6 +13125,7 @@
 ||crevito.site^
 ||crfrfsafas.duckdns.org^
 ||crfrusa-online.vercel.app^
+||crfsa-indlrm-49.vercel.app^
 ||crfsa-indlrm6.vercel.app^
 ||crfsshpalvrs.cfd^
 ||crfsthipermrk.cfd^
@@ -14610,6 +14616,7 @@
 ||emkliprmsynnfrstt.online^
 ||emlakatasehirrrssl.duckdns.org^
 ||emlakfiyatkarsilastirmasi.sbs^
+||emlakjetmuhasebe.org^
 ||emlakkatilim.pzbsin.com^
 ||emlakkonutsatislar.com^
 ||emlakrandevular.com^
@@ -17125,6 +17132,7 @@
 ||haberler543343.shop^
 ||haberler554.shop^
 ||haberler562346.sbs^
+||haberler56311.sbs^
 ||haberler56321.sbs^
 ||haberler5632494.sbs^
 ||haberler56755712366.com^
@@ -18195,6 +18203,8 @@
 ||hizli-gecis-bakiye-yukleme27tr.web.app^
 ||hizli-gecis-bakiye-yukleme28.web.app^
 ||hizli-gecis-bakiye-yukleme280.web.app^
+||hizli-gecis-bakiye-yukleme281.web.app^
+||hizli-gecis-bakiye-yukleme282.web.app^
 ||hizli-gecis-bakiye-yukleme29.web.app^
 ||hizli-gecis-bakiye-yukleme3.web.app^
 ||hizli-gecis-bakiye-yukleme30.web.app^
@@ -19765,6 +19775,7 @@
 ||jaguarslippers.com^
 ||jaiydteds.love^
 ||jalelastikcdty.duckdns.org^
+||jalerdawsw.duckdns.org^
 ||jalwat.com^
 ||jambojournal.org^
 ||jambril.org^
@@ -22835,6 +22846,7 @@
 ||mhsraca.sbs^
 ||mhsraca.site^
 ||mhsrakogr.cfd^
+||mhsrakogr.cyou^
 ||mhsrakogr.sbs^
 ||mhsrarandvlrmzbrda.sbs^
 ||mhsrrandvu.com^
@@ -23474,6 +23486,7 @@
 ||mzghdnikguesdamuxjbm.supabase.co^
 ||mzhrrndvlrnzgovptt.duckdns.org^
 ||mzx29qk77.click^
+||mzxkpwqf-sagkpqwdag-wkqpgdshds.icu^
 ||n-nato333.com^
 ||n-vc.com^
 ||n-xsorguapileri.onrender.com^
@@ -27098,6 +27111,7 @@
 ||rodddcycyrgttskym.live^
 ||roddddybdrydln.shop^
 ||roddddybdrydlnnn.shop^
+||rodininbabasiyim.duckdns.org^
 ||rodiwasherecandan.com^
 ||rodrodrodrodmusic.com^
 ||rodyskryrzzbgnn.duckdns.org^
@@ -27220,6 +27234,7 @@
 ||s-guvenlimuhasebeodemebirimi.com^
 ||s-guvenlimuhasebeodemenoktasi.duckdns.org^
 ||s-guvenliodemebiriminiz.duckdns.org^
+||s-guvenlisatisonay.com^
 ||s-guvenlisigortaodemenoktasi.duckdns.org^
 ||s-param-guvende.servis-hizmetleri.online^
 ||s-paramguvende.islembilgitr.online^
@@ -27368,6 +27383,7 @@
 ||safrantermalotel.com^
 ||safsadfslal230sladsa.net^
 ||safsaqwrcs.sbs^
+||saglam-seyahatim.pages.dev^
 ||sagligakavusmakicinbiradim.digital^
 ||saglik-182.com^
 ||saglik-gov.sbs^
