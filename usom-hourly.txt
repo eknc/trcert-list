@@ -136,6 +136,7 @@
 ||101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.hemen-tr.online^
 ||101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.indirimsaati.online^
 ||101-extra-mobil-sadece-online-indirim-alisveris-sepeti-tr.ticaret-tr.online^
+||101-extra-mobil-sadece-online-ozel-alisveris-indirimi-tr.online^
 ||101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online^
 ||101-extra-mobile-ozel-indirim-sadece-bugune-ozel-tr.prime-store-tr.online^
 ||101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online^
@@ -1909,6 +1910,7 @@
 ||147.93.155.118^
 ||14745155571.duckdns.org^
 ||14745155571455.webredirect.org^
+||1477852kmnpnyaaprmsynnbasvrrr.click^
 ||1477852kmnpnyaaprmsynnbasvrrr.online^
 ||148.113.17.48^
 ||148.113.214.176^
@@ -5296,6 +5298,9 @@
 ||312241222111422245225892.xyz^
 ||312241222111422245225893.xyz^
 ||312241222111422245225894.xyz^
+||312241222111422245225896.xyz^
+||312241222111422245225897.xyz^
+||312241222111422245225898.xyz^
 ||3123x12m3asdm123x.sbs^
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
@@ -5389,6 +5394,7 @@
 ||365214snfrlstarrkmpnyaabasvrr.pro^
 ||36546846453.sbs^
 ||3673722.sbs^
+||369852147prssvbsvrrkmphnyaa.info^
 ||3698547onlinnbsvrrkmpnyaaprmsynn.info^
 ||3698547onlinnbsvrrkmpnyaaprmsynn.pro^
 ||369854snffrstlrrrkmpnyabasvrrkrdi.info^
@@ -7436,6 +7442,7 @@
 ||7asdjckasdklxakdslxl123x12.cfd^
 ||7d3e329f-5.b-cdn.net^
 ||7hgs.top^
+||7mvpq2rxk9.cfd^
 ||8-24onlineile.sbs^
 ||8-mobil25islemleriniz.sbs^
 ||8.130.50.191^
@@ -10772,6 +10779,7 @@
 ||basvurun-cepten.myonlineportal.de^
 ||basvurunuz-cebte.myonlineportal.de^
 ||basvurunuzuyapij.duckdns.org^
+||basvurunuzyapiliyor.sbs^
 ||basvurusalislemlerims.duckdns.org^
 ||basvurusirasi.online^
 ||basvurusistem.abrdns.com^
@@ -11529,6 +11537,7 @@
 ||birimkurum.org^
 ||birimmali.org^
 ||birimmaliye.org^
+||birimportal.org^
 ||birimsorgu.org^
 ||birimtr.org^
 ||birimuzlasma.org^
@@ -12287,6 +12296,7 @@
 ||bvncjfkd.shop^
 ||bvrdfgdg553.nicepage.io^
 ||bvrtbkomki.info^
+||bvva-application.sbs^
 ||bvvdbdbdbsbmx.sbs^
 ||bxfh.tzcdq.cn^
 ||bxivo.quest^
@@ -12844,6 +12854,7 @@
 ||cibeg-garantibbva.ph^
 ||cicekcihizli.click^
 ||cicekcihizli.xyz^
+||cicekcirafa33.sbs^
 ||cicekdunyam.online^
 ||ciceklerinizsepette.click^
 ||ciceklerinizsepette.sbs^
@@ -14364,6 +14375,7 @@
 ||education-baykar-investment-program-com.pages.dev^
 ||eduflow.icu^
 ||edumind.digital^
+||edv-mhrndval.com^
 ||edvs-tapursvnnusz.info^
 ||edvs-tapursvnnusz.net^
 ||edvs-tapursvnnuszs.info^
@@ -14840,6 +14852,7 @@
 ||eportaldosya.com^
 ||eportalgib.org^
 ||eportalhazine.org^
+||eportalmaliye.org^
 ||eportalmasak.com^
 ||eportalsorgu.org^
 ||eportaluzlasma.com^
@@ -15012,6 +15025,7 @@
 ||etisalat-bankofamericac-isbank.com.ph^
 ||etkileyiciflrsatlar.com^
 ||etkiliuzlasma.org^
+||etnist.com^
 ||etoftheappyrince.org^
 ||etrmenugarlerimguncel.xyz^
 ||etrona.shop^
@@ -15191,6 +15205,7 @@
 ||facebook--login-session.ph^
 ||facebook--signupzzzzzzzzzzzzzhu.ph^
 ||facebook-confirm-login.com.ph^
+||facebook-login-checker.ph^
 ||facebook-login-facebook-access-secure.ph^
 ||facebook-login-guide.com.ph^
 ||facebook-login-login-extra.ph^
@@ -15208,6 +15223,7 @@
 ||facebookhelpdesklogin.blogspot.com^
 ||facebooklogin-industrial-info.ph^
 ||facebookloginadmin.blogspot.com^
+||facebookloginanimal.com.ph^
 ||facebookloginapparel.com.ph^
 ||facebookloginapponline.ph^
 ||facebookloginconfirm-au.com.ph^
@@ -15570,6 +15586,7 @@
 ||firsatzirmobilde.duckdns.org^
 ||first-onayweb.ink^
 ||firstdrivehill.com^
+||firstgunlrikcmz.duckdns.org^
 ||firstkmpyeyl.duckdns.org^
 ||firstlarrkmpnyaabsvrrr151745.pro^
 ||firstlartukenmkuzere1o1.shop^
@@ -15779,6 +15796,7 @@
 ||frstlarrkmpnyassiibsvrremeklii.art^
 ||frstlarrkmpnyassiibsvrremeklii.click^
 ||frstlarrmerkziiprmsynnbsvrr.art^
+||frstlarrprmsnykmpnya193219.info^
 ||frstlarrprmsnykmpnya193219.pro^
 ||frstlarrrkmpnyabprmsynnbsvr.info^
 ||frstlarrrkmpnyabprmsynnbsvr.live^
@@ -16922,6 +16940,7 @@
 ||gundemrotasi.info^
 ||gundemyolu.cyou^
 ||guneymoto.com^
+||guneymotor.com^
 ||gunfileningunu.duckdns.org^
 ||gunler-may-lifty.myonlineportal.ch^
 ||gunlerdenalisveris.duckdns.org^
@@ -19158,6 +19177,7 @@
 ||ilanim-onay-762212.com^
 ||ilanim-onay-762213.com^
 ||ilanlarim-sepetin.pro^
+||ilanlarin-hemen-burada.com^
 ||ilanlarin-satislari-online.com^
 ||ilanonay.online^
 ||ilanonayi.online^
@@ -19887,6 +19907,7 @@
 ||it.evsahibibasvuru.com^
 ||itechx.tel^
 ||itgreatwilltheynow.top^
+||itrgarant.win^
 ||iualef.net^
 ||iualef.netczijbh.net^
 ||ivdesube.com^
@@ -20159,6 +20180,7 @@
 ||kacmayanblva.linkpc.net^
 ||kacmazfirsatlar.shop^
 ||kacnakolcvama.xyz^
+||kacrmafirsti1001.duckdns.org^
 ||kacsklx1jkl23kxklsadcas13x12.click^
 ||kacsklx1jkl23kxklsadcas13x12.sbs^
 ||kadersiz.shop^
@@ -21886,6 +21908,7 @@
 ||lorqexo.gifts^
 ||loseorwin.co^
 ||loserrq0j1sha8.com^
+||loskaert.duckdns.org^
 ||losr066.site^
 ||lovememore.click^
 ||lowertea.info^
@@ -22593,6 +22616,7 @@
 ||maximumgenc.online^
 ||maxisfonyonetimi.com^
 ||maxisgsyatirim.com^
+||maxisyatirimtr.com^
 ||maxolutions243.com^
 ||maybeshewillcome.top^
 ||mayis-kampayanlar.com^
@@ -23054,6 +23078,7 @@
 ||mhrsrandevusisteminiza.duckdns.org^
 ||mhrsrandevutr.com^
 ||mhrsrandevutr.net^
+||mhrsrandevutronline.com^
 ||mhrsrandevuu.xyz^
 ||mhrsrandevuvatandaslarimizin.duckdns.org^
 ||mhrsrandvlrmzbrasi.sbs^
@@ -24074,6 +24099,7 @@
 ||nfnchxsza.com^
 ||nfxfxfslemleriniz.web.app^
 ||ngdance.fun^
+||ngofirsatttt.duckdns.org^
 ||ngpmit.cc^
 ||nhg.1001gacor.org^
 ||nhgsafdashfdasax33.cfd^
@@ -24869,6 +24895,7 @@
 ||online-satislari-burada.com^
 ||online-sbm.org.tr^
 ||online-shop-bireysel-tr.site^
+||online-shoptrx.online^
 ||online-siparis-mobilde-tr.online^
 ||online-siparis-ver-101-tr-mobil.duckdns.org^
 ||online-siparis.com^
@@ -27031,6 +27058,7 @@
 ||rafatafakitap123x545x.shop^
 ||rafatafatufatifa41x12313.shop^
 ||rafatafax123213z123.sbs^
+||rafateb.space^
 ||rafatebx1j23jx123z123.cfd^
 ||rafatfitkx213123v5c.shop^
 ||rafattifaaaj12k3x12312.shop^
@@ -28062,6 +28090,7 @@
 ||sahibindensigortaodemesi.com^
 ||sahibindensozlesmeodemeleri.dedyn.io^
 ||sahibiniden.ile-sepetlerim.com.tr^
+||sahibirdenguvnde.com^
 ||sahibiyiz.sbs^
 ||sahibndensatis.click^
 ||sahihinden.com.tr^
@@ -29450,6 +29479,7 @@
 ||sosyalkonut-toplukonutlar.vercel.app^
 ||sosyalkonutbasvurular.cfd^
 ||sosyalxzmetleremeklicn.xyz^
+||sosyalyardim.duckdns.org^
 ||sosyalyardimelim.com^
 ||sosyalyardimlasmadernegi.sbs^
 ||sosylbasvurugovtr.sbs^
@@ -30744,6 +30774,7 @@
 ||tek-uygulamada-gecerli.lol^
 ||tekbasvuru.abrdns.com^
 ||tekcihazaktivasyonlinki.duckdns.org^
+||tekcihazlaraktivasyonlinki.duckdns.org^
 ||tekdoknstaevneglecek.com^
 ||tekdokunusaevegelecek.com^
 ||tekdokunusqevegelecek.com^
@@ -30945,6 +30976,7 @@
 ||tektiklasponsorlureklam.com^
 ||tektiklasponsorlureklamm.com^
 ||tektikmettoreko.sbs^
+||tektikonlinehizmet.site^
 ||tektklaalsveriskpndaa.com^
 ||tektokatsiniz.lat^
 ||tektqlspsrlrqlamsnde.com^
@@ -31254,6 +31286,8 @@
 ||togg.cc^
 ||togg.live^
 ||togg.lol^
+||togg.pro^
+||togg.top^
 ||togg.website^
 ||togg.zuzzuu.com^
 ||togg2026.xyz^
@@ -32069,6 +32103,7 @@
 ||turkiyehaberblog.com^
 ||turkiyehaberportal.com^
 ||turkiyehaberzone.com^
+||turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev^
 ||turkiyeisbankasiyatirimprogrami-pro.pages.dev^
 ||turkiyekalkinmabankasi.com^
 ||turkiyekalkinmayatirimbankasi.com^
@@ -33483,6 +33518,7 @@
 ||www-fifa.com^
 ||www-fifa.me^
 ||www-fifaworldcup.com^
+||www-infotb-cepte-ayrica.myonlineportal.ch^
 ||www-ing-com-tr.nproxy.org^
 ||www-internetbankacilik-qnbfinansbank.ph^
 ||www-kapitb-web-tb.myonlineportal.ch^
@@ -34110,6 +34146,7 @@
 ||yildizlaradogrubakiye.lat^
 ||yildora-venkupali.lol^
 ||yildora.live^
+||yildzurunlerkampanysi.duckdns.org^
 ||yillikmuzem.com^
 ||yilmaz-ticaret-ile-siparis-tamamla.com^
 ||yilmaz-ticaret-ile-siparisi-hizla-onayla.com^
@@ -34594,6 +34631,7 @@
 ||zirdefisatkacmaz.duckdns.org^
 ||zirdijital-kampanya.sbs^
 ||zireluxa.gifts^
+||zirgames.site^
 ||zirindfc.cfd^
 ||zirkalex.mom^
 ||ziroootget.cfd^
@@ -34656,6 +34694,7 @@
 ||zotemari.site^
 ||zq4mvp72xr.cfd^
 ||zqnjxkvlmprtdwhc.sbs^
+||zraatbank.netlify.app^
 ||zrat-ggeris.cfd^
 ||zratatsatsa.cfd^
 ||zrattttasa.nicepage.io^
@@ -34722,6 +34761,7 @@
 ||zz88880008888.duckdns.org^
 ||zz9990000999.duckdns.org^
 ||zzasdsacxasasdfa.sbs^
+||zzcv777.site^
 ||zzirfhd.cfd^
 ||zzmdsnd.duckdns.org^
 ||zzshops.top^
