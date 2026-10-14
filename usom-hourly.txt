@@ -225,6 +225,7 @@
 ||101-mobil-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri.storego-tr.online^
 ||101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.indirimtakipte.online^
 ||101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.mobilsepette.online^
+||101-mobil-extra-sadece-bugune-ozel-indirim-sepeti-alisveris-tr.ceptex.online^
 ||101-mobil-extra-sadece-bugune-ozel-indirimler-tr.shops-mobil.online^
 ||101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip^
 ||101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip-shop-tr.online^
@@ -5326,6 +5327,7 @@
 ||331241241241243123123123.duckdns.org^
 ||3333200233321333.gleeze.com^
 ||33vvv444.site^
+||33x311mm74.duckdns.org^
 ||34.121.207.116^
 ||34.123.146.212^
 ||34.16.215.110^
@@ -11157,6 +11159,7 @@
 ||bedavapanel2026.cyou^
 ||bedavapanel4.site^
 ||bedavapanelariyorum.world^
+||bedavapanelciniz.website^
 ||bedavapanelhizmetleri.website^
 ||bedavapanelhizmetleri.world^
 ||bedavapanelimizyeniden.gt.tc^
@@ -12425,6 +12428,7 @@
 ||careers-openai.com^
 ||careertrixauvex.ink^
 ||carefesfas.duckdns.org^
+||careffoursa.vercel.app^
 ||careffuoersa.com^
 ||careffuoersa.vercel.app^
 ||carefoursa.vercel.app^
@@ -17229,6 +17233,7 @@
 ||haberler41289.sbs^
 ||haberler421352.shop^
 ||haberler4215434.sbs^
+||haberler42213.sbs^
 ||haberler432432.shop^
 ||haberler4422424.shop^
 ||haberler443198.sbs^
@@ -21114,6 +21119,7 @@
 ||kockurumsal.rent^
 ||kocotofilo.net^
 ||kocotomobil.com^
+||kocotomonlineodeme.com^
 ||kocotorezervasyon.com^
 ||kocotorezervasyon.net^
 ||kocraw.click^
@@ -23066,6 +23072,7 @@
 ||mhsrakogr.cyou^
 ||mhsrakogr.sbs^
 ||mhsrarandvlrmzbrda.sbs^
+||mhsrhrmhmrms.duckdns.org^
 ||mhsrrandvu.com^
 ||mhsrrekaliya.site^
 ||mhsrrekaliyb.site^
@@ -23133,6 +23140,7 @@
 ||migros-marketsanal.vercel.app^
 ||migros-mobilgiris.vercel.app^
 ||migros-sanal-marketim.vercel.app^
+||migros-tr.com^
 ||migrosisbasvurulari.sbs^
 ||miki.jspara-col.cfd^
 ||mikolop.com^
@@ -29897,6 +29905,7 @@
 ||syntero.store^
 ||syqwe.ezpizi.click^
 ||sys-tools.cfd^
+||sysbasvurular.com^
 ||szgtch.com^
 ||szhpnzleotkbrda.lol^
 ||t-e-b-ayricaliklar.my-homeip.de^
