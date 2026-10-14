@@ -6325,6 +6325,7 @@
 ||46.151.182.237^
 ||46.151.182.243^
 ||46.151.182.31^
+||46.151.182.62^
 ||46.151.29.58^
 ||46.151.34.109^
 ||46.17.103.81^
@@ -11095,6 +11096,7 @@
 ||bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.duckdns.org^
 ||bbgarantibbva.ph^
 ||bbgaravadiburdagala81.info^
+||bbnnsnsdsdrtyqaasertse.com^
 ||bbva-adyen-garantibbva.com.ph^
 ||bbva-ziraatbank.com.ph^
 ||bbva.garantibbvakredibasvuru.com^
@@ -11581,6 +11583,7 @@
 ||blackoutsevermisiniz.xyz^
 ||blackoutyenilmez.xyz^
 ||blackoutyikilmaz.xyz^
+||blackravenpartners.click^
 ||blackseashield.aem.page^
 ||blackseashield.aem.reviews^
 ||blackseashield.barsy.bg^
@@ -23182,6 +23185,7 @@
 ||mirrorstorage.org^
 ||misiraycicek.cfd^
 ||misslink.click^
+||misyonmenkul.com^
 ||misyonmenkuldegerler.com^
 ||misyonyatirimmenkuldegerler.com^
 ||mivoxel.com^
@@ -27054,6 +27058,7 @@
 ||randevusalisler.com^
 ||randevusorgulamamhrsonline.duckdns.org^
 ||randevusuzgunlerden.duckdns.org^
+||randevutuvturkorg.duckdns.org^
 ||randevuunicin.com^
 ||randevuvaktii.com^
 ||randevuyakasi.com^
@@ -28843,6 +28848,7 @@
 ||siparis-onayli-115546.com^
 ||siparis-onayli-115551.com^
 ||siparis-satinal.com^
+||siparis-teslimat.com^
 ||siparis-tr.online^
 ||siparisaktif.online^
 ||siparisbilgitr.online^
@@ -31622,6 +31628,7 @@
 ||trendy0l1.homes^
 ||trendy0l1.sbs^
 ||trendy0l1.xyz^
+||trendyapp.top^
 ||trendyl-mobil-tr.online^
 ||trendyo5.lol^
 ||trendyo5.sbs^
@@ -33296,6 +33303,7 @@
 ||wvziraatbankasi.click^
 ||wwdx23b3.duckdns.org^
 ||wwgovistur.southeast-childcarseats.com.au^
+||wwgovturk.yaminabysabrina.de^
 ||wwptt-tr-express.andangatesautomation.com^
 ||wwptturkey.osterholzergoldstube.de^
 ||wwstifsteel.com^
