@@ -10252,6 +10252,7 @@
 ||asncxbyaaasdanala.84651894561645111.sbs^
 ||asncxbyaaasdanala.849561564486510.sbs^
 ||asncxbyaaasdanala.84965148651.sbs^
+||asncxbyaaasdanala.86456816843568.sbs^
 ||asncxbyaaasdanala.874184655641556.sbs^
 ||asncxbyaaasdanala.8746519864165.sbs^
 ||asncxbyaaasdanala.8796451654165333.sbs^
@@ -11420,6 +11421,7 @@
 ||bilgilendirmemm.netlify.app^
 ||bilgilendirmerehberi.web.app^
 ||bilgilendirmesayfasi.misecure.com^
+||bilgilendirmesler.date^
 ||bilgilendirmeyeni.online^
 ||bilgilendirmezamani.abrdns.com^
 ||bilgilendrciburda.xyz^
@@ -16250,6 +16252,7 @@
 ||garikalisna-solere.lol^
 ||garislennmenleritemmuzfrsatalr.site^
 ||garlt-lo-istatistik.myonlineportal.ch^
+||garnatibbva.ro^
 ||garposegirisleri.duckdns.org^
 ||garrkasdcjk123x1csdakx123.cfd^
 ||gartnix21j3x12jk1x2.sbs^
@@ -16350,6 +16353,7 @@
 ||gelsinkapinaclub.click^
 ||geltatleyeburdfahereyvar81.click^
 ||gelvebasinial.duckdns.org^
+||gemgovrmn.web.id^
 ||gemimi-ads.com^
 ||gemini-ads-ai.com^
 ||gemini-ads-invite.com^
@@ -18140,6 +18144,7 @@
 ||hfhsdhsdfssax3.lol^
 ||hftanin101firsati.duckdns.org^
 ||hftnyldzlbrada.click^
+||hftyldzhmnl.shop^
 ||hftyldzlrdikmpn.click^
 ||hg.xxxxxxxxx111111.click^
 ||hg73983943.click^
@@ -19428,6 +19433,7 @@
 ||immmerhency.com^
 ||imthenightmareyounamed.sbs^
 ||in-fomenkuldegerler.com^
+||inatboxapk.tools^
 ||incele-tr-glory.ink^
 ||incele.online^
 ||incelemekurulu.org^
@@ -23108,6 +23114,7 @@
 ||mhgsrlasttga.icu^
 ||mhgsrtasttga.icu^
 ||mhherkesrs.com^
+||mhhhrrrrs.duckdns.org^
 ||mhhmmhrs.app^
 ||mhhrdw.com^
 ||mhhres.dns.navy^
@@ -23264,6 +23271,7 @@
 ||mhrsrandevumerkezi.myshopify.com^
 ||mhrsrandevumtr.club^
 ||mhrsrandevumtr.com^
+||mhrsrandevumtr.net^
 ||mhrsrandevunburadan.com^
 ||mhrsrandevunburadan.duckdns.org^
 ||mhrsrandevunburadann.duckdns.org^
@@ -25590,6 +25598,7 @@
 ||paleturquoise-dragonfly-364512.hostingersite.com^
 ||palitogrenos.com^
 ||palmiiyesultan.com^
+||palmiyesulltan.site^
 ||palmiyesultan.uk^
 ||palmiyesultn.com^
 ||pamconj.com^
@@ -28144,6 +28153,7 @@
 ||sahibinden-paramguvende.islemonaylatr.online^
 ||sahibinden-paramguvende.siparis-onayim.online^
 ||sahibinden-paramguvende.siparisim-guvenli.online^
+||sahibinden-paramguvende.tr-urun-detayi.online^
 ||sahibinden-paramguvendesartlar.duckdns.org^
 ||sahibinden-police.ozel-hizmet-islemleri.com^
 ||sahibinden-s-paramguvende-getilan.gt.tc^
@@ -31861,6 +31871,7 @@
 ||tr-suwen.shop^
 ||tr-teb-com.my-homeip.de^
 ||tr-tekoaos.cc^
+||tr-urun-detayi.online^
 ||tr-web-alisveris-get-islemler.online^
 ||tr-web-alisveris.online^
 ||tr-web-islemler-get-alisveris.online^
