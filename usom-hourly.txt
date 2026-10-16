@@ -152,6 +152,7 @@
 ||101-extra-sadece-bugune-ozel-alisveris-indirim-tr.extra-trend.online^
 ||101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.bilgi-al.online^
 ||101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online^
+||101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.hemenalio.online^
 ||101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte.extraplus-tr.online^
 ||101-extra-sadece-bugune-ozel-alisveris-indirimleri-mobilde-tr.cepte-sepeti.online^
 ||101-extra-sadece-bugune-ozel-alisveris-indirimleri-sepette-cep.sepets-tr.online^
@@ -10829,6 +10830,7 @@
 ||basvurularinitamamlar.sbs^
 ||basvurulariniz.myonlineportal.de^
 ||basvurulariniz.sbs^
+||basvurularinla.logwayaceite.cfd^
 ||basvurulariyapinkacirmayin2026.cfd^
 ||basvurulariyapinkacirmayinekim.cfd^
 ||basvurumbbvada.duckdns.org^
@@ -12758,6 +12760,7 @@
 ||cepgarantisube.ph^
 ||cepgarantisubeci.ph^
 ||ceppptesokklarli.online^
+||cepsatis-tr.online^
 ||cepsel-viptr.online^
 ||cepsube-finansbank.ph^
 ||cepsube.netlify.app^
@@ -12784,6 +12787,7 @@
 ||ceptehabaerglobalim.shop^
 ||ceptehaber45.shop^
 ||ceptehizlimenulerss.store^
+||cepteindirim.org^
 ||ceptelinks-tr-mobil-tr.online^
 ||ceptemi-tebdemi.my-homeip.net^
 ||ceptemobildeyiz.my-homeip.de^
@@ -17436,6 +17440,7 @@
 ||haberler443198.sbs^
 ||haberler45171154.sbs^
 ||haberler452344.sbs^
+||haberler453108794.sbs^
 ||haberler4561.sbs^
 ||haberler456289.sbs^
 ||haberler4567844.shop^
@@ -20739,6 +20744,7 @@
 ||kddredi-ztra.cfd^
 ||kdgkdlgldg.com^
 ||kdih.top^
+||kdsskdgks-kdgssgk-dsghfhdssd.icu^
 ||kdsuyrse.live^
 ||keandefwoeoopewuy98sndansdn90e0p21212.click^
 ||kecs66415.site^
@@ -22870,6 +22876,7 @@
 ||medbooksource.com^
 ||mediaforgeza.com^
 ||mediamarkt.guvenli-hizmet.online^
+||mediamarkt.mobil-jet-hizmet.online^
 ||mediaora.biz^
 ||mediaora.xyz^
 ||medicalls.io^
@@ -26045,6 +26052,7 @@
 ||paysolutions.ink^
 ||paysun88.com^
 ||payvora.capital^
+||pazarama-bireysel-siparisim.com^
 ||pazarama-com-tr.shopsites.shop^
 ||pazarama-hemen-siparis.com^
 ||pazarama-hizli-onay.com^
@@ -26732,6 +26740,7 @@
 ||pttavm-araciniz-hakkinda.web.app^
 ||pttavm-arackilometresorgulama.web.app^
 ||pttavm-arackmsorgulayiniz.web.app^
+||pttavm-bireysel-siparis.com^
 ||pttavm-bireysel.com^
 ||pttavm-bireyselonline.com^
 ||pttavm-com.ph^
@@ -27207,6 +27216,7 @@
 ||qwjre1487.com^
 ||qwrtybvc.sbs^
 ||qwwqwqwqqw.duckdns.org^
+||qx7rv2m9.cfd^
 ||qyvandel.icu^
 ||r-rndvakti.com^
 ||r.byteengineering.net^
@@ -31547,6 +31557,7 @@
 ||togg-trumore.com^
 ||togg.bar^
 ||togg.best^
+||togg.casa^
 ||togg.cc^
 ||togg.live^
 ||togg.lol^
