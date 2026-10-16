@@ -162,6 +162,7 @@
 ||101-extra-sadece-bugune-ozel-alisveris-sepeti-indirimi-mobil.ceptakip-tr.online^
 ||101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.360-mobil-pro.com^
 ||101-extra-sadece-bugune-ozel-alisveris-shop-market-indirimi-tr.shops-cep-mobil.online^
+||101-extra-sadece-bugune-ozel-cepte-siparis-indirimi-tr.cepio-tr.online^
 ||101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online^
 ||101-extra-sadece-bugune-ozel-indirim-sepete-ekle-tr.mobils-bilgide.online^
 ||101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online^
@@ -1607,6 +1608,7 @@
 ||141.98.234.31^
 ||141.98.7.44^
 ||141.98.80.175^
+||141.98.82.198^
 ||14124124.duckdns.org^
 ||142.11.200.186^
 ||142.11.200.187^
@@ -2736,6 +2738,7 @@
 ||172.86.73.139^
 ||172.86.73.169^
 ||172.86.73.46^
+||172.86.75.237^
 ||172.86.76.101^
 ||172.86.76.108^
 ||172.86.76.112^
@@ -3241,6 +3244,7 @@
 ||185.103.255.38^
 ||185.104.63.215^
 ||185.105.1.243^
+||185.106.92.127^
 ||185.107.74.40^
 ||185.109.21.157^
 ||185.11.145.254^
@@ -7012,6 +7016,8 @@
 ||64.52.80.252^
 ||64.52.80.30^
 ||64.52.80.82^
+||64.7.198.46^
+||64.7.198.66^
 ||64.7.199.177^
 ||64.71.166.50^
 ||64.72.205.32^
@@ -7079,6 +7085,8 @@
 ||65.21.54.164^
 ||65.222.202.53^
 ||65.38.120.110^
+||65.38.120.38^
+||65.38.121.107^
 ||65.38.121.164^
 ||65.38.121.198^
 ||65.38.121.211^
@@ -7226,6 +7234,8 @@
 ||72.198.247.30^
 ||72.23.77.35^
 ||72.5.42.72^
+||72.5.43.100^
+||72.5.43.178^
 ||72.60.146.139^
 ||72.60.241.82^
 ||72.60.255.182^
@@ -7623,6 +7633,7 @@
 ||82.115.17.167^
 ||82.115.223.182^
 ||82.115.223.199^
+||82.115.223.210^
 ||82.115.223.231^
 ||82.115.223.26^
 ||82.115.223.9^
@@ -7960,6 +7971,7 @@
 ||88.214.25.32^
 ||88.214.26.22^
 ||88.214.26.30^
+||88.214.26.37^
 ||88.214.50.3^
 ||88.216.72.181^
 ||88.218.0.78^
@@ -9128,6 +9140,7 @@
 ||adliyekurum.ph^
 ||adliyemasak.org^
 ||adliyesorgu.net^
+||adm-govuz.com^
 ||admbooked.pro^
 ||admin-create-user.v01design.it^
 ||admin-support-nz.com^
@@ -9565,6 +9578,7 @@
 ||all000l.dns.navy^
 ||allahasdasd.blogspot.com^
 ||allahimbenisevmiyorlar.net^
+||allcloudindex.com^
 ||allegro-hepsiburada.ph^
 ||allgoodscenter.shop^
 ||allianzim.la^
@@ -14746,6 +14760,7 @@
 ||elektronik-urun-sepetim.com^
 ||elektronik-urunler-sepetimiz.com^
 ||elektronikdtm.com^
+||elementsplugin.duckdns.org^
 ||elenamasaj.com^
 ||elenen-edinim-gr.ink^
 ||elestiri-online.ink^
@@ -16357,6 +16372,7 @@
 ||gelsinkapinaclub.click^
 ||geltatleyeburdfahereyvar81.click^
 ||gelvebasinial.duckdns.org^
+||gemgovrmn.my.id^
 ||gemgovrmn.web.id^
 ||gemimi-ads.com^
 ||gemini-ads-ai.com^
@@ -18707,6 +18723,7 @@
 ||hizligecisiniz.lat^
 ||hizligecisistemi.sbs^
 ||hizligecislimuzin.lat^
+||hizligecismerkzi.art^
 ||hizligecismesafesi.firebaseapp.com^
 ||hizligecismesafesi.web.app^
 ||hizligecisodemebayi.web.app^
@@ -19439,6 +19456,7 @@
 ||imthenightmareyounamed.sbs^
 ||in-fomenkuldegerler.com^
 ||inatboxapk.tools^
+||inboxsession.info^
 ||incele-tr-glory.ink^
 ||incele.online^
 ||incelemekurulu.org^
@@ -19609,6 +19627,7 @@
 ||intrenet-basvurulari4.click^
 ||intsube-enpara.ph^
 ||invarlikdegerler.com^
+||inveodanismanlik.com^
 ||inves-rapor-ent.myonlineportal.ch^
 ||investika-club.com^
 ||investmentpulsehub.com^
@@ -21616,6 +21635,7 @@
 ||kt-bank-ag.com^
 ||ktalakltlkatla.net^
 ||ktcjadskjx1k23xk1zl123123.click^
+||ku9199766.click^
 ||kuasdgasasgd88asda.click^
 ||kuba-tr.com^
 ||kubaaraclari.com^
@@ -21717,6 +21737,7 @@
 ||kuzey-islem.22web.org^
 ||kuzeymenkulas.com^
 ||kuzeymenkuldegerleras.com^
+||kuzeymenkulgroup.com^
 ||kuzeymenkultr.com^
 ||kuzeymuayene.com^
 ||kuzeyportfoymenkuldegerler.com^
@@ -22544,6 +22565,7 @@
 ||mail.uaiubifas.top^
 ||mailchimp-passkey.com^
 ||maildestektr.com^
+||mailkeyboard.com^
 ||mailpredicttogether.ink^
 ||mailpulsynk.xyz^
 ||mailtrixauvex.ink^
@@ -24032,6 +24054,7 @@
 ||nanofrontier.capital^
 ||narkozweb.online^
 ||narratefy.com^
+||naryncity.kg^
 ||nas.evsahibibasvuru.com^
 ||nasdaqpro.top^
 ||nasilyapilirrr.sbs^
@@ -30999,6 +31022,7 @@
 ||tebli-cepte-mobile.myonlineportal.ch^
 ||tebligceza.com^
 ||tebmobilkredi.my-homeip.de^
+||tebooaoakkgoolo.shop^
 ||tebpageinternet.my-homeip.com^
 ||tebpromo.site^
 ||tebrafa.site^
@@ -31559,6 +31583,7 @@
 ||togg.best^
 ||togg.casa^
 ||togg.cc^
+||togg.lat^
 ||togg.live^
 ||togg.lol^
 ||togg.pro^
@@ -33587,6 +33612,7 @@
 ||wiley-photographer-started-conservative.trycloudflare.com^
 ||williampalankphoto.com^
 ||wincdn.ru^
+||wincorpupdates.com^
 ||windows-update-server-microsoft.servehttp.com^
 ||windows-update-ws.servehttp.com^
 ||windowscreenrepairnearme.com^
