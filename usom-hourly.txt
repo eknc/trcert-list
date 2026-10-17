@@ -327,6 +327,7 @@
 ||10108283004588.bounceme.net^
 ||1014545082504588.bounceme.net^
 ||101aldinaldinextra.sbs^
+||101aldinextrakapidan.sbs^
 ||101ekstramr.duckdns.org^
 ||101extraaldinaldinkapinda.sbs^
 ||101extrakampanyalari.online^
@@ -10147,6 +10148,7 @@
 ||arti-web.my-homeip.de^
 ||artikburdan.netlify.app^
 ||artikkatildiburdaherkescabukbak76.site^
+||artikyalanyokye.sbs^
 ||artisoft.duckdns.org^
 ||artivun.sbs^
 ||artkhersesycokbasitsendegelbzekatl.online^
@@ -13707,6 +13709,7 @@
 ||degerodaklari.com^
 ||degerodasi.com^
 ||degerplatformu.com^
+||degilmii.sbs^
 ||degisiklik-hakkinda.ink^
 ||deladedondaea.duckdns.org^
 ||delandeondale.duckdns.org^
@@ -14901,6 +14904,7 @@
 ||emakbapaklugimanasehat.my.id^
 ||emakihabar24.lovable.app^
 ||emaliasliye.com^
+||emalidosya.com^
 ||emalidosyasorgu.com^
 ||emaliuyap.com^
 ||emaliye.org^
@@ -17927,6 +17931,7 @@
 ||havale-ode.com^
 ||havale-odemem.com^
 ||havalem-fast.com^
+||havaxistis.online^
 ||havenaura.click^
 ||havenistanbul.net^
 ||havennode.biz^
@@ -20865,6 +20870,7 @@
 ||karteparta.click^
 ||kartmat.opik.net^
 ||kartomopiks.opik.net^
+||kartulisuperi.duckdns.org^
 ||karvend.courses^
 ||kasalarsaglamtanktank.net^
 ||kasalarsaglamtnn.net^
@@ -23553,6 +23559,7 @@
 ||mhsraca.site^
 ||mhsrakog.cyou^
 ||mhsrakog.lol^
+||mhsrakog.sbs^
 ||mhsrakoga.biz^
 ||mhsrakoga.buzz^
 ||mhsrakoga.lol^
@@ -24076,6 +24083,7 @@
 ||muhugudueretese-duguhuderede.lol^
 ||muhugufe-redesede.lol^
 ||muhuguferedeliseli.lol^
+||muhugufu-reteyeuy.lol^
 ||muhugulipiferemceve.club^
 ||mujco.cn^
 ||mujdecicek.com^
@@ -26949,6 +26957,7 @@
 ||ptt.mobilservisler-49.sbs^
 ||ptt.mobilservisler-65.sbs^
 ||ptt.mobilservisler-67.sbs^
+||ptt.mobilservisler-75.sbs^
 ||ptt.mobilservisler-87.sbs^
 ||ptt.satinalonlinesiparis.com^
 ||ptt.sepetimhizlisatinal.com^
