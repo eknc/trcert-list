@@ -12942,6 +12942,7 @@
 ||ceptex.online^
 ||ceredefe-dereteyeuere.lol^
 ||cerencans.duckdns.org^
+||cereretede-serederete.lol^
 ||ceretese-derersede.lol^
 ||ceretesedesede-agafadaesede.lol^
 ||ceronet.work^
@@ -17545,6 +17546,7 @@
 ||haberler2153212.com^
 ||haberler2223399.sbs^
 ||haberler223522.sbs^
+||haberler23142135.sbs^
 ||haberler231542423.online^
 ||haberler23232.shop^
 ||haberler233434123.shop^
@@ -19547,6 +19549,7 @@
 ||ile-islemlerdeyim.com.tr^
 ||ile-islemlerim.com.tr^
 ||ile-odemen-tamamla.com^
+||ile-odemeyi-tamamlayin.com^
 ||ile-onay-sepete.com^
 ||ile-saitin-al.online^
 ||ile-sepet-islemler.com.tr^
@@ -22042,6 +22045,7 @@
 ||lesyatsmhzmt.com^
 ||letgo-sigorta.co^
 ||letgo.guvenli-hizmet.online^
+||letgo.ile-odemeyi-tamamlayin.com^
 ||letgo.ile-siparis-olustur.com^
 ||lethasonuc.xyz^
 ||letok82650.online^
@@ -27599,6 +27603,7 @@
 ||randevuluzamanninicin.net^
 ||randevumtuvturkorg.duckdns.org^
 ||randevunoktasi.duckdns.org^
+||randevuntuvturkorg.duckdns.org^
 ||randevununkolay.com^
 ||randevunuzayaginizageldi.sbs^
 ||randevunuzayaginizageldi2.sbs^
@@ -32834,6 +32839,7 @@
 ||tuvturkruk.com^
 ||tuvturkse.digital^
 ||tuvturksr.com^
+||tuvturkx.com^
 ||tuvturkyt.com^
 ||tuvturkyys.com^
 ||tuvuturk-onl-randvuun.click^
@@ -34757,6 +34763,7 @@
 ||yieldup.ch^
 ||yifubafu.s3.ap-southeast-1.amazonaws.com^
 ||yifxea.click^
+||yilandaginakaryagmisbabus.com^
 ||yildenix.live^
 ||yildirimgroup.online^
 ||yildirimkurumsalfilo.com^
