@@ -121,6 +121,7 @@
 ||101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-firsati-tr.hesaplishop-tr.online^
 ||101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-tr.shopsmobile.online^
 ||101-extra-mobil-sadece-bugune-ozel-alisveris-indirimi.avantajvar-tr.online^
+||101-extra-mobil-sadece-bugune-ozel-alisveris-shop-indirimleri.uygundepo.online^
 ||101-extra-mobil-sadece-bugune-ozel-avantajli-fiyatlar-tr.e-ticaret-tr.online^
 ||101-extra-mobil-sadece-bugune-ozel-cep-indirimleri-tr.cepsel-viptr.online^
 ||101-extra-mobil-sadece-bugune-ozel-cepte-indirim-sepeti-tr.eshops-mobile.online^
@@ -222,6 +223,7 @@
 ||101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online^
 ||101-extra-sadece-online-ozel-alisveris-sepet-indirimleri-mobil.bireysel-shops-mobil.online^
 ||101-extra-sadece-online-ozel-alisveris-sepeti-tr.bilgi-sepeti.online^
+||101-extra-sadece-online-ozel-indirim-alisveris-sepette.cepindeki-indirim.online^
 ||101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online^
 ||101-extra-sadece-online-ozel-indirimli-alisveris-sepette-tr.mobilcitr.online^
 ||101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online^
@@ -4526,6 +4528,7 @@
 ||2026dansizlere.duckdns.org^
 ||2026guncelsorgular.life^
 ||2026kasim2026.click^
+||2026kasim2026onayli.duckdns.org^
 ||2026onayli2026.duckdns.org^
 ||203.107.32.162^
 ||203.107.40.49^
@@ -9529,6 +9532,7 @@
 ||aldin-caymakinesi.lat^
 ||aldin-yadaaldin.com^
 ||aldin1.space^
+||aldin101kapindan.sbs^
 ||aldinaktuelcay.xyz^
 ||aldinaldin.ekstra101.dpdns.org^
 ||aldinaldin1453.duckdns.org^
@@ -12294,6 +12298,7 @@
 ||buhugu-hurehugedere.lol^
 ||buhugufiliresede.lol^
 ||buhugufure-desedese.lol^
+||buhugugu-fefererede.lol^
 ||buhukulupolisede.lat^
 ||buhulukuge-redetpioli.lol^
 ||buhuyutr-deresedere.lol^
@@ -18789,6 +18794,7 @@
 ||hizlialisverisicinbr.com^
 ||hizlialisverislerim.com^
 ||hizlialisverismerkezisadecea101de.duckdns.org^
+||hizlianlikserilkampanyalarimburada.xyz^
 ||hizliaracgecisilieriniz.sbs^
 ||hizlibakiyuklemehgss.web.app^
 ||hizlibaslangic.abrdns.com^
@@ -22771,6 +22777,7 @@
 ||malirandevu.com^
 ||malisorgu.org^
 ||malisorgulama.com^
+||malisorgulama.net^
 ||malisorgulama.org^
 ||malitilanda-tudore.lol^
 ||maliturkiyen.cyou^
