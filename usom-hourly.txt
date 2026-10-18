@@ -6846,6 +6846,7 @@
 ||546446545487.duckdns.org^
 ||54695869586922222.net^
 ||54698599004949000.net^
+||5512344445556667.sbs^
 ||5515151.xyz^
 ||552662.lat^
 ||55465465461455.duckdns.org^
@@ -14572,6 +14573,7 @@
 ||edavabilgi.org^
 ||edavacbs.org^
 ||edavadosyalarim.org^
+||edavadosyam.org^
 ||edavainfaz.org^
 ||edavakontrol.com^
 ||edavakontrol.org^
@@ -28037,6 +28039,7 @@
 ||rndvlahzmetler.com^
 ||rndvuburdaalingelin.duckdns.org^
 ||rndvulimonunuz.lat^
+||rndvulrhzlica.cfd^
 ||rndvunuzuayirin.com^
 ||rndvunuzuayirt.com^
 ||rndvunuzuayirten.com^
@@ -29534,6 +29537,7 @@
 ||simpstti.net^
 ||simtorgo.digital^
 ||sinaloacarte.cfd^
+||sinegolimisayu.giize.com^
 ||sinemcicekcilik.com^
 ||sinerg-kat-list.myonlineportal.ch^
 ||sinirlar-belirleme-durdur.myonlineportal.ch^
