@@ -10093,6 +10093,7 @@
 ||araccmuayene-tuvturk-randvu.web.app^
 ||aracdetaykontrol.cfd^
 ||aracgo.net^
+||aracim360-kilo-metre-detay.web.app^
 ||aracimindetaylari.cfd^
 ||aracimizmuayenede.com^
 ||aracimmmuayeyem.com^
@@ -13067,6 +13068,7 @@
 ||cepteteb-emekliye.my-homeip.de^
 ||cepteteb-emekliyle.my-homeip.de^
 ||cepteteb-esube.my-homeip.de^
+||cepteteb-internet.my-homeip.de^
 ||cepteteb-merkeziislemler.my-homeip.de^
 ||cepteteb.pzbsin.com^
 ||ceptetebde-com.my-homeip.de^
@@ -14221,6 +14223,7 @@
 ||dijitalweb-sipariskapida.sbs^
 ||dijitalweb-siparisver.sbs^
 ||dijitalweb-talepler.sbs^
+||dijitalweb-ziraatbireysel.sbs^
 ||dijitalwebhizli-kampanya.sbs^
 ||dijitalyapi.click^
 ||dijitalyapi.xyz^
@@ -17645,6 +17648,7 @@
 ||gzkarca.shop^
 ||gzmliadagnlerinz.sbs^
 ||h-gs-odemelerinizxx.duckdns.org^
+||h-rndal.cfd^
 ||h01-captcha.sbs^
 ||h155polisi.online^
 ||h1k9p4z7m6q2.cfd^
@@ -20061,6 +20065,7 @@
 ||internet--qnbfinansbankasi.ph^
 ||internet-direktsube.com.ph^
 ||internet-koveyttork.duckdns.org^
+||internet-sube-cepteteb.my-homeip.de^
 ||internet-subesi-cepteteb.my-homeip.de^
 ||internet-subesi.site^
 ||internet-teb-entry.my-homeip.de^
@@ -26929,6 +26934,7 @@
 ||pilokihigugugu-reteyete.lol^
 ||piloko-hulukuerede.lol^
 ||pilouyguredesa.lol^
+||pinekoskim.giize.com^
 ||pingapp.site^
 ||pinkfels.shop^
 ||pinkpawgo.org^
@@ -28821,6 +28827,7 @@
 ||sahibinden-order.com^
 ||sahibinden-param-guvende.bilgi-ilan-tr.online^
 ||sahibinden-param-guvende.bilgi-ilan.online^
+||sahibinden-param-guvende.bilgi-urundetayi.online^
 ||sahibinden-param-guvende.get-ode.online^
 ||sahibinden-param-guvende.get-odeme.online^
 ||sahibinden-param-guvende.get-siparis.online^
@@ -28853,6 +28860,7 @@
 ||sahibinden-paramguvende-ilanitemid12218373.gt.tc^
 ||sahibinden-paramguvende-tr.ct.ws^
 ||sahibinden-paramguvende.github.io^
+||sahibinden-paramguvende.ilan-detayi-tr.online^
 ||sahibinden-paramguvende.ilan-getonay.online^
 ||sahibinden-paramguvende.ilan-hizmetim.online^
 ||sahibinden-paramguvende.ilan-hizmetin.online^
