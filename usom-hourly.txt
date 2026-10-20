@@ -5425,6 +5425,7 @@
 ||33.27.66.57^
 ||331241241241243123123123.duckdns.org^
 ||3333200233321333.gleeze.com^
+||33italia.ponte33.it^
 ||33vvv444.site^
 ||33x311mm74.duckdns.org^
 ||34.121.207.116^
@@ -16663,6 +16664,7 @@
 ||gemgovrmn.my.id^
 ||gemgovrmn.web.id^
 ||gemgovrnm.biz.id^
+||gemgovrnm.my.id^
 ||gemimi-ads.com^
 ||gemini-ads-ai.com^
 ||gemini-ads-invite.com^
@@ -17003,6 +17005,7 @@
 ||googlemeet.pro^
 ||googlemeet98ty.pages.dev^
 ||googlenets.ru^
+||googlepixel.abrdns.com^
 ||googleplaydown.com^
 ||goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com^
 ||gooqle-partnership.com^
@@ -23768,6 +23771,7 @@
 ||mhrtg1gdg16dd15.fun^
 ||mhs420dq.com^
 ||mhsagh.autos^
+||mhsagh.buzz^
 ||mhsagh.cfd^
 ||mhsagh.cyou^
 ||mhsagh.fun^
@@ -30263,6 +30267,7 @@
 ||sorgumasak.org^
 ||sorgunbosphours.com^
 ||sorgupanel.fit^
+||sorgupanel33.click^
 ||sorgupanelciniz.world^
 ||sorgupanelhizli.site^
 ||sorgupaneli.art^
@@ -31307,6 +31312,7 @@
 ||taklidimduzene.click^
 ||taksim-net.ink^
 ||taktik-operational.ink^
+||takvimlerrek.sbs^
 ||talebekraniscebde.duckdns.org^
 ||talent-louisvuitton.com^
 ||talentedwhispering.com^
@@ -32550,6 +32556,7 @@
 ||trbirim.org^
 ||trbncdogrulama2026masak.duckdns.org^
 ||trbnincebasvurularim.duckdns.org^
+||trbuyukbenbir.click^
 ||trcezadosya.org^
 ||trcezaesorgu.net^
 ||trcezamaliye.com^
