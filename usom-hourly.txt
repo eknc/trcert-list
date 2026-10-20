@@ -16409,6 +16409,7 @@
 ||garanti-nakit-destek.cloud^
 ||garanti-nakit-merkezi.cloud^
 ||garanti-nakit-noktasi.cloud^
+||garanti-odeme-sistemi.cloud^
 ||garanti-onay-sistemi.cloud^
 ||garanti-onayli-kredi.cloud^
 ||garanti-online-ekim-ayina-ozel.cloud^
@@ -23771,6 +23772,7 @@
 ||mhrtg1gdg16dd15.fun^
 ||mhs420dq.com^
 ||mhsagh.autos^
+||mhsagh.best^
 ||mhsagh.buzz^
 ||mhsagh.cfd^
 ||mhsagh.cyou^
@@ -29820,6 +29822,7 @@
 ||sizeozelflrsatlar.com^
 ||sizeozelteklfimiz.abrdns.com^
 ||sizilebiztalebekranlari.duckdns.org^
+||sizin-siparisleriniz.com^
 ||sizinicinburadayiz1.sbs^
 ||sizinicinburadayiz2.sbs^
 ||sizinicinburadayiz3.sbs^
@@ -30279,6 +30282,7 @@
 ||sorgupaneli.rest^
 ||sorgupaneli.vip^
 ||sorgupaneli.world^
+||sorgupaneli1.click^
 ||sorgupaneli1.world^
 ||sorgupaneli1.xyz^
 ||sorgupaneliguvenli.store^
@@ -33250,6 +33254,7 @@
 ||ubyul.help^
 ||ucarim-mesela.sbs^
 ||ucbeskazaniyorumamayetmiyor.click^
+||ucretsiz-umre-firsatlarimiz.sbs^
 ||ucurumsunbana4.uk^
 ||ucurumsunbana5.uk^
 ||ucurumsunbana9.uk^
