@@ -13014,6 +13014,7 @@
 ||cepte-eylul.info.tr^
 ||cepte-eylul.name.tr^
 ||cepte-eylul.net.tr^
+||cepte-inter.my-homeip.de^
 ||cepte-islemleriminz-garanti.duckdns.org^
 ||cepte-islemleriniz-garanti.duckdns.org^
 ||cepte-shop-tr.online^
@@ -29198,6 +29199,7 @@
 ||saydimsenikalbime.duckdns.org^
 ||sayfadakal.duckdns.org^
 ||sayginbelgelendirme.com^
+||sazan.city^
 ||sbelnlcan.duckdns.org^
 ||sbendekealsldjnsnkanprnauso23r9248353984985.click^
 ||sbkoefskrafe.bounceme.net^
@@ -33459,6 +33461,7 @@
 ||uhgsagdfadhas21.cfd^
 ||uhgsagdfadhas21.cyou^
 ||uhufudure-resederete.lol^
+||uhugudere-redeteye.lol^
 ||uhukalami.duckdns.org^
 ||ui-wire.com^
 ||ui9r09xfxp2n.icu^
