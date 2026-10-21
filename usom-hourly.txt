@@ -1180,6 +1180,7 @@
 ||122224457999989999089099.xyz^
 ||122241224551222455590.duckdns.org^
 ||1222412541225452255890.duckdns.org^
+||1222412541225452255891.duckdns.org^
 ||12229828189122.duckdns.org^
 ||12239928837727.servecounterstrike.com^
 ||12245112245542224554254591.xyz^
@@ -5314,6 +5315,7 @@
 ||2as1d5e65sd1sad54sd.duckdns.org^
 ||2baserec2.guru^
 ||2dc62559e005-endpoint.com^
+||2f1222412541225452255891.duckdns.org^
 ||2metaofflinereklam.sbs^
 ||2q7xrmvp.sbs^
 ||2reklammetaonline.cfd^
@@ -5431,6 +5433,7 @@
 ||312455455589992.duckdns.org^
 ||312455455589993.duckdns.org^
 ||3125123.uk^
+||31313131313113.duckdns.org^
 ||315455564447889889989990.duckdns.org^
 ||315455564447889889989991.duckdns.org^
 ||315455564447889889989992.duckdns.org^
@@ -9326,6 +9329,7 @@
 ||adsclaudeback-production.up.railway.app^
 ||adsedse-dereceve.lol^
 ||adserviceupdate.com^
+||adshiziyakala.cfd^
 ||adslcasldasklx123x12.shop^
 ||adsmistral.com^
 ||adsmobi.ru^
@@ -9881,6 +9885,7 @@
 ||anadolukesiti.com^
 ||anadolukoprusu.com^
 ||anadolumahkeme.org^
+||anadolumenkulyatirimdegerler.com^
 ||anadolusehri.com^
 ||anadolusync.com^
 ||anadolutrend.com^
@@ -11051,6 +11056,7 @@
 ||basvuruadresima.cloud^
 ||basvurualanim.com^
 ||basvuruasdagarantili.shop^
+||basvuruform.com^
 ||basvuruherzamandevamsiparis.sbs^
 ||basvuruinternettalepleri.duckdns.org^
 ||basvurukontrlleri.rf.gd^
@@ -11623,6 +11629,7 @@
 ||bgnclsyrzbxvrmynb.sbs^
 ||bgnlerdenfrsat.duckdns.org^
 ||bgyuy.dynamicsforever.su^
+||bhfbvbfg.click^
 ||bhndfgewrnwernwe.click^
 ||bianciaturkeys.top^
 ||bib.1001gacor.org^
@@ -13135,6 +13142,7 @@
 ||certcheck.online^
 ||certeyerete-desedae.lol^
 ||cetethrem.com^
+||ceteyeuuyetere-deretesede.lol^
 ||cevdetdoner34xxtristanbl.xyz^
 ||ceveop.live^
 ||cevgerepilokigufere.club^
@@ -15691,7 +15699,11 @@
 ||facebook-login-facebook-access-secure.ph^
 ||facebook-login-guide.com.ph^
 ||facebook-login-in-athens.com.ph^
+||facebook-login-in-eg.com.ph^
+||facebook-login-in-ru.com.ph^
+||facebook-login-in-se.com.ph^
 ||facebook-login-in-tokyo.net.ph^
+||facebook-login-instant-es.com.ph^
 ||facebook-login-instant-hk.com.ph^
 ||facebook-login-instant-sa.net.ph^
 ||facebook-login-instant-th.com.ph^
@@ -16572,6 +16584,8 @@
 ||garanti-parasal-cozum.cloud^
 ||garanti-portfoy-yonetimi.cloud^
 ||garanti-sermaye-cozumu.cloud^
+||garanti-sermaye-merkezi.cloud^
+||garanti-sermaye-portali.cloud^
 ||garanti-sube-bonus-islemlerim.mayddns.com^
 ||garanti-subesi-giris.ph^
 ||garanti-yatirim-destek.cloud^
@@ -20583,6 +20597,7 @@
 ||istcano.xyz^
 ||isteansfaz.duckdns.org^
 ||istebasvurulariiniz.theworkpc.com^
+||istecep.my-homeip.de^
 ||istecep.site^
 ||istefirsatlarburda.com^
 ||istekuzerineistanbul.xyz^
@@ -20770,6 +20785,7 @@
 ||jaxdurem.com^
 ||jaxdurev.buzz^
 ||jbl-turkiye.com^
+||jdfsakdkasd.shop^
 ||jeaw520i.space^
 ||jedalreasdws.duckdns.org^
 ||jekep15918.online^
@@ -24039,10 +24055,14 @@
 ||mhsrakogr.sbs^
 ||mhsraog.buzz^
 ||mhsrarandvlrmzbrda.sbs^
+||mhsrbsvrusistemszxc.space^
 ||mhsrhrmhmrms.duckdns.org^
 ||mhsroda182.click^
 ||mhsroda182.cyou^
+||mhsroda182.lifestyle^
 ||mhsroda182.makeup^
+||mhsroda182.monster^
+||mhsroda182.motorcycles^
 ||mhsrogren.org^
 ||mhsrrandvu.com^
 ||mhsrrekaliya.site^
@@ -24811,6 +24831,7 @@
 ||ncorex.media^
 ||ncubll.click^
 ||ncxbmbvxvccxcnbvxcnnbvd57.click^
+||ndsandsajdjsad.shop^
 ||nealanterlerdsew.duckdns.org^
 ||nebula.garantibbvakredibasvuru.com^
 ||nebulachecker.icu^
@@ -25044,6 +25065,7 @@
 ||nfdgdfsdvds.duckdns.org^
 ||nfhkcndks.shop^
 ||nfhvu87348348.click^
+||nfjdsfdsfsdsanfn.shop^
 ||nfnchxsza.com^
 ||nfxfxfslemleriniz.web.app^
 ||ngdance.fun^
@@ -25615,6 +25637,7 @@
 ||odyklehgcdm.cfd^
 ||oeannon.com^
 ||oefiratturkmhrsde.ffio.site^
+||oelreksd.shop^
 ||oeoeo2020201z.duckdns.org^
 ||oeoweoqoeo.sbs^
 ||oesiskola.sbs^
@@ -28168,6 +28191,7 @@
 ||random.royalifield.app^
 ||randoomom.duckdns.org^
 ||randumanduman.co^
+||randumanduman.net^
 ||randv-kontlr-etmek-m.web.app^
 ||randvhsziemtsd.store^
 ||randvlrmzbrdamhrsa.sbs^
@@ -28903,6 +28927,7 @@
 ||sahibinden-get.siparisislemleri.com^
 ||sahibinden-get.urundetay-sepet-10.sbs^
 ||sahibinden-get.urundetay-sepet-15.sbs^
+||sahibinden-get.urundetay-sepet-20.sbs^
 ||sahibinden-get.vercel.app^
 ||sahibinden-getilan.ile-guvenle-islem-web.com^
 ||sahibinden-getilan.islemler-webtr-getalisveris.online^
@@ -32237,6 +32262,7 @@
 ||tf2play.ru^
 ||tfgistanbul.net^
 ||tfgistanbulmenkuldegerler.com^
+||tfnhcmdh.click^
 ||tg4service.com^
 ||tghehelinesgs.duckdns.org^
 ||thalveron.world^
@@ -33925,6 +33951,7 @@
 ||vatandas-basvuru-islemleri.sbs^
 ||vatandas-uyap-gov-tr-evrak-dogrulama-uyap.vercel.app^
 ||vatandas-uyap.eu^
+||vatandasgiris.org^
 ||vatandasgirisekranimhrsonlinegirisimiz.duckdns.org^
 ||vatandasgirsmhrslersx.mtvleyi2026s.xyz^
 ||vatandasislemlerionline.fun^
@@ -35433,6 +35460,7 @@
 ||yghsajfsjagfasax99.sbs^
 ||yghsajfsjagfasax99.xyz^
 ||yheqkrqxjpebtab.fun^
+||yhnbgh.click^
 ||yhstore.top^
 ||yieldup.ch^
 ||yifubafu.s3.ap-southeast-1.amazonaws.com^
