@@ -947,6 +947,7 @@
 ||1111x1111.sbs^
 ||11130059322882.webredirect.org^
 ||111300593882.ooguy.com^
+||111hizligiris.duckdns.org^
 ||112.105.19.170^
 ||112.109.219.147^
 ||112.113.112.5^
@@ -969,6 +970,7 @@
 ||1124111123.com^
 ||11241garant.duckdns.org^
 ||112724112.click^
+||112hizligiris.duckdns.org^
 ||113.0.152.164^
 ||113.125.92.32^
 ||113.161.16.130^
@@ -18755,6 +18757,7 @@
 ||hemenkampanyaburaya.online^
 ||hemenkap.online^
 ||hemenkapinda.duckdns.org^
+||hemenkontrolsagla.abrdns.com^
 ||hemenl-40binpromo-buradan.sbs^
 ||hemenlanlsatnas.net^
 ||hemenmagaza-tr.online^
@@ -20363,6 +20366,7 @@
 ||insbuild.digital^
 ||insight-sweet-drainage-appreciated.trycloudflare.com^
 ||insightbasehq.com^
+||insights.herbital.online^
 ||instagram-clone-sigma-seven.vercel.app^
 ||instagram-e-mail-confirm-info-desk.ph^
 ||instagram-meta.top^
@@ -28952,6 +28956,7 @@
 ||ruhsuzpanelhizmetlerim.click^
 ||ruhsuzpanelkeyfi.click^
 ||ruhsuzpanelq.wendicraft.site^
+||ruhsuzpanelvsusom.click^
 ||ruhsuzsistem1.click^
 ||ruhzy.top^
 ||russ12222.site^
@@ -30959,6 +30964,7 @@
 ||sorgunbosphours.com^
 ||sorgupanel.fit^
 ||sorgupanel33.click^
+||sorgupanelcileri.click^
 ||sorgupanelciniz.world^
 ||sorgupanelhizli.site^
 ||sorgupaneli.art^
