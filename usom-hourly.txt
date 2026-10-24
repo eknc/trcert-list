@@ -15880,6 +15880,7 @@
 ||face-kampnyalari.xyz^
 ||facebook--login-inactive.ph^
 ||facebook--login-report.ph^
+||facebook--login-safe.ph^
 ||facebook--login-security.ph^
 ||facebook--login-session.ph^
 ||facebook--signupzzzzzzzzzzzzzhu.ph^
@@ -15895,6 +15896,7 @@
 ||facebook-login-help-de.com.ph^
 ||facebook-login-help-yemen.com.ph^
 ||facebook-login-in-athens.com.ph^
+||facebook-login-in-dubai.net.ph^
 ||facebook-login-in-eg.com.ph^
 ||facebook-login-in-ru.com.ph^
 ||facebook-login-in-se.com.ph^
@@ -16802,6 +16804,7 @@
 ||garanti-kredili-bonus-com.mayddns.com^
 ||garanti-krediye-basvur.sbs^
 ||garanti-nakit-destek.cloud^
+||garanti-nakit-hizmeti.click^
 ||garanti-nakit-hizmeti.cloud^
 ||garanti-nakit-merkezi.cloud^
 ||garanti-nakit-noktasi.cloud^
@@ -18710,6 +18713,7 @@
 ||hefeelfeguystr.duckdns.org^
 ||hefelfeguystr.duckdns.org^
 ||hegeseodemesi.vercel.app^
+||hegwgsaagl.giize.com^
 ||heilbronner-fruehlingssymposium.de^
 ||heilongyk.top^
 ||heismebktaltara.net^
@@ -26759,6 +26763,7 @@
 ||palitogrenos.com^
 ||palmiiyesultan.com^
 ||palmiyesulltan.site^
+||palmiyesultam.site^
 ||palmiyesultan.uk^
 ||palmiyesultn.com^
 ||pamconj.com^
