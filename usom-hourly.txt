@@ -14765,6 +14765,7 @@
 ||e-devlet-trust.xyz^
 ||e-devlet-turkiye-ssk-prim-sorgu.blogspot.com^
 ||e-devlet-turkiye-tr.vercel.app^
+||e-devlet.de^
 ||e-devlet.gov3.site^
 ||e-devletana.com.ph^
 ||e-devletblog.blogspot.com^
@@ -15891,6 +15892,8 @@
 ||facebook-login-checker.ph^
 ||facebook-login-facebook-access-secure.ph^
 ||facebook-login-guide.com.ph^
+||facebook-login-help-de.com.ph^
+||facebook-login-help-yemen.com.ph^
 ||facebook-login-in-athens.com.ph^
 ||facebook-login-in-eg.com.ph^
 ||facebook-login-in-ru.com.ph^
@@ -15904,10 +15907,13 @@
 ||facebook-login-instant-th.com.ph^
 ||facebook-login-instant-vn.com.ph^
 ||facebook-login-ireland-cork.com.ph^
+||facebook-login-lisbon.com.ph^
 ||facebook-login-login-extra.ph^
 ||facebook-login-login-nz-asia.com.ph^
 ||facebook-login-login.blogspot.com^
+||facebook-login-metrobankl.com.ph^
 ||facebook-login-myanmar-intl.com.ph^
+||facebook-login-new-york.com.ph^
 ||facebook-login-no-logino-com.ph^
 ||facebook-login-osaka10014.com.ph^
 ||facebook-login-page-secure.ph^
@@ -15976,6 +15982,7 @@
 ||facebookloginlabg.com.ph^
 ||facebookloginlabg.net.ph^
 ||facebookloginlabz1.com.ph^
+||facebookloginlakezx.net.ph^
 ||facebookloginlal.com.ph^
 ||facebookloginlal.net.ph^
 ||facebookloginlam.com.ph^
@@ -19976,6 +19983,7 @@
 ||hwol683028.fixip.org^
 ||hwsrv-1327786.hostwindsdns.com^
 ||hx92mvkq7.cfd^
+||hy13adega.duckdns.org^
 ||hyadgelbenmleolckalmyldzlara.online^
 ||hygienehistory.com^
 ||hylkgmbrcodmyl.com^
@@ -22810,6 +22818,7 @@
 ||lesgeltes.duckdns.org^
 ||lestresot.info^
 ||lesyatsmhzmt.com^
+||letgo-cuzdanimguvende.online^
 ||letgo-sigorta.co^
 ||letgo.guvenli-hizmet.online^
 ||letgo.ile-odemeyi-tamamlayin.com^
@@ -30513,6 +30522,7 @@
 ||siparisonayin.online^
 ||siparisonayla.online^
 ||siparissatin-al.com^
+||siparisteslimati.com^
 ||siparisver-hemen.com^
 ||siparisverhemen.com^
 ||siparisweb.net^
@@ -30895,6 +30905,7 @@
 ||sonfirsaattkmpnyaabsvrr.click^
 ||sonfirsaattkmpnyaabsvrr.live^
 ||sonfirsaattkmpnyaabsvrr.online^
+||sonfirsatlarihemenyakala.xyz^
 ||sonfirsltarrribkmpnyabsavr.info^
 ||sonfrlasaltikmpnyasirfvsavr.info^
 ||sonfrsaattbsvrrrkmpnyaaa.art^
@@ -32089,6 +32100,7 @@
 ||takip.shop^
 ||takipidari.org^
 ||takipkamu.org^
+||takipmali.org^
 ||takipsorgu.org^
 ||takirtukir.click^
 ||takla.click^
@@ -34001,6 +34013,7 @@
 ||tvtrkkdshhzimetburds.store^
 ||tvtrkmafylari.duckdns.org^
 ||tvtrkmynexx.duckdns.org^
+||tvtrkogren.org^
 ||tvtrkrndv.duckdns.org^
 ||tvtrkrnvdmlrm.com^
 ||tvtrkrvdal.org^
@@ -34387,6 +34400,7 @@
 ||vabelles.com^
 ||vagturk.com^
 ||vaha-yatirim.com^
+||vakif-erken-onay.duckdns.org^
 ||vakif.pzbsin.com^
 ||vakifbank-2--vakifbanktr.replit.app^
 ||vakifbank.cm.tr^
