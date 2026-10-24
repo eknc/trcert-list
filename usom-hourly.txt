@@ -250,6 +250,7 @@
 ||101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online^
 ||101-extra-sadece-online-ozel-alisveris-sepet-indirimleri-mobil.bireysel-shops-mobil.online^
 ||101-extra-sadece-online-ozel-alisveris-sepeti-tr.bilgi-sepeti.online^
+||101-extra-sadece-online-ozel-cep-alisveris-sepet-bilgileri-tr.plus^
 ||101-extra-sadece-online-ozel-indirim-alisveris-sepette.cepindeki-indirim.online^
 ||101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online^
 ||101-extra-sadece-online-ozel-indirimli-alisveris-sepette-tr.mobilcitr.online^
@@ -6948,6 +6949,7 @@
 ||53182591342.com^
 ||5325394324325.xyz^
 ||534534543.net^
+||5353523424.xyz^
 ||5384328.sbs^
 ||54.146.6.253^
 ||54.173.15.59^
@@ -11614,6 +11616,7 @@
 ||beklemedengjkdsl.blogspot.com^
 ||beklemeyinsiler.blogspot.com^
 ||beklemeynhalledins.duckdns.org^
+||bekleyenvarislar.com^
 ||bekosepeti.com^
 ||belgedogrulama.e-turkiye-gov.com.ua^
 ||belgedogrulamaedevletverif.com^
@@ -14852,6 +14855,7 @@
 ||easyllms.xyz^
 ||easylocker.locker^
 ||easynexora.online^
+||eavukatdava.com^
 ||eaydanis.click^
 ||eb289d5c-5.b-cdn.net^
 ||ebbvadijitalonizlemenugapptr.space^
@@ -15853,6 +15857,7 @@
 ||fabrikadanhalkaa.shop^
 ||face-book-login-extra.ph^
 ||face-kampnyalari.xyz^
+||facebook--login-inactive.ph^
 ||facebook--login-report.ph^
 ||facebook--login-security.ph^
 ||facebook--login-session.ph^
@@ -15860,7 +15865,9 @@
 ||facebook--update-available.ph^
 ||facebook-confirm-login.com.ph^
 ||facebook-confirm-message.com.ph^
+||facebook-login-berlin-us.ph^
 ||facebook-login-berlin20.com.ph^
+||facebook-login-check-meta.ph^
 ||facebook-login-checker.ph^
 ||facebook-login-facebook-access-secure.ph^
 ||facebook-login-guide.com.ph^
@@ -15868,6 +15875,7 @@
 ||facebook-login-in-eg.com.ph^
 ||facebook-login-in-ru.com.ph^
 ||facebook-login-in-se.com.ph^
+||facebook-login-in-tokyo.com.ph^
 ||facebook-login-in-tokyo.net.ph^
 ||facebook-login-instant-es.com.ph^
 ||facebook-login-instant-hk.com.ph^
@@ -15891,6 +15899,7 @@
 ||facebook-login2014.com.ph^
 ||facebook-loginalert.ph^
 ||facebook-loginassist.com.ph^
+||facebook-loginfleet.ph^
 ||facebook-loginhasty.ph^
 ||facebook-loginpage.com.ph^
 ||facebook-password-recovery-change-password.ph^
@@ -15912,6 +15921,7 @@
 ||facebooklogin-industrial-info.ph^
 ||facebooklogin-industrial-mu.com.ph^
 ||facebooklogin-info-delta-gamma.ph^
+||facebooklogin-info-nu-xyz.ph^
 ||facebooklogin-medical-lmn.ph^
 ||facebooklogin-medical.ph^
 ||facebooklogin-pets.ph^
@@ -18097,6 +18107,7 @@
 ||haberler125423.sbs^
 ||haberler1256236.shop^
 ||haberler12564.sbs^
+||haberler12644.sbs^
 ||haberler1269315.sbs^
 ||haberler1278945.shop^
 ||haberler1283432.shop^
@@ -18991,6 +19002,7 @@
 ||hgsdolumbayniz.art^
 ||hgseklebkyeykle.cfd^
 ||hgsetiketbakiyesi.web.app^
+||hgsgecisbakyniz.web.app^
 ||hgsgecisin.com^
 ||hgshahgfakf-sada.shop^
 ||hgshasdsaf.xyz^
@@ -19491,6 +19503,7 @@
 ||hizligecisyuklemenizz.web.app^
 ||hizligecisyuklemenzz.web.app^
 ||hizligecisyuklemeyeriniz.firebaseapp.com^
+||hizligecisyuklemniz.web.app^
 ||hizligecisyuklme.web.app^
 ||hizligecsbakiyecnzzz.web.app^
 ||hizligecsbakiyuklme.web.app^
@@ -19688,6 +19701,7 @@
 ||hmnsanmashsnmshasnmasmhasnms.fwh.is^
 ||hmntknlasntam.net^
 ||hmnypdx.art^
+||hmnypsan.art^
 ||hmnypsanb.art^
 ||hmpsiburada.ph^
 ||hmujqf.buzz^
@@ -19958,6 +19972,7 @@
 ||hzegcva.click^
 ||hzegcvb.click^
 ||hzhssowopx.blogspot.com^
+||hzli-bakye.art^
 ||hzligcshgs.cfd^
 ||hzligcslerinolsn.cfd^
 ||hzligecsxrgulamalarrii.com^
@@ -20224,6 +20239,7 @@
 ||ilkevim.basvurulari-1.sbs^
 ||ilkevim.basvurun-1.sbs^
 ||ilkevimbasvurumuz.com^
+||ilkevtoplu.com^
 ||ilkisaret.info^
 ||illegal-platform.com^
 ||illkevim.biz^
@@ -20296,6 +20312,7 @@
 ||indirimmarketleri.click^
 ||indirimrehberi.sbs^
 ||indirimsaati.online^
+||indirimsel-tr.online^
 ||indirimsepeti.sbs^
 ||indirimsepetinde.com^
 ||indirimsonfrstt.dnsup.net^
@@ -27049,6 +27066,7 @@
 ||paribusponsporlucekilisi.live^
 ||paribustock.org^
 ||paributechnology.com^
+||parinbugarantiakbankananinami.xyz^
 ||parkfauna.com^
 ||parking.sg-ticket.top^
 ||parking.sg.bill-sc.com^
@@ -29327,6 +29345,7 @@
 ||sahibinden-param-guvende.get-ode.online^
 ||sahibinden-param-guvende.get-odeme.online^
 ||sahibinden-param-guvende.get-siparis.online^
+||sahibinden-param-guvende.ilan-detayi-tr.online^
 ||sahibinden-param-guvende.ilan-getonay.online^
 ||sahibinden-param-guvende.ilan-getsiparis.online^
 ||sahibinden-param-guvende.ilan-islem.online^
@@ -31021,6 +31040,7 @@
 ||sovbuyli.gifts^
 ||sowixpro.tr^
 ||soxzr300xbsvruzrt0xf423sadvc.click^
+||soylebisaat.duckdns.org^
 ||sozbir-eutamot.myonlineportal.ch^
 ||sozbir-launcher.myonlineportal.ch^
 ||sozcuturkey.com^
@@ -32029,6 +32049,7 @@
 ||takip-mesafesi.ink^
 ||takip.shop^
 ||takipidari.org^
+||takipkamu.org^
 ||takipsorgu.org^
 ||takirtukir.click^
 ||takla.click^
@@ -32139,6 +32160,7 @@
 ||tarimmarketim.vercel.app^
 ||tarimzr.cfd^
 ||tarlaaktif.digital^
+||tarlamagirmek.com^
 ||tarmenr34da.duckdns.org^
 ||tarport.nicepage.io^
 ||tarportas.nicepage.io^
@@ -33953,6 +33975,7 @@
 ||tvuturkaracmuane.web.app^
 ||tvuturkk-ee.com^
 ||tvvtruk.com^
+||tvvtrzzrrrserndvs.space^
 ||tw-koryu.org^
 ||tweqtqlasepttee.com^
 ||twigoamwu.cfd^
