@@ -1288,6 +1288,7 @@
 ||12333222244422.webredirect.org^
 ||1234654psnylsyndns.com^
 ||1234garanti.duckdns.org^
+||1235616345234.sbs^
 ||12381239.xyz^
 ||123jkjcsadklj12j3z1h2j3.sbs^
 ||124.14.219.205^
@@ -15934,6 +15935,7 @@
 ||facebook-login-in-tokyo.com.ph^
 ||facebook-login-in-tokyo.net.ph^
 ||facebook-login-instant-de.com.ph^
+||facebook-login-instant-de.net.ph^
 ||facebook-login-instant-es.com.ph^
 ||facebook-login-instant-hk.com.ph^
 ||facebook-login-instant-sa.net.ph^
@@ -16024,6 +16026,7 @@
 ||facebookloginlan.net.ph^
 ||facebookloginlawfirms.com.ph^
 ||facebookloginlawyer.com.ph^
+||facebookloginmysteryk.com.ph^
 ||facebookloginnuzen.ph^
 ||facebookloginonlinelegal.com.ph^
 ||facebookloginonlinezvr.com.ph^
@@ -16048,6 +16051,8 @@
 ||facebookloginuser-updateinfo.ph^
 ||facebookloginuser.com.ph^
 ||facebookloginyt.com.ph^
+||facebookloginzk.com.ph^
+||facebookloginzm.com.ph^
 ||facebookloginzonebe.com.ph^
 ||facebookloginzonebr.com.ph^
 ||facebookloginzonebu.com.ph^
@@ -17711,6 +17716,7 @@
 ||grislersit.cfd^
 ||griss-onlnes.cfd^
 ||grisstlera.nicepage.io^
+||grlrandevu.com^
 ||grnsdcjkasjdcjhx12j3xksadas.cfd^
 ||grnte.com^
 ||grnti-firstlr.lol^
@@ -19673,6 +19679,7 @@
 ||hl-k-b-kkk-kr.space^
 ||hl55polisi.online^
 ||hlakolanmalko.cfd^
+||hleknaknr.net^
 ||hlgsaracsistemi.xyz^
 ||hlkbn2.blogspot.com^
 ||hlkenta.net^
@@ -21968,6 +21975,7 @@
 ||kiralikkonutbasvurularim.cfd^
 ||kirameso-hulavite.lol^
 ||kireiu.eu^
+||kirlenmekguzeldir.net^
 ||kirmizibasliklipose.duckdns.org^
 ||kirmizibasliklitirtil.duckdns.org^
 ||kiro.cheap^
@@ -28970,6 +28978,7 @@
 ||rodddcycyrgttskym.live^
 ||roddddybdrydln.shop^
 ||roddddybdrydlnnn.shop^
+||rodgttenskm.cfd^
 ||rodininbabasiyim.duckdns.org^
 ||rodiwasherecandan.com^
 ||rodrodrodrodmusic.com^
@@ -31115,6 +31124,7 @@
 ||sorgupaneli2026.click^
 ||sorgupaneliguvenli.store^
 ||sorgupanelimapi.atspace.tv^
+||sorgupanelimvarbe.click^
 ||sorgutc.org^
 ||sorimel.pro^
 ||sormekavudiq.com^
@@ -35448,6 +35458,7 @@
 ||www-qnbfinansbank-service.ph^
 ||www-qnbfinansbank-transfer.ph^
 ||www-qnbfinansbank-yenilenen-subem.ph^
+||www-sube-cepteteb.my-homeip.de^
 ||www-suptb-extend-ayrica.myonlineportal.ch^
 ||www-sync-ceptedir.myonlineportal.ch^
 ||www-tamtb-cepte-screen.myonlineportal.ch^
@@ -35490,6 +35501,7 @@
 ||www-tebfirsatlar-com.my-homeip.de^
 ||www-tkgm-gov-tr.translate.goog^
 ||www-toki-gov-tr-ev.vercel.app^
+||www-tooltb-accuary-cepte.myonlineportal.ch^
 ||www-tr-binance.com^
 ||www-tracepte-tb-ayrica.myonlineportal.ch^
 ||www-tracetb-cepte-ayrica.myonlineportal.ch^
