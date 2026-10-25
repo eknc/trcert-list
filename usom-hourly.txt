@@ -9883,6 +9883,7 @@
 ||aloo-182.sbs^
 ||aloo-182.xyz^
 ||aloo182.com^
+||alpha.diyanetisleribakanligi.vercel.app^
 ||alphabitcapital.info^
 ||alphagridnexus1.lol^
 ||alphagridnexus10.lol^
@@ -11717,6 +11718,7 @@
 ||beta-gemini-ads.com^
 ||beta-manus.com^
 ||beta-perplexity.com^
+||beta.diyanetisleribakanligi.vercel.app^
 ||beta.turkcellpasajsanalmagaza.com^
 ||betgaranti-hizli-tr-giris.icu^
 ||betgit1351.com^
@@ -14205,6 +14207,7 @@
 ||devapp.digital^
 ||devdaynot.com^
 ||developer.evsahibibasvuru.com^
+||development.diyanetisleribakanligi.vercel.app^
 ||devflowtech.digital^
 ||deviom.xyz^
 ||devizo.xyz^
@@ -20486,6 +20489,7 @@
 ||internews.tr^
 ||interseqf.com^
 ||intimateeleganceintimates.com^
+||intranet.diyanetisleribakanligi.vercel.app^
 ||intranet.evsahibibasvuru.com^
 ||intranet.garantibbvakredibasvuru.com^
 ||intrawld.com^
@@ -22731,6 +22735,7 @@
 ||l55polisitr.shop^
 ||l55polistr.shop^
 ||lab-vers.xyz^
+||lab.diyanetisleribakanligi.vercel.app^
 ||labuns.netlify.app^
 ||laderdsklerda.duckdns.org^
 ||laismxj98skd342fcx.cfd^
@@ -27692,6 +27697,7 @@
 ||premium-oduller.online^
 ||premiumarac.net^
 ||prenovalik.capital^
+||preprod.diyanetisleribakanligi.vercel.app^
 ||presence-chris-modern-ata.trycloudflare.com^
 ||presscraftly.net^
 ||presslifyra.com^
@@ -27701,6 +27707,7 @@
 ||pressvista.media^
 ||presswavxo.org^
 ||pretonixgroup.com^
+||preview.diyanetisleribakanligi.vercel.app^
 ||preview.evsahibibasvuru.com^
 ||prewall.store^
 ||pricealarmsvolatilitywarnings.pro^
@@ -29682,6 +29689,7 @@
 ||sanasiparilerindensok.cloud^
 ||sanatsal-g.myonlineportal.ch^
 ||sanayeminedebilirim.sbs^
+||sandbox.diyanetisleribakanligi.vercel.app^
 ||sandegelbasvrkazan81.click^
 ||sangarlara.click^
 ||sankotextile-tr.com^
@@ -31564,6 +31572,7 @@
 ||svs-verificationdate.beer^
 ||svscnrsondanismanlik.blogspot.com^
 ||svscrsondanismanlik.blogspot.com^
+||svsvsvsv123sv.duckdns.org^
 ||svuatwea.love^
 ||svvkkosfrsati.lat^
 ||sw.sayatatata.cyou^
@@ -32733,6 +32742,7 @@
 ||test-steve.cyou^
 ||test-sube-basvuralarimizkontrolde.zapto.org^
 ||test.blnance-basvuru.info^
+||test.diyanetisleribakanligi.vercel.app^
 ||test.evsahibibasvuru.com^
 ||test.payzgroup.com^
 ||test.shellsell.market^
