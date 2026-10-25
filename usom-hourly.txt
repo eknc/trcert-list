@@ -33,6 +33,7 @@
 ||0faiz-kredim-garanti.replit.app^
 ||0faizkampanyadestek.giize.com^
 ||0faizservisi.com^
+||0faizsonfirsat.com^
 ||0fdba029e6a5-endpoint.com^
 ||0h1t1zuy1e9yrs8w1usc.jamescare.cfd^
 ||0liwevrhxdc3s2xk00.com^
@@ -150,6 +151,7 @@
 ||101-extra-mobil-sadece-bugune-ozel-online-sepet-indirimi.extradamobil.online^
 ||101-extra-mobil-sadece-bugune-ozel-shop-indirim-tr.hemensiparis.online^
 ||101-extra-mobil-sadece-online-bugune-ozel-indirim-alisveris.sepetx.online^
+||101-extra-mobil-sadece-online-bugune-ozel-indirim-sepette-tr.blod334115.site^
 ||101-extra-mobil-sadece-online-bugune-ozel-indirimler-sepette-tr.alisverix.online^
 ||101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.hemen-tr.online^
 ||101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.indirimsaati.online^
@@ -219,6 +221,7 @@
 ||101-extra-sadece-bugune-ozel-mobil-shop-urunleri-sepette-tr.buys-shop.site^
 ||101-extra-sadece-bugune-ozel-mobil-urun-indirim-sepetleri-tr.trend-cepte.site^
 ||101-extra-sadece-bugune-ozel-mobilde-online-indirim-sepeti-tr.cepseltr.online^
+||101-extra-sadece-bugune-ozel-online-alisveris-indirim-sepeti-tr.links36.online^
 ||101-extra-sadece-bugune-ozel-online-alisveris-indirimi-tr.bilgi-cepte.online^
 ||101-extra-sadece-bugune-ozel-online-alisveris-sepet-indirimleri.mobilsde.online^
 ||101-extra-sadece-bugune-ozel-online-alisveris-shop-tr.expres-tr.online^
@@ -9391,6 +9394,7 @@
 ||admin-support-nz.com^
 ||admin-treyripple-com-s-account.workers.dev^
 ||admin.chunhuating.best^
+||admin.diyanetisleribakanligi.vercel.app^
 ||admin.evsahibibasvuru.com^
 ||admin.fjbjwgyuyftg.qpon^
 ||admin.niaotong2.top^
@@ -10555,6 +10559,7 @@
 ||asis-asc-awr.myonlineportal.ch^
 ||asist-web.casa^
 ||askarzadeh.com^
+||askbayan.22web.org^
 ||askfaskgasogasg.blogspot.com^
 ||aslanapp-bd0eefc497ce.herokuapp.com^
 ||aslangelburayaannemherseyhazr25.click^
@@ -11938,6 +11943,7 @@
 ||bireycel-pass.my-homeip.net^
 ||bireysel-akmobil-cepte-com.duckdns.org^
 ||bireysel-bireysel-ziraat.my-homeip.de^
+||bireysel-cepte.my-homeip.de^
 ||bireysel-firsatlar.click^
 ||bireysel-guvenli-siparis-onay-sistemi-guncel.online^
 ||bireysel-iade-halkbank.ph^
@@ -13639,6 +13645,7 @@
 ||content.resonanceweb.top^
 ||continueislem.22web.org^
 ||contoso.add-passkey.com^
+||contraislem.22web.org^
 ||contrite.quirksturdy.icu^
 ||controlpanel.asia^
 ||controlprice.xyz^
@@ -14199,6 +14206,7 @@
 ||deukargotakip.com^
 ||deutschebank-ident.com^
 ||dev-tools.cfd^
+||dev.diyanetisleribakanligi.vercel.app^
 ||dev.evsahibibasvuru.com^
 ||dev.turkcellpasajsanalmagaza.com^
 ||dev2.evsahibibasvuru.com^
@@ -20458,6 +20466,7 @@
 ||interiumdev.xyz^
 ||interland-ofise-g.myonlineportal.ch^
 ||intern-gr-lenade.myonlineportal.ch^
+||internal.diyanetisleribakanligi.vercel.app^
 ||internationalbusinessmaclsihinesibm.vu^
 ||internatsube-akbank.ph^
 ||internet--qnbfinansbankasi.ph^
@@ -26505,6 +26514,7 @@
 ||orltech.vu^
 ||orsankerean.ezgateway.net^
 ||orsenminalar.giize.com^
+||orsenminlra.duckdns.org^
 ||orsnvsysrna.net^
 ||orsnvsyty.net^
 ||ortakbakisagi.com^
@@ -30890,6 +30900,7 @@
 ||son101.duckdns.org^
 ||son101cilerkaldi.cloud^
 ||son2026indirimleri101.biz^
+||sonbaharfirsati.abrdns.com^
 ||sonbilet.com.tr^
 ||sondakika.cam^
 ||sondakikada.org^
@@ -31388,6 +31399,7 @@
 ||stellarnodegrid9.lol^
 ||stepbreeze.com^
 ||steproute.com^
+||stg.diyanetisleribakanligi.vercel.app^
 ||still-out.sbs^
 ||stinarosen.com^
 ||stivaleno.pro^
@@ -32751,6 +32763,7 @@
 ||testediyorum.cfd^
 ||testediyorum.sbs^
 ||tester124124.duckdns.org^
+||testing.diyanetisleribakanligi.vercel.app^
 ||testing.evsahibibasvuru.com^
 ||testjoys.ru^
 ||testterms.com^
@@ -34090,6 +34103,7 @@
 ||uardeqo.digital^
 ||uasputn.com^
 ||uasputnik.com^
+||uat.diyanetisleribakanligi.vercel.app^
 ||uat.evsahibibasvuru.com^
 ||ubakafrank8.workers.dev^
 ||ubudturkiye.ubud-spa.fr^
@@ -35799,6 +35813,7 @@
 ||yapidijital.help^
 ||yapidijital.top^
 ||yapifinance.fun^
+||yapikre4disubesigiris.com.ph^
 ||yapikredi-world.com.ph^
 ||yapikredi-worldsubem.ph^
 ||yapikredi.com.ph^
@@ -36213,6 +36228,7 @@
 ||yuksekdagindumani.co^
 ||yullink.cloud^
 ||yumtyunrtqneqnqe.click^
+||yungalamrtii.duckdns.org^
 ||yunhaskse.duckdns.org^
 ||yunshizhan.com^
 ||yuntuoutdoorbackpack.cc^
