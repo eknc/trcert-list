@@ -552,6 +552,7 @@
 ||103.234.54.128^
 ||103.234.97.19^
 ||103.235.46.102^
+||103.237.102.191^
 ||103.237.86.41^
 ||103.237.92.191^
 ||103.241.64.128^
@@ -1043,6 +1044,7 @@
 ||116.110.220.100^
 ||116.171.106.3^
 ||116.176.19.199^
+||116.196.150.180^
 ||116.199.207.88^
 ||116.202.102.79^
 ||116.202.188.155^
@@ -1538,11 +1540,13 @@
 ||13798898989998990997.duckdns.org^
 ||13798898989998990998.duckdns.org^
 ||138.124.112.213^
+||138.124.113.210^
 ||138.124.123.202^
 ||138.124.123.24^
 ||138.124.14.130^
 ||138.124.14.194^
 ||138.124.184.210^
+||138.124.60.18^
 ||138.124.69.150^
 ||138.197.14.95^
 ||138.197.15.182^
@@ -1736,6 +1740,7 @@
 ||142.248.80.31^
 ||142.4.205.155^
 ||142.44.240.132^
+||142.54.229.249^
 ||142.67.249.79^
 ||142.91.105.172^
 ||142.91.98.77^
@@ -2514,6 +2519,7 @@
 ||160.191.86.209^
 ||160.20.147.67^
 ||160.20.58.27^
+||160.202.152.5^
 ||160.202.245.232^
 ||160.22.106.87^
 ||160.22.107.158^
@@ -2997,6 +3003,7 @@
 ||176.53.20.45^
 ||176.53.20.46^
 ||176.65.132.123^
+||176.65.132.128^
 ||176.65.132.17^
 ||176.65.132.224^
 ||176.65.132.43^
@@ -3210,6 +3217,7 @@
 ||179.43.176.60^
 ||179.43.186.214^
 ||179.60.149.194^
+||179.60.149.68^
 ||17bucuktemmuzsipairls.cloud^
 ||18-2-rnvlrdanbrda.com^
 ||18.134.0.66^
@@ -3337,6 +3345,7 @@
 ||182iletisim.cfd^
 ||182iletisim.cyou^
 ||182iletisim.xyz^
+||182internet.com^
 ||182internette.com^
 ||182internettee.com^
 ||182lrdnbrdarvdbk.store^
@@ -3367,6 +3376,7 @@
 ||184.174.96.71^
 ||184.174.96.74^
 ||184.174.97.32^
+||184.178.172.25^
 ||184.184.15.195^
 ||184.67.141.110^
 ||184.75.134.59^
@@ -3662,6 +3672,7 @@
 ||185.242.105.230^
 ||185.242.226.104^
 ||185.242.3.151^
+||185.242.3.36^
 ||185.242.84.24^
 ||185.243.11.73^
 ||185.243.113.39^
@@ -3962,6 +3973,7 @@
 ||192.248.150.57^
 ||192.252.176.120^
 ||192.252.179.227^
+||192.252.179.24^
 ||192.252.180.45^
 ||192.253.225.173^
 ||192.253.248.169^
@@ -5357,6 +5369,7 @@
 ||27.124.4.188^
 ||27.124.43.226^
 ||27.124.43.69^
+||27.185.218.213^
 ||27.216.27.163^
 ||27.25.148.183^
 ||27.30.78.74^
@@ -5842,6 +5855,7 @@
 ||41.231.37.153^
 ||41.63.63.134^
 ||41.63.96.128^
+||41.65.107.38^
 ||412121145441555445591.duckdns.org^
 ||412121145441555445592.duckdns.org^
 ||412121145441555445593.duckdns.org^
@@ -6025,6 +6039,7 @@
 ||45.125.216.54^
 ||45.125.34.126^
 ||45.125.64.195^
+||45.125.64.215^
 ||45.125.66.129^
 ||45.125.66.89^
 ||45.125.66.90^
@@ -6081,6 +6096,7 @@
 ||45.137.22.254^
 ||45.137.70.55^
 ||45.137.99.214^
+||45.138.12.64^
 ||45.138.16.130^
 ||45.138.16.167^
 ||45.138.16.208^
@@ -6297,6 +6313,8 @@
 ||45.227.253.208^
 ||45.227.254.210^
 ||45.227.254.25^
+||45.227.254.45^
+||45.227.254.84^
 ||45.227.255.190^
 ||45.227.255.213^
 ||45.227.255.216^
@@ -7558,6 +7576,7 @@
 ||77.239.124.108^
 ||77.239.124.110^
 ||77.239.124.131^
+||77.239.124.162^
 ||77.239.124.247^
 ||77.246.101.135^
 ||77.246.158.48^
@@ -7801,6 +7820,7 @@
 ||80.85.156.237^
 ||80.85.157.117^
 ||80.94.93.119^
+||80.94.95.211^
 ||80.94.95.252^
 ||80.96.109.107^
 ||80.96.109.229^
@@ -8255,6 +8275,7 @@
 ||89.169.52.37^
 ||89.169.53.244^
 ||89.185.80.86^
+||89.185.83.8^
 ||89.185.85.102^
 ||89.190.156.162^
 ||89.190.156.211^
@@ -8591,6 +8612,7 @@
 ||93.113.25.114^
 ||93.113.25.46^
 ||93.115.172.41^
+||93.123.109.101^
 ||93.123.109.164^
 ||93.123.109.165^
 ||93.123.109.166^
@@ -10310,6 +10332,7 @@
 ||aracmuayenerandevualma.blogspot.com^
 ||aracmuayenetabiki.blogspot.com^
 ||aracmuayenetuvturkrandevu.com^
+||aracmuayenetvtrk.com^
 ||aracmuayenexcvx.com^
 ||aracmuayeneyaptir.sbs^
 ||aracmuayennehizliislemler.com^
@@ -10386,6 +10409,7 @@
 ||aroraorijinalparcalari.com^
 ||arorayedekparcalarisatis.com^
 ||arorayedekparcalistesi.com^
+||arorayedekparcamagazasi.com^
 ||arorayedekparcasi.com^
 ||arorayedekparcatr.com^
 ||arquivos-omie.com^
@@ -12285,6 +12309,7 @@
 ||bosphorusnetwork.com^
 ||bosporusfund.com^
 ||boss.turkiyekalkinmabankasi.com^
+||bossprotect.com^
 ||bosvia.org^
 ||bot-trendyol.com.ph^
 ||bot.evsahibibasvuru.com^
@@ -13524,6 +13549,7 @@
 ||clorentaly.store^
 ||clothes.life-collective.top^
 ||cloud-electronic.com^
+||cloud-update.live^
 ||cloud-verification.com^
 ||cloud.cmatgldn.click^
 ||cloud.shinewrist.net^
@@ -14171,6 +14197,7 @@
 ||denizdentoprag.my-homeip.de^
 ||denizmenkul.pro^
 ||denizmobil-basvuru-ekranim.duckdns.org^
+||denizonlinebasvur.duckdns.org^
 ||denizontvt.net^
 ||denizselseyler.co^
 ||denkla45.nicepage.io^
@@ -15950,6 +15977,7 @@
 ||facebook-login-instant-th.com.ph^
 ||facebook-login-instant-vn.com.ph^
 ||facebook-login-ireland-cork.com.ph^
+||facebook-login-ireland-intl.com.ph^
 ||facebook-login-lisbon.com.ph^
 ||facebook-login-login-extra.ph^
 ||facebook-login-login-nz-asia.com.ph^
@@ -16001,6 +16029,7 @@
 ||facebookloginambulance.com.ph^
 ||facebookloginanimal.com.ph^
 ||facebookloginapparel.com.ph^
+||facebookloginapponline.com.ph^
 ||facebookloginapponline.ph^
 ||facebookloginbase.org.ph^
 ||facebookloginconfirm-au.com.ph^
@@ -16040,6 +16069,7 @@
 ||facebookloginonlinezvr.com.ph^
 ||facebookloginpage-interior.com.ph^
 ||facebookloginparty.com.ph^
+||facebookloginphorder.com.ph^
 ||facebookloginrenew.com.ph^
 ||facebookloginreset-login.com.ph^
 ||facebookloginretail.com.ph^
@@ -17409,6 +17439,7 @@
 ||globalfiscaldaily.com^
 ||globalheadlinehub.online^
 ||globalvisionnetwork.cfd^
+||globe-marksandspencer.com.ph^
 ||globespeakapp.com^
 ||glowfernix.com^
 ||glowmedaesthetics.com^
@@ -18693,6 +18724,7 @@
 ||hcbrseyolmuyoryargyedk50.click^
 ||hcu6ubizt.icu^
 ||hdbnyaprcamsnncnbnlr.rest^
+||hdbrdanrvalsnbrdn.sbs^
 ||hdemiradiyamanedutr.weebly.com^
 ||hdf.hedefborsa.com^
 ||hdflolink.cloud^
@@ -23959,6 +23991,7 @@
 ||mcdpwmachineylpdn.com^
 ||mcebasvuru.netlify.app^
 ||mcelerndeslesw.duckdns.org^
+||mcgrawney.com^
 ||mckenziesexy.com^
 ||mckinsey-careers.com^
 ||mcp-instagram.desenvolvedor.uk^
@@ -24142,10 +24175,12 @@
 ||merrnsondanismanlik.blogspot.com^
 ||mersiniyilikor.net^
 ||mertdanisma321.duckdns.org^
+||mertiyungalaa.duckdns.org^
 ||mertiyungl.duckdns.org^
 ||mesaj.cam^
 ||messtxgymx.xyz^
 ||met2ndsiu8k.icu^
+||meta-support.online^
 ||metabbvreklam.shop^
 ||metabolicflux.com^
 ||metabusinesscenter-appealform-copyright.vercel.app^
@@ -28115,6 +28150,7 @@
 ||pttavm.sepette-siparisim.com^
 ||pttavm.sip-tamamlat.com^
 ||pttavm.siparis-guvenliodeme.com^
+||pttavm.siparis-olustur.com^
 ||pttavm.siparis-onay-7269.com^
 ||pttavm.siparis-onay-7712.com^
 ||pttavm.siparisweb.net^
@@ -29138,6 +29174,7 @@
 ||rynqewvqwebyutn.click^
 ||s-candycollection.com^
 ||s-guvendesigortaodeme.duckdns.org^
+||s-guvendesigortaodemeleri.duckdns.org^
 ||s-guvenlimuhasebeodeme.com^
 ||s-guvenlimuhasebeodemebirimi.com^
 ||s-guvenlimuhasebeodemeleriniz.duckdns.org^
@@ -29301,6 +29338,7 @@
 ||sagligakavusmakicinbiradim.digital^
 ||saglik-182.com^
 ||saglik-gov.sbs^
+||saglik-rnd.cfd^
 ||sagliklibilgi.duckdns.org^
 ||saglikligunlerhuzurdolu.loseyourip.com^
 ||sagliklihizmetleregunleresizlere.webredirect.org^
@@ -30841,6 +30879,7 @@
 ||snnfrstlarrkmpnyaa189765.info^
 ||snnfrstlrarrkmpnyaabsvrsu14785.info^
 ||snnfrstlrarrkmpnyaabsvrsu14785.pro^
+||snowgirl.zki.lol^
 ||snrayklmelerhgs.cfd^
 ||snrdnhgsykle.cfd^
 ||snrlsaydcakm.cfd^
@@ -31414,6 +31453,7 @@
 ||stabil-olgu-gelisim.myonlineportal.ch^
 ||stableproxy.space^
 ||stablewebsystems.de^
+||stackpathcloud.com^
 ||staging.deep-eprime.app^
 ||stanblksrtm.com^
 ||standart-giris-ler.myonlineportal.ch^
@@ -31713,6 +31753,7 @@
 ||syqwe.ezpizi.click^
 ||sys-tools.cfd^
 ||sysbasvurular.com^
+||system-strategy.org^
 ||systeminfo.dynns.com^
 ||sysupdate.serveftp.com^
 ||szgtch.com^
@@ -32461,6 +32502,7 @@
 ||tebbasvurusayfa.my-homeip.de^
 ||tebbireyselsube2018.com.ph^
 ||tebbmb.cfd^
+||tebbreee.duckdns.org^
 ||tebcepte-com.my-homeip.de^
 ||tebcepte-sube-parola.myonlineportal.de^
 ||tebcim.space^
@@ -33690,6 +33732,7 @@
 ||truenorth-yachts.com^
 ||trueturknews.com^
 ||trueupdate.info^
+||trulitesupport.com^
 ||trumore.org^
 ||trumoredesign.com^
 ||trumoresiparis.com^
@@ -34253,6 +34296,7 @@
 ||umghjmtrynwernwe.click^
 ||umikaze.site^
 ||umr2xx12e31x2.duckdns.org^
+||umre-basvurukatilimi.vercel.app^
 ||umre-kuveytorg.duckdns.org^
 ||umrecekilisi.duckdns.org^
 ||umrekuveyt.online^
@@ -34723,6 +34767,7 @@
 ||vespatch-lybr.ink^
 ||vesperavillas.com^
 ||vesselsystem.xyz^
+||vestel-ai.net^
 ||vestelbayileri.com^
 ||vestelkurumsal.com^
 ||vetepez.top^
@@ -36061,6 +36106,7 @@
 ||yenilenenteklifzinciri.abrdns.com^
 ||yenileniyoruz.online^
 ||yenilenmisarayuzteklifi.abrdns.com^
+||yenilenmisicerigimiz.abrdns.com^
 ||yenilmezbabaasla.sbs^
 ||yenimerkezkayiti.abrdns.com^
 ||yeninokta.abrdns.com^
@@ -36590,6 +36636,7 @@
 ||ziraatdijital300.sbs^
 ||ziraatdijitalde.sbs^
 ||ziraatkapll.cfd^
+||ziraatkatilim.ai^
 ||ziraatkredibasvuru.netlify.app^
 ||ziraatledopdolu.fun^
 ||ziraatmobil.wdsads1e.cfd^
