@@ -291,6 +291,7 @@
 ||101-extra-sadece-online-ozel-shop-urun-bilgileri-alisveris.bilgiselshopier.site^
 ||101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online^
 ||101-firsatlari.duckdns.org^
+||101-kampanyalaribuguneozel.sbs^
 ||101-kstra.s3.eu-north-1.amazonaws.com^
 ||101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online^
 ||101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online^
@@ -10633,6 +10634,7 @@
 ||asdfsdfwsdf.duckdns.org^
 ||asdfsdsfd.duckdns.org^
 ||asdfsfdsdf.duckdns.org^
+||asdfvdzfad.art^
 ||asdgasha.art^
 ||asdghbvdasha.art^
 ||asdghvdasha.art^
@@ -11360,6 +11362,7 @@
 ||basvurumerkeizma.cloud^
 ||basvurumerkezi.abrdns.com^
 ||basvurumerkezim2026.cfd^
+||basvurumevler.com^
 ||basvurummobildenbntr.duckdns.org^
 ||basvurumunadresinde.cfd^
 ||basvurun-cepten.myonlineportal.de^
@@ -11776,6 +11779,7 @@
 ||bedavapanel4.site^
 ||bedavapanelariyorum.world^
 ||bedavapanelciniz.website^
+||bedavapanelhizmetleri.click^
 ||bedavapanelhizmetleri.website^
 ||bedavapanelhizmetleri.world^
 ||bedavapanelimizyeniden.gt.tc^
@@ -14443,6 +14447,7 @@
 ||dev2.evsahibibasvuru.com^
 ||devamederiz.sonkaracafirsatinialalim.shop^
 ||devamediyoruzbasvurla.sbs^
+||devamet1o1.click^
 ||devapp.digital^
 ||devdaynot.com^
 ||developer.evsahibibasvuru.com^
@@ -14628,6 +14633,7 @@
 ||dijitalislemenuzlraalgirs.duckdns.org^
 ||dijitalislemfirsati.sbs^
 ||dijitalkampanya-online.sbs^
+||dijitalmobilgiris-ziraatwebkampanya.sbs^
 ||dijitalnet-bilgi.sbs^
 ||dijitalnetbilgi-giris.sbs^
 ||dijitalnetform.sbs^
@@ -14723,6 +14729,7 @@
 ||dkllbi.click^
 ||dksfsdfsd.shop^
 ||dksjfjkdsjfksdjkf.com^
+||dktrgeldi.duckdns.org^
 ||dkyatirimmenkul.com^
 ||dl.evsahibibasvuru.com^
 ||dl.wel1.ru^
@@ -15398,6 +15405,7 @@
 ||ehazinesorgula.com^
 ||ehazineuyap.com^
 ||ehazineuzlasma.com^
+||ehdiparfumerer.duckdns.org^
 ||ehehehheheheehheeheheheheehe.info^
 ||ehehehheheheehheeheheheheehe.online^
 ||ehhgsyukleme.org^
@@ -16188,6 +16196,7 @@
 ||facebook-login-ireland-cork.com.ph^
 ||facebook-login-ireland-intl.com.ph^
 ||facebook-login-jakarta-kr.net.ph^
+||facebook-login-largo.com.ph^
 ||facebook-login-lisbon.com.ph^
 ||facebook-login-login-extra.ph^
 ||facebook-login-login-nz-asia.com.ph^
@@ -17373,6 +17382,7 @@
 ||gelecekongorusu.misecure.com^
 ||gelecekyakini.com^
 ||gelecekyonelim.com^
+||gelendengidenden.duckdns.org^
 ||gelengecenalsindiye.sbs^
 ||gelengidenalsindiye.lol^
 ||gelerdesewend.duckdns.org^
@@ -20276,6 +20286,7 @@
 ||hryagstsprmsyn.duckdns.org^
 ||hsauyeet.live^
 ||hsb.menkulcuzdan.com^
+||hsb.menkulvcuzdan.com^
 ||hsb.varlikportfolio.com^
 ||hsbcbank-finance.com^
 ||hsbcrewards-homesa.info^
@@ -24290,6 +24301,7 @@
 ||mavellora.cfd^
 ||maventradigital.com^
 ||maventrasphere.com^
+||mavibeyazskorlar.click^
 ||mavolino.vu^
 ||mavorila.com^
 ||mavqelo.gifts^
@@ -24453,6 +24465,7 @@
 ||menfaatiolanbulur.sbs^
 ||mengchongbaotoys.com^
 ||menkuldegerleroyak.com^
+||menkulvcuzdan.com^
 ||mensweariuunners.info^
 ||mentaorb.com^
 ||menuselgiriskayitlarim.sbs^
@@ -26624,6 +26637,7 @@
 ||omnidataflow7.lol^
 ||omnidataflow8.lol^
 ||omnidataflow9.lol^
+||omurluksorgupaneli.click^
 ||on-pssword.com^
 ||on.cldvrfd.click^
 ||onassets.online^
@@ -27235,6 +27249,7 @@
 ||p5t8r3w9n2x6.click^
 ||p8z4t1k6r9w3.cfd^
 ||p9q4x6v1k8z2.lol^
+||paanzi.tools^
 ||package-proxy.cf11oobworker.workers.dev^
 ||package-proxy.cf5oobworker.workers.dev^
 ||package-proxy.cf6oobworker.workers.dev^
@@ -28050,6 +28065,7 @@
 ||pnmrud.cc^
 ||poc4b1sdftrecvbnfew89.pro^
 ||pocmsmdi.net^
+||pocolink.com^
 ||poczta.outsec.pl^
 ||podsellu.gifts^
 ||poeooeowwo777.com^
@@ -29832,8 +29848,10 @@
 ||sahibinden-get.ilanjet-hizmetler.com^
 ||sahibinden-get.ilanservis-odemehizmetin.online^
 ||sahibinden-get.ilanservisnhizmet.com^
+||sahibinden-get.ileservishzmetleri.sbs^
 ||sahibinden-get.islem-alisveris-hizmet.com.tr^
 ||sahibinden-get.islem-guvende.online^
+||sahibinden-get.islemlerin-sepet-10.sbs^
 ||sahibinden-get.islemlerinmobil-13.sbs^
 ||sahibinden-get.islemlerinmobil-14.sbs^
 ||sahibinden-get.islemlerinmobil-15.sbs^
@@ -31152,6 +31170,7 @@
 ||sizeozelflrsatlar.com^
 ||sizeozelteklfimiz.abrdns.com^
 ||sizilebiztalebekranlari.duckdns.org^
+||sizin-sepetleriniz.com.tr^
 ||sizin-siparisleriniz.com^
 ||sizinicinburadayiz1.sbs^
 ||sizinicinburadayiz2.sbs^
@@ -31642,6 +31661,7 @@
 ||sorgupanelimm.click^
 ||sorgupanelimvarbe.click^
 ||sorgupanelinegirmeyenpic.click^
+||sorgupanelinizyoksagel.click^
 ||sorgutc.org^
 ||sorimel.pro^
 ||sormekavudiq.com^
@@ -35335,6 +35355,7 @@
 ||viewdocuemnt151y-dataqjqhg.emp01825.workers.dev^
 ||vigmanet.ru^
 ||vigorlabs.info^
+||vihhy.buzz^
 ||viixzhsldndu3dx3e.click^
 ||viki-play.com^
 ||vimshopa.gifts^
@@ -36495,6 +36516,7 @@
 ||yapuikredisubesigiris.com.ph^
 ||yapuresi-lodanome.lol^
 ||yarabandi.sbs^
+||yaralarapatchgibizehirliduman.lol^
 ||yardimdestek.net^
 ||yardimdestek.org^
 ||yardimdestekpaketim.com^
