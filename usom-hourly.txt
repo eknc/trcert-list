@@ -27649,6 +27649,7 @@
 ||passkeyuser.com^
 ||password-protect-pdf.com^
 ||pastacanavari.duckdns.org^
+||pastacibul.click^
 ||pastalita-cake.xyz^
 ||pastayiyiyin.sbs^
 ||patakuti-cartcurtede.lol^
@@ -29529,6 +29530,7 @@
 ||ruhsuzpanel8.site^
 ||ruhsuzpanel9.site^
 ||ruhsuzpanelhizmetlerim.click^
+||ruhsuzpanelimizbirtane.click^
 ||ruhsuzpanelkeyfi.click^
 ||ruhsuzpanelq.wendicraft.site^
 ||ruhsuzpanelvsusom.click^
@@ -32815,6 +32817,7 @@
 ||tavsanciksorgupaneli.online^
 ||tavsanciksorgupaneli.site^
 ||tavsanciksorgupaneli.website^
+||tavuk-dunyasi.qpon^
 ||tavzilo.gifts^
 ||taweruk-hisopalem.lol^
 ||tax-filecenter-irs.matthewtarwater.com^
@@ -33213,6 +33216,7 @@
 ||tektikilesanagelsin.com^
 ||tektikilesendeolsun.com^
 ||tektiklaalisveris.com^
+||tektiklahizlihizmet.site^
 ||tektiklakapinagelicek.com^
 ||tektiklasenindeolsun.com^
 ||tektiklasponsorlureklam.com^
@@ -33955,6 +33959,7 @@
 ||travorazone.com^
 ||trazomika.capital^
 ||trbinance-tr.duckdns.org^
+||trbinance.tr^
 ||trbirim.org^
 ||trbncdogrulama2026masak.duckdns.org^
 ||trbnincebasvurularim.duckdns.org^
