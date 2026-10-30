@@ -9245,6 +9245,7 @@
 ||a101marketalisverisleri.com^
 ||a101marketaliverisaktif.duckdns.org^
 ||a101marketfirsatlarimiz.duckdns.org^
+||a101marketing.duckdns.org^
 ||a101marketinizgeldi.ph^
 ||a101marketler.com^
 ||a101marketler2026.duckdns.org^
@@ -11769,6 +11770,7 @@
 ||beavernewsticket.com^
 ||bebekbezicarrefoursa.shop^
 ||bebeler.sbs^
+||bedava1sorgucunuz2026.click^
 ||bedavapanel.com^
 ||bedavapanel.cyou^
 ||bedavapanel.net^
@@ -18911,6 +18913,7 @@
 ||havadabibulut.sbs^
 ||havaistislem.ist^
 ||havaisttis.online^
+||havaistxbilet.online^
 ||havaistxnbul.com^
 ||havale-gonderici.com^
 ||havale-gonderim.com^
@@ -29560,6 +29563,7 @@
 ||ruhsuzpanel2.shop^
 ||ruhsuzpanel2.site^
 ||ruhsuzpanel2.website^
+||ruhsuzpanel26.click^
 ||ruhsuzpanel3.website^
 ||ruhsuzpanel3.world^
 ||ruhsuzpanel31.click^
@@ -29614,6 +29618,8 @@
 ||s-candycollection.com^
 ||s-guvendesigortaodeme.duckdns.org^
 ||s-guvendesigortaodemeleri.duckdns.org^
+||s-guvendesigortaodemeleriniz.duckdns.org^
+||s-guvenli-sozlesme-birimi.com^
 ||s-guvenlimuhasebeodeme.com^
 ||s-guvenlimuhasebeodemebirimi.com^
 ||s-guvenlimuhasebeodemebirimi.duckdns.org^
