@@ -5227,6 +5227,7 @@
 ||22245112245542224554254594.xyz^
 ||22245112245542224554254595.xyz^
 ||22245112245542224554254597.xyz^
+||22245112245542224554254598.xyz^
 ||22245112245542224554254599.xyz^
 ||223.123.44.120^
 ||223.144.227.110^
@@ -9028,6 +9029,7 @@
 ||Cezainfaz.org^
 ||Fifa.house^
 ||Hazinetr.org^
+||Ighop.buzz^
 ||Igsx.closedfistllc.com^
 ||Kazticaret.com^
 ||Otokocfilom.net^
@@ -12887,6 +12889,7 @@
 ||bulukuhurete.lat^
 ||bulunmakta-fayda-g.myonlineportal.ch^
 ||bumarkettebuindirimlerbitmez.xyz^
+||bumarkettefirsatlarhicbitmez.sbs^
 ||bumarkettefiyatlarhepuygun.sbs^
 ||bumarkettehergunindirimvar.xyz^
 ||bumarketteindirimlerdurdurulamaz.xyz^
@@ -14894,6 +14897,7 @@
 ||dokkmark-etler.cfd^
 ||dokter-kini.info^
 ||doktoraix.com^
+||dokunurcrm.duckdns.org^
 ||dolandiriciyakuptv.click^
 ||dolap.e-ilan-elektronik-siparisim.com^
 ||dolap.guvenli-hizmet.online^
@@ -16278,11 +16282,14 @@
 ||facebook--login-security.ph^
 ||facebook--login-session.ph^
 ||facebook--signupzzzzzzzzzzzzzhu.ph^
+||facebook--signupzzzzzzzzzzzzzzzyu.ph^
 ||facebook--update-available.ph^
 ||facebook-bakim.ph^
 ||facebook-confirm-login.com.ph^
 ||facebook-confirm-message.com.ph^
+||facebook-facebook-status.ph^
 ||facebook-like-login.ph^
+||facebook-login-barcelona101.com.ph^
 ||facebook-login-berlin-us.ph^
 ||facebook-login-berlin20.com.ph^
 ||facebook-login-check-meta.ph^
@@ -16300,6 +16307,7 @@
 ||facebook-login-in-se.com.ph^
 ||facebook-login-in-tokyo.com.ph^
 ||facebook-login-in-tokyo.net.ph^
+||facebook-login-in-ve.com.ph^
 ||facebook-login-indonesa-intl.com.ph^
 ||facebook-login-instant-bd.com.ph^
 ||facebook-login-instant-de.com.ph^
@@ -18937,6 +18945,7 @@
 ||halkolanmalko.club^
 ||halkonay.sbs^
 ||halkonay.tech^
+||halkooperatif.app^
 ||halkrafaelo.online^
 ||halkrafaelo.space^
 ||halksalseyler.co^
@@ -19394,6 +19403,7 @@
 ||heranheryerde-ekstra.com^
 ||heranimsenledunyine.sbs^
 ||herbosfinx.com^
+||herdammhs.duckdns.org^
 ||heregelerdes.duckdns.org^
 ||hergetens.duckdns.org^
 ||hergetxdeedxx.duckdns.org^
@@ -24990,6 +25000,7 @@
 ||mhrsrandevu1182.site^
 ||mhrsrandevu346.duckdns.org^
 ||mhrsrandevu993.duckdns.org^
+||mhrsrandevual.net^
 ||mhrsrandevualhastane.com^
 ||mhrsrandevualhastane.online^
 ||mhrsrandevualsanala.duckdns.org^
@@ -27053,6 +27064,7 @@
 ||onlinekgmyolgcsbrcodyn.com^
 ||onlinekirasozlesmesi.com^
 ||onlinekmm.com^
+||onlinekoopmarket.app^
 ||onlinemagaza-karaca.vercel.app^
 ||onlinemagazafisleri.com^
 ||onlinemagazalar-karaca.vercel.app^
@@ -30057,6 +30069,8 @@
 ||saglkgnlrdlyrzbrdans.forum^
 ||saglkgnlrdylrzbrdanmhrsss.cfd^
 ||saglkgnlrdylrzbrdanmhrsss.click^
+||saglkicndnvualn.cfd^
+||saglklmhrndy.cfd^
 ||saglkrnd.cfd^
 ||sah-bindenp-ramguvende.com^
 ||sahabet.press^
@@ -33320,6 +33334,7 @@
 ||teboagoo.sbs^
 ||tebomebolaloko.shop^
 ||tebomebolo.cfd^
+||tebonline-basvuru.duckdns.org^
 ||tebooaoakkgoolo.shop^
 ||tebooaoloka.cfd^
 ||tebpageinternet.my-homeip.com^
@@ -33841,6 +33856,7 @@
 ||tkkaldgmzgnllerdervdaldm.lol^
 ||tkkg-edvtapkon-v.online^
 ||tkkg-edvtapkonv.online^
+||tkkoop-online.app^
 ||tkkoop.vercel.app^
 ||tkkoopalisveris.app^
 ||tkkoopjet.com^
@@ -35445,6 +35461,8 @@
 ||vatandas-basvuru-islemleri.sbs^
 ||vatandas-uyap-gov-tr-evrak-dogrulama-uyap.vercel.app^
 ||vatandas-uyap.eu^
+||vatandas-uyap.sbs^
+||vatandas-uyapgov.sbs^
 ||vatandasgiris.org^
 ||vatandasgirisekranimhrsonlinegirisimiz.duckdns.org^
 ||vatandasgirsmhrslersx.mtvleyi2026s.xyz^
@@ -36332,6 +36350,7 @@
 ||www-cpte-ayricalik-tb.myonlineportal.ch^
 ||www-cpte-tb-on.myonlineportal.ch^
 ||www-cpttb-customer-web.myonlineportal.ch^
+||www-ctbde-cepte-default.myonlineportal.ch^
 ||www-detail-cptb-ayrica.myonlineportal.ch^
 ||www-detaycepte-ayrica.myonlineportal.ch^
 ||www-detaytb-cepte-gir.myonlineportal.ch^
