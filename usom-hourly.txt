@@ -9763,9 +9763,11 @@
 ||akbank.com.ph^
 ||akbank.online^
 ||akbankbireysel-sube.ph^
+||akbankdirectonlineislemler.ph^
 ||akbankdirekmobil.ph^
 ||akbankdireksube.ph^
 ||akbankdirekt-kampanyalar.ph^
+||akbankdiretk.ph^
 ||akbankinvest.com^
 ||akbankinvesthub.net^
 ||akbankinvestprogram.click^
@@ -11217,6 +11219,7 @@
 ||bandspongewatch.com^
 ||bangoburdanedenyoksun.info^
 ||bank.garantibbvakredibasvuru.com^
+||banka-akbank.ph^
 ||bankaemeklipromosyonu.gen.rip^
 ||bankafolder.com^
 ||bankaguncelle.22web.org^
@@ -17306,6 +17309,7 @@
 ||garantibbva-mobil.netlify.app^
 ||garantibbva-mobil.web.app^
 ||garantibbva-movistar.com.ph^
+||garantibbva-my-login.ph^
 ||garantibbva-netflix.ph^
 ||garantibbva-nus.com.ph^
 ||garantibbva-odeme.netlify.app^
@@ -20105,6 +20109,7 @@
 ||hizlkmsorgu.web.app^
 ||hizlsidiebusejsd.online^
 ||hizlsidiebusejsd.store^
+||hizmet-akbank.ph^
 ||hizmet-islememleri.com^
 ||hizmet-merkezi-online.com^
 ||hizmet-teb-basvur.my-homeip.de^
@@ -27091,6 +27096,7 @@
 ||onllinekonomimobilleapptr.xyz^
 ||onlne-182.cfd^
 ||onlne-182.xyz^
+||onlne-akbank.ph^
 ||onlnesstemlerinizhalkimizla.sbs^
 ||onlnie-onaylan-islmminiz.sbs^
 ||onlnkceante.duckdns.org^
@@ -32335,6 +32341,7 @@
 ||sube-garantilibbva.my-homeip.net^
 ||sube-garantl.shop^
 ||sube-garenti.my-homeip.de^
+||sube-hakbank.ph^
 ||sube-infoyatirim.com^
 ||sube-kuveyt-mobilturk.duckdns.org^
 ||sube-kuveyt-ttr.duckdns.org^
@@ -33924,6 +33931,7 @@
 ||togghizlibasvuru.sbs^
 ||togghizlikayit.com^
 ||togghizlisatis.cfd^
+||toggkampanya.com^
 ||toggkayit.com^
 ||toggkredim.com^
 ||toggkredim.net^
@@ -37367,6 +37375,7 @@
 ||zavorionix.cyou^
 ||zawsterris.com^
 ||zaxenorudikq.com^
+||zazza.22web.org^
 ||zbaforumkf.cfd^
 ||zbnznbhassaxas33.cfd^
 ||zbnznbhassaxas33.cyou^
