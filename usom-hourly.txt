@@ -1513,6 +1513,7 @@
 ||134.209.205.88^
 ||134.209.252.157^
 ||134.209.69.155^
+||134.209.82.225^
 ||134.209.96.175^
 ||135.136.1.133^
 ||135.136.134.57^
@@ -3427,6 +3428,7 @@
 ||185.10.68.127^
 ||185.10.68.213^
 ||185.100.157.74^
+||185.100.85.136^
 ||185.103.255.38^
 ||185.104.63.215^
 ||185.105.1.243^
@@ -10492,6 +10494,7 @@
 ||aracmuayenerandevualma.blogspot.com^
 ||aracmuayenerandevumtr.com^
 ||aracmuayenetabiki.blogspot.com^
+||aracmuayenetuvturk.com^
 ||aracmuayenetuvturkrandevu.com^
 ||aracmuayenetvtrk.com^
 ||aracmuayenexcvx.com^
@@ -11948,6 +11951,7 @@
 ||benz2.turkey-benz.com^
 ||benzin-pro.com^
 ||bepviews.com^
+||berahotelsresort.com^
 ||beralisvc.info^
 ||beransraol.com^
 ||beraresortalanya.com^
@@ -14533,6 +14537,7 @@
 ||desteklem.nicepage.io^
 ||destekmenkuldegerler.com^
 ||destekmenkuldegerler.net^
+||destekmerkeziniz.xyz^
 ||desteksosyal.com^
 ||destekyardim.com^
 ||destekyardim.net^
@@ -16357,6 +16362,7 @@
 ||facebook-login-ireland-cork.com.ph^
 ||facebook-login-ireland-intl.com.ph^
 ||facebook-login-jakarta-kr.net.ph^
+||facebook-login-jakarta-sa.net.ph^
 ||facebook-login-largo.com.ph^
 ||facebook-login-lisbon.com.ph^
 ||facebook-login-login-extra.ph^
@@ -16369,6 +16375,7 @@
 ||facebook-login-osaka10014.com.ph^
 ||facebook-login-page-secure.ph^
 ||facebook-login-paris-lyon.com.ph^
+||facebook-login-paris41.com.ph^
 ||facebook-login-problem.ph^
 ||facebook-login-secure-page.ph^
 ||facebook-login-team-validate.ph^
@@ -17529,6 +17536,7 @@
 ||gecisyuklemniziyapin.art^
 ||gecisyukleynz.web.app^
 ||gecisyuklmesihizli.web.app^
+||gecmezdemehepsigecer.com^
 ||gecshgsislm.cfd^
 ||gederselerdensler.duckdns.org^
 ||gedewadgsqa.duckdns.org^
@@ -18109,6 +18117,7 @@
 ||grantc4b1burdabbvakapy.life^
 ||granti-web.nicepage.io^
 ||granti-webbn.nicepage.io^
+||grantibbva-turkey.com^
 ||grantiibba.duckdns.org^
 ||grantipromosynlari.com^
 ||grantiscylk.cfd^
@@ -20992,6 +21001,7 @@
 ||infofinansmenkul.online^
 ||infofinansmenkultr.com^
 ||infofinansmenkultr.online^
+||infomankul.com^
 ||infomenkuldegerler.com^
 ||infomenkuldegerler.net^
 ||infomenkulyatirim.com^
@@ -22222,6 +22232,7 @@
 ||karelunox.cyou^
 ||karg00-vakti.sbs^
 ||karg00-vaktii.sbs^
+||kargoguvenli.com^
 ||kargokapinda.com^
 ||kargomhizli.com^
 ||kargotakip.e-ilan-elektronik-siparisim.com^
@@ -22472,6 +22483,7 @@
 ||kgm.tyame.top^
 ||kgm.ubyul.help^
 ||kgm.ueqgr.xyz^
+||kgm.ukyaj.cc^
 ||kgm.upipid.cc^
 ||kgm.vtgfwh.cc^
 ||kgm.xkvip.xyz^
@@ -24541,6 +24553,7 @@
 ||masakvezne.online^
 ||masakveznedar.com^
 ||masakvezneformu.com^
+||masakvezneislem.online^
 ||masakveznetalepformu.com^
 ||masghfasgfaasax2ds.cyou^
 ||maskirovka.space^
@@ -26254,6 +26267,8 @@
 ||nimetistanbul.net^
 ||nimohipolse-tadore.lol^
 ||nineki.online^
+||ninettygifvbckpe.net^
+||ninettygifve.net^
 ||ninjatech.io^
 ||ninjavan.adrup.top^
 ||ninjavan.cokta.top^
@@ -27518,6 +27533,7 @@
 ||oyrnassevry.net^
 ||oyunyagmuru.xyz^
 ||ozdeslesim-tire.ink^
+||ozel-firsatlarsizeozel.vercel.app^
 ||ozel-hizmet-islemleri.com^
 ||ozel-indirimler.online^
 ||ozel-magazadan.com^
@@ -29942,6 +29958,7 @@
 ||ryalcar.com^
 ||rydjfgyhrfrefddfs.sbs^
 ||rynqewvqwebyutn.click^
+||ryuzbuindirim.duckdns.org^
 ||s-candycollection.com^
 ||s-getguvenlisigortaodemeleriniz.duckdns.org^
 ||s-guvendesigortaodeme.duckdns.org^
@@ -33043,6 +33060,7 @@
 ||tahtuhuge-redetereye.lol^
 ||tahuguderepoli.lol^
 ||taikei-rmc-co.biz^
+||taiyazilim.com^
 ||tajikistandip.com^
 ||takas-change.click^
 ||take-more.cfd^
@@ -34836,8 +34854,10 @@
 ||turkiye-gov.cfd^
 ||turkiye-gov.click^
 ||turkiye-gov.sbs^
+||turkiye-petrolleri-hisseleri-com.pages.dev^
 ||turkiye-petrolleri-hisseleri.com^
 ||turkiye-petrolleri-platform.com^
+||turkiye-petrolleri-pro.pages.dev^
 ||turkiye-petrolleri.pro^
 ||turkiye-tr.cfd^
 ||turkiye-tr.icu^
@@ -34888,6 +34908,8 @@
 ||turkiyepanoru.com^
 ||turkiyeperspektif.com^
 ||turkiyepetrl.com^
+||turkiyepetrolleri-pro.pages.dev^
+||turkiyepetrolleri-shop.pages.dev^
 ||turkiyepetrolleri-system.com^
 ||turkiyepetrolleri-yatirim.com^
 ||turkiyepetrolleri.pro^
@@ -37377,6 +37399,7 @@
 ||yuuzuyuzbr.click^
 ||yuzbindolarbruto70binineto.cfd^
 ||yuzbir-firsatlari.shop^
+||yuzbirindirimss.duckdns.org^
 ||yuzbirsiparis.sbs^
 ||yuzdeyuzgarantideyiz.vip^
 ||yuzverdimyaralarimaabandi.sbs^
