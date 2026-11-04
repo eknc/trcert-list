@@ -11314,6 +11314,7 @@
 ||baoxis.cc^
 ||baoyuw2s.s3.ap-southeast-1.amazonaws.com^
 ||barbeque-pancake.vip^
+||barclaysmenkul.com.tr^
 ||barouzlasma.com^
 ||barouzlasma.org^
 ||barqenix.cyou^
@@ -15231,6 +15232,7 @@
 ||dxaxdasklcklqwexl123x1.cyou^
 ||dybkatilim.com^
 ||dybportfoy.com^
+||dybsubem.com^
 ||dygr-forest.my-homeip.de^
 ||dynamoforged.pro^
 ||dynavo.site^
@@ -15349,6 +15351,7 @@
 ||e-sube.tunaportfoyyonetimitr.com^
 ||e-tokiislemlerinebasla.digital^
 ||e-tuvtr.site^
+||e-yatirimci.com^
 ||e1a10-hdakia-kmpnsyaa-xrteak.lol^
 ||e2lshs9wv2kk8l46h.theworkpc.com^
 ||e394932x232.duckdns.org^
@@ -30403,6 +30406,7 @@
 ||saglkgnlrdylrzbrdanmhrsss.cfd^
 ||saglkgnlrdylrzbrdanmhrsss.click^
 ||saglkicndnvualn.cfd^
+||saglklirhberle.cfd^
 ||saglklmhrndy.cfd^
 ||saglkrnd.cfd^
 ||sah-bindenp-ramguvende.com^
@@ -31056,6 +31060,7 @@
 ||secure.login-socialsecurity.com^
 ||secure.ssa-documentsync.com^
 ||secureauthpasskey.com^
+||securefileoffice365pdf.pages.dev^
 ||securelink.qtproxy.xyz^
 ||securemailencryptit.com^
 ||securemailencryptit.net^
@@ -31290,6 +31295,7 @@
 ||sephora-careers.com^
 ||sepsslsdi.com^
 ||ser-tas-tas-al-rand.duckdns.org^
+||seras.s.gy^
 ||seravix.cyou^
 ||serce101hizmeti.duckdns.org^
 ||sercekokuve.gleeze.com^
@@ -33513,6 +33519,7 @@
 ||tarimkoopmarket.sbs^
 ||tarimkoperatfmarketonlinee.blogspot.com^
 ||tarimkopmarketonlinee.blogdns.com^
+||tarimkopmarketonlineee.blogdns.com^
 ||tarimkredikoop.vercel.app^
 ||tarimkredimarket.vercel.app^
 ||tarimmarketim.vercel.app^
@@ -33667,6 +33674,7 @@
 ||teb-internet.mobil-bankacilik.site^
 ||teb-mobil.internet-subesi.site^
 ||teb-mobil.mobil-bankacilik.site^
+||teb-mobile.my-homeip.de^
 ||teb-online-banka-kura.my-homeip.com^
 ||teb-online-mobil-emekli.my-homeip.net^
 ||teb-online.duckdns.org^
@@ -34851,6 +34859,7 @@
 ||trendyolk.com^
 ||trendyolkepim.com^
 ||trendyolkleding.com^
+||trendyolkv.com^
 ||trendyoll.my^
 ||trendyoll.vip^
 ||trendyolltd.cc^
