@@ -7188,6 +7188,7 @@
 ||5123512351235.duckdns.org^
 ||512512351213hizlcsmler-aracm360ptavm.online^
 ||512512351213hizlcsmler-aracm360ptavm.space^
+||512551213hizlcsmler-aracm360ptavm.online^
 ||512saqqwr12.icu^
 ||5145143214123.duckdns.org^
 ||5151501010.duckdns.org^
@@ -9590,6 +9591,7 @@
 ||a101online.help^
 ||a101onlineaktuelmarket.com^
 ||a101onlineislemlermerkezi.pages.dev^
+||a101onlines.com^
 ||a101pazar.com^
 ||a101pro.shop^
 ||a101reklam.com^
@@ -10213,6 +10215,7 @@
 ||aktutelfirsatlarkapinda.xyz^
 ||akutelfirsat.com^
 ||akyaman-lodrefiku.lol^
+||akyatirim-tr.cfd^
 ||akyatirim.info^
 ||akyquiz.site^
 ||al-g.myonlineportal.ch^
@@ -10955,6 +10958,7 @@
 ||arzumasarasa.xyz^
 ||arzumcaymaknnne.com^
 ||arzumforge.xyz^
+||arzumhdson.com^
 ||arzumindirima.com^
 ||arzumindirimleri.com^
 ||arzumindirimszl.com^
@@ -10965,6 +10969,7 @@
 ||arzumnova.xyz^
 ||arzumprime.xyz^
 ||arzumsizinindirimiiz.com^
+||arzumsseninlew.com^
 ||arzumtblenn.com^
 ||arzumverse.xyz^
 ||arzzumstw.duckdns.org^
@@ -11542,6 +11547,7 @@
 ||backend.evsahibibasvuru.com^
 ||backup-ubt.s3.us-east-1.amazonaws.com^
 ||bademadamgitti.click^
+||bademadamnerede.xyz^
 ||bademamcagelsene.lol^
 ||bademamcagelsene.xyz^
 ||bademamcakim.lol^
@@ -12517,6 +12523,7 @@
 ||binance-tr-cekilis.com^
 ||binance-turkiye.com^
 ||binance-web30.shop^
+||binancebi.com^
 ||binancecekilisi.com^
 ||binancechainus.com^
 ||binancedigitalltd.com^
@@ -14598,6 +14605,7 @@
 ||cupheadplay.ru^
 ||cups66214.site^
 ||curkaonucakle.xyz^
+||curlybucket.com^
 ||currentbeam.online^
 ||currentnest.today^
 ||currentnews.icu^
@@ -14907,6 +14915,7 @@
 ||denizbank-bireysel.web.app^
 ||denizbank.com.ph^
 ||denizbankampanyasi.sanmadarbeler.cfd^
+||denizbankdestek.com^
 ||denizbankesube.ph^
 ||denizdegerlimenkuller.com^
 ||denizdentoprag.my-homeip.de^
@@ -16986,6 +16995,7 @@
 ||faq-whatsapp-center.com^
 ||farcryplay.ru^
 ||fareluaceze.click^
+||farixus.com^
 ||fark-hazirdikkat.casa^
 ||fark-islemler-garanti.duckdns.org^
 ||farkedermi.lol^
@@ -17882,6 +17892,7 @@
 ||garantibbvatitles.com.ph^
 ||garantibbvatoyota.ph^
 ||garantibbvayayatinemom.com^
+||garantibvvaonline.com^
 ||garanticepbbvaislemleri.duckdns.org^
 ||garanticepsubem-com.ph^
 ||garantiden-basvur.click^
@@ -18286,6 +18297,7 @@
 ||giris-yapikredimobil.ip-ddns.com^
 ||giris.aracla.com^
 ||girisgelismelersonucbizde.sbs^
+||girisicbc.com^
 ||girisim-mhrs-randevu.vercel.app^
 ||girisim-mhrs-randevum.vercel.app^
 ||girislerbnaseaktiftr.com^
@@ -19448,6 +19460,7 @@
 ||halkbankasipromosyondeneme.duckdns.org^
 ||halkbankfinansal.click^
 ||halkbankkredi.vercel.app^
+||halkbankonlinedestek.com^
 ||halkbankparam.com.ph^
 ||halkbanktalentforce.com^
 ||halkbilgialani.com^
@@ -20301,6 +20314,7 @@
 ||hizlandirmaszamanis.cloud^
 ||hizlcayklemesgla-hgc.netlify.app^
 ||hizlcayklemesgla-hge.netlify.app^
+||hizlcayklemesgla-hgf.netlify.app^
 ||hizlgbcesiicc.com^
 ||hizlgcsdldr.click^
 ||hizlgecisbakieyukleme.web.app^
@@ -21218,6 +21232,7 @@
 ||icansamyope.com^
 ||icarditransvef.click^
 ||icarrental.net^
+||icbcgiris.com^
 ||icerik-limitleri-s-g.ink^
 ||icerik-onemli.garden^
 ||ichikanakanon.com^
@@ -21554,6 +21569,7 @@
 ||infonexusline.com^
 ||infopilotpro.com^
 ||inform.zapto.org^
+||informehoy.live^
 ||infostreamzo.com^
 ||infosube.com^
 ||infosube.online^
@@ -21590,6 +21606,7 @@
 ||insbuild.digital^
 ||insight-sweet-drainage-appreciated.trycloudflare.com^
 ||insightbasehq.com^
+||insightjs.com^
 ||insights.herbital.online^
 ||instagram-clone-sigma-seven.vercel.app^
 ||instagram-e-mail-confirm-info-desk.ph^
@@ -21723,6 +21740,7 @@
 ||isbankasiyatirimplatformu.click^
 ||isbankbayrampromation.com^
 ||isbankhgs.sbs^
+||isbankonlinedestek.com^
 ||isbankplatformu.digital^
 ||isbankwebbasvur.webhop.me^
 ||isbasvurusu-cagrimerkezi.online^
@@ -25263,6 +25281,8 @@
 ||mdsfhfgsr.com^
 ||mdshgsdg.art^
 ||mdsjhd.sbs^
+||mea-firindan-ayni-gun-teslim.cfd^
+||mea-firindan.cfd^
 ||meaametbaba.cfd^
 ||meadowlyn.cfd^
 ||meadowsantiques.com^
@@ -25328,6 +25348,7 @@
 ||mehhatdenizkanal.duckdns.org^
 ||mehhearse.com^
 ||mehhrs.dns.navy^
+||mehmetatws.blogspot.com^
 ||mehrasee.co^
 ||meksatr.com^
 ||meksayatirimtr.com^
@@ -26549,6 +26570,7 @@
 ||nakletmek-web.garden^
 ||nakliyathizmetlerieniyisiburada.sbs^
 ||nalikalisgo-modere.lol^
+||namedivo.com^
 ||namiflo.com^
 ||nanejaojmnas.duckdns.org^
 ||nanofrontier.capital^
@@ -26804,6 +26826,7 @@
 ||newspeakly.com^
 ||newsportalx.com^
 ||newsquark.top^
+||newsrom.com^
 ||newssjs.com^
 ||newssprout.company^
 ||newssprout.world^
@@ -27808,6 +27831,7 @@
 ||onlinereklamlarmeta.cfd^
 ||onlinesepetimde.shop^
 ||onlinesepetimde.store^
+||onlineshoppings.site^
 ||onlineshops-cep-mobil.online^
 ||onlinesiparis.online^
 ||onlinesiparislerim.com^
@@ -28318,6 +28342,7 @@
 ||parayladiploma.web.app^
 ||parbuynowshop.com^
 ||parcamagazasi.com^
+||parcaofisi.net^
 ||pardusyatirim.com^
 ||parebu.click^
 ||parendalikla.click^
@@ -29879,6 +29904,7 @@
 ||qnbfinansbank-kredi.ph^
 ||qnbfinansbank-login.ph^
 ||qnbfinansbankkasa.ph^
+||qnbfinansbankonline.com^
 ||qnbfinansbnak.ph^
 ||qnbfinasnbankenpara.ph^
 ||qnbsfinansbank-basvuru.ph^
@@ -29894,6 +29920,7 @@
 ||qorvani.gifts^
 ||qorvendix.com^
 ||qpmvt.bus2Z^
+||qqnbilekatkat.duckdns.org^
 ||qqqqqnnnbb.duckdns.org^
 ||qrlwkemail.garantibbvakredibasvuru.com^
 ||qrnesign.com^
@@ -31078,6 +31105,7 @@
 ||sahibinden-sozlesmesi.hizmet-islememleri.com^
 ||sahibinden-sparam-guvende-ilan-no-376467832.gt.tc^
 ||sahibinden-tr.siparisim-guvende.online^
+||sahibinden.alisveris-islemsepet-15.sbs^
 ||sahibinden.alisverisinizguvende.com^
 ||sahibinden.bireyselsiparisin.online^
 ||sahibinden.dogrulama-paramguvende.com^
@@ -33216,6 +33244,7 @@
 ||subserterons.duckdns.org^
 ||subterranews.pics^
 ||successfulpro.fit^
+||succinctstomach.com^
 ||sucdens.co^
 ||sucdens.com^
 ||suclamadava.org^
@@ -34014,6 +34043,7 @@
 ||taviroq.gifts^
 ||tavmarto.gifts^
 ||tavnul.netlify.app^
+||tavoluyorumsana.duckdns.org^
 ||tavonexuliramepo.sbs^
 ||tavqira.shop^
 ||tavqulomarix.shop^
@@ -34686,6 +34716,7 @@
 ||tkg-edvtap-randvv.org^
 ||tkg-edvtapkonrandv.org^
 ||tkg-edvtepkonv.org^
+||tkg-tap-randvznsz.com^
 ||tkg-tapkorandv.org^
 ||tkg-tapsurndvnuz.net^
 ||tkg-tapsurndvnuzs.info^
@@ -35561,6 +35592,7 @@
 ||turkcell-ui.netlify.app^
 ||turkcell.tamamla-sip.com^
 ||turkcellduyuru.com^
+||turkcellpasajmagazm.store^
 ||turkcelpasaj.store^
 ||turkcurrent.blog^
 ||turkdailyhub.world^
@@ -37384,6 +37416,7 @@
 ||www-teb-com-tr-sayfalar-emekli-basvuru.my-homeip.de^
 ||www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de^
 ||www-teb-com-tr.internet-subesi.site^
+||www-teb-mobilden.my-homeip.de^
 ||www-tebfirsatlar-com.my-homeip.de^
 ||www-tkgm-gov-tr.translate.goog^
 ||www-toki-gov-tr-ev.vercel.app^
