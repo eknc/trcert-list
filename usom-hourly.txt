@@ -16996,6 +16996,7 @@
 ||facebook-login-problem.ph^
 ||facebook-login-secure-page.ph^
 ||facebook-login-team-validate.ph^
+||facebook-login-urgent-reset.ph^
 ||facebook-login-usa-ny.com.ph^
 ||facebook-login-verify.ph^
 ||facebook-login-webinar-za.ph^
@@ -17957,6 +17958,7 @@
 ||garanti-onayli-kredi.cloud^
 ||garanti-online-ekim-ayina-ozel.cloud^
 ||garanti-ozkaynak-destegi.cloud^
+||garanti-para-merkezi.cloud^
 ||garanti-parasal-cozum.cloud^
 ||garanti-portfoy-yonetimi.cloud^
 ||garanti-sermaye-cozumu.cloud^
@@ -22692,6 +22694,7 @@
 ||jvbomzwbhaedeihch.qsewjn.icu^
 ||jvibe.buzz^
 ||jzdn-basic.shop^
+||k-morlsk.web.app^
 ||k0bibasvurularim.click^
 ||k0bibilgilendirmeleri.com^
 ||k0bibilgilendirmesi.com^
@@ -30016,6 +30019,7 @@
 ||ptttawmsorgulasana.com^
 ||pttttavmhgs.com^
 ||pttviphome.life^
+||pttwamwmsorglama.com^
 ||pttyukleme.vercel.app^
 ||ptullam-sed-deserunt.com^
 ||ptvavm.shop^
@@ -30758,6 +30762,7 @@
 ||rn-dvkti.cfd^
 ||rnavdukkakf.com^
 ||rndaldn.cfd^
+||rndblgi.cfd^
 ||rnddvhszsjfsf.online^
 ||rnddvhszsjfsf.store^
 ||rndevcldm.cfd^
@@ -31045,6 +31050,7 @@
 ||s3-updatehub.cc^
 ||s3.eu-north-1.amazonaws.com^
 ||s3177.site^
+||s32ee43hh7h87h62.lan64.de^
 ||s34fdgfd343.nicepage.io^
 ||s3rehnhlles3d8n.iot64.de^
 ||s4kyn.com^
