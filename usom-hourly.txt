@@ -15439,6 +15439,7 @@
 ||dltucra.com^
 ||dm.garantibbvakredibasvuru.com^
 ||dmca-chrome-extensions.click^
+||dmca-claim.info^
 ||dmod.shop^
 ||dnb-ziraatbank.com.ph^
 ||dnerobrdansndenbnden.beer^
@@ -16961,6 +16962,7 @@
 ||facebook-confirm-login.com.ph^
 ||facebook-confirm-message.com.ph^
 ||facebook-facebook-status.ph^
+||facebook-help-reset.ph^
 ||facebook-like-login.ph^
 ||facebook-login-barcelona101.com.ph^
 ||facebook-login-berlin-us.ph^
@@ -17084,6 +17086,7 @@
 ||facebookloginfinancehelp.com.ph^
 ||facebookloginfitnesspage.com.ph^
 ||facebookloginfloristonline.com.ph^
+||facebookloginfranchise.com.ph^
 ||facebookloginfriends-anime.com.ph^
 ||facebookloginfriends-art.com.ph^
 ||facebookloginhelp-denmark.com.ph^
@@ -28096,6 +28099,7 @@
 ||onlineads.cfd^
 ||onlineakreklamlar.sbs^
 ||onlineal.cam^
+||onlinealisveris.live^
 ||onlineapp.ooraikaoo.info^
 ||onlinebbvaonizlemenutrapp.space^
 ||onlinebilgilendirme.online^
@@ -29263,6 +29267,7 @@
 ||pfpro-dpmhin81x651.edgeone.dev^
 ||pfpro-dpswdueht4s8.edgeone.dev^
 ||pg-cordivant-m6.pages.dev^
+||phalisverisptt-avm.com.ph^
 ||philipsturkey.com^
 ||phillipcapital-trd.com^
 ||phillipcapitaldanismanlik.com^
