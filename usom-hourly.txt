@@ -5,6 +5,7 @@
 ||000011021021420.gleeze.com^
 ||0000110720265.sbs^
 ||00004444444022.net^
+||000rl.link^
 ||000sds152113s1ad1.duckdns.org^
 ||001002.duckdns.org^
 ||00283945726.duckdns.org^
@@ -3286,6 +3287,7 @@
 ||178.16.53.70^
 ||178.16.53.82^
 ||178.16.54.109^
+||178.16.54.129^
 ||178.16.54.141^
 ||178.16.54.188^
 ||178.16.54.253^
@@ -7479,6 +7481,7 @@
 ||62.72.22.91^
 ||62.76.228.164^
 ||62.76.230.160^
+||62.84.172.235^
 ||62.93.178.226^
 ||620617625.cloud^
 ||62354234.net^
@@ -7884,6 +7887,7 @@
 ||77.239.124.110^
 ||77.239.124.131^
 ||77.239.124.162^
+||77.239.124.167^
 ||77.239.124.247^
 ||77.246.101.135^
 ||77.246.158.48^
@@ -9002,6 +9006,7 @@
 ||91.92.240.188^
 ||91.92.240.190^
 ||91.92.240.219^
+||91.92.240.238^
 ||91.92.240.52^
 ||91.92.241.101^
 ||91.92.241.103^
@@ -10763,6 +10768,7 @@
 ||applemuhammed.xyz^
 ||appletime.in^
 ||application.colibriathenas.com.br^
+||applications-went-add-bias.trycloudflare.com^
 ||applinecore.digital^
 ||applio.xyz^
 ||appnexa.digital^
@@ -12501,6 +12507,7 @@
 ||bgnclsyrzbxvrmynb.click^
 ||bgnclsyrzbxvrmynb.sbs^
 ||bgnlerdenfrsat.duckdns.org^
+||bgnvmvghn45443.shop^
 ||bgyuy.dynamicsforever.su^
 ||bhchealth.inetcities.net^
 ||bhfbvbfg.click^
@@ -14228,6 +14235,7 @@
 ||chamber-ua.org^
 ||channelapp.site^
 ||channelhq.shop^
+||chaomoinguoi.duckdns.org^
 ||chaseme.club^
 ||chat.evsahibibasvuru.com^
 ||chat.matchnewtoday.com^
@@ -14571,6 +14579,7 @@
 ||cookiecraftr.com^
 ||cooknest.cyou^
 ||cool-horizon.com^
+||coolcams.duckdns.org^
 ||copytrade.lat^
 ||coralveiltyd.pro^
 ||cordinely.com^
@@ -15221,6 +15230,7 @@
 ||digital-login.shop^
 ||digital-ode.com^
 ||digital-page.shop^
+||digitalbsvuru.xyz^
 ||digitalcapitalboost.com^
 ||digitalcircuithub.com^
 ||digitalcontinuity.de^
@@ -19022,6 +19032,7 @@
 ||guardiangrowthfunding.com^
 ||gucum109.click^
 ||gudkoarancasa.cfd^
+||gufesu.space^
 ||gugagoasdhashdhas923ww.click^
 ||gugoahahsadwasdas923sad.click^
 ||gugoashdahshdashd999wdsa.click^
@@ -19186,6 +19197,7 @@
 ||guvendeticaretlerim.online^
 ||guvendeticaretlerim.site^
 ||guvendeticaretlerim.store^
+||guvendeticaretnet.store^
 ||guvenfiloavs.net^
 ||guvenilir-alisveris.com^
 ||guvenilir-checker.online^
@@ -19297,6 +19309,7 @@
 ||h01-captcha.sbs^
 ||h155polisi.online^
 ||h1k9p4z7m6q2.cfd^
+||h3eseh8h7476hhhh.ipv64.de^
 ||h3hpslehws4.kozow.com^
 ||h3t8y5p2w6r9.cfd^
 ||h3x8m2k9q6f4n7zh.cfd^
@@ -21761,6 +21774,7 @@
 ||imthenightmareyounamed.sbs^
 ||in-fohesap.com^
 ||in-fomenkuldegerler.com^
+||in-fovarlik.com^
 ||in-foyatirimhesap.com^
 ||inatboxapk.tools^
 ||inboxsession.info^
@@ -22067,6 +22081,7 @@
 ||iscepdesuperlimit.com^
 ||isceptesuperlimit.com^
 ||iscepx-promsyon.space^
+||isclamslcklasmc.analizleventg.com^
 ||isdepromosyonlari.com^
 ||isdestekbasvuru.sbs^
 ||isdestekbasvurusu.cfd^
@@ -22089,6 +22104,7 @@
 ||iskurbasvur.ph^
 ||iskurdestek.cfd^
 ||iskurdestek.sbs^
+||iskurdesteklis.com^
 ||iskurdestekmerkezi.duckdns.org^
 ||islakkurusupurgee.click^
 ||islebaglanhayta.sbs^
@@ -22893,7 +22909,9 @@
 ||kaltheria.com^
 ||kalyanavaram.com^
 ||kambers.xyz^
+||kameran5459.duckdns.org^
 ||kameran5554.duckdns.org^
+||kameran5577.duckdns.org^
 ||kamertanser32.duckdns.org^
 ||kamnpannyadevamypkrdi360.click^
 ||kampanhshshshs.com^
@@ -23240,6 +23258,7 @@
 ||kd7wb66c6fgoylhv8wnh.icu^
 ||kddredi-ztra.cfd^
 ||kdgkdlgldg.com^
+||kdgmv9049f.shop^
 ||kdih.top^
 ||kdsskdgks-kdgssgk-dsghfhdssd.icu^
 ||kdsuyrse.live^
@@ -23840,6 +23859,7 @@
 ||kmsorgulamahizmetimniz.web.app^
 ||kmsorgulamahizmetleri.com^
 ||kmsorgulamahizmetlerii.web.app^
+||kmsorgulamahizmetlerim.com^
 ||kmsorgulamahizmetlerinizburada.online^
 ||kmsorgulamahizmetlerinizz.shop^
 ||kmsorgulamahizmetlerinizzz.online^
@@ -25190,6 +25210,7 @@
 ||magazanizagelenfirsat.click^
 ||magelan-nato.net^
 ||magenta-chough-241198.hostingersite.com^
+||magentafloor.com^
 ||magento.ink^
 ||mahkemeasliye.org^
 ||mahkemebirim.org^
@@ -35186,6 +35207,7 @@
 ||titlevoy.com^
 ||tivento.shop^
 ||tivryle.com^
+||tizalumo.com^
 ||tj.tajikistandip.com^
 ||tjskxlkhz8kaxa.cfd^
 ||tk-tapursevrandvun.info^
@@ -35205,6 +35227,7 @@
 ||tkg-tapvrdvsunuz.net^
 ||tkg-tapvrdvsunuz.org^
 ||tkg-tpuransevdnuz.com^
+||tkg-tpuransevdnuz.com.tr^
 ||tkg-tpuransevdnuz.net^
 ||tkg-tpuransevdnuz.online^
 ||tkgg-edvtap-randvv.org^
@@ -36316,6 +36339,7 @@
 ||tuvtrkk-aracmuayne.web.app^
 ||tuvtrkrandvualma.web.app^
 ||tuvtruk.com^
+||tuvtrukaracmuayne.web.app^
 ||tuvtrurkakdddsa.net^
 ||tuvtukrmuayne.govt.hu^
 ||tuvturk-a.com^
@@ -36557,6 +36581,7 @@
 ||ulusalpusula.com^
 ||ulusalyolculuk.com^
 ||uluslararasibelge.com^
+||ulyolk.sbs^
 ||umarotoklimatamir.duckdns.org^
 ||umarotosanayisitesiklima.duckdns.org^
 ||umghjmtrynwernwe.click^
@@ -37191,6 +37216,7 @@
 ||vizyonhaber.info^
 ||vkfkredihesabimlogin.click^
 ||vkfsizlerle.duckdns.org^
+||vkwebsubayrntilkmpp4.xyz^
 ||vlbaqg.cc^
 ||vlcmp.ru^
 ||vltyrnhjsuo.shop^
@@ -37229,7 +37255,9 @@
 ||voltafabrika.com^
 ||voltafabrikamagaza.com^
 ||voltafabrikasi.com^
+||voltalayin.com^
 ||voltamagaza.com^
+||voltamagazasatis.com^
 ||voltamotorluaraclar.com^
 ||voltamotoronline.com^
 ||voltamotorsatis.com^
@@ -37238,6 +37266,8 @@
 ||voltaonlinemagaza.com^
 ||voltaonlinesatis.com^
 ||voltasatis.com^
+||voltasatisi.com^
+||voltataksitlisatis.com^
 ||voltaturkiye.com^
 ||voltix-net.com^
 ||vomare5964.space^
@@ -38028,6 +38058,7 @@
 ||xaedm.top^
 ||xaj1k23xjksadkl12.cfd^
 ||xaj1k23xjksadkl12.cyou^
+||xalamor.com^
 ||xaltrivenax.com^
 ||xalvanto.com^
 ||xalvionex.com^
@@ -38053,6 +38084,7 @@
 ||xcn23aj234cd.duckdns.org^
 ||xcsda881sdf.duckdns.org^
 ||xczvcxdsa.com^
+||xd.unfair.cc.cd^
 ||xddqjfhgtwbg.xyz^
 ||xdxdxdxdd.duckdns.org^
 ||xe54ghj.com^
@@ -38161,6 +38193,7 @@
 ||xn--s0kmarlktlr-8zb.com^
 ||xn--sahibinden-guvenliodeme-sifir-alsveris-fxf.lovable.app^
 ||xn--sahibindenkargomilanmn-6ld.com^
+||xn--sakldakdasda-24b.shop^
 ||xn--sanazelburada-lmb.com^
 ||xn--sekerportfy-0fb.com^
 ||xn--setdestekyardmlari-q0c.com^
@@ -38318,6 +38351,7 @@
 ||yandereplay.ru^
 ||yandex-cloud.ddns.me^
 ||yandex-disk.net^
+||yandiklo.tools^
 ||yanimizrahat.cfd^
 ||yanitlama-grs.garden^
 ||yanlzhayatzorbdegelbanasorbekan81.info^
