@@ -9702,6 +9702,7 @@
 ||a101onlineislemlermerkezi.pages.dev^
 ||a101onlines.com^
 ||a101pazar.com^
+||a101perekende.duckdns.org^
 ||a101pro.shop^
 ||a101reklam.com^
 ||a101stanleyfirsatlaraktifekimayinda.duckdns.org^
@@ -10211,6 +10212,8 @@
 ||akbank-isube.ph^
 ||akbank-kredi-basvuru-merkezi.loseyourip.com^
 ||akbank-pw.hizliyatirim.net^
+||akbank-tr.live^
+||akbank-tr.pro^
 ||akbank.com.ph^
 ||akbank.online^
 ||akbankbireysel-sube.ph^
@@ -10392,6 +10395,7 @@
 ||aldinekstra.dpdns.org^
 ||aldinekstraaldin.shop^
 ||aldinhesapliaynigun.xyz^
+||aldinkatkat.duckdns.org^
 ||aldinpaketindecayin.online^
 ||aldinpaketindecaylar.com^
 ||aldinpaketliler.xyz^
@@ -11098,6 +11102,7 @@
 ||arzumndrtwtma.com^
 ||arzumnova.xyz^
 ||arzumnstwneinle.com^
+||arzumnwtwinddr.com^
 ||arzumprime.xyz^
 ||arzumsizinindirimiiz.com^
 ||arzumsseninlew.com^
@@ -11725,6 +11730,7 @@
 ||bambuicin.sbs^
 ||banabakarifdabi.sbs^
 ||banabaklan.lol^
+||banabatcak.lol^
 ||banabatcaka.lol^
 ||banabatcakal.lol^
 ||banabatcakala.lol^
@@ -11984,6 +11990,7 @@
 ||baykaetech.com^
 ||baykar-basvuru-merkezim.netlify.app^
 ||baykar-be.com^
+||baykar-devlet-destekli-projesi.online^
 ||baykar-devlet-destekli-projesi.sbs^
 ||baykar-devlet-programi.com^
 ||baykar-devlet-programi.net^
@@ -12009,6 +12016,7 @@
 ||baykar-software.com^
 ||baykar-tr.news^
 ||baykar-tr.online^
+||baykar-tr.pro^
 ||baykar-tr.sbs^
 ||baykar-tr2024.com^
 ||baykar-turkish.com^
@@ -12399,6 +12407,7 @@
 ||beklemeyinsiler.blogspot.com^
 ||beklemeynhalledins.duckdns.org^
 ||bekleyenvarislar.com^
+||bekleyiniz34455656.blogspot.com^
 ||bekosepeti.com^
 ||belgedogrulama.e-turkiye-gov.com.ua^
 ||belgedogrulamaedevletverif.com^
@@ -13190,6 +13199,7 @@
 ||brestonakilq.com^
 ||brgninvesttr.com^
 ||brhfs.buzz^
+||bricela.com^
 ||brickcost.com^
 ||brickgrillsoup.com^
 ||brickmilo.com^
@@ -15883,6 +15893,7 @@
 ||e-servisler10.sbs^
 ||e-sozlesme.kurumsal-online-islem.com^
 ||e-sozlesme.online^
+||e-sozlesmem.com^
 ||e-store-tr.online^
 ||e-sube-isbank.ph^
 ||e-sube-teb-com-tr.my-homeip.de^
@@ -16309,6 +16320,7 @@
 ||ekonomigelecek.com^
 ||ekonomihatti.site^
 ||ekonomik-tcdd.biletal.uk^
+||ekonomik-teb.my-homeip.de^
 ||ekonomikmarketler.click^
 ||ekonomimersin.net^
 ||ekonomirehberi.capital^
@@ -17307,6 +17319,7 @@
 ||fbfnsdhcn.click^
 ||fbl05y.icu^
 ||fblogin.click^
+||fbnsdjdskjfs.shop^
 ||fbstadalex.xyz^
 ||fbvarlik.com^
 ||fbvbv565656.click^
@@ -17319,6 +17332,7 @@
 ||fdjskfsdjkfs.com^
 ||fdsafasdcadf.duckdns.org^
 ||fdsdgrixj.uk.cc^
+||fdsfdsfsfsf.shop^
 ||fdsjfksdjfsdf.com^
 ||fdsjkjsdfsd.shop^
 ||fdsmfndsfnsd.shop^
@@ -18185,6 +18199,7 @@
 ||garantiimenkuldegerler.com^
 ||garantikampanyan.click^
 ||garantikolaydestek.cloud^
+||garantikolayfinans.cloud^
 ||garantikrediara.cloud^
 ||garantikredibasvuruyap.vercel.app^
 ||garantikrediler.cloud^
@@ -18805,6 +18820,7 @@
 ||gov-trendyol.ph^
 ||gov.onemotorlng.cc^
 ||gov.onemotoryng.cc^
+||gov.online^
 ||gov.sg-bila.top^
 ||gov.sg-billc.top^
 ||gov.sg-billv.top^
@@ -18985,6 +19001,7 @@
 ||gratis.twinslist.com^
 ||gratis.viahelper.com^
 ||gratis.youradbyus.com^
+||gratistebugun.com^
 ||gravelio.sbs^
 ||grederladsefasdwe.duckdns.org^
 ||greenandverified.site^
@@ -19352,6 +19369,7 @@
 ||h155polisi.online^
 ||h1k9p4z7m6q2.cfd^
 ||h3eseh8h7476hhhh.ipv64.de^
+||h3h4h7hhhh63hshh.mywire.org^
 ||h3hpslehws4.kozow.com^
 ||h3t8y5p2w6r9.cfd^
 ||h3x8m2k9q6f4n7zh.cfd^
@@ -19513,6 +19531,7 @@
 ||haberler12564.sbs^
 ||haberler12628.sbs^
 ||haberler12644.sbs^
+||haberler1267728.sbs^
 ||haberler1269315.sbs^
 ||haberler1278945.shop^
 ||haberler1283432.shop^
@@ -20005,6 +20024,7 @@
 ||hazallisubesindeyz.duckdns.org^
 ||hazallisubesindyiz.duckdns.org^
 ||hazarr21212121.netlify.app^
+||hazinebakanligisonadres.shop^
 ||hazinebirimi.org^
 ||hazineceza.org^
 ||hazinedosya.com^
@@ -20396,6 +20416,7 @@
 ||hfcrbt.buzz^
 ||hfhsdhsdfssax3.lol^
 ||hflx64mniw165hv3s1.com^
+||hfnvmfvkjmv38292.click^
 ||hftanin101firsati.duckdns.org^
 ||hftbrdasmd.click^
 ||hftlnin1o1frlstlari.duckdns.org^
@@ -22697,6 +22718,7 @@
 ||jbl-turkiye.com^
 ||jdfsakdkasd.shop^
 ||jdksnfjksdfjnsk.shop^
+||jdnsfkdjfndskfsdf.shop^
 ||jdsfjsfksdfs.shop^
 ||jeaw520i.space^
 ||jedalreasdws.duckdns.org^
@@ -22758,6 +22780,7 @@
 ||jkmghfnvkhjnvhbg.xyz^
 ||jlqoyc.cc^
 ||jmlh.morelessty.com^
+||jnakfsdsadsada.shop^
 ||jndfgnasdwrqweaasscx.click^
 ||jngrbg.click^
 ||jnkdsnfkdsfjks.com^
@@ -23629,6 +23652,7 @@
 ||kizlarvixlex.monster^
 ||kizlarvixlex.sbs^
 ||kizlarvixlex.xyz^
+||kjkgmvlmlm3431.shop^
 ||kk155polis.online^
 ||kk155polisi.online^
 ||kkajdasics.net^
@@ -23975,6 +23999,7 @@
 ||kocfinanssecimtestiozelsecimprogrami.click^
 ||kochold.eu^
 ||kocholding.group^
+||kocholding.live^
 ||kocholding.space^
 ||kocholding.world^
 ||kocholdng-turkishairlines.info^
@@ -25826,6 +25851,8 @@
 ||meritsabit.online^
 ||merkantalolol.asia^
 ||merkeszahbereaknalbbsc251.click^
+||merkez-bankasi.info^
+||merkez-bankasi.live^
 ||merkez-hekim.lol^
 ||merkez.garden^
 ||merkezbankasi-ai.com^
@@ -27415,6 +27442,7 @@
 ||njfdfnjsdfjnkdsnfjsfkj.shop^
 ||njkfsdsndfjnsjfkskj.shop^
 ||njkjkgjksdkjgksj.duckdns.org^
+||njksndkasndsas.shop^
 ||njreanbva.duckdns.org^
 ||nkaknakltanlalnalna.net^
 ||nknnnnkk.duckdns.org^
@@ -31268,6 +31296,7 @@
 ||sabah-izeltas.dnsup.net^
 ||sabahaksam.netlify.app^
 ||sabahizlx.dnsup.net^
+||sabanc-holding.sbs^
 ||sabigtgirsi2026.com^
 ||sabiltgirszi2026.com^
 ||sabiltgirzsi2026.com^
@@ -32630,6 +32659,7 @@
 ||showsix.digital^
 ||showthetrick.com^
 ||shps-cep.online^
+||siberciyiz.xyz^
 ||siberinanasinisiken.webredirect.org^
 ||sibonex.com^
 ||sibqeforsfo.duckdns.org^
@@ -33898,6 +33928,7 @@
 ||swiftcart.cyou^
 ||swiftexecutor.online^
 ||swiftplace.digital^
+||swiftzenry.com^
 ||swiftzoxi.com^
 ||swisstowerant.co^
 ||swisstowerant.com^
@@ -34522,6 +34553,7 @@
 ||tapu.lat^
 ||tapu.live^
 ||tapu.my^
+||tapu.run^
 ||tapu.surf^
 ||tapubasvuru.click^
 ||tapuhrsdhizebrusd.store^
@@ -35368,6 +35400,7 @@
 ||togg-2026.com^
 ||togg-arac-finansmani.com^
 ||togg-arac-finansmanlari.com^
+||togg-arac-kredileri.com^
 ||togg-e.com^
 ||togg-faizsizlimitlerim.com^
 ||togg-finans-kredim.com^
@@ -36469,6 +36502,7 @@
 ||tuvturkmuayene.org^
 ||tuvturkobs.com^
 ||tuvturkos.digital^
+||tuvturkrandevu.ink^
 ||tuvturkrandevu.sbs^
 ||tuvturkrandevual.sbs^
 ||tuvturkrandevumuayene.com^
