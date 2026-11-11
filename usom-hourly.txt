@@ -4381,6 +4381,7 @@
 ||193.46.255.217^
 ||193.46.255.7^
 ||193.47.62.24^
+||193.5.65.114^
 ||193.5.65.199^
 ||193.53.40.18^
 ||193.56.20.100^
@@ -6138,6 +6139,7 @@
 ||4.ddns.me^
 ||403-forbidden.icu^
 ||403-forbidden.sbs^
+||404-found.icu^
 ||41.215.28.241^
 ||41.216.183.49^
 ||41.216.188.205^
@@ -6575,9 +6577,11 @@
 ||45.156.87.99^
 ||45.157.233.103^
 ||45.157.233.139^
+||45.158.196.141^
 ||45.158.196.184^
 ||45.158.196.23^
 ||45.158.196.75^
+||45.158.196.81^
 ||45.158.199.240^
 ||45.159.209.228^
 ||45.159.223.177^
@@ -7404,6 +7408,7 @@
 ||57.128.255.67^
 ||57.129.137.101^
 ||57.129.51.86^
+||57.129.54.120^
 ||57.131.136.247^
 ||57.69.19.70^
 ||571255.xyz^
@@ -12816,6 +12821,7 @@
 ||bireybasvurular.click^
 ||bireycel-pass.my-homeip.net^
 ||bireysel-akmobil-cepte-com.duckdns.org^
+||bireysel-basvur.my-homeip.de^
 ||bireysel-basvurum.com^
 ||bireysel-bireysel-ziraat.my-homeip.de^
 ||bireysel-cebte.my-homeip.de^
@@ -13734,6 +13740,7 @@
 ||byedubaicenter.duckdns.org^
 ||bykrmznfrscrfonlin.cfd^
 ||bylmex.com^
+||bylotatawod.com^
 ||byntra.store^
 ||byntrahubs.store^
 ||byrmkmpn-yasi.xyz^
@@ -14695,6 +14702,7 @@
 ||convertnexa.com^
 ||convertro.live^
 ||convertvanta.com^
+||cooingeyebrow.com^
 ||cookie-whitelist.top^
 ||cookiecraftr.com^
 ||cooknest.cyou^
@@ -14811,6 +14819,7 @@
 ||credittengine.com^
 ||credittspace.com^
 ||credoturizm.com^
+||creepexplosiondarknight.com^
 ||crentox.forum^
 ||crepestitchseamhollow.com^
 ||crevito.shop^
@@ -16056,6 +16065,7 @@
 ||ebtkceza.com^
 ||ebtkportal.com^
 ||ebydz.buzz^
+||ebypevojabizo.online^
 ||ecbsdosya.org^
 ||ecbskamu.org^
 ||ecbsmaliye.org^
@@ -16207,6 +16217,7 @@
 ||efix-odeme.com^
 ||efokesker.ccwu.cc^
 ||efsane-cuma-indirimleri-teknosa.duckdns.org^
+||efsane-cuma-ozel-firsatlari-teknosa.webredirect.org^
 ||efsane-lndirim-havasi-kapinda.com^
 ||efsane-lndirim-havasl-kaplna-geldl.com^
 ||efsane1o1kmpnyalartukenyr.shop^
@@ -21792,6 +21803,7 @@
 ||ihmal-web.click^
 ||ihmalweb-trying.garden^
 ||ihtiyacbasvurularsim.duckdns.org^
+||ihugewe.online^
 ||iifbtk.cc^
 ||iiixzhsldndu3dx3e.lol^
 ||iistanbulbiz.sbs^
@@ -21912,6 +21924,7 @@
 ||ilelebetsizinle.click^
 ||ileri-agency.myonlineportal.ch^
 ||ileribakislar.com^
+||ileribakismerkezi.com^
 ||ilerivizyonrotasi.com^
 ||ilerleme-yaptirim-grim.myonlineportal.ch^
 ||ileservishizmetleri.com^
@@ -22578,6 +22591,7 @@
 ||istanbulombelgim.xyz^
 ||istanbulombelgimkart.xyz^
 ||istanbulonline.uk^
+||istanbulonlinetr.lol^
 ||istanbulportfoydanismanlik.com^
 ||istanbulpropertyfund.com^
 ||istanbulrandevutek.xyz^
@@ -23481,6 +23495,7 @@
 ||ked2l10tklevhcukbe.live^
 ||kedicik.org^
 ||kediciksorgupaneli.online^
+||keensalmon.com^
 ||keepislem.22web.org^
 ||keeplovethis.xyz^
 ||keesefef.dns.navy^
@@ -23999,6 +24014,7 @@
 ||kmpnyasnbfrfskataa64885.online^
 ||kmpnyasnbfrfskataa64885.pro^
 ||kmpnybsvrrprmsyn319.info^
+||kmpnybsvrrprmsyn319.pro^
 ||kmpnybsvrrrprsmynn15329.info^
 ||kmpnybsvrrrprsmynn15329.pro^
 ||kmpnydunyasi.duckdns.org^
@@ -24881,6 +24897,7 @@
 ||lls6vre6e6desls3ee28shs9ehhhh.tcp64.de^
 ||lmktan.net^
 ||lmrsrandevu-3a5060ee327b.herokuapp.com^
+||lnaktnaksnta.net^
 ||lnatlanlatn.net^
 ||lnbnsnanrdenttldm.shop^
 ||lndiriimeglidici.shop^
@@ -25001,6 +25018,7 @@
 ||lorivan.gifts^
 ||lorivexanto.world^
 ||lorqexo.gifts^
+||lorveta.cyou^
 ||loseorwin.co^
 ||loserrq0j1sha8.com^
 ||loskaert.duckdns.org^
@@ -25497,6 +25515,7 @@
 ||main.servecounterstrike.com^
 ||mainoptionsllc.com^
 ||maintaining-drawings-rand-porter.trycloudflare.com^
+||maintenance-freelance-lunch-minister.trycloudflare.com^
 ||makarayizbizabitakmasen.duckdns.org^
 ||makeitupguide.com^
 ||makemedigi.com^
@@ -25843,6 +25862,7 @@
 ||mayistadahauygunuz.shop^
 ||mayistakimutluluklar.com^
 ||mayistamutluyuz.com^
+||mayte.pro^
 ||mazi-web.myonlineportal.ch^
 ||mbackend-mdye.onrender.com^
 ||mbbgvchjhsax.sbs^
@@ -26656,6 +26676,7 @@
 ||mobil-banka.teb.com.se^
 ||mobil-basvuru-talep.vercel.app^
 ||mobil-bireysel-cep.my-homeip.de^
+||mobil-c-e-p-t-e-t-e-b-kampanya.my-homeip.de^
 ||mobil-cep-online-tr.site^
 ||mobil-cep-ozel.online^
 ||mobil-cep-shop-tr.sbs^
@@ -26935,6 +26956,7 @@
 ||ms-system-check.top^
 ||ms365-device.com^
 ||ms365-live.com^
+||msagsdgv.art^
 ||msahibinden.com.tr^
 ||msantencere.lat^
 ||msbenefit.com^
@@ -28707,6 +28729,7 @@
 ||otaupdate.szbboys.com^
 ||otaviofritzen.online^
 ||otcast.pics^
+||otelomysuj.online^
 ||otoaracteoglion.org^
 ||otoavs.com^
 ||otoavsfilo.com^
@@ -32156,6 +32179,8 @@
 ||saydimsenikalbime.duckdns.org^
 ||sayfadakal.duckdns.org^
 ||sayginbelgelendirme.com^
+||sayinlaroil-tr.com^
+||sayinlaroil.com^
 ||sazan.city^
 ||sbelnlcan.duckdns.org^
 ||sbendekealsldjnsnkanprnauso23r9248353984985.click^
@@ -32374,6 +32399,7 @@
 ||sellnightcare.com^
 ||sellora.vu^
 ||selmbngldmbrndns.live^
+||selnora.cyou^
 ||selsandannda.com^
 ||selselican.co^
 ||selunari.cfd^
@@ -32539,6 +32565,7 @@
 ||serviceupdate.dynns.com^
 ||servicewithoutinterruption.de^
 ||servis-hizmet-tr.online^
+||servis-hizmet.online^
 ||servis-hizmeti.online^
 ||servis-hizmetim.online^
 ||servis-hizmetin.online^
@@ -35511,6 +35538,7 @@
 ||tkg-edvtapkonrandv.org^
 ||tkg-edvtepkonv.org^
 ||tkg-tap-randvznsz.com^
+||tkg-tap-randvznsz.net^
 ||tkg-tap-randvznsz.online^
 ||tkg-tapkorandv.org^
 ||tkg-tapsurndvnuz.net^
@@ -36554,6 +36582,7 @@
 ||turkiyepetrolleri.pro^
 ||turkiyepetrolleri.shop^
 ||turkiyerotasi.com^
+||turkiyes.xyz^
 ||turkiyesesi.com^
 ||turkiyesignal.com^
 ||turkiyesigorta.com.ph^
@@ -36563,6 +36592,7 @@
 ||turkiyeyatirimpro.com^
 ||turklye.org^
 ||turkmotosiklet.com^
+||turknow.online^
 ||turknw.com^
 ||turkpatent-gov-tr.com^
 ||turkpatentkurumsal.com^
@@ -36582,6 +36612,7 @@
 ||turktoday.blog^
 ||turline.xyz^
 ||turmira.gifts^
+||turna-tr.com^
 ||turnclass.xyz^
 ||turnervault.net^
 ||turnkeyaiagents.com^
@@ -37343,6 +37374,7 @@
 ||velvanto.shop^
 ||velxi.shop^
 ||velxo.xyz^
+||velzora.cyou^
 ||vemobillegirislimite.xyz^
 ||venarel.gifts^
 ||vendflow.xyz^
@@ -37932,6 +37964,7 @@
 ||wordpress-18e00011.wasmer.app^
 ||wordpress-19c09.wasmer.app^
 ||wordpress-214832-0.cloudclusters.net^
+||work-meta.app^
 ||workandtrash.cfd^
 ||worker-net.com^
 ||workerstats.net^
@@ -38331,6 +38364,7 @@
 ||www221x23241.duckdns.org^
 ||wwwaww.sbs^
 ||wwwbilgilendirmeniz.revise.sbs^
+||wwwbnq.sannevanommen.nl^
 ||wwwdhl-parcel.dffbeauty.com.au^
 ||wwwl55-polisi.online^
 ||wwwmartfirsatlarimizqnbfinansbankcom.ph^
