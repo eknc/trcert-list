@@ -624,6 +624,7 @@
 ||103.215.216.186^
 ||103.215.74.26^
 ||103.215.80.173^
+||103.215.82.26^
 ||103.216.220.92^
 ||103.22.137.227^
 ||103.226.250.88^
@@ -649,6 +650,7 @@
 ||103.248.20.197^
 ||103.248.61.36^
 ||103.250.160.76^
+||103.250.172.196^
 ||103.251.112.11^
 ||103.251.143.14^
 ||103.252.127.6^
@@ -693,6 +695,7 @@
 ||103.67.163.20^
 ||103.67.196.50^
 ||103.68.109.208^
+||103.69.129.92^
 ||103.69.96.120^
 ||103.69.97.45^
 ||103.72.56.135^
@@ -1033,6 +1036,7 @@
 ||111.223.247.193^
 ||111.228.13.59^
 ||111.229.180.77^
+||111.229.78.103^
 ||111.230.10.93^
 ||111.230.108.14^
 ||111.230.15.48^
@@ -2124,6 +2128,7 @@
 ||147.135.209.245^
 ||147.135.244.43^
 ||147.139.29.220^
+||147.182.132.237^
 ||147.182.224.216^
 ||147.182.234.126^
 ||147.185.133.145^
@@ -2261,6 +2266,7 @@
 ||149.28.99.61^
 ||149.3.170.244^
 ||149.30.245.21^
+||149.30.247.81^
 ||149.40.50.15^
 ||149.50.106.25^
 ||149.50.96.114^
@@ -2545,6 +2551,7 @@
 ||156.239.6.237^
 ||156.240.106.128^
 ||156.240.120.78^
+||156.240.50.201^
 ||156.241.132.32^
 ||156.241.134.49^
 ||156.241.144.66^
@@ -2636,6 +2643,7 @@
 ||158.247.252.178^
 ||158.255.2.63^
 ||158.255.7.153^
+||158.51.108.145^
 ||158.51.108.182^
 ||158.58.172.3^
 ||158.62.198.177^
@@ -2753,6 +2761,7 @@
 ||162.19.237.181^
 ||162.210.194.2^
 ||162.210.196.101^
+||162.211.181.153^
 ||162.211.230.239^
 ||162.213.194.186^
 ||162.215.170.26^
@@ -2888,6 +2897,7 @@
 ||166.88.77.186^
 ||166.88.95.90^
 ||166027567602.cloud^
+||167.104.100.42^
 ||167.114.97.102^
 ||167.148.195.53^
 ||167.148.201.131^
@@ -3440,6 +3450,7 @@
 ||18-2-rnvlrdanbrda.com^
 ||18.134.0.66^
 ||18.135.29.139^
+||18.191.181.138^
 ||18.199.101.111^
 ||18.208.230.174^
 ||18.212.216.95^
@@ -4150,6 +4161,7 @@
 ||1907mehrese.xyz^
 ||19083232.click^
 ||191.107.91.119^
+||191.124.255.246^
 ||191.217.250.228^
 ||191.223.44.48^
 ||191.96.207.179^
@@ -4736,6 +4748,7 @@
 ||198.200.59.87^
 ||198.200.59.88^
 ||198.200.59.89^
+||198.23.136.150^
 ||198.23.149.74^
 ||198.23.185.234^
 ||198.23.188.147^
@@ -4856,6 +4869,7 @@
 ||20.17.161.74^
 ||20.199.14.20^
 ||20.199.45.110^
+||20.205.31.8^
 ||20.220.31.157^
 ||20.55.30.249^
 ||20.77.8.148^
@@ -4925,6 +4939,7 @@
 ||202.61.160.202^
 ||202.61.160.208^
 ||202.61.197.54^
+||202.61.85.112^
 ||202.66.167.230^
 ||202.79.173.4^
 ||202.79.174.153^
@@ -5905,6 +5920,7 @@
 ||34.61.47.165^
 ||34.65.116.208^
 ||34.72.225.196^
+||34.92.8.96^
 ||340182733.sbs^
 ||341957735.cloud^
 ||34232579.xyz^
@@ -6329,6 +6345,7 @@
 ||43.173.105.161^
 ||43.173.105.83^
 ||43.173.182.92^
+||43.198.91.153^
 ||43.224.224.19^
 ||43.225.157.157^
 ||43.226.126.164^
@@ -10540,6 +10557,7 @@
 ||aldinaldinredmicilergeliyorburdan.cfd^
 ||aldinaldinredmicilergeliyorburdan.sbs^
 ||aldinaldinsende.click^
+||aldinaldinsimdiburada.xyz^
 ||aldinaldinsuper.sbs^
 ||aldinaldintemmuz.com^
 ||aldinbrasicay.lat^
@@ -10597,6 +10615,10 @@
 ||alisveris-odemesepeti.com^
 ||alisveris-sepeti.online^
 ||alisveris-sepetimiz.com^
+||alisveris-sepetinde-10.sbs^
+||alisveris-sepetinde-15.sbs^
+||alisveris-sepetinde-20.sbs^
+||alisveris-sepetinde-25.sbs^
 ||alisveris.lol^
 ||alisverisepet-islem-10.sbs^
 ||alisverisepetin-12.sbs^
@@ -14303,6 +14325,7 @@
 ||cekilisreklam.online^
 ||cekilissonucqnbfinans.com.ph^
 ||cekilissonucuqnbfinans.com.ph^
+||cekmknhzl.net^
 ||celebwise.info^
 ||celikzirhli.click^
 ||celk-is-w-g.myonlineportal.ch^
@@ -16761,6 +16784,7 @@
 ||emballeplus.com^
 ||emberlord.info^
 ||emcrpt.com^
+||emekli-garanti.my-homeip.de^
 ||emekli-ozel-kampanya.online^
 ||emekli-pro-teb.my-homeip.de^
 ||emekli-promosyon.my-homeip.de^
@@ -18547,6 +18571,7 @@
 ||garantiden.click^
 ||garantidestek.cloud^
 ||garantidestekfinans.cloud^
+||garantifinanslimani.cloud^
 ||garantifirsatpuanlar.ph^
 ||garantiform.vercel.app^
 ||garantigaranti.pzbsin.com^
@@ -18582,6 +18607,7 @@
 ||garantiparamerkezi.cloud^
 ||garantis.s.gy^
 ||garantisanalkasa.cloud^
+||garantisistemfinans.cloud^
 ||garantisistemlericozumagi.space^
 ||garantisizlerlerkredii.autos^
 ||garantisizlerlerkredii.cfd^
@@ -18707,6 +18733,7 @@
 ||geimini.com^
 ||geladerenlarden.duckdns.org^
 ||gelbanaburadasendegelola.guru^
+||gelbrdanjal3694.duckdns.org^
 ||geldasdawcce.duckdns.org^
 ||geldelerdensgeasw.duckdns.org^
 ||geldesgeahhsder.duckdns.org^
@@ -19385,6 +19412,7 @@
 ||grelavonikuq.com^
 ||gremonakidu.gifts^
 ||gremonakidux.com^
+||grenbuilderix.com^
 ||grenight.com^
 ||grentab.cyou^
 ||grestonadim.gifts^
@@ -20119,6 +20147,7 @@
 ||hadidmaosuz.com^
 ||hadidmsimd.cfd^
 ||haditomkampanya.duckdns.org^
+||hadivurjavexxd.duckdns.org^
 ||hadlykhlzma.com^
 ||hadntasmcalk.com^
 ||hadrion.shop^
@@ -27670,6 +27699,7 @@
 ||ncxbmbvxvccxcnbvxcnnbvd57.click^
 ||ndsandsajdjsad.shop^
 ||nealanterlerdsew.duckdns.org^
+||nebogoluboe.click^
 ||nebula.garantibbvakredibasvuru.com^
 ||nebulachecker.icu^
 ||necenyouz.xyz^
@@ -33767,6 +33797,7 @@
 ||softwareguard.cfd^
 ||sofuoglumoto.com^
 ||sofuoglumotosiklet.com^
+||sogmarlt.lol^
 ||sogou-cdn.com^
 ||sohkmlrktin.shop^
 ||sojmalketler.com^
@@ -35489,6 +35520,7 @@
 ||teb-online-mobil-emekli.my-homeip.net^
 ||teb-online.duckdns.org^
 ||teb-pro.my-homeip.de^
+||teb-promosyon-emekli.my-homeip.de^
 ||teb-sube-com-tr.my-homeip.de^
 ||teb-sube.my-homeip.de^
 ||teb-tr.my-homeip.de^
@@ -37462,6 +37494,7 @@
 ||umrecekilisi.duckdns.org^
 ||umrekuveyt.online^
 ||umrfrstlsmdi.click^
+||umudimimu.online^
 ||umutcanwuooppinadsde.xyz^
 ||umutototamironarimcilaa.duckdns.org^
 ||un-mofa-gov-np.workers.dev^
@@ -38107,6 +38140,7 @@
 ||vizyoncagrisi.com^
 ||vizyoncephesi.com^
 ||vizyonhaber.info^
+||vizyonplanlamasi.com^
 ||vkfkredihesabimlogin.click^
 ||vkfsizlerle.duckdns.org^
 ||vkwebsubayrntilkmpp4.xyz^
