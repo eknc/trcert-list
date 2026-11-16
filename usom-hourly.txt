@@ -13332,6 +13332,7 @@
 ||bonusbasvurusayfasi123q5233.sbs^
 ||bonusbasvurusayfasi12r345325.sbs^
 ||bonusbasvurusayfasi3123125.sbs^
+||bonusbasvurusayfasi3233.sbs^
 ||bonusbasvurusayfasi3254325.sbs^
 ||bonusbasvurusayfasi326525.sbs^
 ||bonusbasvurusayfasi32675685.sbs^
@@ -17057,6 +17058,7 @@
 ||erp.sg-yi.top^
 ||erp.sg-yu.top^
 ||erp.turkcellpasajsanalmagaza.com^
+||erstaset.giize.com^
 ||erstebank-trendyol.ph^
 ||erstebankgarantibbva.ph^
 ||ertasafs.nicepage.io^
@@ -29328,6 +29330,7 @@
 ||outlook-office.micsrosoftonline.com^
 ||outlook-serv-coral.vercel.app^
 ||outlook.bsnotespublication.com^
+||outlook2.indevs.in^
 ||outlook3650.com^
 ||outlook365livee.dothome.co.kr^
 ||outlookcozumtr24.com^
@@ -29408,6 +29411,7 @@
 ||package-proxy.cf6oobworker.workers.dev^
 ||package-proxy.cf7oobworker.workers.dev^
 ||package-proxy.cf8oobworker.workers.dev^
+||paeknotes.giize.com^
 ||paent.online^
 ||pafada-dertuyyu.lol^
 ||pagnebleedwhite.space^
@@ -32524,6 +32528,7 @@
 ||sahibindenmuhasebe.xyz^
 ||sahibindenmuhasebeodeme.com^
 ||sahibindenmuhasebeodemenoktasi.dedyn.io^
+||sahibindenonlinedestek.com^
 ||sahibindenparam-guvende.bilgi-urundetayi.online^
 ||sahibindenparamguvende.bilgi-urundetayi.online^
 ||sahibindenparamguvende.ilanguvende.online^
