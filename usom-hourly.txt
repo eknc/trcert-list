@@ -7599,6 +7599,7 @@
 ||512512351213hizlcsmler-aracm360ptavm.space^
 ||5125125125.duckdns.org^
 ||512551213hizlcsmler-aracm360ptavm.online^
+||51299657326612.cloud^
 ||512saqqwr12.icu^
 ||5145143214123.duckdns.org^
 ||5151501010.duckdns.org^
@@ -10475,6 +10476,7 @@
 ||advertising-chatgpt.com^
 ||advertising-gemini.com^
 ||advertoza.xyz^
+||adwadad.duckdns.org^
 ||adwfgw.s.gy^
 ||adx12dxadxq22x1.sbs^
 ||adyvidavi.online^
@@ -14841,6 +14843,7 @@
 ||ceptesok.hizlifirsatim.com^
 ||ceptesok.hizligiriss.com^
 ||ceptesokfirsatlarim.com^
+||ceptesokindirim.gt.tc^
 ||ceptesokindirmleri.online^
 ||ceptesoklarile.online^
 ||ceptesokmarketim.duckdns.org^
@@ -18471,6 +18474,7 @@
 ||firsat-promos-gelicikk.shop^
 ||firsat-tebde.my-homeip.de^
 ||firsat-urununuz-sondemler.sbs^
+||firsat-zmni.top^
 ||firsat.teb.com.se^
 ||firsatarackiralama.online^
 ||firsatavcisi.sbs^
@@ -23018,6 +23022,7 @@
 ||indirimarzumc.com^
 ||indirimcell.site^
 ||indirimde-biz-tr.online^
+||indirimfirsatlariturkiye.pages.dev^
 ||indirimfirsatplatformu3.sbs^
 ||indirimgldi.com^
 ||indirimgunler.com^
@@ -23306,6 +23311,7 @@
 ||isbanksoft.shop^
 ||isbankwebbasvur.webhop.me^
 ||isbasvurusu-cagrimerkezi.online^
+||isbasvurusuyap.xyz^
 ||isbiankisiturkiye.com^
 ||isbirligi.click^
 ||isbnk-hizmetleri.duckdns.org^
@@ -24016,6 +24022,7 @@
 ||johemenstsd.duckdns.org^
 ||join-google-meet.com^
 ||join-invest.info^
+||join-zoomm.online^
 ||join.evsahibibasvuru.com^
 ||joinamazonsp.com^
 ||joinanimoca.xyz^
@@ -26173,6 +26180,8 @@
 ||login.mfa-diplomatic.com^
 ||login.org.tr^
 ||login.trees4sale.net^
+||login.webapi-whatsapp.com^
+||login.zh.webhwsapp-whatsapp.com^
 ||login10matik.shop^
 ||login4matik.shop^
 ||loginbinance-tr.online^
@@ -39567,6 +39576,7 @@
 ||web.evsahibibasvuru.com^
 ||web1.evsahibibasvuru.com^
 ||web5-4v9a-online-garantibbva.vibtee.com^
+||webapp.webstatici-whatsapp.com^
 ||webassistia.gifts^
 ||webb-182.com^
 ||webbtaccss.space^
@@ -40138,6 +40148,7 @@
 ||www-tbde-nerde-cepte.myonlineportal.ch^
 ||www-tbde-weby-cepte.myonlineportal.ch^
 ||www-tbdynamic-wep-ent.myonlineportal.ch^
+||www-tbstat-livecpt-ayrica.myonlineportal.ch^
 ||www-tbstatus-cpte.myonlineportal.ch^
 ||www-tbstatus-cpteyiz.myonlineportal.ch^
 ||www-tbte-cpte-nov.myonlineportal.ch^
@@ -41469,6 +41480,7 @@
 ||zolvica.store^
 ||zomdukiq.gifts^
 ||zookenta.com^
+||zoom-schedule-meeting.click^
 ||zoom.us.sg2.chostore.biz.id^
 ||zoom4usinvite.space^
 ||zoomcares.zoom.us.ikd3.mjid.web.id^
