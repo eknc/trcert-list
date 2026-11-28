@@ -7869,6 +7869,7 @@
 ||49843544322684.sbs^
 ||49864516513.duckdns.org^
 ||4axiomeltharvonicquantumengineering.cyou^
+||4axiontheravexultronicengineering.cyou^
 ||4b9k3.com^
 ||4bxzd.com^
 ||4c8f2.com^
@@ -15867,6 +15868,7 @@
 ||ceptetebli-basvurum.my-homeip.de^
 ||ceptetebli-emekliye.my-homeip.de^
 ||ceptetebli-kampanya.my-homeip.de^
+||ceptetebli-mobil.my-homeip.de^
 ||ceptetebliye-ozel.my-homeip.de^
 ||ceptetebte-tr.my-homeip.de^
 ||ceptetep-firsat.my-homeip.de^
@@ -29581,6 +29583,7 @@
 ||mobil-teb.com^
 ||mobil-tepden-basvur.myonlineportal.de^
 ||mobil-tradresi.live^
+||mobil-yayin.com^
 ||mobil-yazda-yakinini-davet.xyz^
 ||mobil-ziraatbasvurulariszie.duckdns.org^
 ||mobil.obilet-tr.uk^
